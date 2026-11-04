@@ -12,44 +12,159 @@
     "note": "National fallback: no 2024 Nebraska poll ranking issues was found (Emerson/Midwest Newsroom, YouGov/Economist, Independent Center, PPP and campaign polls had no issue-ranking question). Ranked by share calling each issue extremely important."
   },
   "issues": [
-    {"rank": 1, "issue": "Economy", "testable": false,
-     "position": "Oppose spending that fuels inflation; balance the budget", "position_source": "https://www.1011now.com/2024/09/27/us-senate-candidate-profile-deb-fischer/",
-     "votes": [], "note": "Direction only; no specific policy named."},
-    {"rank": 2, "issue": "Democracy / elections", "testable": false,
-     "position": "No specific position found", "position_source": "https://guides.vote/guide/2024-nebraska-senate-voters-guide/",
-     "votes": [], "note": "Only past statements that elections are state decisions; nothing campaign-year."},
-    {"rank": 3, "issue": "National security", "testable": true,
-     "position": "Pass and fully fund the annual defense authorization bill", "position_source": "https://www.1011now.com/2024/09/27/us-senate-candidate-profile-deb-fischer/",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 570, "date": "2025-10-09", "bill": "S.2296", "bill_title": "National Defense Authorization Act for FY2026", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
-       {"congress": 119, "session": 1, "roll_call": 648, "date": "2025-12-17", "bill": "S.1071", "bill_title": "National Defense Authorization Act for FY2026 (final)", "question": "On the motion to concur in the House amendment", "vote": "Yea", "consistent": true, "auto": false}
-     ]},
-    {"rank": 4, "issue": "Supreme Court", "testable": false,
-     "position": "No specific position found", "position_source": "https://www.1011now.com/2024/09/27/us-senate-candidate-profile-deb-fischer/",
-     "votes": []},
-    {"rank": 5, "issue": "Immigration", "testable": true,
-     "position": "Resume border wall, end catch-and-release, deport people here illegally", "position_source": "https://www.1011now.com/2024/09/27/us-senate-candidate-profile-deb-fischer/",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 7, "date": "2025-01-20", "bill": "S.5", "bill_title": "Laken Riley Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
-       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
-     ], "note": "H.R.1 funded the border wall and detention; S.5 mandates detention."},
-    {"rank": 6, "issue": "Education", "testable": false,
-     "position": "No specific campaign position found", "position_source": "https://guides.vote/guide/2024-nebraska-senate-voters-guide/",
-     "votes": []},
-    {"rank": 7, "issue": "Health care", "testable": false,
-     "position": "No specific campaign position found", "position_source": "https://guides.vote/guide/2024-nebraska-senate-voters-guide/",
-     "votes": []},
-    {"rank": 8, "issue": "Gun policy", "testable": false,
-     "position": "No specific campaign position found", "position_source": "https://rollcall.com/2024/10/16/happening-in-plains-sight-a-competitive-nebraska-senate-race/",
-     "votes": []},
-    {"rank": 9, "issue": "Abortion", "testable": true,
-     "position": "No taxpayer funding of abortion; support IVF", "position_source": "https://debfornebraska.com/2024/10/05/journal-star-2024-election-voters-guide/",
-     "votes": [], "note": "No floor vote specifically on federal abortion funding or IVF found this term."},
-    {"rank": 10, "issue": "Taxes", "testable": true,
-     "position": "Keep 2017 tax cuts; make paid-leave tax credit permanent", "position_source": "https://www.1011now.com/2024/09/27/us-senate-candidate-profile-deb-fischer/",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
-     ], "note": "H.R.1 made the 2017 cuts and her paid-leave credit permanent."}
+    {
+      "rank": 1,
+      "issue": "Economy",
+      "testable": false,
+      "position": "Oppose spending that fuels inflation; balance the budget",
+      "position_source": "https://www.1011now.com/2024/09/27/us-senate-candidate-profile-deb-fischer/",
+      "votes": [],
+      "note": "Direction only; no specific policy named."
+    },
+    {
+      "rank": 2,
+      "issue": "Democracy / elections",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://guides.vote/guide/2024-nebraska-senate-voters-guide/",
+      "votes": [],
+      "note": "Only past statements that elections are state decisions; nothing campaign-year."
+    },
+    {
+      "rank": 3,
+      "issue": "National security",
+      "testable": true,
+      "position": "Pass and fully fund the annual defense authorization bill",
+      "position_source": "https://www.1011now.com/2024/09/27/us-senate-candidate-profile-deb-fischer/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 570,
+          "date": "2025-10-09",
+          "bill": "S.2296",
+          "bill_title": "National Defense Authorization Act for FY2026",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 648,
+          "date": "2025-12-17",
+          "bill": "S.1071",
+          "bill_title": "National Defense Authorization Act for FY2026 (final)",
+          "question": "On the motion to concur in the House amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Supreme Court",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.1011now.com/2024/09/27/us-senate-candidate-profile-deb-fischer/",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Resume border wall, end catch-and-release, deport people here illegally",
+      "position_source": "https://www.1011now.com/2024/09/27/us-senate-candidate-profile-deb-fischer/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 7,
+          "date": "2025-01-20",
+          "bill": "S.5",
+          "bill_title": "Laken Riley Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "H.R.1 funded the border wall and detention; S.5 mandates detention."
+    },
+    {
+      "rank": 6,
+      "issue": "Education",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://guides.vote/guide/2024-nebraska-senate-voters-guide/",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Health care",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://guides.vote/guide/2024-nebraska-senate-voters-guide/",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Gun policy",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://rollcall.com/2024/10/16/happening-in-plains-sight-a-competitive-nebraska-senate-race/",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "No taxpayer funding of abortion; support IVF",
+      "position_source": "https://debfornebraska.com/2024/10/05/journal-star-2024-election-voters-guide/",
+      "votes": [],
+      "note": "No floor vote specifically on federal abortion funding or IVF found this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Keep 2017 tax cuts; make paid-leave tax credit permanent",
+      "position_source": "https://www.1011now.com/2024/09/27/us-senate-candidate-profile-deb-fischer/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "H.R.1 made the 2017 cuts and her paid-leave credit permanent."
+    }
   ],
   "plan": null,
   "caveats": [

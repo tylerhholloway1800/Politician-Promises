@@ -29,7 +29,8 @@
           "question": "On the amendment (S.Amdt.2126)",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Sanders amendment failed 47-52 on a party-line vote (https://peoplesworld.org/?p=148478)."
@@ -60,7 +61,8 @@
           "question": "Motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -72,7 +74,8 @@
           "question": "Cloture on an amendment",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "The voting-rights bills he backed got no floor vote."
@@ -102,7 +105,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 funded Border Patrol hiring, technology and wall; he opposed the package."
@@ -133,7 +137,8 @@
           "question": "Motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "No vote on codifying Roe; rated on the VA abortion-access vote (https://watch.vote/votes/119-2026-s72)."

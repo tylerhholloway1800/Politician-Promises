@@ -29,7 +29,8 @@
           "question": "On the motion to concur in the House amendment with an amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Package included the Rural Housing Service Reform Act he backed (watch.vote)."
@@ -59,7 +60,8 @@
           "question": "On the motion to commit with instructions",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Motion subject per Senate Democrats' floor log; vote per watch.vote."
@@ -81,7 +83,8 @@
           "question": "On the amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -93,7 +96,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 repealed or phased out many IRA clean-energy credits."
@@ -132,7 +136,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Package raised voucher funding by $2.3B over FY25 (Enterprise Community Partners)."

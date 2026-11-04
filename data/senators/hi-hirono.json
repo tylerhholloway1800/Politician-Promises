@@ -12,55 +12,189 @@
     "note": "Ranks 1-9 come from the Fox Hawaii voter survey (n about 643). Rank 10, housing, is the top state concern in the PRP survey (https://alohastatedaily.com/2025/03/05/how-is-hawaii-faring--a-new-survey-asked-more-than-900-residents-responded.), which the Fox list does not include. Cost of living is folded into the economy."
   },
   "issues": [
-    {"rank": 1, "issue": "Economy / cost of living", "testable": true,
-     "position": "Block Republican cuts to safety-net programs; protect Social Security, Medicare", "position_source": "https://mazieforhawaii.com/",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
-     ],
-     "note": "H.R.1 cut Medicaid and SNAP; she voted against it."},
-    {"rank": 2, "issue": "Immigration", "testable": true,
-     "position": "Pass comprehensive immigration reform covering DACA recipients", "position_source": "https://www.hirono.senate.gov/news/press-releases/hirono-statement-on-national-security-supplemental-vote",
-     "votes": [],
-     "note": "No floor vote on comprehensive immigration reform this term."},
-    {"rank": 3, "issue": "Environment / climate", "testable": true,
-     "position": "Fund green-energy research and climate-resilience projects", "position_source": "https://mazieforhawaii.com/",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
-     ],
-     "note": "H.R.1 rescinded unspent Inflation Reduction Act clean-energy funds."},
-    {"rank": 4, "issue": "Abortion", "testable": true,
-     "position": "Block a nationwide abortion ban", "position_source": "https://mazieforhawaii.com/",
-     "votes": [],
-     "note": "No national abortion ban reached a Senate floor vote this term."},
-    {"rank": 5, "issue": "Health care", "testable": true,
-     "position": "Protect the Affordable Care Act", "position_source": "https://mazieforhawaii.com/",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false},
-       {"congress": 119, "session": 1, "roll_call": 644, "date": "2025-12-11", "bill": "S.3385", "bill_title": "ACA premium tax credit extension", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
-     ]},
-    {"rank": 6, "issue": "Race relations / civil rights", "testable": false,
-     "position": "Protect the right to vote (no specific policy named)", "position_source": "https://mazieforhawaii.com/",
-     "votes": []},
-    {"rank": 7, "issue": "Crime", "testable": false,
-     "position": "No specific position found", "position_source": "https://www.civilbeat.org/2024/10/candidate-qa-us-senate-mazie-hirono/",
-     "votes": []},
-    {"rank": 8, "issue": "Foreign policy / defense", "testable": true,
-     "position": "Secure defense-bill funding for Hawaii military infrastructure", "position_source": "https://www.civilbeat.org/2024/10/candidate-qa-us-senate-mazie-hirono/",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 570, "date": "2025-10-09", "bill": "S.2296", "bill_title": "National Defense Authorization Act for FY2026", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
-       {"congress": 119, "session": 1, "roll_call": 648, "date": "2025-12-17", "bill": "S.1071", "bill_title": "National Defense Authorization Act for FY2026", "question": "On the motion to concur in the House amendment", "vote": "Yea", "consistent": true, "auto": false}
-     ],
-     "note": "The final bill authorized over $1 billion for Hawaii military construction."},
-    {"rank": 9, "issue": "Gun regulation", "testable": true,
-     "position": "Limit assault weapons; require a federal gun license", "position_source": "https://www.civilbeat.org/2024/10/candidate-qa-us-senate-mazie-hirono/",
-     "votes": [],
-     "note": "No Senate floor vote on these gun measures this term."},
-    {"rank": 10, "issue": "Housing", "testable": true,
-     "position": "Fund Native Hawaiian housing programs; oppose ending them", "position_source": "https://mazieforhawaii.com/",
-     "votes": [
-       {"congress": 119, "session": 2, "roll_call": 20, "date": "2026-01-30", "bill": "H.R.7148", "bill_title": "Consolidated Appropriations Act, 2026", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
-     ],
-     "note": "H.R.7148 included $22.3 million for the Native Hawaiian Housing Block Grant."}
+    {
+      "rank": 1,
+      "issue": "Economy / cost of living",
+      "testable": true,
+      "position": "Block Republican cuts to safety-net programs; protect Social Security, Medicare",
+      "position_source": "https://mazieforhawaii.com/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "H.R.1 cut Medicaid and SNAP; she voted against it."
+    },
+    {
+      "rank": 2,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pass comprehensive immigration reform covering DACA recipients",
+      "position_source": "https://www.hirono.senate.gov/news/press-releases/hirono-statement-on-national-security-supplemental-vote",
+      "votes": [],
+      "note": "No floor vote on comprehensive immigration reform this term."
+    },
+    {
+      "rank": 3,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "Fund green-energy research and climate-resilience projects",
+      "position_source": "https://mazieforhawaii.com/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "H.R.1 rescinded unspent Inflation Reduction Act clean-energy funds."
+    },
+    {
+      "rank": 4,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Block a nationwide abortion ban",
+      "position_source": "https://mazieforhawaii.com/",
+      "votes": [],
+      "note": "No national abortion ban reached a Senate floor vote this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Protect the Affordable Care Act",
+      "position_source": "https://mazieforhawaii.com/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Race relations / civil rights",
+      "testable": false,
+      "position": "Protect the right to vote (no specific policy named)",
+      "position_source": "https://mazieforhawaii.com/",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Crime",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.civilbeat.org/2024/10/candidate-qa-us-senate-mazie-hirono/",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Foreign policy / defense",
+      "testable": true,
+      "position": "Secure defense-bill funding for Hawaii military infrastructure",
+      "position_source": "https://www.civilbeat.org/2024/10/candidate-qa-us-senate-mazie-hirono/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 570,
+          "date": "2025-10-09",
+          "bill": "S.2296",
+          "bill_title": "National Defense Authorization Act for FY2026",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 648,
+          "date": "2025-12-17",
+          "bill": "S.1071",
+          "bill_title": "National Defense Authorization Act for FY2026",
+          "question": "On the motion to concur in the House amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "The final bill authorized over $1 billion for Hawaii military construction."
+    },
+    {
+      "rank": 9,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Limit assault weapons; require a federal gun license",
+      "position_source": "https://www.civilbeat.org/2024/10/candidate-qa-us-senate-mazie-hirono/",
+      "votes": [],
+      "note": "No Senate floor vote on these gun measures this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Housing",
+      "testable": true,
+      "position": "Fund Native Hawaiian housing programs; oppose ending them",
+      "position_source": "https://mazieforhawaii.com/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 20,
+          "date": "2026-01-30",
+          "bill": "H.R.7148",
+          "bill_title": "Consolidated Appropriations Act, 2026",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "H.R.7148 included $22.3 million for the Native Hawaiian Housing Block Grant."
+    }
   ],
   "plan": null,
   "caveats": [

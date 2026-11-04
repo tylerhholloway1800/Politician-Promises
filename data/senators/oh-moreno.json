@@ -12,55 +12,216 @@
     "note": "Combined with Rasmussen/American Thinker Ohio poll, Oct 9–14, 2024 (https://www.rasmussenreports.com/public_content/politics/partner_surveys/toplines_2_american_thinker_october_2024_ohio); issues ranked by each one's highest share in either most-important-issue question. Corruption (8%), crime (7%), climate/energy (6%) and global conflicts (3%) come from Rasmussen only."
   },
   "issues": [
-    {"rank": 1, "issue": "Economy / inflation", "testable": true,
-     "position": "Make the 2017 tax cuts permanent; never raise taxes", "position_source": "https://guides.vote/?p=3069",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
-     ],
-     "note": "H.R.1 made the 2017 individual tax cuts permanent."},
-    {"rank": 2, "issue": "Immigration", "testable": true,
-     "position": "Finish the border wall; deport people here illegally", "position_source": "https://woub.org/2024/11/01/bernie-moreno-makes-closing-argument/",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 7, "date": "2025-01-20", "bill": "S.5", "bill_title": "Laken Riley Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
-       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (wall and deportation funding)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
-     ]},
-    {"rank": 3, "issue": "Abortion", "testable": true,
-     "position": "Federal 15-week limit with exceptions; states may go further", "position_source": "https://www.politifact.com/factchecks/2024/sep/19/sherrod-brown/sherrod-brown-claim-about-bernie-moreno-and-aborti",
-     "votes": [], "note": "No floor vote on a 15-week limit; Born-Alive Act cloture not counted."},
-    {"rank": 4, "issue": "Democracy / elections", "testable": true,
-     "position": "Require voter ID", "position_source": "https://guides.vote/?p=3069",
-     "votes": [
-       {"congress": 119, "session": 2, "roll_call": 57, "date": "2026-03-17", "bill": "S.1383", "bill_title": "SAVE America Act", "question": "Motion to proceed", "vote": "Yea", "consistent": true, "auto": false},
-       {"congress": 119, "session": 2, "roll_call": 73, "date": "2026-03-26", "bill": "S.1383", "bill_title": "SAVE America Act (photo ID amendment)", "question": "Cloture on an amendment", "vote": "Yea", "consistent": true, "auto": false}
-     ]},
-    {"rank": 5, "issue": "Government corruption", "testable": true,
-     "position": "Congressional term limits", "position_source": "https://woub.org/2024/11/01/bernie-moreno-makes-closing-argument/",
-     "votes": [], "note": "No floor vote on a term-limits amendment this term."},
-    {"rank": 6, "issue": "Housing costs", "testable": false,
-     "position": "Blamed immigration for housing costs; no specific plan", "position_source": "https://cwcolumbus.com/news/local/opponents-in-ohios-heated-us-senate-race-discuss-housing-crisis-sherrod-brown-bernie-moreno-wall-street-immigration-housing-issues-affordable-politics",
-     "votes": []},
-    {"rank": 7, "issue": "Crime", "testable": true,
-     "position": "Federal qualified immunity protection for police", "position_source": "https://woub.org/2024/11/01/bernie-moreno-makes-closing-argument/",
-     "votes": [], "note": "No floor vote on qualified immunity this term."},
-    {"rank": 8, "issue": "Health care", "testable": true,
-     "position": "Rein in pharmacy benefit managers", "position_source": "https://woub.org/2024/11/01/bernie-moreno-makes-closing-argument/",
-     "votes": [
-       {"congress": 119, "session": 2, "roll_call": 20, "date": "2026-01-30", "bill": "H.R.7148", "bill_title": "Consolidated Appropriations Act, 2026 (PBM reforms)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
-     ],
-     "note": "Also said he would not repeal the ACA (https://wkyc.com/article/news/local/ohio/bernie-moreno-us-senate-race-key-issues/530-18fc8300-48be-4aef-bc33-091b95fa5f80); no repeal vote held."},
-    {"rank": 9, "issue": "Climate / energy", "testable": true,
-     "position": "End EV mandates and wind and solar subsidies", "position_source": "https://woub.org/2024/11/01/bernie-moreno-makes-closing-argument/",
-     "votes": [
-       {"congress": 119, "session": 1, "date": "2025-05-22", "bill": "H.J.Res.88", "bill_title": "Disapproval of California Advanced Clean Cars II waiver", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
-       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (ends wind, solar and EV credits)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
-     ],
-     "note": "EV mandate pledge also in WKYC coverage (Nov 2024)."},
-    {"rank": 10, "issue": "Foreign policy", "testable": true,
-     "position": "No more Ukraine aid; support weapons for Israel", "position_source": "https://jewishinsider.com/2024/03/ohio-senate-primary-gop-bernie-moreno-matt-dolan/",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 165, "date": "2025-04-03", "bill": "S.J.Res.33", "bill_title": "Disapproval of arms sale to Israel", "question": "Motion to discharge", "vote": "Nay", "consistent": true, "auto": false}
-     ],
-     "note": "No Ukraine aid package reached a Senate floor vote this term."}
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Make the 2017 tax cuts permanent; never raise taxes",
+      "position_source": "https://guides.vote/?p=3069",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "H.R.1 made the 2017 individual tax cuts permanent."
+    },
+    {
+      "rank": 2,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Finish the border wall; deport people here illegally",
+      "position_source": "https://woub.org/2024/11/01/bernie-moreno-makes-closing-argument/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 7,
+          "date": "2025-01-20",
+          "bill": "S.5",
+          "bill_title": "Laken Riley Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (wall and deportation funding)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Federal 15-week limit with exceptions; states may go further",
+      "position_source": "https://www.politifact.com/factchecks/2024/sep/19/sherrod-brown/sherrod-brown-claim-about-bernie-moreno-and-aborti",
+      "votes": [],
+      "note": "No floor vote on a 15-week limit; Born-Alive Act cloture not counted."
+    },
+    {
+      "rank": 4,
+      "issue": "Democracy / elections",
+      "testable": true,
+      "position": "Require voter ID",
+      "position_source": "https://guides.vote/?p=3069",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "issue": "Government corruption",
+      "testable": true,
+      "position": "Congressional term limits",
+      "position_source": "https://woub.org/2024/11/01/bernie-moreno-makes-closing-argument/",
+      "votes": [],
+      "note": "No floor vote on a term-limits amendment this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Housing costs",
+      "testable": false,
+      "position": "Blamed immigration for housing costs; no specific plan",
+      "position_source": "https://cwcolumbus.com/news/local/opponents-in-ohios-heated-us-senate-race-discuss-housing-crisis-sherrod-brown-bernie-moreno-wall-street-immigration-housing-issues-affordable-politics",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Crime",
+      "testable": true,
+      "position": "Federal qualified immunity protection for police",
+      "position_source": "https://woub.org/2024/11/01/bernie-moreno-makes-closing-argument/",
+      "votes": [],
+      "note": "No floor vote on qualified immunity this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Rein in pharmacy benefit managers",
+      "position_source": "https://woub.org/2024/11/01/bernie-moreno-makes-closing-argument/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 20,
+          "date": "2026-01-30",
+          "bill": "H.R.7148",
+          "bill_title": "Consolidated Appropriations Act, 2026 (PBM reforms)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "Also said he would not repeal the ACA (https://wkyc.com/article/news/local/ohio/bernie-moreno-us-senate-race-key-issues/530-18fc8300-48be-4aef-bc33-091b95fa5f80); no repeal vote held."
+    },
+    {
+      "rank": 9,
+      "issue": "Climate / energy",
+      "testable": true,
+      "position": "End EV mandates and wind and solar subsidies",
+      "position_source": "https://woub.org/2024/11/01/bernie-moreno-makes-closing-argument/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-05-22",
+          "bill": "H.J.Res.88",
+          "bill_title": "Disapproval of California Advanced Clean Cars II waiver",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "roll_call": 277,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (ends wind, solar and EV credits)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "EV mandate pledge also in WKYC coverage (Nov 2024)."
+    },
+    {
+      "rank": 10,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "No more Ukraine aid; support weapons for Israel",
+      "position_source": "https://jewishinsider.com/2024/03/ohio-senate-primary-gop-bernie-moreno-matt-dolan/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 165,
+          "date": "2025-04-03",
+          "bill": "S.J.Res.33",
+          "bill_title": "Disapproval of arms sale to Israel",
+          "question": "Motion to discharge",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "No Ukraine aid package reached a Senate floor vote this term."
+    }
   ],
   "plan": null,
   "caveats": [

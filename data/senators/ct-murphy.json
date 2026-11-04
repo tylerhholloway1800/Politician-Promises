@@ -29,7 +29,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 extended top-bracket tax cuts; it also raised the child tax credit he backed."
@@ -51,7 +52,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Bill limits large investors buying single-family homes; no rent-cap vote held."
@@ -115,7 +117,8 @@
           "vote": "Nay",
           "consistent": true,
           "auto": false,
-          "roll_call": 100
+          "roll_call": 100,
+          "verified": true
         }
       ],
       "note": "Vote confirmed in Congressional Record: https://www.govinfo.gov/content/pkg/CREC-2025-03-03/html/CREC-2025-03-03-pt1-PgS1455-4.htm"

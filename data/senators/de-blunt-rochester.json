@@ -29,7 +29,8 @@
           "question": "Motion to concur in House amendment with an amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Housing act includes zoning and planning grants; no floor vote on price gouging."
@@ -69,7 +70,8 @@
           "question": "Motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -81,7 +83,8 @@
           "question": "Cloture on an amendment",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Rated on votes against new voting requirements; the John Lewis bill got no floor vote."
@@ -119,7 +122,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 replaced income-driven repayment plans and narrowed loan relief."
@@ -141,7 +145,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -153,7 +158,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 cut Medicaid; S.3385 would have extended ACA tax credits."

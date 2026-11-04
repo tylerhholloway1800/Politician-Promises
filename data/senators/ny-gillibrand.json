@@ -12,23 +12,150 @@
     "note": "Ranks 1–5 from the Emerson NY most-important-issue question, which published only its top five. Ranks 6–10 are the next issues by share rating them extremely important in Gallup's national poll (https://news.gallup.com/file/poll/651749/2024_10_09_Vote%20Issues%20Topline%20and%20Tabs.pdf). Health care, gun policy and abortion tied at 37%; the first two in Gallup's order were taken."
   },
   "issues": [
-    {"rank": 1, "issue": "Economy / inflation", "testable": true, "position": "Restore the SALT deduction; double the child tax credit", "position_source": "https://www.aol.com/ny-race-us-senate-gillibrand-234500608.html", "votes": [
-      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": false, "auto": false}
-    ], "note": "H.R.1 raised the SALT cap to $40K and the child tax credit to $2,200, partly doing what she called for; she opposed it."},
-    {"rank": 2, "issue": "Housing affordability", "testable": true, "position": "Pass the Affordable Housing and AMI Fairness Act", "position_source": "https://politicsny.com/2024/05/06/affordable-housing-gillibrand-touts-congressional-bill-to-change-nyc-resident-qualifications/", "votes": [], "note": "No Senate floor vote on the bill this term."},
-    {"rank": 3, "issue": "Immigration", "testable": true, "position": "Pass the 2024 bipartisan border bill; asylum and work-visa changes", "position_source": "https://wskg.org/2024-10-24/new-york-u-s-senate-candidates-clash-in-only-debate-before-general-election", "votes": [], "note": "The bipartisan border bill was not brought back for a floor vote this term."},
-    {"rank": 4, "issue": "Democracy / elections", "testable": true, "position": "Ratify the ERA; 20-year term limits for senators", "position_source": "https://www.aol.com/ny-race-us-senate-gillibrand-234500608.html", "votes": [], "note": "No recorded floor vote on either this term."},
-    {"rank": 5, "issue": "Crime", "testable": false, "position": "No specific position found", "position_source": "https://www.fingerlakes1.com/2024/10/28/u-s-senate-voter-guide-sapaicone-challenges-gillibrand-as-republicans-try-to-take-back-control/", "votes": []},
-    {"rank": 6, "issue": "National security / terrorism", "testable": true, "position": "Support Israel's defense, including U.S. backing", "position_source": "https://wskg.org/2024-10-24/new-york-u-s-senate-candidates-clash-in-only-debate-before-general-election", "votes": [
-      {"congress": 119, "session": 2, "date": "2026-04-15", "bill": "S.J.Res.32", "bill_title": "Disapproval of military bulldozer sale to Israel", "question": "Motion to discharge", "vote": "Nay", "consistent": true, "auto": false},
-      {"congress": 119, "session": 2, "date": "2026-04-15", "bill": "S.J.Res.138", "bill_title": "Disapproval of 1,000-pound bomb sale to Israel", "question": "Motion to discharge", "vote": "Nay", "consistent": true, "auto": false}
-    ], "note": "Votes per Jewish Insider (https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/) and Senate Democrats floor wrap-up."},
-    {"rank": 7, "issue": "Supreme Court", "testable": true, "position": "Term limits and ethics rules for justices", "position_source": "https://www.aol.com/ny-race-us-senate-gillibrand-234500608.html", "votes": [], "note": "No floor vote on Court term limits or ethics this term."},
-    {"rank": 8, "issue": "Education", "testable": true, "position": "Free school meals for all students; paid family leave", "position_source": "https://branch.vote/races/2024-new-york-general-election-ny-state-us-senator-ny-state/candidates/kirsten-e-gillibrand", "votes": [], "note": "No floor vote on universal school meals or paid leave this term."},
-    {"rank": 9, "issue": "Health care", "testable": true, "position": "Lower prescription drug prices; protect reproductive health care", "position_source": "https://easthamptonstar.com/government/20241028/ballot-gillibrand-seeks-third-term", "votes": [
-      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
-    ], "note": "H.R.1 exempted more orphan drugs from Medicare price negotiation and defunded Planned Parenthood for a year."},
-    {"rank": 10, "issue": "Gun regulation", "testable": true, "position": "Assault weapons ban; stronger background checks", "position_source": "https://www.fingerlakes1.com/2024/10/28/u-s-senate-voter-guide-sapaicone-challenges-gillibrand-as-republicans-try-to-take-back-control/", "votes": [], "note": "No recorded floor vote this term."}
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Restore the SALT deduction; double the child tax credit",
+      "position_source": "https://www.aol.com/ny-race-us-senate-gillibrand-234500608.html",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "H.R.1 raised the SALT cap to $40K and the child tax credit to $2,200, partly doing what she called for; she opposed it."
+    },
+    {
+      "rank": 2,
+      "issue": "Housing affordability",
+      "testable": true,
+      "position": "Pass the Affordable Housing and AMI Fairness Act",
+      "position_source": "https://politicsny.com/2024/05/06/affordable-housing-gillibrand-touts-congressional-bill-to-change-nyc-resident-qualifications/",
+      "votes": [],
+      "note": "No Senate floor vote on the bill this term."
+    },
+    {
+      "rank": 3,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pass the 2024 bipartisan border bill; asylum and work-visa changes",
+      "position_source": "https://wskg.org/2024-10-24/new-york-u-s-senate-candidates-clash-in-only-debate-before-general-election",
+      "votes": [],
+      "note": "The bipartisan border bill was not brought back for a floor vote this term."
+    },
+    {
+      "rank": 4,
+      "issue": "Democracy / elections",
+      "testable": true,
+      "position": "Ratify the ERA; 20-year term limits for senators",
+      "position_source": "https://www.aol.com/ny-race-us-senate-gillibrand-234500608.html",
+      "votes": [],
+      "note": "No recorded floor vote on either this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Crime",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.fingerlakes1.com/2024/10/28/u-s-senate-voter-guide-sapaicone-challenges-gillibrand-as-republicans-try-to-take-back-control/",
+      "votes": []
+    },
+    {
+      "rank": 6,
+      "issue": "National security / terrorism",
+      "testable": true,
+      "position": "Support Israel's defense, including U.S. backing",
+      "position_source": "https://wskg.org/2024-10-24/new-york-u-s-senate-candidates-clash-in-only-debate-before-general-election",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "date": "2026-04-15",
+          "bill": "S.J.Res.32",
+          "bill_title": "Disapproval of military bulldozer sale to Israel",
+          "question": "Motion to discharge",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "roll_call": 80,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "date": "2026-04-15",
+          "bill": "S.J.Res.138",
+          "bill_title": "Disapproval of 1,000-pound bomb sale to Israel",
+          "question": "Motion to discharge",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "roll_call": 81,
+          "verified": true
+        }
+      ],
+      "note": "Votes per Jewish Insider (https://jewishinsider.com/2026/04/majority-senate-democrats-vote-block-arm-sales-israel/) and Senate Democrats floor wrap-up."
+    },
+    {
+      "rank": 7,
+      "issue": "Supreme Court",
+      "testable": true,
+      "position": "Term limits and ethics rules for justices",
+      "position_source": "https://www.aol.com/ny-race-us-senate-gillibrand-234500608.html",
+      "votes": [],
+      "note": "No floor vote on Court term limits or ethics this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Education",
+      "testable": true,
+      "position": "Free school meals for all students; paid family leave",
+      "position_source": "https://branch.vote/races/2024-new-york-general-election-ny-state-us-senator-ny-state/candidates/kirsten-e-gillibrand",
+      "votes": [],
+      "note": "No floor vote on universal school meals or paid leave this term."
+    },
+    {
+      "rank": 9,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Lower prescription drug prices; protect reproductive health care",
+      "position_source": "https://easthamptonstar.com/government/20241028/ballot-gillibrand-seeks-third-term",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "H.R.1 exempted more orphan drugs from Medicare price negotiation and defunded Planned Parenthood for a year."
+    },
+    {
+      "rank": 10,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Assault weapons ban; stronger background checks",
+      "position_source": "https://www.fingerlakes1.com/2024/10/28/u-s-senate-voter-guide-sapaicone-challenges-gillibrand-as-republicans-try-to-take-back-control/",
+      "votes": [],
+      "note": "No recorded floor vote this term."
+    }
   ],
   "plan": null,
   "caveats": [

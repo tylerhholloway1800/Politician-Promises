@@ -12,28 +12,174 @@
     "note": "Most-important-issue shares averaged where both polls list an item, otherwise the single poll's share (Emerson: https://emersoncollegepolling.com/new-mexico-2024-harris-52-trump-42/). Global conflicts (5%) fell just outside the top 10."
   },
   "issues": [
-    {"rank": 1, "issue": "Economy / inflation", "testable": true, "position": "Raise the federal minimum wage above $7.25", "position_source": "https://www.martinheinrich.com/news/results-vs-rhetoric-interviews-spotlight", "votes": [
-      {"congress": 119, "session": 1, "roll_call": 184, "date": "2025-04-04", "bill": "H.Con.Res.14", "bill_title": "Budget resolution (Sanders $17 minimum wage amendment No. 2126)", "question": "On the amendment", "vote": "Yea", "consistent": true, "auto": false}
-    ], "note": "Vote confirmed in the Congressional Record: https://www.govinfo.gov/content/pkg/CREC-2025-04-04/html/CREC-2025-04-04-pt1-PgS2350.htm"},
-    {"rank": 2, "issue": "Abortion", "testable": true, "position": "Codify Roe v. Wade into federal law", "position_source": "https://dailylobo.com/article/2024/10/united-states-senate-martin-heinrich", "votes": [], "note": "No Senate floor vote on codifying abortion rights this term."},
-    {"rank": 3, "issue": "Immigration", "testable": true, "position": "Comprehensive reform; fund border security; citizenship path for Dreamers", "position_source": "https://guides.vote/guide/2024-new-mexico-us-senate-voters-guide/", "votes": [
-      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": false, "auto": false}
-    ], "note": "H.R.1 carried large border-security funding he had said he backed; he opposed the package. No vote on comprehensive reform or Dreamers."},
-    {"rank": 4, "issue": "Crime", "testable": false, "position": "Give law enforcement tools against fentanyl and crime (direction only)", "position_source": "https://www.kob.com/new-mexico/race-for-senate-heats-up-where-each-candidate-stands/", "votes": []},
-    {"rank": 5, "issue": "Health care", "testable": true, "position": "Make ACA premium tax credits permanent", "position_source": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-cosponsors-legislation-to-make-affordable-care-act-premium-tax-credits-permanent-lower-costs-for-working-families", "votes": [
-      {"congress": 119, "session": 1, "roll_call": 644, "date": "2025-12-11", "bill": "S.3385", "bill_title": "ACA premium tax credit extension (Lower Health Care Costs Act)", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
-    ]},
-    {"rank": 6, "issue": "Education", "testable": false, "position": "Use appropriations to support state universities (direction only)", "position_source": "https://dailylobo.com/article/2024/10/united-states-senate-martin-heinrich", "votes": []},
-    {"rank": 7, "issue": "Housing affordability", "testable": true, "position": "Zoning reform and incentives to build more housing", "position_source": "https://www.martinheinrich.com/news/senator-heinrich-articulates-a-clear-vision", "votes": [
-      {"congress": 119, "session": 2, "roll_call": 182, "date": "2026-06-22", "bill": "H.R.6644", "bill_title": "21st Century ROAD to Housing Act", "question": "On the motion to concur in the House amendment with an amendment", "vote": "Yea", "consistent": true, "auto": false}
-    ]},
-    {"rank": 8, "issue": "Elections / voting", "testable": true, "position": "Make voting easier and more accessible", "position_source": "https://guides.vote/guide/2024-new-mexico-us-senate-voters-guide/", "votes": [
-      {"congress": 119, "session": 2, "roll_call": 57, "date": "2026-03-17", "bill": "S.1383", "bill_title": "SAVE America Act", "question": "Motion to proceed", "vote": "Nay", "consistent": true, "auto": false}
-    ]},
-    {"rank": 9, "issue": "Government corruption / ethics", "testable": false, "position": "No specific campaign position found", "position_source": "https://guides.vote/guide/2024-new-mexico-us-senate-voters-guide/", "votes": [], "note": "His stock-trading-ban push dates to 2023, not the campaign."},
-    {"rank": 10, "issue": "Climate / energy", "testable": true, "position": "Build on the Inflation Reduction Act's clean-energy investments", "position_source": "https://sourcenm.com/race-details/nm-senate-candidates-election-2024/", "votes": [
-      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
-    ]}
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Raise the federal minimum wage above $7.25",
+      "position_source": "https://www.martinheinrich.com/news/results-vs-rhetoric-interviews-spotlight",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 184,
+          "date": "2025-04-04",
+          "bill": "H.Con.Res.14",
+          "bill_title": "Budget resolution (Sanders $17 minimum wage amendment No. 2126)",
+          "question": "On the amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "Vote confirmed in the Congressional Record: https://www.govinfo.gov/content/pkg/CREC-2025-04-04/html/CREC-2025-04-04-pt1-PgS2350.htm"
+    },
+    {
+      "rank": 2,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Codify Roe v. Wade into federal law",
+      "position_source": "https://dailylobo.com/article/2024/10/united-states-senate-martin-heinrich",
+      "votes": [],
+      "note": "No Senate floor vote on codifying abortion rights this term."
+    },
+    {
+      "rank": 3,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Comprehensive reform; fund border security; citizenship path for Dreamers",
+      "position_source": "https://guides.vote/guide/2024-new-mexico-us-senate-voters-guide/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "H.R.1 carried large border-security funding he had said he backed; he opposed the package. No vote on comprehensive reform or Dreamers."
+    },
+    {
+      "rank": 4,
+      "issue": "Crime",
+      "testable": false,
+      "position": "Give law enforcement tools against fentanyl and crime (direction only)",
+      "position_source": "https://www.kob.com/new-mexico/race-for-senate-heats-up-where-each-candidate-stands/",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Make ACA premium tax credits permanent",
+      "position_source": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-cosponsors-legislation-to-make-affordable-care-act-premium-tax-credits-permanent-lower-costs-for-working-families",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension (Lower Health Care Costs Act)",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Education",
+      "testable": false,
+      "position": "Use appropriations to support state universities (direction only)",
+      "position_source": "https://dailylobo.com/article/2024/10/united-states-senate-martin-heinrich",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Housing affordability",
+      "testable": true,
+      "position": "Zoning reform and incentives to build more housing",
+      "position_source": "https://www.martinheinrich.com/news/senator-heinrich-articulates-a-clear-vision",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2026-06-22",
+          "bill": "H.R.6644",
+          "bill_title": "21st Century ROAD to Housing Act",
+          "question": "On the motion to concur in the House amendment with an amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Make voting easier and more accessible",
+      "position_source": "https://guides.vote/guide/2024-new-mexico-us-senate-voters-guide/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Government corruption / ethics",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://guides.vote/guide/2024-new-mexico-us-senate-voters-guide/",
+      "votes": [],
+      "note": "His stock-trading-ban push dates to 2023, not the campaign."
+    },
+    {
+      "rank": 10,
+      "issue": "Climate / energy",
+      "testable": true,
+      "position": "Build on the Inflation Reduction Act's clean-energy investments",
+      "position_source": "https://sourcenm.com/race-details/nm-senate-candidates-election-2024/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    }
   ],
   "plan": null,
   "caveats": [

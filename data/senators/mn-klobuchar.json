@@ -29,7 +29,8 @@
           "question": "On the motion to concur in the House amendment with an amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Final housing package included her regional housing planning grant bill; reintroduced Feb 2024 and cited in her Oct 2024 questionnaire."
@@ -60,7 +61,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -72,7 +74,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 and the FY2026 DHS bill funded Border Patrol agents and technology; she opposed both. The bipartisan bill got no vote."
@@ -94,7 +97,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 widened the orphan-drug exemption from Medicare negotiation; her expansion bill got no vote."

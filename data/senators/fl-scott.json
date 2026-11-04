@@ -29,7 +29,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -41,7 +42,8 @@
           "vote": "Yea",
           "consistent": true,
           "auto": false,
-          "roll_call": 411
+          "roll_call": 411,
+          "verified": true
         }
       ],
       "note": "H.R.1 cut spending but raised projected deficits; rated consistent on its spending cuts."
@@ -109,7 +111,8 @@
           "question": "Motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -121,7 +124,8 @@
           "question": "Cloture on an amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -150,7 +154,9 @@
           "question": "Motion to discharge",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "roll_call": 80,
+          "verified": true
         },
         {
           "congress": 119,
@@ -161,7 +167,9 @@
           "question": "Motion to discharge",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "roll_call": 81,
+          "verified": true
         }
       ]
     },

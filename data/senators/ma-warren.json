@@ -47,7 +47,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 cut Medicaid funding to Planned Parenthood for one year."
@@ -78,7 +79,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Yea inferred: not among the 10 named nays or non-voters (dailypress.senate.gov)."
@@ -107,7 +109,9 @@
           "question": "On the joint resolution",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "roll_call": 165,
+          "verified": true
         },
         {
           "congress": 119,
@@ -119,7 +123,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Ukraine stance from WGBH debate coverage; NDAA Nay was over overall defense spending."
@@ -141,7 +146,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 narrowed Medicare eligibility for some immigrants and cut Medicaid."
@@ -163,7 +169,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },

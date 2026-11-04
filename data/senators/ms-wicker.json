@@ -37,7 +37,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 made the 2017 individual tax cuts permanent."
@@ -59,7 +60,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Telehealth got only short-term extensions in spending bills, not a permanent-law vote."
@@ -99,7 +101,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -151,7 +154,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Laken Riley cosponsorship: https://www.wicker.senate.gov/2024/3/senator-wicker-cosponsors-laken-riley-act-in-u-s-senate"

@@ -12,63 +12,211 @@
     "note": "Ranked by share calling each issue 'very important' to their vote (10-item battery); open-ended most-important-issue list included untestable items like candidate character."
   },
   "issues": [
-    {"rank": 1, "issue": "Economy / taxes", "testable": true,
-     "position": "Make large corporations and the wealthiest pay more; oppose Trump tax breaks for them",
-     "position_source": "https://andykim.com/2024/10/22/andy-kim-shows-readiness-bring-change-third-and-fi",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
-     ]},
-    {"rank": 2, "issue": "Health care", "testable": true,
-     "position": "Strengthen the ACA; protect pre-existing condition coverage; lower drug costs",
-     "position_source": "https://www.wfmz.com/njs-us-senate-race-kim-v-bashaw-on-the-issues/article_42eea85e-920d-11ef-b12f-b316fee84b10.html",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (Medicaid and ACA marketplace changes)", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false},
-       {"congress": 119, "session": 1, "roll_call": 644, "date": "2025-12-11", "bill": "S.3385", "bill_title": "ACA premium tax credit extension", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
-     ]},
-    {"rank": 3, "issue": "Violent crime", "testable": false,
-     "position": "No specific position found",
-     "position_source": "https://whyy.org/articles/election-2024-new-jersey-senate-debate-kim-bashaw/",
-     "votes": []},
-    {"rank": 4, "issue": "Immigration", "testable": true,
-     "position": "Pathway to citizenship with a secure border; more immigration judges",
-     "position_source": "https://www.andykim.com/2024/10/28/congressman-andy-kim-rallies-voters-makes-case-cha/",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (border and immigration court funding)", "question": "On passage", "vote": "Nay", "consistent": false, "auto": false}
-     ],
-     "note": "H.R.1 funded border security and $3.3B for immigration courts; he opposed the package. No vote held on a citizenship pathway."},
-    {"rank": 5, "issue": "Foreign policy", "testable": true,
-     "position": "Scale back military aid to Israel; humanitarian aid to Gaza",
-     "position_source": "https://dailytargum.com/article/2024/10/exclusive-interview-targum-speaks-to-andy-kim-about-protests-war",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 165, "date": "2025-04-03", "bill": "S.J.Res.33", "bill_title": "Disapproval of arms sale to Israel", "question": "On the motion to discharge", "vote": "Yea", "consistent": true, "auto": false},
-       {"congress": 119, "session": 1, "roll_call": 166, "date": "2025-04-03", "bill": "S.J.Res.26", "bill_title": "Disapproval of arms sale to Israel", "question": "On the motion to discharge", "vote": "Yea", "consistent": true, "auto": false},
-       {"congress": 119, "session": 1, "roll_call": 454, "date": "2025-07-30", "bill": "S.J.Res.41", "bill_title": "Disapproval of arms sale to Israel (assault rifles)", "question": "On the motion to discharge", "vote": "Yea", "consistent": true, "auto": false},
-       {"congress": 119, "session": 1, "roll_call": 455, "date": "2025-07-30", "bill": "S.J.Res.34", "bill_title": "Disapproval of arms sale to Israel (bombs)", "question": "On the motion to discharge", "vote": "Yea", "consistent": true, "auto": false}
-     ]},
-    {"rank": 6, "issue": "Gun policy", "testable": true,
-     "position": "Universal background checks and an assault weapons ban",
-     "position_source": "https://jerseyvindicator.org/?p=836",
-     "votes": [],
-     "note": "No Senate floor vote on either measure found this term."},
-    {"rank": 7, "issue": "Supreme Court appointments", "testable": false,
-     "position": "Criticized the Court and GOP nominees; no specific position found",
-     "position_source": "https://newjerseyglobe.com/campaigns/kim-and-bashaw-split-on-abortion-affordability-in-first-senate-debate/",
-     "votes": []},
-    {"rank": 8, "issue": "Abortion", "testable": true,
-     "position": "Pass a federal law protecting abortion rights",
-     "position_source": "https://www.wfmz.com/njs-us-senate-race-kim-v-bashaw-on-the-issues/article_42eea85e-920d-11ef-b12f-b316fee84b10.html",
-     "votes": [],
-     "note": "No floor vote on a federal abortion-rights bill this term."},
-    {"rank": 9, "issue": "Racial and ethnic inequality", "testable": false,
-     "position": "No specific position found",
-     "position_source": "https://www.wfmz.com/njs-us-senate-race-kim-v-bashaw-on-the-issues/article_42eea85e-920d-11ef-b12f-b316fee84b10.html",
-     "votes": []},
-    {"rank": 10, "issue": "Climate change", "testable": true,
-     "position": "Keep the Inflation Reduction Act's clean-energy investments",
-     "position_source": "https://www.wfmz.com/njs-us-senate-race-kim-v-bashaw-on-the-issues/article_42eea85e-920d-11ef-b12f-b316fee84b10.html",
-     "votes": [
-       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
-     ]}
+    {
+      "rank": 1,
+      "issue": "Economy / taxes",
+      "testable": true,
+      "position": "Make large corporations and the wealthiest pay more; oppose Trump tax breaks for them",
+      "position_source": "https://andykim.com/2024/10/22/andy-kim-shows-readiness-bring-change-third-and-fi",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Strengthen the ACA; protect pre-existing condition coverage; lower drug costs",
+      "position_source": "https://www.wfmz.com/njs-us-senate-race-kim-v-bashaw-on-the-issues/article_42eea85e-920d-11ef-b12f-b316fee84b10.html",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (Medicaid and ACA marketplace changes)",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Violent crime",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://whyy.org/articles/election-2024-new-jersey-senate-debate-kim-bashaw/",
+      "votes": []
+    },
+    {
+      "rank": 4,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pathway to citizenship with a secure border; more immigration judges",
+      "position_source": "https://www.andykim.com/2024/10/28/congressman-andy-kim-rallies-voters-makes-case-cha/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (border and immigration court funding)",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "H.R.1 funded border security and $3.3B for immigration courts; he opposed the package. No vote held on a citizenship pathway."
+    },
+    {
+      "rank": 5,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "Scale back military aid to Israel; humanitarian aid to Gaza",
+      "position_source": "https://dailytargum.com/article/2024/10/exclusive-interview-targum-speaks-to-andy-kim-about-protests-war",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 165,
+          "date": "2025-04-03",
+          "bill": "S.J.Res.33",
+          "bill_title": "Disapproval of arms sale to Israel",
+          "question": "On the motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 166,
+          "date": "2025-04-03",
+          "bill": "S.J.Res.26",
+          "bill_title": "Disapproval of arms sale to Israel",
+          "question": "On the motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 454,
+          "date": "2025-07-30",
+          "bill": "S.J.Res.41",
+          "bill_title": "Disapproval of arms sale to Israel (assault rifles)",
+          "question": "On the motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 455,
+          "date": "2025-07-30",
+          "bill": "S.J.Res.34",
+          "bill_title": "Disapproval of arms sale to Israel (bombs)",
+          "question": "On the motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Universal background checks and an assault weapons ban",
+      "position_source": "https://jerseyvindicator.org/?p=836",
+      "votes": [],
+      "note": "No Senate floor vote on either measure found this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Supreme Court appointments",
+      "testable": false,
+      "position": "Criticized the Court and GOP nominees; no specific position found",
+      "position_source": "https://newjerseyglobe.com/campaigns/kim-and-bashaw-split-on-abortion-affordability-in-first-senate-debate/",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pass a federal law protecting abortion rights",
+      "position_source": "https://www.wfmz.com/njs-us-senate-race-kim-v-bashaw-on-the-issues/article_42eea85e-920d-11ef-b12f-b316fee84b10.html",
+      "votes": [],
+      "note": "No floor vote on a federal abortion-rights bill this term."
+    },
+    {
+      "rank": 9,
+      "issue": "Racial and ethnic inequality",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.wfmz.com/njs-us-senate-race-kim-v-bashaw-on-the-issues/article_42eea85e-920d-11ef-b12f-b316fee84b10.html",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Climate change",
+      "testable": true,
+      "position": "Keep the Inflation Reduction Act's clean-energy investments",
+      "position_source": "https://www.wfmz.com/njs-us-senate-race-kim-v-bashaw-on-the-issues/article_42eea85e-920d-11ef-b12f-b316fee84b10.html",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    }
   ],
   "plan": null,
   "caveats": [

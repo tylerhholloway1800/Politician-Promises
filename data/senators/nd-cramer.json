@@ -12,27 +12,173 @@
     "note": "ND poll's top three most-important issues (immigration, cost of living, jobs/economy) and its policy-importance items (fair elections, Social Security/Medicare) ranked first; remaining slots from Gallup national 'extremely important' list (https://news.gallup.com/file/poll/651749/2024_10_09_Vote%20Issues%20Topline%20and%20Tabs.pdf). Supreme Court picks skipped: no vacancy, no vote can test it."
   },
   "issues": [
-    {"rank": 1, "issue": "Immigration", "testable": true, "position": "Build a border wall; hire more Border Patrol agents", "position_source": "https://kevincramer.org/?p=26", "votes": [
-      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
-    ], "note": "H.R.1 funded border wall construction and new Border Patrol hiring."},
-    {"rank": 2, "issue": "Inflation / cost of living", "testable": false, "position": "Cut spending and limit regulation to grow the economy", "position_source": "https://kevincramer.org/?p=26", "votes": []},
-    {"rank": 3, "issue": "Jobs / economy", "testable": true, "position": "Use tariffs against countries selling goods too cheaply", "position_source": "https://www.newsfromthestates.com/article/sen-cramer-challenger-christiansen-accuse-each-other-spouting-party-rhetoric", "votes": [
-      {"congress": 119, "session": 1, "date": "2025-04-02", "bill": "S.J.Res.37", "bill_title": "Terminating emergency behind tariffs on Canada", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
-    ]},
-    {"rank": 4, "issue": "Elections / voting", "testable": true, "position": "Require proof of citizenship to register to vote (SAVE Act)", "position_source": "https://www.cramer.senate.gov/news/press-releases/letter-to-doj-highlights-concerns-over-non-citizens-participating-in-federal-elections", "votes": [
-      {"congress": 119, "session": 2, "roll_call": 57, "date": "2026-03-17", "bill": "S.1383", "bill_title": "SAVE America Act", "question": "Motion to proceed", "vote": "Yea", "consistent": true, "auto": false},
-      {"congress": 119, "session": 2, "roll_call": 73, "date": "2026-03-26", "bill": "S.1383", "bill_title": "SAVE America Act (photo ID amendment)", "question": "Cloture on an amendment", "vote": "Yea", "consistent": true, "auto": false}
-    ]},
-    {"rank": 5, "issue": "National security", "testable": true, "position": "Keep supporting Ukraine militarily against Russia", "position_source": "https://www.newsfromthestates.com/article/sen-cramer-challenger-christiansen-accuse-each-other-spouting-party-rhetoric", "votes": [
-      {"congress": 119, "session": 1, "roll_call": 648, "date": "2025-12-17", "bill": "S.1071", "bill_title": "National Defense Authorization Act for FY2026", "question": "Motion to concur in the House amendment", "vote": "Yea", "consistent": true, "auto": false}
-    ], "note": "NDAA authorized $400M per year in Ukraine security assistance through 2027."},
-    {"rank": 6, "issue": "Social Security / Medicare", "testable": false, "position": "Protect current benefits; incremental changes for those 55 and under", "position_source": "https://kevincramer.org/?p=26", "votes": []},
-    {"rank": 7, "issue": "Education", "testable": false, "position": "No specific campaign position found", "position_source": "https://kevincramer.org/?p=26", "votes": []},
-    {"rank": 8, "issue": "Health care", "testable": false, "position": "Price transparency, more competition, state flexibility", "position_source": "https://kevincramer.org/?p=26", "votes": []},
-    {"rank": 9, "issue": "Gun regulation", "testable": true, "position": "Oppose new limits on gun rights", "position_source": "https://kevincramer.org/?p=26", "votes": [], "note": "No Senate floor vote on gun restrictions this term."},
-    {"rank": 10, "issue": "Abortion", "testable": true, "position": "Oppose abortion; support a late-term abortion ban", "position_source": "https://kevincramer.org/?p=26", "votes": [
-      {"congress": 119, "session": 1, "roll_call": 11, "date": "2025-01-22", "bill": "S.6", "bill_title": "Born-Alive Abortion Survivors Protection Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
-    ], "note": "No floor vote on a late-term ban; rated on the closest abortion-restriction vote."}
+    {
+      "rank": 1,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Build a border wall; hire more Border Patrol agents",
+      "position_source": "https://kevincramer.org/?p=26",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "H.R.1 funded border wall construction and new Border Patrol hiring."
+    },
+    {
+      "rank": 2,
+      "issue": "Inflation / cost of living",
+      "testable": false,
+      "position": "Cut spending and limit regulation to grow the economy",
+      "position_source": "https://kevincramer.org/?p=26",
+      "votes": []
+    },
+    {
+      "rank": 3,
+      "issue": "Jobs / economy",
+      "testable": true,
+      "position": "Use tariffs against countries selling goods too cheaply",
+      "position_source": "https://www.newsfromthestates.com/article/sen-cramer-challenger-christiansen-accuse-each-other-spouting-party-rhetoric",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-04-02",
+          "bill": "S.J.Res.37",
+          "bill_title": "Terminating emergency behind tariffs on Canada",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "roll_call": 160,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Require proof of citizenship to register to vote (SAVE Act)",
+      "position_source": "https://www.cramer.senate.gov/news/press-releases/letter-to-doj-highlights-concerns-over-non-citizens-participating-in-federal-elections",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "issue": "National security",
+      "testable": true,
+      "position": "Keep supporting Ukraine militarily against Russia",
+      "position_source": "https://www.newsfromthestates.com/article/sen-cramer-challenger-christiansen-accuse-each-other-spouting-party-rhetoric",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 648,
+          "date": "2025-12-17",
+          "bill": "S.1071",
+          "bill_title": "National Defense Authorization Act for FY2026",
+          "question": "Motion to concur in the House amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "NDAA authorized $400M per year in Ukraine security assistance through 2027."
+    },
+    {
+      "rank": 6,
+      "issue": "Social Security / Medicare",
+      "testable": false,
+      "position": "Protect current benefits; incremental changes for those 55 and under",
+      "position_source": "https://kevincramer.org/?p=26",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Education",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://kevincramer.org/?p=26",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Health care",
+      "testable": false,
+      "position": "Price transparency, more competition, state flexibility",
+      "position_source": "https://kevincramer.org/?p=26",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Oppose new limits on gun rights",
+      "position_source": "https://kevincramer.org/?p=26",
+      "votes": [],
+      "note": "No Senate floor vote on gun restrictions this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Oppose abortion; support a late-term abortion ban",
+      "position_source": "https://kevincramer.org/?p=26",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 11,
+          "date": "2025-01-22",
+          "bill": "S.6",
+          "bill_title": "Born-Alive Abortion Survivors Protection Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
+      ],
+      "note": "No floor vote on a late-term ban; rated on the closest abortion-restriction vote."
+    }
   ],
   "plan": null,
   "caveats": [

@@ -117,17 +117,90 @@ def text(el, path):
     return (x.text or "").strip() if x is not None and x.text else ""
 
 
+# ---------- voteview.com (backup source when senate.gov is unreachable) ----------
+
+VV = "https://voteview.com/static/data/out/{kind}/S{c}_{kind}.csv"
+_vv = {}
+CAST = {1: "Yea", 2: "Yea", 3: "Yea", 4: "Nay", 5: "Nay", 6: "Nay", 7: "Present", 8: "Present", 9: "Not Voting"}
+
+
+def _csv(url):
+    import csv
+    import io
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=60)
+        if r.status_code == 200:
+            return list(csv.DictReader(io.StringIO(r.text)))
+        print(f"  voteview {url}: HTTP {r.status_code}")
+    except requests.RequestException as e:
+        print(f"  voteview {url}: {type(e).__name__}")
+    return []
+
+
+def voteview(congress):
+    """Roll calls, members and votes for one Congress from voteview.com, keyed
+    by (session, senate roll call number)."""
+    if congress in _vv:
+        return _vv[congress]
+    rolls = _csv(VV.format(kind="rollcalls", c=congress))
+    members = {m["icpsr"]: m for m in _csv(VV.format(kind="members", c=congress))}
+    by_rn, out = {}, {}
+    for r in rolls:
+        try:
+            year = int(r["date"][:4])
+            sess = 1 if year % 2 == 1 else 2
+            num = int(float(r.get("clerk_rollnumber") or r["rollnumber"]))
+        except (KeyError, ValueError):
+            continue
+        by_rn[r["rollnumber"]] = (sess, num)
+        out[(sess, num)] = {"roll": r, "members": []}
+    if out:
+        for v in _csv(VV.format(kind="votes", c=congress)):
+            key = by_rn.get(v["rollnumber"])
+            m = members.get(v["icpsr"])
+            if not key or not m:
+                continue
+            last = (m.get("bioname") or "").split(",")[0].strip().title()
+            try:
+                cast = CAST.get(int(float(v["cast_code"])), "Not Voting")
+            except ValueError:
+                cast = "Not Voting"
+            out[key]["members"].append({"last": last, "first": "", "state": m.get("state_abbrev", ""),
+                                        "party": "", "vote": cast})
+    _vv[congress] = out
+    return out
+
+
+def _vv_vote(congress, session, n):
+    rec = voteview(congress).get((session, n))
+    if not rec:
+        return None
+    r = rec["roll"]
+    bill = (r.get("bill_number") or "").replace(" ", "")
+    bill = re.sub(r"^(HR|S|HJRES|SJRES|HRES|SRES|HCONRES|SCONRES)(\d+)$",
+                  lambda m: {"HR": "H.R.", "S": "S.", "HJRES": "H.J.Res.", "SJRES": "S.J.Res.", "HRES": "H.Res.",
+                             "SRES": "S.Res.", "HCONRES": "H.Con.Res.", "SCONRES": "S.Con.Res."}[m.group(1)] + m.group(2),
+                  bill.upper())
+    return {
+        "congress": congress, "session": session, "roll_call": n, "date": r.get("date", "")[:10],
+        "question": r.get("vote_question", ""), "title": r.get("vote_desc", "") or r.get("dtl_desc", ""),
+        "result": r.get("vote_result", ""), "doc_type": "PN" if "nomination" in (r.get("vote_question", "") + r.get("vote_desc", "")).lower() else "",
+        "bill": bill, "bill_title": r.get("vote_desc", ""), "amendment": "", "amendment_purpose": "",
+        "members": rec["members"], "source": "voteview",
+    }
+
+
 def vote_numbers(congress, session):
     root = get_xml(MENU.format(c=congress, s=session))
     if root is None:
-        return []
+        return sorted(n for (s_, n) in voteview(congress) if s_ == session)
     return sorted(int(text(v, "vote_number")) for v in root.iter("vote") if text(v, "vote_number").isdigit())
 
 
 def fetch_vote(congress, session, n):
     root = get_xml(VOTE.format(c=congress, s=session, n=n))
     if root is None:
-        return None
+        return _vv_vote(congress, session, n)
     doc = root.find("document")
     dtype = text(doc, "document_type") if doc is not None else ""
     dnum = text(doc, "document_number") if doc is not None else ""

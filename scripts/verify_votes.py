@@ -57,6 +57,11 @@ def find_roll_call(v):
         return None
     b = norm_bill(v["bill"])
     hits = [r for r in menu(c, s) if r["date"] == month_day and b and b in norm_bill(r["issue"])]
+    if not menu(c, s):  # senate.gov unreachable: search voteview instead
+        from update_votes import voteview
+        hits = [{"n": n} for (s_, n), rec in voteview(c).items()
+                if s_ == s and rec["roll"].get("date", "")[:10] == d[:10]
+                and b and b in norm_bill(rec["roll"].get("bill_number"))]
     return hits[0]["n"] if len(hits) == 1 else None
 
 

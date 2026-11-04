@@ -59,7 +59,7 @@
 
 {% if pending %}
 <section aria-labelledby="prog">
-  <div class="sec-head"><h2 id="prog">Research in progress</h2><span class="muted">Graded once every issue is researched and every vote is checked against senate.gov</span></div>
+  <div class="sec-head"><h2 id="prog">Research in progress</h2><span class="muted">Graded once every issue is researched and every vote is checked against the official roll call</span></div>
   <p class="inprog">{% for s in pending %}<a href="s/{{ s.id }}.html">{{ s.name }}</a> <span class="muted">{{ s.party }}-{{ s.state }}</span>{% if not loop.last %} · {% endif %}{% endfor %}</p>
 </section>
 {% endif %}

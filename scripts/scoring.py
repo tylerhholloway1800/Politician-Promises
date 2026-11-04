@@ -39,7 +39,7 @@ def readiness(senator):
         reasons.append("issues not yet researched")
     unchecked = sum(1 for i in issues for v in i.get("votes", []) if not v.get("verified"))
     if unchecked:
-        reasons.append(f"{unchecked} votes not yet checked against senate.gov")
+        reasons.append(f"{unchecked} votes not yet checked against the official roll call")
     if senator.get("status") == "draft":
         reasons.append("research marked incomplete")
     return (not reasons, reasons)

@@ -1,0 +1,79 @@
+{
+  "id": "mo-hawley",
+  "name": "Josh Hawley",
+  "state": "MO",
+  "party": "R",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Emerson College / The Hill Missouri poll, Sept 12–13, 2024 (most important issue)",
+    "url": "https://emersoncollegepolling.com/september-2024-missouri-poll-republican-candidates-lead-in-president-governor-senate-races/",
+    "note": "State poll gives ranks 1–8; ranks 9–10 added from Gallup national poll, Sept 16–28, 2024 ('extremely important' to vote): national security 45%, Supreme Court picks 45%. https://news.gallup.com/file/poll/651749/2024_10_09_Vote%20Issues%20Topline%20and%20Tabs.pdf"
+  },
+  "issues": [
+    {"rank": 1, "issue": "Economy / inflation", "testable": true,
+     "position": "End taxes on tips and overtime; expand child tax credit",
+     "position_source": "https://www.thepitchkc.com/2024-missouri-senate-debate-portrays-a-bleak-image-for-the-states-future/",
+     "votes": [
+       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+     ],
+     "note": "H.R.1 created tip and overtime deductions and raised the child tax credit."},
+    {"rank": 2, "issue": "Elections / democracy", "testable": false,
+     "position": "No specific campaign position found",
+     "position_source": "https://guides.vote/guide/2024-missouri-us-senate-voters-guide/",
+     "votes": []},
+    {"rank": 3, "issue": "Crime / public safety", "testable": true,
+     "position": "Fund 100,000 new police; raise police pay; tougher mandatory minimums",
+     "position_source": "https://abc17news.com/?p=1389535",
+     "votes": [],
+     "note": "No Senate floor vote on police hiring or mandatory-minimum bills this term."},
+    {"rank": 4, "issue": "Immigration", "testable": true,
+     "position": "Close border, build wall, Remain in Mexico, deport criminal migrants",
+     "position_source": "https://abc17news.com/?p=1389535",
+     "votes": [
+       {"congress": 119, "session": 1, "roll_call": 7, "date": "2025-01-20", "bill": "S.5", "bill_title": "Laken Riley Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
+       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+     ],
+     "note": "H.R.1 funded border wall construction and deportation operations."},
+    {"rank": 5, "issue": "Abortion", "testable": true,
+     "position": "No national ban; leave to states; federal late-term limit",
+     "position_source": "https://www.kbia.org/missouri-news/2024-10-15/hawley-kunce-spar-over-abortion-immigration-and-foreign-policy",
+     "votes": [],
+     "note": "No floor vote on a national ban or late-term limit; Born-Alive Act cloture (Yea, 2025-01-22) not counted."},
+    {"rank": 6, "issue": "Housing affordability", "testable": false,
+     "position": "Build more homes; links housing costs to immigration",
+     "position_source": "https://abc17news.com/?p=1389535",
+     "votes": []},
+    {"rank": 7, "issue": "Health care", "testable": true,
+     "position": "Cap prices of all prescription drugs, including insulin",
+     "position_source": "https://www.thepitchkc.com/2024-missouri-senate-debate-portrays-a-bleak-image-for-the-states-future/",
+     "votes": [],
+     "note": "No Senate floor vote on a drug or insulin price cap this term."},
+    {"rank": 8, "issue": "Education", "testable": true,
+     "position": "Ban transgender athletes from girls' school sports",
+     "position_source": "https://www.kcur.org/politics-elections-and-government/2024-08-08/josh-hawley-us-senate-missouri-lucas-kunce",
+     "votes": [
+       {"congress": 119, "session": 1, "roll_call": 100, "date": "2025-03-03", "bill": "S.9", "bill_title": "Protection of Women and Girls in Sports Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+     ]},
+    {"rank": 9, "issue": "National security", "testable": true,
+     "position": "No further Ukraine aid; no conditions on aid to Israel",
+     "position_source": "https://www.thepitchkc.com/2024-missouri-senate-debate-portrays-a-bleak-image-for-the-states-future/",
+     "votes": [
+       {"congress": 119, "session": 1, "roll_call": 165, "date": "2025-04-03", "bill": "S.J.Res.33", "bill_title": "Disapproval of arms sale to Israel", "question": "On the motion to discharge", "vote": "Nay", "consistent": true, "auto": false},
+       {"congress": 119, "session": 1, "roll_call": 166, "date": "2025-04-03", "bill": "S.J.Res.26", "bill_title": "Disapproval of arms sale to Israel", "question": "On the motion to discharge", "vote": "Nay", "consistent": true, "auto": false}
+     ],
+     "note": "No Ukraine aid package reached a Senate floor vote this term."},
+    {"rank": 10, "issue": "Supreme Court", "testable": false,
+     "position": "No specific campaign position found",
+     "position_source": "https://guides.vote/guide/2024-missouri-us-senate-voters-guide/",
+     "votes": []}
+  ],
+  "plan": null,
+  "caveats": [
+    "Ranks 9–10 come from national Gallup polling; the Missouri poll listed only eight issues.",
+    "Education rated on a school-sports pledge (S.9 amends Title IX); no broader education position found.",
+    "Laken Riley Act roll call number (7) and Hawley's Yea taken from third-party tracker and party-line reporting, not senate.gov."
+  ],
+  "researched": "2026-11-04"
+}

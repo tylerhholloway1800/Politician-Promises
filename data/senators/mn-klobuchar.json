@@ -1,0 +1,163 @@
+{
+  "id": "mn-klobuchar",
+  "name": "Amy Klobuchar",
+  "state": "MN",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "KSTP/SurveyUSA Minnesota Poll #27386, Oct 24–28, 2024 (728 likely voters)",
+    "url": "https://kstp.com/wp-content/uploads/2024/10/Poll-Report-1031.pdf",
+    "note": "Most important issue question; exactly 10 named issues offered (plus Other at 4%). Ranks match the Sept 23–26 KSTP/SurveyUSA poll except order of a few mid items."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / cost of living",
+      "testable": true,
+      "position": "Pass bills to expand housing supply (Housing Supply and Affordability Act)",
+      "position_source": "https://www.kaine.senate.gov/press-releases/klobuchar-kaine-introduce-legislation-to-address-nationwide-housing-shortage",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2026-06-22",
+          "bill": "H.R.6644",
+          "bill_title": "21st Century ROAD to Housing Act",
+          "question": "On the motion to concur in the House amendment with an amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Final housing package included her regional housing planning grant bill; reintroduced Feb 2024 and cited in her Oct 2024 questionnaire."
+    },
+    {
+      "rank": 2,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Codify Roe v. Wade in federal law",
+      "position_source": "https://www.cbsnews.com/minnesota/news/amy-klobuchar-dfl-2024-election-guide",
+      "votes": [],
+      "note": "No floor vote on codifying Roe this term; related VA-rule vote (S.J.Res.103, roll call 72, Yea) not counted."
+    },
+    {
+      "rank": 3,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Revive bipartisan border bill; more agents and technology",
+      "position_source": "https://www.cbsnews.com/minnesota/news/amy-klobuchar-dfl-2024-election-guide",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 74,
+          "date": "2026-03-26",
+          "bill": "H.R.7147",
+          "bill_title": "Homeland Security Appropriations Act, 2026",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 and the FY2026 DHS bill funded Border Patrol agents and technology; she opposed both. The bipartisan bill got no vote."
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Expand Medicare drug-price negotiation; protect Medicare",
+      "position_source": "https://www.cbsnews.com/minnesota/news/amy-klobuchar-dfl-2024-election-guide",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 widened the orphan-drug exemption from Medicare negotiation; her expansion bill got no vote."
+    },
+    {
+      "rank": 5,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Apply Social Security tax to earnings above $400,000",
+      "position_source": "https://www.startribune.com/us-senate-debate-amy-klobuchar-criticizes-royce-white-for-saying-bad-guys-won-in-world-war-ii/601170438",
+      "votes": [],
+      "note": "Stated as part of a debt plan in the Oct 2024 debate; no floor vote on the payroll-tax cap this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Stronger background checks; ban bump stocks and conversion devices",
+      "position_source": "https://www.cbsnews.com/minnesota/news/amy-klobuchar-dfl-2024-election-guide",
+      "votes": [],
+      "note": "No floor vote on these measures found; Murphy NICS-report amendment (roll call 473, 2025) not counted as it tests none of them."
+    },
+    {
+      "rank": 7,
+      "issue": "Government spending",
+      "testable": false,
+      "position": "Reduce the debt; no specific spending position found",
+      "position_source": "https://www.startribune.com/us-senate-debate-amy-klobuchar-criticizes-royce-white-for-saying-bad-guys-won-in-world-war-ii/601170438",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Crime",
+      "testable": true,
+      "position": "Require social media firms to report drug trafficking",
+      "position_source": "https://www.cbsnews.com/minnesota/news/amy-klobuchar-dfl-2024-election-guide",
+      "votes": [],
+      "note": "Cooper Davis and Devin Norring Act reintroduced 2025; no floor vote found."
+    },
+    {
+      "rank": 9,
+      "issue": "Education",
+      "testable": false,
+      "position": "More apprenticeships and 1- and 2-year degrees",
+      "position_source": "https://www.cbsnews.com/minnesota/news/amy-klobuchar-dfl-2024-election-guide",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Policing",
+      "testable": false,
+      "position": "Fund police hiring, training, and equipment",
+      "position_source": "https://www.cbsnews.com/minnesota/news/amy-klobuchar-dfl-2024-election-guide",
+      "votes": [],
+      "note": "General funding direction only; no named program or amount."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Most positions come from her Oct 2024 WCCO/CBS candidate questionnaire and the Oct 2024 debate; her campaign site archive was not reachable.",
+    "Immigration rated Contradicted on H.R.1 and the FY2026 DHS appropriations cloture vote, which funded border agents she said she wanted; neither was the bipartisan bill she named.",
+    "NFIB said in Aug 2024 she backed making the 20% small-business deduction permanent; not her own statement, so not used (H.R.1, which she opposed, made it permanent).",
+    "Economy rated on her named housing-supply bill; the broader 'lower costs' pledge is not testable."
+  ],
+  "researched": "2026-11-04"
+}

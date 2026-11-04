@@ -1,0 +1,51 @@
+{
+  "id": "nv-rosen",
+  "name": "Jacky Rosen",
+  "state": "NV",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Fox News Nevada Poll, Aug 23–26, 2024; Emerson College Nevada Poll, Oct 29–31, 2024",
+    "url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/08/Fox_August-23-26-2024_Nevada_Topline_August-28-Release.pdf",
+    "note": "Combined two 'most important issue' questions, ranked by each issue's highest share in either poll; housing (13%) and education (9%) from Emerson (https://emersoncollegepolling.com/october-2024-nevada-poll-harris-48-trump-47/); foreign policy and guns tied at 2% for 10th, foreign policy listed first by Fox."
+  },
+  "issues": [
+    {"rank": 1, "issue": "Economy / inflation", "testable": true, "position": "End federal income taxes on tips", "position_source": "https://thenevadaindependent.com/article/in-senate-debate-rosen-and-brown-stick-to-campaign-playbooks", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": false, "auto": false}
+    ], "note": "Her standalone no-tax-on-tips bill passed by unanimous consent (no roll call); H.R.1 enacted a tips deduction and she opposed it."},
+    {"rank": 2, "issue": "Abortion", "testable": true, "position": "Codify Roe v. Wade; oppose defunding Planned Parenthood", "position_source": "https://guides.vote/guide/2024-nevada-senate-voters-guide/", "votes": [
+      {"congress": 119, "session": 1, "date": "2025-06-30", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (Murray amendment to strike Planned Parenthood defunding)", "question": "On the amendment", "vote": "Yea", "consistent": true, "auto": false},
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+    ], "note": "No floor vote on codifying Roe this term; rated on Planned Parenthood defunding in H.R.1."},
+    {"rank": 3, "issue": "Immigration", "testable": true, "position": "Pass bipartisan border bill; citizenship path for Dreamers and TPS holders", "position_source": "https://thenevadaindependent.com/article/in-senate-debate-rosen-and-brown-stick-to-campaign-playbooks", "votes": [], "note": "Neither the bipartisan border bill nor a Dreamer pathway got a floor vote this term."},
+    {"rank": 4, "issue": "Housing affordability", "testable": true, "position": "Curb corporate investors buying homes; release federal land for housing", "position_source": "https://thenevadannews.com/news/elections/q-a-nevada-us-sen-jacky-rosen-lays-out-the-stakes-of-2024-election/", "votes": [
+      {"congress": 119, "session": 2, "roll_call": 53, "date": "2026-03-12", "bill": "H.R.6644", "bill_title": "21st Century ROAD to Housing Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+    ]},
+    {"rank": 5, "issue": "Elections / voting", "testable": true, "position": "Restore Voting Rights Act protections; filibuster carve-out for voting rights", "position_source": "https://thenevadannews.com/news/elections/q-a-nevada-us-sen-jacky-rosen-lays-out-the-stakes-of-2024-election/", "votes": [
+      {"congress": 119, "session": 2, "roll_call": 57, "date": "2026-03-17", "bill": "S.1383", "bill_title": "SAVE America Act", "question": "Motion to proceed", "vote": "Nay", "consistent": true, "auto": false}
+    ]},
+    {"rank": 6, "issue": "Education", "testable": false, "position": "No specific campaign position found", "position_source": "https://guides.vote/guide/2024-nevada-senate-voters-guide/", "votes": []},
+    {"rank": 7, "issue": "Health care", "testable": true, "position": "Make enhanced ACA premium tax credits permanent", "position_source": "https://www.rosen.senate.gov/?p=13876", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 644, "date": "2025-12-11", "bill": "S.3385", "bill_title": "ACA premium tax credit extension", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+    ]},
+    {"rank": 8, "issue": "Environment / climate", "testable": true, "position": "Continue federal clean-energy investments (solar, geothermal, wind)", "position_source": "https://thenevadaindependent.com/article/in-senate-debate-rosen-and-brown-stick-to-campaign-playbooks", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+    ], "note": "H.R.1 phased out IRA clean-energy tax credits."},
+    {"rank": 9, "issue": "Crime / public safety", "testable": false, "position": "Help police hire and retain officers (past record, no forward plan)", "position_source": "https://www.2news.com/townnews/politics/jacky-s-rosen/article_fcb3f0dc-810a-11ef-8732-c7cc2aaa884f.html", "votes": []},
+    {"rank": 10, "issue": "Foreign policy", "testable": true, "position": "Keep arms flowing to Israel; oppose conditioning aid", "position_source": "https://thenevadaindependent.com/article/in-senate-debate-rosen-and-brown-stick-to-campaign-playbooks", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 454, "date": "2025-07-30", "bill": "S.J.Res.41", "bill_title": "Disapproval of arms export to Israel (rifles)", "question": "Motion to discharge", "vote": "Nay", "consistent": true, "auto": false},
+      {"congress": 119, "session": 1, "roll_call": 455, "date": "2025-07-30", "bill": "S.J.Res.34", "bill_title": "Disapproval of arms sale to Israel (bombs)", "question": "Motion to discharge", "vote": "Nay", "consistent": true, "auto": false}
+    ], "note": "She also voted against both Sanders resolutions on Apr 15, 2026 (bill numbers not confirmed)."}
+  ],
+  "plan": null,
+  "caveats": [
+    "Economy rated Contradicted only because H.R.1 carried a tips tax break; her own no-tax-on-tips bill passed by unanimous consent without a roll call.",
+    "Issue list merges two polls; Fox's question asked about the presidential vote, and foreign policy beat guns for 10th on a 2% tie.",
+    "Murray amendment vote (Jun 30, 2025) has no confirmed roll call number; her Yea comes from Reproductive Freedom for All's scorecard.",
+    "Housing roll call 53 and her S.3385 Yea are inferred from watch.vote/news reports (all Democrats voted yea on S.3385); not checked against senate.gov.",
+    "Climate position is broad (continue clean-energy investment); rated on H.R.1's credit phase-outs as a judgment call."
+  ],
+  "researched": "2026-11-04"
+}

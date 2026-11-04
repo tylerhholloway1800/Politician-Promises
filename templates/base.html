@@ -1,0 +1,37 @@
+{% set r = '../' if page == 'senator' else '' -%}
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site }}{% endblock %}</title>
+<meta name="description" content="{% block desc %}Senators graded on whether their votes match what they promised.{% endblock %}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ r }}static/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="{{ r }}index.html">
+      <svg width="28" height="28" viewBox="0 0 28 28" aria-hidden="true"><rect x="1" y="1" width="26" height="26" rx="6" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 14.5l4 4 8-9" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span>{{ site }}</span>
+    </a>
+    <nav aria-label="Main">
+      <a href="{{ r }}index.html"{% if page == 'home' %} aria-current="page"{% endif %}>Senators</a>
+      <a href="{{ r }}moves.html"{% if page == 'moves' %} aria-current="page"{% endif %}>Grade moves</a>
+      <a href="{{ r }}method.html"{% if page == 'method' %} aria-current="page"{% endif %}>Method</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap main">
+{% block body %}{% endblock %}
+</main>
+<footer class="foot">
+  <div class="wrap foot-in">
+    <span>{{ site }} · Updated {{ built | fdate }}</span>
+    <span>Votes: senate.gov · Bills: congress.gov</span>
+  </div>
+</footer>
+</body>
+</html>

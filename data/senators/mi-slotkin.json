@@ -1,0 +1,40 @@
+{
+  "id": "mi-slotkin",
+  "name": "Elissa Slotkin",
+  "state": "MI",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Emerson College/Nexstar Michigan poll, Oct 30–Nov 2, 2024 (n=790 likely voters)",
+    "url": "https://www.wlns.com/news/poll-what-is-the-most-important-political-issue-in-michigan/amp/",
+    "note": "Most important issue question gave 9 issues; Gun policy added as 10th from CBS News/YouGov Michigan poll, Sept 3–6, 2024 (55% major factor, highest not already listed)."
+  },
+  "issues": [
+    {"rank": 1, "issue": "Economy / inflation", "testable": true, "position": "More middle-class tax credits; no electric car mandates", "position_source": "https://bridgemi.com/michigan-government/slotkin-rogers-spar-michigan-us-senate-debate-here-are-facts/", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": false, "auto": false},
+      {"congress": 119, "session": 1, "date": "2025-05-22", "bill": "H.J.Res.88", "bill_title": "Disapproval of California Advanced Clean Cars II waiver", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+    ], "note": "EV mandate pledge from Oct 2024 ad: https://www.foxnews.com/politics/slotkin-launches-anti-ev-ad-swing-state-senate-race-after-voting-against-bipartisan-pushback-mandates"},
+    {"rank": 2, "issue": "Democracy / elections", "testable": false, "position": "Protect every American's vote; no specific bill named", "position_source": "https://guides.vote/?p=3777", "votes": []},
+    {"rank": 3, "issue": "Housing affordability", "testable": false, "position": "Lower housing costs; public-private housing partnerships", "position_source": "https://www.uppermichiganssource.com/2024/10/09/slotkin-rogers-meet-first-debate-us-senate-seat", "votes": []},
+    {"rank": 4, "issue": "Immigration", "testable": true, "position": "Pass the bipartisan Senate border security deal", "position_source": "https://michiganadvance.com/2024/10/18/slotkin-and-rogers-battle-for-michigans-1st-open-us-senate-seat-in-a-decade/", "votes": [], "note": "The 2024 bipartisan border bill did not get a floor vote this term."},
+    {"rank": 5, "issue": "Abortion", "testable": true, "position": "Codify Roe; oppose federal limits on abortion access", "position_source": "https://michiganadvance.com/2024/10/18/slotkin-and-rogers-battle-for-michigans-1st-open-us-senate-seat-in-a-decade/", "votes": [
+      {"congress": 119, "session": 2, "roll_call": 72, "date": "2026-03-25", "bill": "S.J.Res.103", "bill_title": "Disapproval of VA rule limiting abortion services", "question": "Motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+    ], "note": "No floor vote on codifying Roe this term."},
+    {"rank": 6, "issue": "Health care", "testable": true, "position": "Protect the ACA; expand Medicare drug-price negotiation", "position_source": "https://www.newsweek.com/michigan-senate-race-key-issues-1949415", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 644, "date": "2025-12-11", "bill": "S.3385", "bill_title": "ACA premium tax credit extension", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+    ]},
+    {"rank": 7, "issue": "Crime / public safety", "testable": false, "position": "No specific forward position found", "position_source": "https://www.michiganpublic.org/politics-government/2024-10-17/slotkin-talks-bipartisanship-environment-guns-at-cmu", "votes": []},
+    {"rank": 8, "issue": "Education", "testable": false, "position": "No specific campaign position found", "position_source": "https://guides.vote/?p=3777", "votes": []},
+    {"rank": 9, "issue": "Foreign policy", "testable": false, "position": "Back Israel's defense; open to conditions on offensive aid", "position_source": "https://www.newsweek.com/michigan-senate-race-key-issues-1949415", "votes": [], "note": "\"Open to\" conditions is not a commitment; Israel arms-sale votes not scored."},
+    {"rank": 10, "issue": "Gun policy", "testable": true, "position": "Assault weapons ban, universal background checks, red-flag laws", "position_source": "https://wdet.org/2024/07/30/michigan-primary-2024-voter-guide-united-states-senate/", "votes": [], "note": "No floor vote on these measures found this term."}
+  ],
+  "plan": null,
+  "caveats": [
+    "H.J.Res.88 roll call number not found; Slotkin's Yea (only Democrat) confirmed by her May 22, 2025 release and news reports.",
+    "Economy combines the tax-credit pledge (H.R.1, contradicted) and the no-EV-mandate pledge (H.J.Res.88, delivered); scoring them as separate issues would change the result.",
+    "Foreign policy rated not testable; reports on her Apr 15, 2026 Israel arms-sale votes (S.J.Res.32, S.J.Res.138) conflict, and she missed the July 2025 votes."
+  ],
+  "researched": "2026-11-04"
+}

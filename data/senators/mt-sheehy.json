@@ -1,0 +1,66 @@
+{
+  "id": "mt-sheehy",
+  "name": "Tim Sheehy",
+  "state": "MT",
+  "party": "R",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Emerson College Polling Montana survey, Oct 23–25, 2024",
+    "url": "https://emersoncollegepolling.com/october-2024-montana-poll-sheehy-50-tester-46/",
+    "note": "Ranks 1–6 from the Oct Emerson most-important-issue question; crime and education from Emerson's Feb 26–Mar 2, 2024 Montana poll; Social Security from AARP's Aug 2024 Montana poll of voters 50+ (78% very important); public lands from Colorado College's 2024 Conservation in the West poll (regional figures)."
+  },
+  "issues": [
+    {"rank": 1, "issue": "Economy / inflation", "testable": true,
+     "position": "Keep the 2017 Trump tax cuts; no income tax increase", "position_source": "https://guides.vote/?p=3652",
+     "votes": [
+       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+     ],
+     "note": "H.R.1 made the 2017 individual tax cuts permanent."},
+    {"rank": 2, "issue": "Housing costs", "testable": false,
+     "position": "Harvest more Montana timber to build homes", "position_source": "https://apps.montanafreepress.org/election-guide-2024/candidates/tim-sheehy/",
+     "votes": [], "note": "Direction only; no specific bill or policy named."},
+    {"rank": 3, "issue": "Democracy / elections", "testable": false,
+     "position": "No specific position found on elections or voting", "position_source": "https://www.branch.vote/races/2024-montana-general-election-mt-state-us-senator-mt-state/candidates/tim-sheehy",
+     "votes": [], "note": "Campaign pledged congressional term limits, not election rules."},
+    {"rank": 4, "issue": "Immigration", "testable": true,
+     "position": "Finish the border wall; restore Remain in Mexico", "position_source": "https://apps.montanafreepress.org/election-guide-2024/candidates/tim-sheehy/",
+     "votes": [
+       {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+     ],
+     "note": "H.R.1 funded border wall construction and immigration enforcement."},
+    {"rank": 5, "issue": "Abortion", "testable": true,
+     "position": "Limits at fetal pain with exceptions; further limits left to states", "position_source": "https://www.politifact.com/factchecks/2024/sep/12/jon-tester/in-key-montana-senate-race-jon-tester-misleads-on",
+     "votes": [
+       {"congress": 119, "session": 1, "roll_call": 11, "date": "2025-01-22", "bill": "S.6", "bill_title": "Born-Alive Abortion Survivors Protection Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+     ],
+     "note": "No fetal-pain limit got a floor vote; S.6 tests his stated opposition to abortion up to birth."},
+    {"rank": 6, "issue": "Health care", "testable": true,
+     "position": "Protect coverage for pre-existing conditions", "position_source": "https://apps.montanafreepress.org/election-guide-2024/candidates/tim-sheehy/",
+     "votes": [], "note": "No floor vote changed pre-existing-condition protections."},
+    {"rank": 7, "issue": "Crime", "testable": false,
+     "position": "Get tough on crime; oppose defunding police", "position_source": "https://guides.vote/?p=3652",
+     "votes": []},
+    {"rank": 8, "issue": "Education", "testable": false,
+     "position": "End the woke social agenda in schools", "position_source": "https://guides.vote/?p=3652",
+     "votes": []},
+    {"rank": 9, "issue": "Social Security", "testable": true,
+     "position": "Protect Social Security and Medicare benefits", "position_source": "https://ontheissues.org/Economic/Tim_Sheehy_Social_Security.htm",
+     "votes": [], "note": "No floor vote cut or changed Social Security or Medicare benefits."},
+    {"rank": 10, "issue": "Public lands", "testable": true,
+     "position": "Oppose any federal transfer or sale of public lands", "position_source": "https://www.politifact.com/factchecks/2024/oct/29/jon-tester/in-montana-senate-race-public-lands",
+     "votes": [
+       {"congress": 119, "session": 1, "roll_call": 181, "date": "2025-04-05", "bill": "H.Con.Res.14", "bill_title": "FY2025 budget resolution (Hickenlooper-Heinrich public lands amendment)", "question": "On the amendment", "vote": "Yea", "consistent": true, "auto": false}
+     ],
+     "note": "He and Daines were the only Republicans voting to bar land sales; amendment failed 48-51."}
+  ],
+  "plan": null,
+  "caveats": [
+    "Issues 9–10 come from an AARP 50+ poll and a regional poll because the Emerson question listed only six to eight issues.",
+    "Roll call 181: the source says 'early Saturday' in the April 2025 budget vote-a-rama; the date (Apr 5) and vehicle (H.Con.Res.14) are inferred.",
+    "H.R.1 counted for taxes and immigration; his balanced-budget pledge got no floor vote, though H.R.1 raised deficits.",
+    "Sheehy's votes on H.R.1 and S.6 come from his own release, MTPR and usquery; senate.gov was not reachable."
+  ],
+  "researched": "2026-11-04"
+}

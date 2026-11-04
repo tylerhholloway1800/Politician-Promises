@@ -1,0 +1,187 @@
+{
+  "id": "de-blunt-rochester",
+  "name": "Lisa Blunt Rochester",
+  "state": "DE",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "University of Delaware CPC/YouGov Delaware poll, Sept 11–19, 2024; Gallup national vote-issues poll, Sept 16–28, 2024",
+    "url": "https://udel.edu/academics/colleges/cas/news-events/news/2024/september/new-poll-shows-gender-gap-and-independents-fueling-large-lead-fo",
+    "note": "The UD poll published only three issues (economy 88%, abortion 69%, immigration 66% most/very important), so those rank 1–3. Ranks 4–10 come from Gallup's national list by % extremely important (https://news.gallup.com/file/poll/651749/2024_10_09_Vote%20Issues%20Topline%20and%20Tabs.pdf)."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / cost of living",
+      "testable": true,
+      "position": "Ease zoning to build more housing; curb grocery price gouging",
+      "position_source": "https://www.coasttv.com/news/congresswoman-lisa-blunt-rochester-unveils-her-plan-to-grow-the-middle-class/article_b88eb890-5597-11ef-9bd5-affc29c70169.html",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2026-06-22",
+          "bill": "H.R.6644",
+          "bill_title": "21st Century ROAD to Housing Act",
+          "question": "Motion to concur in House amendment with an amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Housing act includes zoning and planning grants; no floor vote on price gouging."
+    },
+    {
+      "rank": 2,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Codify Roe v. Wade; protect IVF access",
+      "position_source": "https://lisabluntrochester.com/delivering-for-delaware-congresswoman-lisa-blunt-rochester-talks-race-for-u-s-senate-campaign-platform-with-delaware-public-media/",
+      "votes": [],
+      "note": "No Senate floor vote on restoring abortion rights or IVF this term."
+    },
+    {
+      "rank": 3,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Comprehensive reform: citizenship path plus border agents and technology",
+      "position_source": "https://lisabluntrochester.com/?p=11205",
+      "votes": [],
+      "note": "No floor vote on comprehensive reform; enforcement-only votes not counted."
+    },
+    {
+      "rank": 4,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Enshrine federal voting rights protections; pass John Lewis bill",
+      "position_source": "https://www.democracydocket.com/analysis/senate-candidate-lisa-blunt-rochester-on-increasing-ballot-access-and-working-with-john-lewis-on-voting-rights/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Rated on votes against new voting requirements; the John Lewis bill got no floor vote."
+    },
+    {
+      "rank": 5,
+      "issue": "National security",
+      "testable": false,
+      "position": "No specific campaign position found; veterans page covers VA only",
+      "position_source": "https://lisabluntrochester.com/?p=11197",
+      "votes": []
+    },
+    {
+      "rank": 6,
+      "issue": "Supreme Court",
+      "testable": false,
+      "position": "No specific position found; said courts are essential to democracy",
+      "position_source": "https://lisabluntrochester.com/delivering-for-delaware-congresswoman-lisa-blunt-rochester-talks-race-for-u-s-senate-campaign-platform-with-delaware-public-media/",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Education",
+      "testable": true,
+      "position": "Build on student loan forgiveness; fund vocational education",
+      "position_source": "https://www.coasttv.com/news/congresswoman-lisa-blunt-rochester-unveils-her-plan-to-grow-the-middle-class/article_b88eb890-5597-11ef-9bd5-affc29c70169.html",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 replaced income-driven repayment plans and narrowed loan relief."
+    },
+    {
+      "rank": 8,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Protect the ACA; oppose privatizing Medicare and Medicaid",
+      "position_source": "https://lisabluntrochester.com/?p=11200",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut Medicaid; S.3385 would have extended ACA tax credits."
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Assault weapons ban; universal background checks",
+      "position_source": "https://lisabluntrochester.com/issue/gun-violence-prevention/",
+      "votes": [],
+      "note": "No recorded Senate floor vote on either this term found."
+    },
+    {
+      "rank": 10,
+      "issue": "Taxes",
+      "testable": false,
+      "position": "No specific tax position; criticized gains going to wealthy and corporations",
+      "position_source": "https://lisabluntrochester.com/issue/economy/",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranks 4–10 use national Gallup data; the Delaware poll released only three issue items.",
+    "Campaign issue pages are undated (last modified April 2024); treated as 2024 campaign positions.",
+    "S.3385 Yea inferred from her floor push for a clean extension; not confirmed on a roll-call list.",
+    "Immigration: H.R.1's enforcement funding not scored against her paired reform-plus-border position; a stricter reading would mark it Contradicted."
+  ],
+  "researched": "2026-11-04"
+}

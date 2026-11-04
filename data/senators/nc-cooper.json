@@ -1,0 +1,84 @@
+{
+  "id": "nc-cooper",
+  "name": "Roy Cooper",
+  "state": "NC",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "issue_poll": {
+    "name": "WSOC/WRAL/SurveyUSA, Oct 2026",
+    "url": "https://www.wsoctv.com/news/local/economy-health-care-top-mind-2026-voters-wsocwral-poll/BG4F5W57ARA23K4OJTW43YVQVM/"
+  },
+  "issues": [],
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "WSOC/WRAL/SurveyUSA, Oct 2026",
+      "url": "https://www.wsoctv.com/news/local/economy-health-care-top-mind-2026-voters-wsocwral-poll/BG4F5W57ARA23K4OJTW43YVQVM/"
+    },
+    "issues": [
+      {
+        "rank": 1,
+        "issue": "Economy",
+        "rating": "Concrete",
+        "detail": "Ban grocery and rent pricing algorithms, ban utility shutoffs in extreme weather, end tariffs on lumber, steel, aluminum",
+        "source": "https://roycooper.com/costless/groceries/"
+      },
+      {
+        "rank": 2,
+        "issue": "Health care",
+        "rating": "Concrete",
+        "detail": "Reinstate ACA credits, reverse Medicaid cuts, cap out-of-network charges, automatic charity-care enrollment",
+        "source": "https://roycooper.com/costless/health-care/"
+      },
+      {
+        "rank": 3,
+        "issue": "Crime / public safety",
+        "rating": "Vague",
+        "detail": "Points to his record; no Senate proposal",
+        "source": "https://roycooper.com/new-tv-ad-roy-cooper-releases-new-tv-ad-highlighting-his-work-to-keep-north-carolina-families-safe/"
+      },
+      {
+        "rank": 4,
+        "issue": "National security",
+        "rating": "Partial",
+        "detail": "End the Iran war, Congress reclaims war powers; no mechanism",
+        "source": "https://www.wsoctv.com/news/local/political-beat-candidate-guide-united-states-senate/VAZSJQCVN5EVHERQ6CG5CNJL5Q/"
+      },
+      {
+        "rank": 5,
+        "issue": "Defending democracy",
+        "rating": "Concrete",
+        "detail": "Ban stock trading by Congress and executive branch; personal no-lobbying pledge (ethics, not voting)",
+        "source": "https://www.wfae.org/politics/2025-12-17/cooper-backs-ban-on-stock-trading-by-members-of-congress-president"
+      },
+      {
+        "rank": 6,
+        "issue": "Education",
+        "rating": "Vague",
+        "detail": "General pledge to fight for educators",
+        "source": "https://ncae.org/about-ncae/media-center/press-releases/ncae-nea-endorse-roy-cooper-us-senate"
+      },
+      {
+        "rank": 7,
+        "issue": "Mental health / addiction",
+        "rating": "None",
+        "detail": "No position found",
+        "source": "https://roycooper.com/costless/health-care/"
+      },
+      {
+        "rank": 8,
+        "issue": "Environment",
+        "rating": "Vague",
+        "detail": "Energy page is about costs; no environmental item",
+        "source": "https://roycooper.com/costless/energy/"
+      }
+    ]
+  },
+  "caveats": [
+    "Plan scored from campaign releases and press coverage; delivery grading starts when the term begins and needs each issue's position confirmed as testable."
+  ],
+  "researched": "2026-11-04"
+}

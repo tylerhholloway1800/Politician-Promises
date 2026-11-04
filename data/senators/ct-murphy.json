@@ -1,0 +1,150 @@
+{
+  "id": "ct-murphy",
+  "name": "Chris Murphy",
+  "state": "CT",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Emerson College/WTNH Connecticut 5th District poll, Oct 9–11, 2024",
+    "url": "https://emersoncollegepolling.com/october-2024-connecticut-5th-district-poll/",
+    "note": "No statewide ranked poll found. Ranks from Emerson's CT-5 most-important-issue question; Social Security/Medicare added from the statewide CT Mirror/MassINC poll (Sept 12–18, 2024), where about half cited it, near housing's 46%."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Oppose tax cuts for millionaires and billionaires",
+      "position_source": "https://www.wfsb.com/2024/10/30/sen-chris-murphy-republican-challenger-matt-corey-face-off-final-debate-before-election",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 extended top-bracket tax cuts; it also raised the child tax credit he backed."
+    },
+    {
+      "rank": 2,
+      "issue": "Housing costs",
+      "testable": true,
+      "position": "Cap rent increases; crack down on corporate landlords",
+      "position_source": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-statement-on-biden-proposal-to-lower-housing-costs-for-millions-of-americans",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 53,
+          "date": "2026-03-12",
+          "bill": "H.R.6644",
+          "bill_title": "21st Century ROAD to Housing Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Bill limits large investors buying single-family homes; no rent-cap vote held."
+    },
+    {
+      "rank": 3,
+      "issue": "Social Security / Medicare",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://ctmirror.org/2024/10/29/ct-senate-chris-murphy-matt-corey-rematch/",
+      "votes": []
+    },
+    {
+      "rank": 4,
+      "issue": "Democracy / elections",
+      "testable": false,
+      "position": "Work to thwart Trump's agenda; no policy named",
+      "position_source": "https://ctmirror.org/2024/10/29/ct-senate-chris-murphy-matt-corey-rematch/",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pass the bipartisan border bill with $40B for border security",
+      "position_source": "https://www.wshu.org/connecticut-news/2024-10-31/ct-senate-debate-economy-abortion-transgender-athletes",
+      "votes": [],
+      "note": "The bipartisan border bill did not get a floor vote this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Health care",
+      "testable": false,
+      "position": "Lower medicine prices; no specific measure named",
+      "position_source": "https://fox61.com/article/news/politics/elections/murphy-corey-discuss-variety-of-issues-impacting-ct-voters-at-us-senate-debate/520-26d367de-cbfc-45ba-bb27-a0b937bf94e7",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Crime / public safety",
+      "testable": true,
+      "position": "Universal background checks; ban assault weapons",
+      "position_source": "https://www.nbcconnecticut.com/news/politics/democrats-nominate-chris-murphy-third-term/3289007/",
+      "votes": [],
+      "note": "No floor vote on background checks or an assault weapons ban this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Education",
+      "testable": true,
+      "position": "Leave transgender athlete rules to local school boards, not federal law",
+      "position_source": "https://www.wshu.org/connecticut-news/2024-10-31/ct-senate-debate-economy-abortion-transgender-athletes",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-03-03",
+          "bill": "S.9",
+          "bill_title": "Protection of Women and Girls in Sports Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "roll_call": 100
+        }
+      ],
+      "note": "Vote confirmed in Congressional Record: https://www.govinfo.gov/content/pkg/CREC-2025-03-03/html/CREC-2025-03-03-pt1-PgS1455-4.htm"
+    },
+    {
+      "rank": 9,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Restore Roe v. Wade protections nationwide",
+      "position_source": "https://www.wshu.org/connecticut-news/2024-10-31/ct-senate-debate-economy-abortion-transgender-athletes",
+      "votes": [],
+      "note": "No floor vote on restoring federal abortion protections this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "Gaza ceasefire; no direct U.S. involvement in the conflict",
+      "position_source": "https://www.wshu.org/connecticut-news/2024-10-31/ct-senate-debate-economy-abortion-transgender-athletes",
+      "votes": [],
+      "note": "No vote directly tested a Gaza ceasefire; 2026 arms-sale votes not counted."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranking comes from one House district (CT-5) poll, not a statewide poll; the statewide MassINC toplines could not be reached.",
+    "Crime / public safety rated on his gun-law pledge (2024 convention speech); no other crime position found.",
+    "ROAD to Housing Act: Murphy's Yea inferred (only Democratic Nay was Schatz; his release backs the bill); roll call 53 taken from watch.vote's vote id.",
+    "Not counted: H.R.1 border money against his border-bill position (matching the Hassan file), and April 2026 Israel arms-sale votes (S.J.Res.32, S.J.Res.138; he voted to block) against his Gaza ceasefire position, since blocking arms sales does not directly test it."
+  ],
+  "researched": "2026-11-04"
+}

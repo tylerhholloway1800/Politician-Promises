@@ -1,0 +1,84 @@
+{
+  "id": "sc-andrews",
+  "name": "Annie Andrews",
+  "state": "SC",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "issue_poll": {
+    "name": "SC Policy Council/Targoz (Oct 2026) + Emerson, Winthrop, Pew",
+    "url": "https://abcnews4.com/news/local/south-carolina-poll-shows-andrews-and-sen-graham-in-dead-heat-ahead-of-election-day"
+  },
+  "issues": [],
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "SC Policy Council/Targoz (Oct 2026) + Emerson, Winthrop, Pew",
+      "url": "https://abcnews4.com/news/local/south-carolina-poll-shows-andrews-and-sen-graham-in-dead-heat-ahead-of-election-day"
+    },
+    "issues": [
+      {
+        "rank": 1,
+        "issue": "Cost of living / economy",
+        "rating": "Concrete",
+        "detail": "No tax hikes under $500K, keep tip and Social Security exemptions permanent, end named breaks, pause diesel tax: each checkable",
+        "source": "https://drannieandrews.com/annie-andrews-unveils-plan-to-tackle-debt-rein-in-spending-cut-taxes-congressional-perks/"
+      },
+      {
+        "rank": 2,
+        "issue": "Democracy / government",
+        "rating": "Concrete",
+        "detail": "Ban congressional stock trading, end congressional pensions, no pay during shutdowns, ban corporate PAC money",
+        "source": "https://drannieandrews.com/issue/fighting-political-corruption/"
+      },
+      {
+        "rank": 3,
+        "issue": "Health care",
+        "rating": "Concrete",
+        "detail": "$35/month insulin cap, wider Medicare negotiation, reverse Medicaid cuts",
+        "source": "https://drannieandrews.com/news-andrews-unveils-plan-to-lower-healthcare-costs-fix-south-carolinas-broken-healthcare-system/"
+      },
+      {
+        "rank": 4,
+        "issue": "Immigration",
+        "rating": "Vague",
+        "detail": "Four goals (border security, citizenship path, due process, workforce) with no mechanism",
+        "source": "https://drannieandrews.com/issue/immigration-security-with-dignity/"
+      },
+      {
+        "rank": 5,
+        "issue": "Education",
+        "rating": "Vague",
+        "detail": "Fully fund schools and raise teacher pay; no amounts",
+        "source": "https://drannieandrews.com/issue/strong-schools-affordable-child-care/"
+      },
+      {
+        "rank": 6,
+        "issue": "Foreign policy",
+        "rating": "Vague",
+        "detail": "End endless wars, prioritize diplomacy; direction only",
+        "source": "https://drannieandrews.com/issue/no-more-endless-wars/"
+      },
+      {
+        "rank": 7,
+        "issue": "Energy",
+        "rating": "Concrete",
+        "detail": "2-year moratorium on new data centers, diesel tax pause, temporary diesel export ban",
+        "source": "https://www.live5news.com/2026/09/28/senate-candidate-dr-annie-andrews-calls-moratorium-data-centers/"
+      },
+      {
+        "rank": 8,
+        "issue": "Violent crime",
+        "rating": "Concrete",
+        "detail": "Universal background checks, safe-storage law, violence-prevention funding (gun measures only)",
+        "source": "https://drannieandrews.com/issue/an-end-to-gun-violence/"
+      }
+    ]
+  },
+  "caveats": [
+    "Plan scored from campaign releases and press coverage; delivery grading starts when the term begins and needs each issue's position confirmed as testable."
+  ],
+  "researched": "2026-11-04"
+}

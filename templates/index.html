@@ -1,0 +1,120 @@
+{% extends "base.html" %}
+{% block body %}
+<section class="hero">
+  <h1>Did they vote the way they promised?</h1>
+  <p class="lede">Each senator is graded on the top issues in their state when they ran, against their own campaign positions, using floor votes only.</p>
+</section>
+
+{% if changes %}
+<section aria-labelledby="recent">
+  <div class="sec-head"><h2 id="recent">Recent grade moves</h2><a href="moves.html">All moves</a></div>
+  <ul class="moves">
+    {% for c in changes %}
+    <li>
+      <a href="s/{{ c.senator }}.html" class="mv-name">{{ c.name }} <span class="muted">{{ c.label }}</span></a>
+      <span class="mv-grade">{{ c.from_grade }} → {{ c.to_grade }}</span>
+      <span class="mono muted">{{ c.from_pct | pct }} → {{ c.to_pct | pct }}</span>
+      <span class="muted">{{ c.vote }} on {% if c.bill_url %}<a href="{{ c.bill_url }}">{{ c.bill }}</a>{% else %}{{ c.bill or c.question }}{% endif %} · {{ c.date_fmt }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<section aria-labelledby="sen">
+  <div class="sec-head"><h2 id="sen">Senators</h2><span class="muted">{{ graded | length }} graded</span></div>
+  <div class="filters">
+    <label for="q">Search</label>
+    <input id="q" type="search" placeholder="Name or state" autocomplete="off">
+    <label for="party">Party</label>
+    <select id="party"><option value="">All</option><option value="D">Democrat</option><option value="R">Republican</option><option value="I">Independent</option></select>
+  </div>
+  <div class="table-box">
+    <table class="list" id="list">
+      <thead><tr>
+        <th><button type="button" data-sort="state">State</button></th>
+        <th><button type="button" data-sort="name">Senator</button></th>
+        <th>Party</th>
+        <th class="n"><button type="button" data-sort="elected">Elected</button></th>
+        <th class="n"><button type="button" data-sort="pct">Delivery</button></th>
+        <th>Grade</th>
+        <th class="n">Graded issues</th>
+      </tr></thead>
+      <tbody>
+      {% for s in graded %}
+        <tr data-name="{{ s.name | lower }} {{ s.state_name | lower }} {{ s.state | lower }}" data-party="{{ s.party }}" data-state="{{ s.state }}" data-elected="{{ s.elected }}" data-pct="{{ s.delivery.pct if s.delivery.pct is not none else -1 }}">
+          <td>{{ s.state }}</td>
+          <td><a href="s/{{ s.id }}.html">{{ s.name }}</a></td>
+          <td>{{ s.party }}</td>
+          <td class="n">{{ s.elected }}</td>
+          <td class="n mono">{{ s.delivery.pct | pct }}</td>
+          <td><span class="grade g-{{ s.delivery.grade }}">{{ s.delivery.grade }}</span></td>
+          <td class="n">{{ s.delivery.graded }} of {{ s.issues | length }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+{% if pending %}
+<section aria-labelledby="prog">
+  <div class="sec-head"><h2 id="prog">Research in progress</h2><span class="muted">Graded once every issue is researched and every vote is checked against senate.gov</span></div>
+  <p class="inprog">{% for s in pending %}<a href="s/{{ s.id }}.html">{{ s.name }}</a> <span class="muted">{{ s.party }}-{{ s.state }}</span>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+</section>
+{% endif %}
+
+{% if elect %}
+<section aria-labelledby="new">
+  <div class="sec-head"><h2 id="new">Newly elected: locked plans</h2><span class="muted">Graded on votes once their term starts</span></div>
+  <div class="table-box">
+    <table class="list">
+      <thead><tr><th>State</th><th>Senator-elect</th><th>Party</th><th class="n">Concrete plans</th><th class="n">Plan score</th></tr></thead>
+      <tbody>
+      {% for s in elect %}
+        <tr>
+          <td>{{ s.state }}</td>
+          <td><a href="s/{{ s.id }}.html">{{ s.name }}</a></td>
+          <td>{{ s.party }}</td>
+          <td class="n">{{ s.plan_score.counts.Concrete }} of {{ s.plan_score.total }}</td>
+          <td class="n mono">{{ s.plan_score.pct | pct }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endif %}
+
+<script>
+(function () {
+  var q = document.getElementById('q'), p = document.getElementById('party');
+  var body = document.querySelector('#list tbody');
+  if (!body) return;
+  function filter() {
+    var t = q.value.trim().toLowerCase(), pv = p.value;
+    body.querySelectorAll('tr').forEach(function (tr) {
+      var ok = (!t || tr.dataset.name.indexOf(t) >= 0) && (!pv || tr.dataset.party === pv);
+      tr.hidden = !ok;
+    });
+  }
+  q.addEventListener('input', filter); p.addEventListener('change', filter);
+  var dir = {};
+  document.querySelectorAll('#list th button').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var k = b.dataset.sort; dir[k] = !dir[k];
+      var rows = Array.prototype.slice.call(body.rows);
+      rows.sort(function (a, c) {
+        var x = a.dataset[k], y = c.dataset[k];
+        var nx = parseFloat(x), ny = parseFloat(y);
+        var r = (!isNaN(nx) && !isNaN(ny)) ? nx - ny : x.localeCompare(y);
+        return dir[k] ? r : -r;
+      });
+      rows.forEach(function (r) { body.appendChild(r); });
+      document.querySelectorAll('#list th').forEach(function (th) { th.removeAttribute('aria-sort'); });
+      b.parentNode.setAttribute('aria-sort', dir[k] ? 'ascending' : 'descending');
+    });
+  });
+})();
+</script>
+{% endblock %}

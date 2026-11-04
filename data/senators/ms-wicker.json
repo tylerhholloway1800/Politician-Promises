@@ -1,0 +1,186 @@
+{
+  "id": "ms-wicker",
+  "name": "Roger Wicker",
+  "state": "MS",
+  "party": "R",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Cygnal Mississippi likely-voter survey, Aug 26–27, 2024; Gallup national issue-importance poll, Sept 16–28, 2024",
+    "url": "https://mississippitoday.org/2024/10/16/mississippi-poll-tax-cuts-medicaid-expansion-grocery-income-jason-white-legislature/",
+    "note": "Ranks 1–4 from the Cygnal MS poll (economy, tax policy, health care, crime, in reported order; only partial shares published). Ranks 5–10 fill from Gallup national 'extremely important' shares (https://news.gallup.com/file/poll/651749/2024_10_09_Vote%20Issues%20Topline%20and%20Tabs.pdf). State-only items (ballot initiative) skipped."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": false,
+      "position": "Said prices and taxes were lower under Trump; no specific plan",
+      "position_source": "https://www.wdam.com/2024/11/02/senate-candidates-wicker-pinkins-make-final-appeals-voters/",
+      "votes": []
+    },
+    {
+      "rank": 2,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Renew expiring 2017 tax cuts",
+      "position_source": "https://www.wicker.senate.gov/2024/11/wicker-previews-republican-priorities",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 made the 2017 individual tax cuts permanent."
+    },
+    {
+      "rank": 3,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Block HHS nursing home staffing rule; make telehealth permanent",
+      "position_source": "https://www.wicker.senate.gov/2024/6/wicker-promotes-rural-health-care",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (staffing rule delayed 10 years)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Telehealth got only short-term extensions in spending bills, not a permanent-law vote."
+    },
+    {
+      "rank": 4,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "No specific forward position found; fentanyl sanctions law already enacted",
+      "position_source": "https://www.publicnow.com/view/09CFF77FA5B8BB23A9F37E1FA2EB4345E0D0CC2F",
+      "votes": [],
+      "note": "FEND Off Fentanyl Act (his bill) became law in April 2024: past record, not a promise."
+    },
+    {
+      "rank": 5,
+      "issue": "Elections / democracy",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://www.mississippifreepress.org/meet-the-candidates-for-u-s-senate-in-mississippis-nov-5-elections/",
+      "votes": [],
+      "note": "Not a cosponsor of the 2024 SAVE Act (S.4292)."
+    },
+    {
+      "rank": 6,
+      "issue": "National security",
+      "testable": true,
+      "position": "Raise defense spending toward 5% of GDP",
+      "position_source": "https://www.wicker.senate.gov/2024/5/senator-wicker-unveils-major-defense-investment-plan",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-10-09",
+          "bill": "S.2296",
+          "bill_title": "National Defense Authorization Act for FY2026",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 added about $150B for defense; NDAA passed 77-20 (https://www.dailypress.senate.gov/thursday-october-9-2025/)."
+    },
+    {
+      "rank": 7,
+      "issue": "Supreme Court / judges",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://www.wicker.senate.gov/2024/11/wicker-previews-republican-priorities",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Build border wall; pass the Laken Riley Act",
+      "position_source": "https://www.mississippifreepress.org/meet-the-candidates-for-u-s-senate-in-mississippis-march-12-primaries/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-01-20",
+          "bill": "S.5",
+          "bill_title": "Laken Riley Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (border wall funding)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Laken Riley cosponsorship: https://www.wicker.senate.gov/2024/3/senator-wicker-cosponsors-laken-riley-act-in-u-s-senate"
+    },
+    {
+      "rank": 9,
+      "issue": "Education",
+      "testable": false,
+      "position": "Backed School Choice Week resolution; no specific policy",
+      "position_source": "https://www.wicker.senate.gov/?p=6850",
+      "votes": [],
+      "note": "Joined Educational Choice for Children Act in Feb 2025, after the campaign."
+    },
+    {
+      "rank": 10,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose new gun control laws",
+      "position_source": "https://www.mississippifreepress.org/meet-the-candidates-for-u-s-senate-in-mississippis-march-12-primaries/",
+      "votes": [],
+      "note": "No Senate floor vote on gun restrictions found this term."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "No Mississippi poll with a full ranked issue list was found; the top 10 combines a partial Cygnal state poll with national Gallup data.",
+    "Tax position comes from an official Senate statement dated Nov 12, 2024, one week after Election Day; his campaign closing message only cited lower taxes under Trump.",
+    "Roll call numbers not confirmed for Laken Riley Act passage (S.5, Jan 20, 2025) or NDAA passage (S.2296, Oct 9, 2025); his Yea votes inferred from his office's release and from his role as NDAA sponsor.",
+    "H.R.1 is counted for four issues (taxes, health care, national security, immigration), each for a separate provision."
+  ],
+  "researched": "2026-11-04"
+}

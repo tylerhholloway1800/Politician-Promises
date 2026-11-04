@@ -1,0 +1,174 @@
+{
+  "id": "me-king",
+  "name": "Angus King",
+  "state": "ME",
+  "party": "I",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Digital Research, Critical Insights on Maine, Fall 2024 (registered voters, Sept 10 - Oct 7, 2024, n=604)",
+    "url": "https://www.digitalresearch.com/wp-content/uploads/2024/10/Critical-Insights-on-Maine-Public-Report-of-Findings-Fall-2024.pdf",
+    "note": "Open-ended most important issue facing Maine; items ranked as listed (housing 17%, economy 14%, cost of living 10%, environment 9%, inflation 8%, immigration 6%, homelessness 6%, drugs 5%, taxes 4%, jobs 4%)."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Housing",
+      "testable": true,
+      "position": "Pass housing-supply bills incl. Rural Housing Service Reform Act",
+      "position_source": "https://preblestreet.org/wp-content/uploads/2024/10/US-Senate.pdf",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2026-06-22",
+          "bill": "H.R.6644",
+          "bill_title": "21st Century ROAD to Housing Act",
+          "question": "On the motion to concur in the House amendment with an amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Package included the Rural Housing Service Reform Act he backed (watch.vote)."
+    },
+    {
+      "rank": 2,
+      "issue": "Economy",
+      "testable": false,
+      "position": "Help businesses hire and workers get child care",
+      "position_source": "https://www.ballotready.org/people/angus-king",
+      "votes": []
+    },
+    {
+      "rank": 3,
+      "issue": "Cost of living",
+      "testable": true,
+      "position": "Restore the expanded pandemic-era child tax credit",
+      "position_source": "https://mainemorningstar.com/?p=5505",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 354,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (Bennet motion to commit, child tax credit)",
+          "question": "On the motion to commit with instructions",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Motion subject per Senate Democrats' floor log; vote per watch.vote."
+    },
+    {
+      "rank": 4,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "Keep the Inflation Reduction Act; expand clean energy",
+      "position_source": "https://sites.google.com/view/bowdoinmainevoterguide/u-s-senate-candidates/angus-king",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 366,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "Shaheen amendment to keep clean energy credits",
+          "question": "On the amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 repealed or phased out many IRA clean-energy credits."
+    },
+    {
+      "rank": 5,
+      "issue": "Inflation",
+      "testable": false,
+      "position": "Said prices still hurt despite cooling inflation; no specific policy",
+      "position_source": "https://mainemorningstar.com/?p=5608",
+      "votes": []
+    },
+    {
+      "rank": 6,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pass the 2024 bipartisan border security and immigration bill",
+      "position_source": "https://www.mainepublic.org/politics/2024-05-29/sen-angus-king-officially-launches-bid-for-third-term",
+      "votes": [],
+      "note": "The bipartisan border bill was not brought to a floor vote this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Homelessness",
+      "testable": true,
+      "position": "More funding and flexibility for housing vouchers",
+      "position_source": "https://preblestreet.org/wp-content/uploads/2024/10/US-Senate.pdf",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 20,
+          "date": "2026-01-30",
+          "bill": "H.R.7148",
+          "bill_title": "Consolidated Appropriations Act, 2026",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Package raised voucher funding by $2.3B over FY25 (Enterprise Community Partners)."
+    },
+    {
+      "rank": 8,
+      "issue": "Drugs / opioids",
+      "testable": true,
+      "position": "Pass the Budgeting for Opioid Addiction Treatment Act",
+      "position_source": "https://preblestreet.org/wp-content/uploads/2024/10/US-Senate.pdf",
+      "votes": [],
+      "note": "No Senate floor vote on the bill this term."
+    },
+    {
+      "rank": 9,
+      "issue": "Taxes",
+      "testable": false,
+      "position": "High earners should pay a larger share; no specific plan",
+      "position_source": "https://mainemorningstar.com/?p=5505",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Jobs / workforce",
+      "testable": false,
+      "position": "Keep working on workforce shortages",
+      "position_source": "https://www.mainepublic.org/politics/2024-05-29/sen-angus-king-officially-launches-bid-for-third-term",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Votes taken from watch.vote and the Congressional Record digest; senate.gov was not reachable to cross-check.",
+    "Poll issue percentages were read from a chart via text extraction; ordering matches the report's narrative but exact figures may be off by a point.",
+    "Homelessness rated on the FY26 omnibus, a broad spending bill; the voucher increase is one of many provisions.",
+    "Health care (3%) and energy cost (3%) fell just outside the top 10."
+  ],
+  "researched": "2026-11-04"
+}

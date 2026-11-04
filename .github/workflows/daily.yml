@@ -1,0 +1,84 @@
+name: Update votes and publish
+
+on:
+  schedule:
+    - cron: "17 12 * * *"   # ~8am Eastern
+    - cron: "47 2 * * *"    # ~10pm Eastern, after most votes
+  workflow_dispatch: {}
+  issues:
+    types: [labeled]
+  push:
+    branches: [main]
+    paths: ["data/**", "templates/**", "static/**", "scripts/build.py", "scripts/scoring.py"]
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.event_name != 'issues' || github.event.label.name == 'approve'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+
+      - name: Check recorded votes against senate.gov
+        if: github.event_name != 'issues'
+        run: python scripts/verify_votes.py
+
+      - name: Apply approved reviews
+        if: github.event_name != 'push'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python scripts/apply_reviews.py
+
+      - name: Pull new Senate votes
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          POST_LETTER_CHANGES_ONLY: ${{ vars.POST_LETTER_CHANGES_ONLY }}
+        run: python scripts/update_votes.py
+
+      - name: Save data changes
+        run: |
+          git config user.name "promise-ledger-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Update votes $(date -u +%F)" && git push)
+
+      - name: Build site
+        run: python scripts/build.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

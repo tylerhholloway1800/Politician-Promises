@@ -1,0 +1,84 @@
+{
+  "id": "mi-el-sayed",
+  "name": "Abdul El-Sayed",
+  "state": "MI",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "issue_poll": {
+    "name": "WDIV/Detroit News (Glengariff), Oct 2026",
+    "url": "https://www.clickondetroit.com/news/local/2026/10/28/poll-8-issues-michigan-voters-care-most-about-and-which-party-they-trust-to-fix-them/"
+  },
+  "issues": [],
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "WDIV/Detroit News (Glengariff), Oct 2026",
+      "url": "https://www.clickondetroit.com/news/local/2026/10/28/poll-8-issues-michigan-voters-care-most-about-and-which-party-they-trust-to-fix-them/"
+    },
+    "issues": [
+      {
+        "rank": 1,
+        "issue": "Economy",
+        "rating": "Concrete",
+        "detail": "5% billionaire wealth tax; eight specific conditions on data centers",
+        "source": "https://abdulforsenate.com/calculator/"
+      },
+      {
+        "rank": 2,
+        "issue": "Civil rights",
+        "rating": "Vague",
+        "detail": "Protect civil rights; main pledges not tied to a mechanism",
+        "source": "https://www.easternecho.com/article/2026/08/meet-the-candidates-running-for-us-senate-in-michigan"
+      },
+      {
+        "rank": 3,
+        "issue": "Immigration",
+        "rating": "Concrete",
+        "detail": "Abolish ICE (checkable end state); no replacement named",
+        "source": "https://abdulforsenate.com/2026/01/abdul-el-sayed-is-calling-to-abolish-ice-his-opponents-wont/"
+      },
+      {
+        "rank": 4,
+        "issue": "Health care access",
+        "rating": "Concrete",
+        "detail": "Single-payer Medicare for All with universal coverage",
+        "source": "https://bridgemi.com/michigan-politics/fact-check-would-abdul-el-sayed-raise-taxes-to-pay-for-medicare-for-all/"
+      },
+      {
+        "rank": 5,
+        "issue": "Foreign policy",
+        "rating": "Concrete",
+        "detail": "End U.S. military aid to Israel; oppose Iran war",
+        "source": "https://aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers"
+      },
+      {
+        "rank": 6,
+        "issue": "Education",
+        "rating": "Concrete",
+        "detail": "Match any defense budget increase with a proportional education increase",
+        "source": "https://www.michiganpublic.org/politics-government/2026-09-10/republican-and-democratic-u-s-senate-candidates-laying-out-education-plans"
+      },
+      {
+        "rank": 7,
+        "issue": "Cost of living",
+        "rating": "Concrete",
+        "detail": "Seniors plan: no Medicare cost-sharing, negotiate all drug prices, lift payroll-tax cap",
+        "source": "https://www.newsfromthestates.com/article/us-senate-candidate-el-sayed-drafts-affordability-plan-michigan-seniors"
+      },
+      {
+        "rank": 8,
+        "issue": "Voting rights",
+        "rating": "Concrete",
+        "detail": "Automatic registration at 18, Election Day holiday, no-excuse absentee voting",
+        "source": "https://www.easternecho.com/article/2026/08/meet-the-candidates-running-for-us-senate-in-michigan"
+      }
+    ]
+  },
+  "caveats": [
+    "Plan scored from campaign releases and press coverage; delivery grading starts when the term begins and needs each issue's position confirmed as testable."
+  ],
+  "researched": "2026-11-04"
+}

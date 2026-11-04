@@ -1,0 +1,84 @@
+{
+  "id": "nh-pappas",
+  "name": "Chris Pappas",
+  "state": "NH",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "issue_poll": {
+    "name": "Saint Anselm (Jun 2026) + UNH (Feb 2026)",
+    "url": "https://www.anselm.edu/sites/default/files/2026-06/June%2024-25%202026%20Poll.pdf"
+  },
+  "issues": [],
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Saint Anselm (Jun 2026) + UNH (Feb 2026)",
+      "url": "https://www.anselm.edu/sites/default/files/2026-06/June%2024-25%202026%20Poll.pdf"
+    },
+    "issues": [
+      {
+        "rank": 1,
+        "issue": "Elections and democracy",
+        "rating": "Concrete",
+        "detail": "DISCLOSE Act, overturn Citizens United, stock-trading ban, ethics office in law, judicial term limits",
+        "source": "https://chrispappas.org/priority/anti-corruption-agenda/"
+      },
+      {
+        "rank": 2,
+        "issue": "Housing",
+        "rating": "Partial",
+        "detail": "Cut zoning and permitting barriers, first-time buyer tax cuts; no amounts or named program",
+        "source": "https://chrispappas.org/priority/housing/"
+      },
+      {
+        "rank": 3,
+        "issue": "Economy and cost of living",
+        "rating": "Concrete",
+        "detail": "Add $1B to LIHEAP heating aid, suspend federal gas tax, exempt groceries from tariffs",
+        "source": "https://www.nhpr.org/2026-10-09/chris-pappas-nh-newhampshire-senate-2026-midterms-housing-affordability-ai-election"
+      },
+      {
+        "rank": 4,
+        "issue": "Taxes and spending",
+        "rating": "Concrete",
+        "detail": "Make no tax on tips and expanded Child Tax Credit permanent; no hikes under $400K; $1M+ earners pay more into Social Security",
+        "source": "https://www.citizenscount.org/candidate/christopher-pappas/running/2026-primary-us-senate"
+      },
+      {
+        "rank": 5,
+        "issue": "Immigration",
+        "rating": "Concrete",
+        "detail": "Move $75B of ICE money to local police; ICE body cameras and ID; fund 22,000 Border Patrol agents",
+        "source": "https://chrispappas.org/priority/immigration/"
+      },
+      {
+        "rank": 6,
+        "issue": "Health care",
+        "rating": "Concrete",
+        "detail": "Restore expired ACA premium credits; prescription-access bill",
+        "source": "https://chrispappas.org/priority/health-care/"
+      },
+      {
+        "rank": 7,
+        "issue": "Foreign policy / security",
+        "rating": "Partial",
+        "detail": "Oppose Iran war, aid Ukraine and Israel, sanctions on Russia; nothing checkable",
+        "source": "https://chrispappas.org/priority/foreign-policy/"
+      },
+      {
+        "rank": 8,
+        "issue": "Education",
+        "rating": "Partial",
+        "detail": "Expand Pell and community college, debt relief for high-demand fields; no amounts or bills",
+        "source": "https://chrispappas.org/priority/education/"
+      }
+    ]
+  },
+  "caveats": [
+    "Plan scored from campaign releases and press coverage; delivery grading starts when the term begins and needs each issue's position confirmed as testable."
+  ],
+  "researched": "2026-11-04"
+}

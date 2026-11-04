@@ -1,0 +1,139 @@
+{% extends "base.html" %}
+{% block title %}Sen. {{ s.name }} ({{ s.party }}-{{ s.state }}) · {{ site }}{% endblock %}
+{% block desc %}{{ s.name }}: campaign promises vs. Senate votes.{% endblock %}
+{% block body %}
+<nav aria-label="Breadcrumb" class="crumb"><a href="../index.html">Senators</a> / {{ s.state_name }} / {{ s.name }}</nav>
+
+<section class="profile">
+  <div class="who">
+    <p class="eyebrow">{{ s.party_name }} · {{ s.state_name }}</p>
+    <h1>{% if s.delivery %}Sen. {% endif %}{{ s.name }}</h1>
+    <dl class="facts">
+      <div><dt>Term</dt><dd>{{ s.term_start[:4] }}–{{ s.term_end[:4] }}</dd></div>
+      <div><dt>Promises locked</dt><dd>{{ s.elected }} election</dd></div>
+      <div><dt>Issue list</dt><dd>{% if s.issue_poll.url %}<a href="{{ s.issue_poll.url }}">{{ s.issue_poll.name }}</a>{% else %}{{ s.issue_poll.name }}{% endif %}</dd></div>
+    </dl>
+  </div>
+
+  {% if s.delivery %}
+  <div class="card gradebox">
+    <p class="label">Delivery grade</p>
+    <div class="big">
+      <span class="letter g-{{ s.delivery.grade }}">{{ s.delivery.grade }}</span>
+      <span class="stack"><span class="mono pctbig">{{ s.delivery.pct | pct }}</span><span class="muted small">{{ '%g' % s.delivery.points }} / {{ s.delivery.denominator }} graded issues</span></span>
+    </div>
+    {% if changes %}{% set c = changes[0] %}
+    <p class="lastmove">{{ c.from_grade }} → {{ c.to_grade }} · {{ c.date_fmt }}{% if c.rc_url %} · <a href="{{ c.rc_url }}">RC {{ c.roll_call }}</a>{% endif %}</p>
+    {% endif %}
+  </div>
+  {% elif s.issues %}
+  <div class="card gradebox">
+    <p class="label">Delivery grade</p>
+    <p class="big"><span class="letter muted">—</span></p>
+    <p class="lastmove">Research in progress: {{ s.pending | join('; ') }}.</p>
+  </div>
+  {% elif s.plan_score %}
+  <div class="card gradebox">
+    <p class="label">Locked plan</p>
+    <div class="big">
+      <span class="letter">{{ s.plan_score.counts.Concrete }}<span class="of">/{{ s.plan_score.total }}</span></span>
+      <span class="stack"><span class="mono pctbig">{{ s.plan_score.pct | pct }}</span><span class="muted small">top issues with a concrete plan</span></span>
+    </div>
+    <p class="lastmove">Vote grading starts {{ s.term_start | fdate }}</p>
+  </div>
+  {% endif %}
+</section>
+
+{% if s.delivery %}
+{% set k = s.delivery.counts %}
+<section aria-labelledby="res">
+  <h2 id="res">Results</h2>
+  <div class="bar" role="img" aria-label="{{ k['Delivered'] }} delivered, {{ k['Mixed'] }} mixed, {{ k['Contradicted'] }} contradicted, {{ k['Not testable'] }} not testable, {{ k['No vote held'] }} with no vote held">
+    {% for key, cls in [('Delivered','r-del'),('Mixed','r-mix'),('Contradicted','r-con'),('Not testable','r-nt'),('No vote held','r-nv')] %}{% if k[key] %}<div class="{{ cls }}" style="flex: {{ k[key] }}"></div>{% endif %}{% endfor %}
+  </div>
+  <div class="legend">
+    <span><i class="r-del"></i>Delivered {{ k['Delivered'] }}</span>
+    <span><i class="r-mix"></i>Mixed {{ k['Mixed'] }}</span>
+    <span><i class="r-con"></i>Contradicted {{ k['Contradicted'] }}</span>
+    <span><i class="r-nt"></i>Not testable {{ k['Not testable'] }}</span>
+    <span><i class="r-nv"></i>No vote {{ k['No vote held'] }}</span>
+  </div>
+</section>
+
+<section aria-labelledby="prom">
+  <h2 id="prom">Promises</h2>
+  <div class="table-box">
+    <table class="detail">
+      <thead><tr><th class="n">#</th><th>Issue</th><th>{{ s.elected }} position</th><th>Result</th><th>Bill</th><th>Vote</th></tr></thead>
+      <tbody>
+      {% for i in s.issues %}
+        {% set vs = i.votes or [] %}
+        {% set n = (vs | length) if vs else 1 %}
+        <tr class="first">
+          <td class="n mono muted" rowspan="{{ n }}">{{ i.rank }}</td>
+          <td class="strong" rowspan="{{ n }}">{{ i.issue }}</td>
+          <td rowspan="{{ n }}">{% if i.position_source %}<a class="plain" href="{{ i.position_source }}">{{ i.position }}</a>{% else %}{{ i.position }}{% endif %}{% if i.note %}<span class="note">{{ i.note }}</span>{% endif %}</td>
+          <td rowspan="{{ n }}"><span class="pill p-{{ i.rating | replace(' ', '-') }}">{{ i.rating }}</span></td>
+          {% if vs %}
+            {% set v = vs[0] %}
+            <td>{% if v.bill_url %}<a href="{{ v.bill_url }}">{{ v.bill }}</a> {% else %}{{ v.bill }} {% endif %}<span class="muted">{{ v.bill_title }}</span></td>
+            <td class="mono small">{{ v.vote }}{% if v.consistent is false %} <span class="miss">✕</span>{% endif %} · {% if v.rc_url %}<a href="{{ v.rc_url }}">RC {{ v.roll_call }}</a>{% else %}{{ v.question }}{% endif %} · {{ v.date_fmt }}</td>
+          {% else %}
+            <td colspan="2" class="muted">{% if i.testable %}No floor vote yet{% else %}—{% endif %}</td>
+          {% endif %}
+        </tr>
+        {% for v in vs[1:] %}
+        <tr>
+          <td>{% if v.bill_url %}<a href="{{ v.bill_url }}">{{ v.bill }}</a> {% else %}{{ v.bill }} {% endif %}<span class="muted">{{ v.bill_title }}</span></td>
+          <td class="mono small">{{ v.vote }}{% if v.consistent is false %} <span class="miss">✕</span>{% endif %} · {% if v.rc_url %}<a href="{{ v.rc_url }}">RC {{ v.roll_call }}</a>{% else %}{{ v.question }}{% endif %} · {{ v.date_fmt }}</td>
+        </tr>
+        {% endfor %}
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <p class="muted small">✕ = vote went against the stated position.</p>
+</section>
+{% endif %}
+
+{% if s.plan %}
+<section aria-labelledby="plan">
+  <h2 id="plan">{{ s.plan.year }} plan, locked {{ s.plan.locked | fdate }}</h2>
+  <p class="muted small">Issue list: {% if s.plan.issue_poll.url %}<a href="{{ s.plan.issue_poll.url }}">{{ s.plan.issue_poll.name }}</a>{% else %}{{ s.plan.issue_poll.name }}{% endif %}</p>
+  <div class="table-box">
+    <table class="detail">
+      <thead><tr><th class="n">#</th><th>Issue</th><th>Rating</th><th>Plan</th></tr></thead>
+      <tbody>
+      {% for i in s.plan.issues %}
+        <tr class="first">
+          <td class="n mono muted">{{ i.rank }}</td>
+          <td class="strong">{{ i.issue }}</td>
+          <td><span class="pill p-{{ i.rating }}">{{ i.rating }}</span></td>
+          <td>{% if i.source %}<a class="plain" href="{{ i.source }}">{{ i.detail }}</a>{% else %}{{ i.detail }}{% endif %}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endif %}
+
+{% if changes %}
+<section aria-labelledby="hist">
+  <h2 id="hist">Grade history</h2>
+  <ul class="moves">
+    {% for c in changes %}
+    <li><span class="mv-grade">{{ c.from_grade }} → {{ c.to_grade }}</span><span class="mono muted">{{ c.from_pct | pct }} → {{ c.to_pct | pct }}</span><span class="muted">{{ c.vote }} on {% if c.bill_url %}<a href="{{ c.bill_url }}">{{ c.bill }}</a>{% else %}{{ c.bill or c.question }}{% endif %} · {{ c.date_fmt }}{% if c.rc_url %} · <a href="{{ c.rc_url }}">RC {{ c.roll_call }}</a>{% endif %}</span></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if s.caveats %}
+<section aria-labelledby="cav" class="card">
+  <h2 id="cav">Notes</h2>
+  <ul class="notes">{% for c in s.caveats %}<li>{{ c }}</li>{% endfor %}</ul>
+  <p class="small"><a href="../method.html">Method</a> · Researched {{ s.researched | fdate }}</p>
+</section>
+{% endif %}
+{% endblock %}

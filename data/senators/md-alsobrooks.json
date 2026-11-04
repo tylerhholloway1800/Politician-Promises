@@ -1,0 +1,212 @@
+{
+  "id": "md-alsobrooks",
+  "name": "Angela Alsobrooks",
+  "state": "MD",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "UMBC Institute of Politics Poll, Sept 23–28, 2024",
+    "url": "https://wtop.com/wp-content/uploads/2024/10/UMBC-Poll-October-9-2024-FINAL.pdf",
+    "note": "Ranked by share of likely voters calling each issue major/critical to their Senate vote; transportation (11th) dropped. Emerson (Oct 19–21) most-important-issue data agrees on economy, housing, crime but reports only four items."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Cost of living",
+      "testable": false,
+      "position": "Bring down the cost of living for working families",
+      "position_source": "https://develop.baltimoresun.com/2024/04/11/angela-alsobrooks",
+      "votes": []
+    },
+    {
+      "rank": 2,
+      "issue": "Crime / public safety",
+      "testable": true,
+      "position": "Pass the George Floyd Justice in Policing Act",
+      "position_source": "https://www.nbcwashington.com/decision-2024/didnt-watch-marylands-us-senate-debate-heres-what-you-missed/3738630/?amp=1",
+      "votes": [],
+      "note": "No Senate floor vote on the bill found this term."
+    },
+    {
+      "rank": 3,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pass the Women's Health Protection Act; oppose defunding Planned Parenthood",
+      "position_source": "https://develop.baltimoresun.com/2024/04/11/angela-alsobrooks",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 344,
+          "date": "2025-06-30",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (Murray amendment to strike Planned Parenthood defunding)",
+          "question": "Motion to waive budget point of order",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 72,
+          "date": "2026-03-26",
+          "bill": "S.J.Res.103",
+          "bill_title": "Disapproval of VA abortion coverage rule",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut Medicaid funding to Planned Parenthood for one year; WHPA got no floor vote."
+    },
+    {
+      "rank": 4,
+      "issue": "Taxes / government spending",
+      "testable": true,
+      "position": "Raise taxes on large corporations",
+      "position_source": "https://wtop.com/maryland-election/2024/05/qa-maryland-democratic-senate-candidate-angela-alsobrooks",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 made business tax breaks permanent and did not raise corporate rates."
+    },
+    {
+      "rank": 5,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Defend and build on the Affordable Care Act",
+      "position_source": "https://marylandmatters.org/?p=83558",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Ban assault weapons; universal background checks; red-flag laws",
+      "position_source": "https://marylandmatters.org/?p=83558",
+      "votes": [],
+      "note": "No Senate floor vote on these measures found this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Jobs / economic development",
+      "testable": true,
+      "position": "$15 federal minimum wage; make union organizing easier",
+      "position_source": "https://marylandmatters.org/?p=83558",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 184,
+          "date": "2025-04-05",
+          "bill": "H.Con.Res.14",
+          "bill_title": "FY2025 budget resolution (Sanders $17 minimum wage amendment)",
+          "question": "On the amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Amendment sought a $17 wage, above her $15 pledge; PRO Act got no floor vote."
+    },
+    {
+      "rank": 8,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Comprehensive reform with a path to citizenship",
+      "position_source": "https://develop.baltimoresun.com/2024/04/11/angela-alsobrooks",
+      "votes": [],
+      "note": "No floor vote on a citizenship path; June 2026 DACA amendments (roll calls 152, 156) covered renewals and enforcement only."
+    },
+    {
+      "rank": 9,
+      "issue": "Housing",
+      "testable": false,
+      "position": "Work to solve affordable housing; no specific proposal",
+      "position_source": "https://wusa9.com/article/news/politics/alsobrooks-hogan-prince-georges-county-maryland-politics-election-2024-senate/65-0dbdf172-47a1-4d95-b2f5-94f3aad166ea",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "Keep and expand the Inflation Reduction Act's clean-energy credits",
+      "position_source": "https://stagingwp.cnsmaryland.org/2024/10/30/advocates-say-alsobrooks-is-best-maryland-senate-candidate-to-combat-climate-change/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Taxes and climate rest only on her Nay on H.R.1.",
+    "Roll calls 184 and 344 drawn from reports that all Democrats present voted Yea; on roll call 72 one Democrat was absent, so her Yea is unconfirmed.",
+    "Cost of living rated Not testable: she praised the child tax credit in 2024 but made no clear pledge to expand it. A stricter reading would test it against H.R.1 (which raised the credit) and rate it Contradicted.",
+    "Gun regulation: the only gun-related roll call found (Murphy amendment, roll call 473, Aug 2025) required a report and did not test a ban or background checks.",
+    "Maryland Matters voter-guide page carries no date; it is treated as 2024 campaign material."
+  ],
+  "researched": "2026-11-04"
+}

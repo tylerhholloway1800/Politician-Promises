@@ -1,0 +1,48 @@
+{
+  "id": "nh-hassan",
+  "name": "Maggie Hassan",
+  "state": "NH",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Saint Anselm College NH Survey, Sept 27–28, 2022",
+    "url": "https://www.anselm.edu/sites/default/files/2023-04/SACSC_NHSW_0922_Book_0.pdf",
+    "note": "Most important issue question; education tied with two other items at 1%."
+  },
+  "issues": [
+    {"rank": 1, "issue": "Economy / inflation", "testable": true, "position": "Suspend the federal gas tax", "position_source": "https://www.granitememo.com/senate-debate-hassan-bolduc-spotlight-hassan-record/", "votes": [], "note": "No Senate floor vote on a gas tax holiday this term."},
+    {"rank": 2, "issue": "Abortion", "testable": true, "position": "Pass federal law protecting abortion rights; oppose a national ban", "position_source": "https://www.granitememo.com/senate-debate-hassan-bolduc-spotlight-hassan-record/", "votes": [
+      {"congress": 118, "session": 2, "roll_call": 211, "date": "2024-07-10", "bill": "S.4554", "bill_title": "Reproductive Freedom for Women Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+    ]},
+    {"rank": 3, "issue": "Elections / voting", "testable": true, "position": "Federal voting standards; oppose new voting restrictions", "position_source": "https://guides.vote/guide/2022-new-hampshire-senate-voters-guide/", "votes": [
+      {"congress": 119, "session": 2, "roll_call": 57, "date": "2026-03-17", "bill": "S.1383", "bill_title": "SAVE America Act", "question": "Motion to proceed", "vote": "Nay", "consistent": true, "auto": false},
+      {"congress": 119, "session": 2, "roll_call": 73, "date": "2026-03-26", "bill": "S.1383", "bill_title": "SAVE America Act (photo ID amendment)", "question": "Cloture on an amendment", "vote": "Nay", "consistent": true, "auto": false}
+    ]},
+    {"rank": 4, "issue": "Government spending / taxes", "testable": true, "position": "No tax increase under $400K; cut taxes for families and small businesses", "position_source": "https://maggiehassan.com/news/fact-check/fact-check-senator-hassan-is-fighting-to-cut-taxes-for-families-and-small-businesses/", "votes": [
+      {"congress": 118, "session": 2, "roll_call": 230, "date": "2024-08-01", "bill": "H.R.7024", "bill_title": "Tax Relief for American Families and Workers Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false},
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": false, "auto": false}
+    ], "note": "H.R.1 included family and small-business tax cuts she had backed; she opposed the package."},
+    {"rank": 5, "issue": "Environment / climate", "testable": true, "position": "Keep the Inflation Reduction Act's clean-energy tax credits", "position_source": "https://www.granitememo.com/senate-debate-hassan-bolduc-spotlight-hassan-record/", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+    ]},
+    {"rank": 6, "issue": "Immigration", "testable": true, "position": "More border agents and border-security funding", "position_source": "https://www.foxnews.com/politics/battle-senate-new-hampshires-hassan-spotlights-push-increased-funding-police", "votes": [
+      {"congress": 118, "session": 2, "roll_call": 182, "date": "2024-05-23", "bill": "S.4361", "bill_title": "Border Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+    ]},
+    {"rank": 7, "issue": "National security", "testable": true, "position": "Military aid to Ukraine; compete with China", "position_source": "https://maggiehassan.com/news/press-release/senator-hassan-delivers-powerful-remarks-on-need-to-combat-ongoing-aggression-from-china-russia-at-world-affairs-council/", "votes": [
+      {"congress": 118, "session": 2, "roll_call": 41, "date": "2024-02-08", "bill": "H.R.815", "bill_title": "National Security Supplemental", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+    ]},
+    {"rank": 8, "issue": "Gun regulation", "testable": true, "position": "Universal background checks, red-flag laws, high-capacity magazine ban", "position_source": "https://guides.vote/guide/2022-new-hampshire-senate-voters-guide/", "votes": [], "note": "Blocked by unanimous-consent objection; no recorded vote."},
+    {"rank": 9, "issue": "Health care", "testable": true, "position": "Protect the ACA and Medicare drug-price negotiation", "position_source": "https://www.granitememo.com/senate-debate-hassan-bolduc-spotlight-hassan-record/", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 644, "date": "2025-12-11", "bill": "S.3385", "bill_title": "ACA premium tax credit extension", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+    ]},
+    {"rank": 10, "issue": "Education", "testable": false, "position": "No specific campaign position found", "position_source": "https://guides.vote/guide/2022-new-hampshire-senate-voters-guide/", "votes": []}
+  ],
+  "plan": null,
+  "caveats": [
+    "Elections rated on the SAVE America Act votes; the federal standards she backed never got a floor vote.",
+    "Some roll calls confirmed through third-party trackers because senate.gov was not reachable during research."
+  ],
+  "researched": "2026-11-04"
+}

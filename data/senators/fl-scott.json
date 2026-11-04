@@ -1,0 +1,193 @@
+{
+  "id": "fl-scott",
+  "name": "Rick Scott",
+  "state": "FL",
+  "party": "R",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Mason-Dixon/NBC6 Florida poll, Oct 1–4, 2024; Emerson College Florida poll, Oct 18–20, 2024; AIF Florida poll, Sept 23–25, 2024",
+    "url": "https://media.telemundo51.com/2024/10/NBC6FLVoterPollResults1024.pdf",
+    "note": "Three state most-important-issue polls combined, ranked by the highest share each issue got in any poll. Property insurance and housing come from AIF (https://aif.com/information/2024/pr241002.html) and Emerson (https://emersoncollegepolling.com/october-2024-florida-poll-trump-52-harris-44/), which offered those options; Mason-Dixon did not."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Cut federal spending to bring down inflation",
+      "position_source": "https://www.rickscott.senate.gov/2024/1/in-case-you-missed-it-sen-rick-scott-in-the-tampa-bay-times-inflation-costs-florida-families-1-000-a-month-congress-must-cut-spending-to-fix-it",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-07-17",
+          "bill": "H.R.4",
+          "bill_title": "Rescissions Act of 2025",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "roll_call": 411
+        }
+      ],
+      "note": "H.R.1 cut spending but raised projected deficits; rated consistent on its spending cuts."
+    },
+    {
+      "rank": 2,
+      "issue": "Property insurance costs",
+      "testable": true,
+      "position": "Federal tax deduction up to $10,000 for homeowners insurance premiums",
+      "position_source": "https://www.clickorlando.com/results-2024/2024/10/17/what-to-know-about-floridas-candidates-for-the-us-senate-in-the-nov-5-election/",
+      "votes": [],
+      "note": "No recorded Senate floor vote on the deduction found this term."
+    },
+    {
+      "rank": 3,
+      "issue": "Housing costs",
+      "testable": false,
+      "position": "Cut taxes and regulations to make homeownership easier (no specifics)",
+      "position_source": "https://floridapolitics.com/archives/654283-florida-realtors-support-rick-scotts-re-election",
+      "votes": []
+    },
+    {
+      "rank": 4,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pass the Laken Riley Act: detain migrants charged with theft",
+      "position_source": "https://rickscott.senate.gov/2024/3/sens-rick-scott-colleagues-intro-laken-riley-act-in-senate-call-for-immediate-consideration",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-01-20",
+          "bill": "S.5",
+          "bill_title": "Laken Riley Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Leave abortion law to the states; no federal ban",
+      "position_source": "https://www.wlrn.org/government-politics/2024-04-10/sen-rick-scott-abortion-position-florida-ballot-supreme-court-ruling",
+      "votes": [],
+      "note": "No floor vote on national abortion limits or protections this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Stricter nationwide voter ID and registration rules",
+      "position_source": "https://guides.vote/guide/2024-florida-senate-voters-guide/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Pass his Protect Our Seniors Act for Social Security and Medicare",
+      "position_source": "https://www.rickscott.senate.gov/2024/1/in-case-you-missed-it-sen-rick-scott-in-the-tampa-bay-times-inflation-costs-florida-families-1-000-a-month-congress-must-cut-spending-to-fix-it",
+      "votes": [],
+      "note": "No floor vote on the Protect Our Seniors Act this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "Fund Israel; block Gaza aid that could reach Hamas",
+      "position_source": "https://floridianpress.com/2024/04/scott-supports-israel-aid-calls-gaza-aid-stupidest-idea-ever/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "date": "2026-04-15",
+          "bill": "S.J.Res.32",
+          "bill_title": "Disapproval of bulldozer sale to Israel",
+          "question": "Motion to discharge",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "date": "2026-04-15",
+          "bill": "S.J.Res.138",
+          "bill_title": "Disapproval of bomb sale to Israel",
+          "question": "Motion to discharge",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "Support police; no specific campaign-year policy found",
+      "position_source": "https://www.rickscott.senate.gov/2024/5/sen-rick-scott-discusses-issues-facing-law-enforcement-at-national-police-week-roundtable",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Climate / environment",
+      "testable": false,
+      "position": "Address storm-surge impacts; no specific policy",
+      "position_source": "https://www.clickorlando.com/results-2024/2024/10/17/what-to-know-about-floridas-candidates-for-the-us-senate-in-the-nov-5-election/",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Votes confirmed on watch.vote: H.R.1 (372), SAVE America Act (57, 73). Rescissions roll call 411 from voteview; his Yea inferred from reports that only Collins and Murkowski among Republicans voted no.",
+    "Laken Riley Act and Israel arms-sale votes inferred from news reports that all Republicans voted that way; roll call numbers not confirmed.",
+    "Economy rated consistent on H.R.1 although CBO projected it would raise deficits; this is a judgment call.",
+    "Elections position rests on guides.vote's 2024 summary, which partly cites pre-2024 statements."
+  ],
+  "researched": "2026-11-04"
+}

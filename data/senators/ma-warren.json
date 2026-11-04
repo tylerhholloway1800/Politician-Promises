@@ -1,0 +1,188 @@
+{
+  "id": "ma-warren",
+  "name": "Elizabeth Warren",
+  "state": "MA",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "MassINC Polling Group Massachusetts survey, Oct 29–Nov 1, 2024",
+    "url": "https://static1.squarespace.com/static/5eb9fa2f8ac4df11937f6a49/t/67252736a27be76d295404cd/1730488118174/Topline+2024+10+Nov+MA+Election.pdf",
+    "note": "Open-ended most important issue (presidential vote; multiple answers allowed). Dropped 'voting against Trump' and 'candidate attributes'; climate and crime tied at 2%, climate listed first."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / jobs",
+      "testable": true,
+      "position": "More federal funding for East-West Rail",
+      "position_source": "https://www.wgbh.org/news/local/2024-10-17/warren-and-deaton-spar-over-immigration-foreign-policy-in-contentious-senate-debate",
+      "votes": [],
+      "note": "No floor vote on East-West Rail funding identified."
+    },
+    {
+      "rank": 2,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Comprehensive immigration reform that reimburses states for migrant costs",
+      "position_source": "https://www.boston.com/news/local-news/2024/10/15/three-initial-takeaways-from-the-first-warren-deaton-debate/",
+      "votes": [],
+      "note": "No comprehensive immigration bill reached a floor vote."
+    },
+    {
+      "rank": 3,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Suspend the filibuster to restore Roe; oppose a national ban",
+      "position_source": "https://kffhealthnews.org/morning-breakout/democrats-would-suspend-filibuster-to-codify-abortion-rights-if-they-win-congress/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut Medicaid funding to Planned Parenthood for one year."
+    },
+    {
+      "rank": 4,
+      "issue": "Democracy / elections",
+      "testable": true,
+      "position": "Supreme Court term limits and expansion",
+      "position_source": "https://digital-release.thehill.com/?p=4796686",
+      "votes": [],
+      "note": "No floor vote on Court term limits or expansion this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Cost of living / housing",
+      "testable": true,
+      "position": "Build 3 million homes nationwide",
+      "position_source": "https://www.boston.com/news/local-news/2024/10/15/three-initial-takeaways-from-the-first-warren-deaton-debate/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 53,
+          "date": "2026-03-12",
+          "bill": "H.R.6644",
+          "bill_title": "21st Century ROAD to Housing Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Yea inferred: not among the 10 named nays or non-voters (dailypress.senate.gov)."
+    },
+    {
+      "rank": 6,
+      "issue": "Civil rights / LGBTQ rights",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://www.bostonglobe.com/2024/10/17/metro/elizabeth-warren-john-deaton-debate-mass-senate-race",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Foreign policy / national security",
+      "testable": true,
+      "position": "Continue Ukraine military aid; condition military aid to Israel",
+      "position_source": "https://www.wamc.org/news/2024-07-29/warren-talks-harriss-rise-gaza-policy-money-in-politics-and-criticism-from-massachusetts-republicans",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-04-03",
+          "bill": "S.J.Res.33",
+          "bill_title": "Disapproval of bomb sale to Israel",
+          "question": "On the joint resolution",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 570,
+          "date": "2025-10-09",
+          "bill": "S.2296",
+          "bill_title": "NDAA for Fiscal Year 2026 ($500M Ukraine aid)",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "Ukraine stance from WGBH debate coverage; NDAA Nay was over overall defense spending."
+    },
+    {
+      "rank": 8,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Oppose Medicare and Social Security cuts; expand Medicare",
+      "position_source": "https://wgbh.org/news/local/2024-09-05/warren-raises-alarm-over-potential-gop-senate-control-with-deatons-nomination",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 narrowed Medicare eligibility for some immigrants and cut Medicaid."
+    },
+    {
+      "rank": 9,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Let 2017 tax cuts expire rather than extend; raise corporate taxes",
+      "position_source": "https://www.warren.senate.gov/newsroom/press-releases/at-hearing-warren-makes-case-for-using-2025-tax-fight-to-raise-taxes-on-corporations-and-billionaires-lower-costs-for-american-families",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "issue": "Climate / environment",
+      "testable": false,
+      "position": "Said GOP control would set back climate efforts; nothing specific",
+      "position_source": "https://www.wbur.org/news/2024/10/16/warren-deaton-senate-debate-abortio-immigration-economy",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Health care rated on H.R.1 only; its Medicare effects are indirect, so the match is a judgment call.",
+    "Foreign policy rated Mixed partly on the FY2026 NDAA, a large defense bill she opposed on spending grounds; it included Ukraine aid.",
+    "S.J.Res.33 roll call number not confirmed; Warren's Yea is from Truthout's list of yes votes.",
+    "ROAD to Housing Act Yea inferred from the Senate floor log's list of nays; the June 22, 2026 final vote was not added.",
+    "Poll asked about the presidential vote; inflation, costs and housing were one combined category."
+  ],
+  "researched": "2026-11-04"
+}

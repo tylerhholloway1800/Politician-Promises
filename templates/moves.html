@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Grade moves · {{ site }}{% endblock %}
+{% block body %}
+<section class="hero">
+  <h1>Grade moves</h1>
+  <p class="lede">Every change to a senator's grade, with the vote that caused it.</p>
+</section>
+{% if changes %}
+<div class="table-box">
+  <table class="list">
+    <thead><tr><th>Date</th><th>Senator</th><th>Grade</th><th class="n">Score</th><th>Vote</th><th>Issue</th></tr></thead>
+    <tbody>
+    {% for c in changes %}
+      <tr>
+        <td class="mono small">{{ c.date_fmt }}</td>
+        <td><a href="s/{{ c.senator }}.html">{{ c.name }}</a> <span class="muted">{{ c.label }}</span></td>
+        <td><span class="grade g-{{ c.to_grade }}">{{ c.from_grade }} → {{ c.to_grade }}</span></td>
+        <td class="n mono">{{ c.from_pct | pct }} → {{ c.to_pct | pct }}</td>
+        <td>{{ c.vote }} on {% if c.bill_url %}<a href="{{ c.bill_url }}">{{ c.bill }}</a>{% else %}{{ c.bill or c.question }}{% endif %}{% if c.rc_url %} · <a href="{{ c.rc_url }}">RC {{ c.roll_call }}</a>{% endif %}</td>
+        <td>{{ c.issue }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% else %}
+<p class="muted">No grade moves yet. They appear here after the first new Senate vote that tests a locked promise.</p>
+{% endif %}
+{% endblock %}

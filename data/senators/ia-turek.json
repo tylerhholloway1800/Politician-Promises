@@ -1,0 +1,84 @@
+{
+  "id": "ia-turek",
+  "name": "Josh Turek",
+  "state": "IA",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "issue_poll": {
+    "name": "Emerson (Aug, Oct 2026), Fox (Jun), Johns Hopkins (Jul)",
+    "url": "https://emersoncollegepolling.com/iowa-2026-poll-u-s-senate-race-tightens-sand-maintains-edge-for-governor/"
+  },
+  "issues": [],
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Emerson (Aug, Oct 2026), Fox (Jun), Johns Hopkins (Jul)",
+      "url": "https://emersoncollegepolling.com/iowa-2026-poll-u-s-senate-race-tightens-sand-maintains-edge-for-governor/"
+    },
+    "issues": [
+      {
+        "rank": 1,
+        "issue": "Economy / cost of living",
+        "rating": "Concrete",
+        "detail": "Pause 18\u00a2 federal gas tax, temporarily end diesel exports, vote to end tariff policy, no tax on tips/overtime/Social Security",
+        "source": "https://www.wowt.com/2026/09/21/iowa-senate-candidates-release-fuel-price-plans-diesel-tops-6-gallon/"
+      },
+      {
+        "rank": 2,
+        "issue": "Health care",
+        "rating": "Concrete",
+        "detail": "Reverse 2025 Medicaid cuts, limit private-equity ownership of nursing homes and clinics",
+        "source": "https://www.iowapublicradio.org/political-news/2026-05-15/josh-turek-zach-wahls-u-s-senate-democratic-primary-debate"
+      },
+      {
+        "rank": 3,
+        "issue": "Democracy / government integrity",
+        "rating": "Concrete",
+        "detail": "Term limits for Congress and the Supreme Court; no corporate PAC money",
+        "source": "https://ontheissues.org/Senate/Josh_Turek.htm"
+      },
+      {
+        "rank": 4,
+        "issue": "Education",
+        "rating": "Vague",
+        "detail": "General pledge of world-class education",
+        "source": "https://turek4iowa.com/news/josh-turek-launches-bipartisan-educators-for-turek-coalition"
+      },
+      {
+        "rank": 5,
+        "issue": "Immigration and border",
+        "rating": "Concrete",
+        "detail": "Backs the named Dignity Act; deport violent criminals (wording on citizenship has varied)",
+        "source": "https://politifact.com/factchecks/2026/oct/07/senate-leadership-fund/fact-checking-gop-ad-in-iowa-senate-race-does-josh-turek-support-amnesty-for-immigrants/"
+      },
+      {
+        "rank": 6,
+        "issue": "Housing affordability",
+        "rating": "Concrete",
+        "detail": "Five-year ban on Wall Street firms buying single-family homes",
+        "source": "https://www.kjan.com/?p=560578"
+      },
+      {
+        "rank": 7,
+        "issue": "Social Security and Medicare",
+        "rating": "Concrete",
+        "detail": "Lift the $184,500 payroll-tax cap; no higher retirement age",
+        "source": "https://www.wowt.com/2026/09/10/us-senate-candidate-turek-wants-these-people-pay-more-social-security-taxes/"
+      },
+      {
+        "rank": 8,
+        "issue": "Water quality / environment",
+        "rating": "Partial",
+        "detail": "Farm water-quality incentives in Rebuild Rural Iowa plan; no target or bill",
+        "source": "https://turek4iowa.com/news/josh-turek-releases-plan-to-rebuild-rural-iowa"
+      }
+    ]
+  },
+  "caveats": [
+    "Plan scored from campaign releases and press coverage; delivery grading starts when the term begins and needs each issue's position confirmed as testable."
+  ],
+  "researched": "2026-11-04"
+}

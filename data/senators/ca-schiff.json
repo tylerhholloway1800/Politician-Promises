@@ -1,0 +1,266 @@
+{
+  "id": "ca-schiff",
+  "name": "Adam Schiff",
+  "state": "CA",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "PPIC Statewide Survey, Oct 7–15, 2024 (likely voters), with Emerson College California poll, Oct 12–14, 2024",
+    "url": "https://www.ppic.org/?p=82740",
+    "note": "Combined PPIC's most important issue for California (https://ppic.org/wp-content/uploads/crosstabs-likely-voters-1024.pdf) and for the U.S., plus Emerson's most important issue (https://emersoncollegepolling.com/october-2024-california-poll-harris-59-trump-35). Ranked by each issue's highest share in any of the three. Dropped 'government in general / elected officials'."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Cost of living / economy",
+      "testable": true,
+      "position": "$20 federal minimum wage; federal price-gouging rules",
+      "position_source": "https://laist.com/brief/news/politics/5-major-candidates-want-to-be-californias-new-us-senator-where-they-stand-on-the-economy-crime-and-the-border",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 184,
+          "date": "2025-04-05",
+          "bill": "H.Con.Res.14",
+          "bill_title": "Budget resolution (Sanders $17 minimum wage amendment)",
+          "question": "On the amendment (S.Amdt.2126)",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Roll call per Congressional Record (govinfo, CREC-2025-04-04, S2350); no price-gouging vote held."
+    },
+    {
+      "rank": 2,
+      "issue": "Democracy / elections",
+      "testable": true,
+      "position": "Pass John Lewis VRAA; automatic and same-day voter registration",
+      "position_source": "https://www.adamschiff.com/?p=1690",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "The bills he backed and Court term limits got no floor vote."
+    },
+    {
+      "rank": 3,
+      "issue": "Housing",
+      "testable": true,
+      "position": "Expand the Low-Income Housing Tax Credit; incentivize faster local approvals",
+      "position_source": "https://adamschiff.com/?p=1915",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 53,
+          "date": "2026-03-12",
+          "bill": "H.R.6644",
+          "bill_title": "21st Century ROAD to Housing Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 permanently expanded the LIHTC; he opposed the package."
+    },
+    {
+      "rank": 4,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "More Border Patrol personnel and technology; path to citizenship",
+      "position_source": "https://www.kpbs.org/news/politics/2024/10/09/garvey-schiff-clash-on-abortion-guns-and-trump-in-only-one-on-one-debate",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded Border Patrol hiring and technology; no citizenship-path vote held."
+    },
+    {
+      "rank": 5,
+      "issue": "Homelessness",
+      "testable": true,
+      "position": "At least $100 billion more federal homelessness funding",
+      "position_source": "https://adamschiff.com/?p=1915",
+      "votes": [],
+      "note": "No Senate floor vote on added homelessness funding found."
+    },
+    {
+      "rank": 6,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Universal health care; expand Medicaid eligibility",
+      "position_source": "https://vigarchive.sos.ca.gov/2024/general/candidates/us-senate-candidate-statements.htm",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut Medicaid and tightened eligibility. Vote 644 per Congressional Record (govinfo crec/171/s/8654)."
+    },
+    {
+      "rank": 7,
+      "issue": "Education",
+      "testable": true,
+      "position": "Free public college; expand Pell Grants; cancel student debt",
+      "position_source": "https://spectrumlocalnews.com/us/snplus/politics/2024/01/18/schiff-unveils-affordability-agenda",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 ended the SAVE repayment plan and capped student loans; it also added short-term Pell."
+    },
+    {
+      "rank": 8,
+      "issue": "Crime / public safety",
+      "testable": true,
+      "position": "More federal funding for police officers and community policing",
+      "position_source": "https://foxla.com/news/adam-schiff-california-us-senate-profile-top-issues",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "date": "2026-01-15",
+          "bill": "H.R.6938",
+          "bill_title": "FY2026 Commerce-Justice-Science, Energy-Water, Interior appropriations",
+          "question": "Cloture on the bill",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "Package raised state and local police grants ($2B to $2.4B, per porac.org); vote from usquery.com."
+    },
+    {
+      "rank": 9,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "End oil and gas subsidies; point-of-sale EV tax credit",
+      "position_source": "https://digital-release.thehill.com/?p=4470550",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 ended the EV tax credits early."
+    },
+    {
+      "rank": 10,
+      "issue": "Taxes / government spending",
+      "testable": true,
+      "position": "Middle-class tax cut; restore SALT deduction under $400K",
+      "position_source": "https://foxla.com/news/adam-schiff-california-us-senate-profile-top-issues",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 extended middle-class rates and raised the SALT cap; he also backed corporate tax hikes it lacked."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Five issues rest wholly or partly on H.R.1 under the package rule (housing, immigration, taxes counted against him; health care, climate, education for him). Each is a judgment call.",
+    "Crime rated on cloture for a three-bill spending package (likely roll call 10, unconfirmed). His Nay is read from an unlabeled list on usquery.com, and his passage vote was not confirmed.",
+    "ROAD to Housing Yea is inferred: he is not among the 10 nays or 1 non-voter on the Senate press gallery log for Mar 12, 2026.",
+    "Issue ranking mixes PPIC's California and U.S. most-important-problem questions with Emerson's; democracy ranks high only on the U.S. question."
+  ],
+  "researched": "2026-11-04"
+}

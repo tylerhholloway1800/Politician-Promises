@@ -1,0 +1,176 @@
+{
+  "id": "az-gallego",
+  "name": "Ruben Gallego",
+  "state": "AZ",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "CBS News/YouGov Arizona Poll, Oct 11–16, 2024",
+    "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/cbsnews_20241016_az_1_updated.pdf",
+    "note": "Ranked by share of likely voters calling each a major factor; asked about the presidential vote. Guns and abortion tied at 52%; kept in poll order."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy",
+      "testable": true,
+      "position": "Raise federal minimum wage to $15, indexed to inflation",
+      "position_source": "https://azmirror.com/2024/10/09/gallego-lake-spar-over-senate-seat-in-their-only-debate-clashing-on-immigration-and-abortion/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 184,
+          "date": "2025-04-05",
+          "bill": "H.Con.Res.14",
+          "bill_title": "FY2025 budget resolution ($17 minimum wage amendment)",
+          "question": "On the amendment (S.Amdt.2126)",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Sanders amendment failed 47-52 on a party-line vote (https://peoplesworld.org/?p=148478)."
+    },
+    {
+      "rank": 2,
+      "issue": "Inflation",
+      "testable": false,
+      "position": "Curb corporate price gouging on food and gas; no bill pledged",
+      "position_source": "https://gallegoforarizona.com/issue/inflation/",
+      "votes": [],
+      "note": "Lower Food and Fuel Costs Act on his site was a 2022 House vote, not a forward pledge."
+    },
+    {
+      "rank": 3,
+      "issue": "Democracy / elections",
+      "testable": true,
+      "position": "Pass John Lewis VRAA and Freedom to Vote Act; oppose voter suppression",
+      "position_source": "https://gallegoforarizona.com/?p=6038",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "The voting-rights bills he backed got no floor vote."
+    },
+    {
+      "rank": 4,
+      "issue": "Crime",
+      "testable": false,
+      "position": "Supports police; opposes defunding",
+      "position_source": "https://api.politifact.com/factchecks/2024/oct/25/kari-lake/kari-lake-falsely-claims-ruben-gallego-wants-to-de",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pass bipartisan border bill; more border agents and technology",
+      "position_source": "https://azmirror.com/2024/10/09/gallego-lake-spar-over-senate-seat-in-their-only-debate-clashing-on-immigration-and-abortion/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded Border Patrol hiring, technology and wall; he opposed the package."
+    },
+    {
+      "rank": 6,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Universal background checks, red-flag laws, assault weapons ban",
+      "position_source": "https://cronkitenews.azpbs.org/2024/09/17/march-for-our-lives-endorsements-ruben-gallego-kirsten-engel/",
+      "votes": [],
+      "note": "No Senate floor vote found on background checks, red-flag laws or an assault weapons ban this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Write Roe v. Wade protections into federal law",
+      "position_source": "https://azmirror.com/2024/10/09/gallego-lake-spar-over-senate-seat-in-their-only-debate-clashing-on-immigration-and-abortion/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 72,
+          "date": "2026-03-25",
+          "bill": "S.J.Res.103",
+          "bill_title": "Disapproval of VA rule ending abortion services",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No vote on codifying Roe; rated on the VA abortion-access vote (https://watch.vote/votes/119-2026-s72)."
+    },
+    {
+      "rank": 8,
+      "issue": "Environment / climate",
+      "testable": false,
+      "position": "Build climate resilience for water; no specific bill or IRA pledge found",
+      "position_source": "https://www.eenews.net/articles/shes-in-denial-gallego-lake-clash-on-climate-water/",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Israel–Hamas war",
+      "testable": false,
+      "position": "Immediate ceasefire, faster Gaza aid, support Israel's security",
+      "position_source": "https://kjzz.org/content/1873101/rep-gallego-supports-biden-administration-calls-immediate-ceasefire-gaza",
+      "votes": [],
+      "note": "Calls on the administration and parties, not a policy to pass or block."
+    },
+    {
+      "rank": 10,
+      "issue": "Race and diversity",
+      "testable": true,
+      "position": "Oppose book bans",
+      "position_source": "https://guides.vote/guide/2024-arizona-senate-voters-guide",
+      "votes": [],
+      "note": "No Senate floor vote on book bans this term."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Minimum wage vote inferred from the 47-52 party-line tally; no source named Gallego's vote directly.",
+    "Abortion rated on S.J.Res.103 (VA abortion services), a proxy; no vote on codifying Roe was held.",
+    "Immigration rated only on H.R.1 under the package rule; no vote on the bipartisan border bill was held.",
+    "Climate searched again: only general pledges found (campaign issue page not retrievable), so rated Not testable."
+  ],
+  "researched": "2026-11-04"
+}

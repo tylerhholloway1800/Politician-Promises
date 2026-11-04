@@ -9,7 +9,7 @@ on:
     types: [labeled]
   push:
     branches: [main]
-    paths: ["data/**", "templates/**", "static/**", "scripts/build.py", "scripts/scoring.py"]
+    paths: ["data/**", "templates/**", "static/**", "scripts/**", ".github/workflows/**"]
 
 permissions:
   contents: write

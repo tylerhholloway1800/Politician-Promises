@@ -83,15 +83,33 @@ def current_session(today):
     return congress, session
 
 
+FETCH_ERRORS = []
+_ok = [0]
+
+
 def get_xml(url):
+    """Fetch and parse a senate.gov XML file. Returns None on any failure
+    (logged in FETCH_ERRORS) so one bad page never stops the run. If the
+    first several fetches all fail, senate.gov is unreachable: stop trying."""
+    if len(FETCH_ERRORS) >= 5 and _ok[0] == 0:
+        return None
+    last = None
     for attempt in range(3):
-        r = requests.get(url, headers=HEADERS, timeout=30)
-        if r.status_code == 200:
-            return ET.fromstring(r.content)
-        if r.status_code == 404:
-            return None
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=30)
+            if r.status_code == 200:
+                root = ET.fromstring(r.content)
+                _ok[0] += 1
+                return root
+            if r.status_code == 404:
+                return None
+            last = f"HTTP {r.status_code}"
+        except (requests.RequestException, ET.ParseError) as e:
+            last = type(e).__name__
         time.sleep(5 * (attempt + 1))
-    r.raise_for_status()
+    FETCH_ERRORS.append(f"{url}: {last}")
+    print(f"  could not fetch {url} ({last})")
+    return None
 
 
 def text(el, path):

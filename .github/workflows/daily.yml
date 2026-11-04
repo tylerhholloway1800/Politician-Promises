@@ -34,10 +34,13 @@ jobs:
 
       - name: Check recorded votes against senate.gov
         if: github.event_name != 'issues'
+        continue-on-error: true
+        timeout-minutes: 20
         run: python scripts/verify_votes.py
 
       - name: Apply approved reviews
         if: github.event_name != 'push'
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SITE_URL: ${{ vars.SITE_URL }}
@@ -49,6 +52,7 @@ jobs:
 
       - name: Pull new Senate votes
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

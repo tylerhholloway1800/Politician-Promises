@@ -16,7 +16,7 @@ import re
 import time
 from pathlib import Path
 
-from update_votes import get_xml, text, fetch_vote, find_member, MENU, DRY
+from update_votes import get_xml, text, fetch_vote, find_member, MENU, DRY, FETCH_ERRORS
 
 ROOT = Path(__file__).resolve().parent.parent
 SEN = ROOT / "data" / "senators"
@@ -51,7 +51,10 @@ def find_roll_call(v):
     c, s, d = v.get("congress"), v.get("session"), v.get("date", "")
     if not (c and s and d and v.get("bill")):
         return None
-    month_day = time.strftime("%d-%b", time.strptime(d, "%Y-%m-%d"))  # menu dates look like 17-Mar
+    try:
+        month_day = time.strftime("%d-%b", time.strptime(d[:10], "%Y-%m-%d"))  # menu dates look like 17-Mar
+    except ValueError:
+        return None
     b = norm_bill(v["bill"])
     hits = [r for r in menu(c, s) if r["date"] == month_day and b and b in norm_bill(r["issue"])]
     return hits[0]["n"] if len(hits) == 1 else None
@@ -65,6 +68,9 @@ def main():
         for issue in s.get("issues", []):
             for v in issue.get("votes", []):
                 if v.get("verified"):
+                    continue
+                if not (v.get("congress") and v.get("session")):
+                    missing += 1
                     continue
                 if not v.get("roll_call"):
                     n = find_roll_call(v)
@@ -97,6 +103,8 @@ def main():
         if changed and not DRY:
             f.write_text(json.dumps(s, indent=2, ensure_ascii=False) + "\n")
     print(f"Verified {checked} votes, corrected {fixed}, could not find {missing}")
+    if FETCH_ERRORS:
+        print(f"{len(FETCH_ERRORS)} senate.gov pages could not be fetched; those votes stay unverified")
 
 
 if __name__ == "__main__":

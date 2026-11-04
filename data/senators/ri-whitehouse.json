@@ -1,0 +1,44 @@
+{
+  "id": "ri-whitehouse",
+  "name": "Sheldon Whitehouse",
+  "state": "RI",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Pell Center / Embold Research Rhode Island Survey, Sept 16–20, 2024 (876 likely voters)",
+    "url": "https://salve.edu/documents/pell-center-embold-topline-data-september-24-survey",
+    "note": "Most important issue question. Democracy and economy tied at 22%; taxes, climate and education tied at 2%; foreign policy (1%) was the next item."
+  },
+  "issues": [
+    {"rank": 1, "issue": "State of democracy", "testable": true, "position": "Supreme Court term limits and a binding ethics code", "position_source": "https://news.yahoo.com/news/u-sen-sheldon-whitehouse-wants-202858147.html", "votes": [], "note": "No Senate floor vote on Court term limits or an ethics code this term."},
+    {"rank": 2, "issue": "Economy", "testable": true, "position": "First-time homebuyer tax credit; expand Low-Income Housing Tax Credit", "position_source": "https://rhodeislandcurrent.com/race-details/u-s-senator/", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": false, "auto": false}
+    ], "note": "H.R.1 included a 12% LIHTC expansion; he opposed the package. No vote on a homebuyer credit."},
+    {"rank": 3, "issue": "Immigration", "testable": true, "position": "Pass the 2024 bipartisan border security agreement", "position_source": "https://www.whitehouse.senate.gov/news/release/whitehouse-slams-repeated-republican-blockade-of-strong-immigration-and-border-agreement", "votes": [], "note": "The bipartisan agreement was not brought back for a floor vote this term."},
+    {"rank": 4, "issue": "Abortion", "testable": true, "position": "Codify Roe; legal abortion in all 50 states", "position_source": "https://rhodeislandcurrent.com/race-details/u-s-senator/", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 11, "date": "2025-01-22", "bill": "S.6", "bill_title": "Born-Alive Abortion Survivors Protection Act", "question": "Cloture on the motion to proceed", "vote": "Nay", "consistent": true, "auto": false}
+    ], "note": "No vote on codifying Roe this term; rated on an abortion-restriction bill instead."},
+    {"rank": 5, "issue": "Inflation / cost of living", "testable": false, "position": "Lower costs (no specific policy stated)", "position_source": "https://progressive-charlestown.com/2024/08/whitehouse-going-for-gold-in-olympic-ad.html?m=1", "votes": []},
+    {"rank": 6, "issue": "Health care", "testable": true, "position": "Keep and build on Medicare drug-price negotiation", "position_source": "https://www.whitehouse.senate.gov/?p=14321", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+    ], "note": "H.R.1 widened the orphan-drug exemption from Medicare negotiation."},
+    {"rank": 7, "issue": "Gun regulation", "testable": true, "position": "Universal background checks; assault weapons and high-capacity magazine ban", "position_source": "https://giffords.org/articles/giffords-pac-endorses-senator-sheldon-whitehouse-for-reelection/", "votes": [], "note": "No recorded Senate floor vote on these measures this term."},
+    {"rank": 8, "issue": "Taxes", "testable": true, "position": "Raise taxes on income over $400K to fund Social Security", "position_source": "https://rhodeislandcurrent.com/2024/10/18/morgan-eclipsed-in-fundraising-is-feisty-whitehouse-is-unflappable-in-u-s-senate-race-tv-debate/", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+    ], "note": "H.R.1 made 2017 tax cuts permanent, including for top earners."},
+    {"rank": 9, "issue": "Climate change", "testable": true, "position": "Keep Inflation Reduction Act clean-energy and offshore wind credits", "position_source": "https://rhodeislandcurrent.com/race-details/u-s-senator/", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+    ]},
+    {"rank": 10, "issue": "Education", "testable": false, "position": "No specific campaign position found", "position_source": "https://thenewportbuzz.com/sheldon-whitehouse-launches-2024-re-election-campaign-for-u-s-senate/48549", "votes": []}
+  ],
+  "plan": null,
+  "caveats": [
+    "Economy rated on his housing tax-credit proposals (RI Current questionnaire); H.R.1 counted as inconsistent because it expanded LIHTC, following the nh-hassan precedent.",
+    "Abortion rated on the S.6 Born-Alive cloture vote, which tests his position only indirectly.",
+    "Gun position comes from the Giffords PAC endorsement (Feb 2024), not a statement in his own words.",
+    "Roll calls (H.R.1 #372, S.6 #11) taken from usquery and other trackers because senate.gov was unreachable."
+  ],
+  "researched": "2026-11-04"
+}

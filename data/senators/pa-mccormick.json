@@ -1,0 +1,48 @@
+{
+  "id": "pa-mccormick",
+  "name": "Dave McCormick",
+  "state": "PA",
+  "party": "R",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Franklin & Marshall College Poll, Oct 9–20, 2024",
+    "url": "https://fandmpoll.org/content/files/2024/10/KEYOCT24_Topline-3.pdf",
+    "note": "Averaged shares from two questions: most important problem facing PA and most important issue in presidential vote. Energy and environment merged. 'Government, politicians' and candidate-trait answers left out as untestable; civil liberties (tied at 9th) dropped as too vague."
+  },
+  "issues": [
+    {"rank": 1, "issue": "Economy / cost of living", "testable": true, "position": "Eliminate federal taxes on tips", "position_source": "https://www.davemccormickpa.com/?p=409", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+    ], "note": "H.R.1 created a temporary deduction for tip income rather than full elimination."},
+    {"rank": 2, "issue": "Abortion", "testable": true, "position": "Would not vote for a federal abortion ban; leave to states", "position_source": "https://www.fox29.com/news/mccormick-casey-disagree-abortion-guns-energy-last-debate", "votes": [], "note": "No Senate floor vote on a national abortion ban this term."},
+    {"rank": 3, "issue": "Immigration", "testable": true, "position": "Finish the border wall; hire more Border Patrol agents", "position_source": "https://www.davemccormickpa.com/?p=409", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+    ], "note": "H.R.1 funded wall construction and Border Patrol hiring."},
+    {"rank": 4, "issue": "Taxes", "testable": true, "position": "Extend the 2017 tax cuts; keep the SALT deduction cap", "position_source": "https://www.davemccormickpa.com/?p=409", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+    ], "note": "H.R.1 made the 2017 cuts permanent; it kept a SALT cap but raised it."},
+    {"rank": 5, "issue": "Crime / guns", "testable": true, "position": "Oppose stronger gun regulations", "position_source": "https://www.fox29.com/news/mccormick-casey-disagree-abortion-guns-energy-last-debate", "votes": [], "note": "No Senate floor vote on new gun regulations this term."},
+    {"rank": 6, "issue": "Elections / voting", "testable": true, "position": "Pass the SAVE Act to bar noncitizen voting", "position_source": "https://www.davemccormickpa.com/2024/07/10/will-bob-casey-have-the-courage-to-stop-non-citizens-from-voting", "votes": [
+      {"congress": 119, "session": 2, "roll_call": 57, "date": "2026-03-17", "bill": "S.1383", "bill_title": "SAVE America Act", "question": "Motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+    ]},
+    {"rank": 7, "issue": "Energy / environment", "testable": true, "position": "Expand oil and gas production; speed permits and LNG exports", "position_source": "https://www.davemccormickpa.com/?p=409", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+    ], "note": "H.R.1 mandated new oil and gas lease sales."},
+    {"rank": 8, "issue": "Education", "testable": true, "position": "Expand school choice; end federal DEI funding", "position_source": "https://www.davemccormickpa.com/?p=409", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+    ], "note": "H.R.1 created a federal tax credit for scholarship-granting organizations."},
+    {"rank": 9, "issue": "Housing", "testable": false, "position": "No specific campaign position found", "position_source": "https://www.davemccormickpa.com/?p=409", "votes": []},
+    {"rank": 10, "issue": "Foreign policy", "testable": true, "position": "Keep supporting Israel, including arms", "position_source": "https://www.fox29.com/news/mccormick-casey-disagree-abortion-guns-energy-last-debate", "votes": [
+      {"congress": 119, "session": 1, "roll_call": 165, "date": "2025-04-03", "bill": "S.J.Res.33", "bill_title": "Disapproval of arms sale to Israel", "question": "On the motion to discharge", "vote": "Nay", "consistent": true, "auto": false},
+      {"congress": 119, "session": 1, "roll_call": 166, "date": "2025-04-03", "bill": "S.J.Res.26", "bill_title": "Disapproval of arms sale to Israel", "question": "On the motion to discharge", "vote": "Nay", "consistent": true, "auto": false}
+    ]}
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranking averages two F&M questions; the top issue (economy) dominates and ranks 8–10 were near-ties at about 2%.",
+    "H.R.1 votes taken from widely reported party-line tally (McCormick Yea); roll call 372 not fetched from senate.gov.",
+    "Campaign platform also promised a congressional stock-trading ban; that issue fell outside the top 10 (Sept 30, 2026 cloture vote failed 53-47)."
+  ],
+  "researched": "2026-11-04"
+}

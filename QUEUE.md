@@ -28,10 +28,10 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 - [x] nj-kim Andy Kim D-NJ
 - [x] nm-heinrich Martin Heinrich D-NM
 - [x] ny-gillibrand Kirsten Gillibrand D-NY
-- [ ] nd-cramer Kevin Cramer R-ND
-- [ ] oh-moreno Bernie Moreno R-OH
-- [ ] pa-mccormick Dave McCormick R-PA
-- [ ] ri-whitehouse Sheldon Whitehouse D-RI
+- [x] nd-cramer Kevin Cramer R-ND
+- [x] oh-moreno Bernie Moreno R-OH
+- [x] pa-mccormick Dave McCormick R-PA
+- [x] ri-whitehouse Sheldon Whitehouse D-RI
 - [ ] tn-blackburn Marsha Blackburn R-TN
 - [ ] tx-cruz Ted Cruz R-TX
 - [ ] ut-curtis John Curtis R-UT

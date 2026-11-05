@@ -82,6 +82,7 @@ Lock winners' plans once results are final; re-elected incumbents also get a del
 - H.R.1 (RC 372) is applied unevenly: some files count a Nay as Contradicting a border-funding / LIHTC / child-tax-credit position, others leave the issue as No vote held (Kaine, Murphy, Blunt Rochester, Hassan-immigration). Pick one rule and apply it to every file.
 - SAVE America Act vs. a 2022 pledge to oppose federalizing elections: ks-moran scores it Contradicted, ar-boozman leaves it unscored. Same rule needed. (nd-hoeven also scored Contradicted.)
 - Procedural Nays to enable reconsideration (e.g. Schumer on RC 211) are scored consistent by hand; make sure verify_votes never flips them.
+- Plan sourcing: ma-markey is 10/10 Concrete mostly from "YES" answers on an advocacy-group questionnaire; decide whether questionnaire checkboxes count as Concrete (affects others using Ballotpedia/iVoterGuide surveys too).
 
 ## 2026 class: lock winners' plans (closed races, as of Nov 5)
 Plan brief: "Read /home/claude/politician-promises/PLAN.md and follow it exactly for: <Name> (<P>-<ST>), won the 2026 U.S. Senate race. File id: <id>"

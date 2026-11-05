@@ -1,0 +1,61 @@
+{
+  "id": "ok-hern",
+  "name": "Kevin Hern",
+  "state": "OK",
+  "party": "R",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Centiment / University of Oklahoma (Allyson Shortle) poll for News 9, May 2026, 457 registered Oklahoma Republicans (top issues, up to three choices)",
+      "url": "https://www.news9.com/oklahoma-elections/oklahoma-gop-primary-poll-governor-race-june-election",
+      "note": "No 2026 Oklahoma poll of the full general electorate ranking issues was found; this Republican-only pre-primary poll is the only 2026 state poll with a full ranked issue list. Top 10 taken in poll order, except 'Protecting conservative values' (15%, tied 9th-10th) was dropped as not vote-testable and replaced by the next issue, Second Amendment rights (11%)."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Inflation and cost of living", "rating": "Vague",
+       "detail": "Lower costs for Americans through the Trump agenda",
+       "source": "https://www.newson6.com/oklahoma-politics/us-rep-kevin-hern-bid-oklahoma-vacant-senate-seat"},
+      {"rank": 2, "issue": "Economy, jobs and infrastructure", "rating": "Vague",
+       "detail": "Reduce regulations; bring manufacturing back from overseas; advocate for Oklahoma infrastructure investment",
+       "source": "https://bartlesvilleradio.com/pages/news/496362026/hern-talks-senate-bid-while-in-bartlesville"},
+      {"rank": 3, "issue": "Immigration", "rating": "Partial",
+       "detail": "Build border barriers and other border-security measures",
+       "source": "https://www.news9.com/oklahoma-politics/oklahoma-us-senate-election-candidates-2026"},
+      {"rank": 4, "issue": "Education", "rating": "Partial",
+       "detail": "Expand school choice, including broader allowed uses of 529 accounts",
+       "source": "https://www.news9.com/oklahoma-politics/oklahoma-us-senate-election-candidates-2026"},
+      {"rank": 5, "issue": "Crime and public safety", "rating": "Vague",
+       "detail": "Address crime in cities; reduce illegal drugs entering the country",
+       "source": "https://bartlesvilleradio.com/pages/news/488082026/podcastkevin-hern-for-us-senate"},
+      {"rank": 6, "issue": "Taxes and government spending", "rating": "Concrete",
+       "detail": "Pass a constitutional balanced-budget amendment; extend the existing tax cuts",
+       "source": "https://www.news9.com/oklahoma-politics/oklahoma-us-senate-election-candidates-2026"},
+      {"rank": 7, "issue": "Health care", "rating": "Vague",
+       "detail": "Make it easier for businesses to offer affordable health insurance; lower premiums",
+       "source": "https://www.kswo.com/2026/03/17/rep-kevin-hern-visits-lawton-discusses-us-senate-bid-more"},
+      {"rank": 8, "issue": "Government accountability and corruption", "rating": "Concrete",
+       "detail": "Enact term limits for members of Congress",
+       "source": "https://www.news9.com/oklahoma-politics/oklahoma-us-senate-election-candidates-2026"},
+      {"rank": 9, "issue": "Energy", "rating": "Vague",
+       "detail": "Supports returning oil refining to the U.S.",
+       "source": "https://sapulpatimes.com/congressman-kevin-hern-makes-stop-in-sapulpa-to-pitch-for-a-seat-in-the-u-s-senate/"},
+      {"rank": 10, "issue": "Gun policy", "rating": "Vague",
+       "detail": "Protect Second Amendment gun rights",
+       "source": "https://www.news9.com/oklahoma-politics/oklahoma-us-senate-election-candidates-2026"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue poll covers registered Republicans only (May 2026, pre-primary), not the general electorate; no ranked general-election issue poll for Oklahoma in 2026 was found.",
+    "Campaign site (hernforsenate.com) could not be fetched; its priorities are taken from News 9's Oct 2, 2026 candidate summary, which cites the site.",
+    "No general-election debate or detailed issue interview was found; Hern did not complete Ballotpedia's 2026 survey. Most 2026 statements were framed as supporting the Trump agenda without specifics.",
+    "Term limits rated Concrete (clear end state) although the source does not say whether he means a constitutional amendment or the number of terms; judgment call.",
+    "Education rated Partial: '529 expansion' named but which uses would be added is unstated.",
+    "Health care rated Vague: Dec 2025 remarks opposing extended ACA subsidies predate his Senate candidacy and were excluded; 2026 remarks named only goals.",
+    "Energy: only a general comment at a March 2026 campaign stop; his House energy work is past record and excluded.",
+    "Term start: Oklahoma AG opinion indicates the Nov 3 winner may take office on certification, before Jan 3, 2027 (appointee Alan Armstrong holds the seat until then); standard term dates kept."
+  ],
+  "researched": "2026-11-05"
+}

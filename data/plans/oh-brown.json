@@ -1,0 +1,62 @@
+{
+  "id": "oh-brown",
+  "name": "Sherrod Brown",
+  "state": "OH",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2029-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Fox News Poll of 1,015 Ohio registered voters, May 28-June 1, 2026 (Q8: most important issue to your vote for Senate)",
+      "url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/fox_may-28-june-1-2026_complete_ohio_topline_june-3-release.pdf",
+      "note": "Latest Ohio poll with a full published issue ranking that could be reached. Ranks 1-7 follow it (inflation 43, healthcare 12, immigration 11, jobs 8, Iran conflict 7, abortion 4, crime 4); 'political divisions' (9) dropped as untestable. Later Ohio polls agree on the top: Fox Aug 6-10 (inflation 40%, then healthcare, immigration) and NYT/Siena Sept 22-Oct 1 (economy/jobs 23, inflation 9, immigration 7); Fox Oct 15-19 and Marist Oct 15-18 tables were unreachable. Ranks 8-10 filled from the national BGSU poll of 1,200 likely voters (Sept 2026, pick up to three), next untaken items in order: government corruption 30%, threats to democracy 24%, national debt 14%/taxes 12%."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Inflation and cost of living", "rating": "Concrete",
+       "detail": "Return tariff revenue to families as rebates instead of refunding businesses",
+       "source": "https://wysu.org/ohio-news/2026-03-02/tariff-refunds-should-they-go-to-businesses-or-ohioans-u-s-senate-candidates-have-ideas"},
+      {"rank": 2, "issue": "Health care", "rating": "Concrete",
+       "detail": "Let people over 50 and police/firefighters buy into Medicare; reverse 2025 federal Medicaid cuts; $35 insulin cap for seniors",
+       "source": "https://www.wyso.org/2025-12-31/ohios-2026-us-senate-race-husted-brown-focus-in-on-health-care-cost"},
+      {"rank": 3, "issue": "Immigration", "rating": "Partial",
+       "detail": "Close border to unauthorized crossings; deport immigrants who commit crimes; delay ending Haitian legal status",
+       "source": "https://www.foxnews.com/politics/dem-senate-candidate-sherrod-brown-claims-supports-closing-border-gop-says-record-proves-otherwise"},
+      {"rank": 4, "issue": "Jobs and the economy", "rating": "Partial",
+       "detail": "Trade policy that protects domestic manufacturing and union bargaining; union labor on data center construction",
+       "source": "https://abc6onyourside.com/news/local/brown-targets-data-center-tax-breaks-and-rising-electric-bills-in-ohio-husted-politics-election-midterm-senate"},
+      {"rank": 5, "issue": "Iran war and foreign policy", "rating": "Partial",
+       "detail": "Support efforts to end the U.S. war in Iran; oppose a new Middle East war",
+       "source": "https://www.news5cleveland.com/news/local-news/iran-wars-impact-on-gas-prices-becomes-central-issue-in-ohio-senate-race-with-41-days-until-election"},
+      {"rank": 6, "issue": "Abortion", "rating": "None",
+       "detail": "",
+       "source": "https://guides.vote/guide/2026-ohio-senate-voters-guide/"},
+      {"rank": 7, "issue": "Crime and public safety", "rating": "Vague",
+       "detail": "Better funding for local police",
+       "source": "https://signalohio.org/on-ice-ohio-sherrod-brown-goes-on-offense-while-jon-husted-urges-a-reset-election-2026/"},
+      {"rank": 8, "issue": "Government ethics and corruption", "rating": "Concrete",
+       "detail": "Ban stock trading by members of Congress and their spouses",
+       "source": "https://punchbowl.news/article/campaigns/stock-trading-ban/"},
+      {"rank": 9, "issue": "Democracy and elections", "rating": "None",
+       "detail": "",
+       "source": "https://cwcolumbus.com/news/local/sherrod-brown-launches-us-senate-campaign-focus-workers-system-reform-ohio-chuck-schumer-jon-husted-donald-trump-bernie-moreno"},
+      {"rank": 10, "issue": "Government spending and debt", "rating": "Vague",
+       "detail": "Oppose tax breaks for the wealthy and corporations; spend on schools and roads instead of Iran war",
+       "source": "https://wysu.org/ohio-news/2026-03-02/tariff-refunds-should-they-go-to-businesses-or-ohioans-u-s-senate-candidates-have-ideas"}
+    ]
+  },
+  "plan_caveats": [
+    "Special election for the rest of Vance's term; Ohio special-election winners are normally seated once results are certified, so Brown may be sworn in before 2027-01-03 (not verified). Dates kept per instructions.",
+    "Issue poll is from June 2026; the closer Fox (Oct 15-19) and Marist (Oct 15-18) Ohio tables could not be fetched. Ranks 8-10 come from national polling (BGSU, Sept 2026).",
+    "Campaign site (sherrodbrown.com) homepage not fetchable; its health-care and safety issue pages carry no year or opponent name and describe past bills, so they were not used as 2026 promises.",
+    "Health care: Medicare buy-in from WYSO (Dec 2025, as declared candidate); Medicaid-cut reversal from Cleveland19 (Oct 28, 2026); $35 insulin from WFMJ Decision 2026 profile.",
+    "Iran rated Partial: he faulted Husted for voting against efforts to end the war immediately and pledged to 'end this war', but named no bill or mechanism himself.",
+    "Inflation rated Concrete on the tariff-rebate proposal (a new program); his other cost messaging (data center developers should bear power costs) is directional.",
+    "Abortion and democracy: no 2026 forward-looking statements found; available material (guides.vote, 2024 coverage) is past record only.",
+    "Immigration source is a Fox News article critical of Brown; only his own quoted interview statements were used.",
+    "Minimum wage $17 (undated X post per guides.vote) not used because its date could not be confirmed."
+  ],
+  "researched": "2026-11-05"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "tx-talarico",
+  "name": "James Talarico",
+  "state": "TX",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "University of Texas / Texas Politics Project poll (Aug 5-13, 2026, 1,200 registered voters), combined with Emerson College Texas poll (Oct 17-19, 2026) and Fox News Texas poll (Sept 24-28, 2026)",
+      "url": "https://texaspolitics.utexas.edu/files/202608_POLL_TOPLINE-c5d4ba53.pdf",
+      "note": "Base order from UT/TPP open-ended 'most important problem' facing the country and facing Texas (summed): inflation/prices 19%/19%, political corruption/leadership 17%/15%, economy 17%/10%, immigration 5%/10% plus border security 2%/4%, health care 4%/4%, energy/grid, utility rates and gas prices ~7% combined (Texas), Iran war 3%/1%. Emerson's final pre-election poll (economy 39%, immigration 16%, threats to democracy 13%, education 12%, health care 9%) used to add Democracy and elections and Education. Fox News Sept poll (cost of living 92% extremely/very important, immigration 79%, data centers 68%) used to add AI and data centers. 'Moral decline' (4%) and 'Trump' dropped as not vote-testable. Ranks 5-10 are approximate."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Inflation and cost of living", "rating": "Concrete",
+       "detail": "Repeal One Big Beautiful Bill tax breaks for top 1% to fund a cost-of-living tax cut; permanently expand child tax credit; universal child care; paid family leave.",
+       "source": "https://www.texastribune.org/2026/08/05/texas-senate-james-talarico-economic-agenda-ken-paxton/"},
+      {"rank": 2, "issue": "Economy and jobs", "rating": "Concrete",
+       "detail": "Raise federal minimum wage above $15 (more than double $7.25); expand overtime pay; grants for entrepreneurs; citizen stake in U.S. AI companies.",
+       "source": "https://www.fox7austin.com/news/senate-texas-us-minimum-wage-increase-talarico-james.amp"},
+      {"rank": 3, "issue": "Government corruption and ethics", "rating": "Concrete",
+       "detail": "Ban congressional stock trading; ban super PACs and corporate PAC contributions; congressional and Supreme Court term limits; ban presidential pardons.",
+       "source": "https://www.sacurrent.com/news/texas-news/talarico-rolls-out-anti-corruption-agenda-as-he-takes-lead-in-new-polling/"},
+      {"rank": 4, "issue": "Immigration", "rating": "Partial",
+       "detail": "Pathway to citizenship for long-term residents with back taxes, English, background check; more Border Patrol agents and surveillance technology; keep ICE but rein it in.",
+       "source": "https://texastribune.org/2026/10/14/texas-senate-james-talarico-ken-paxton-cnn-town-hall"},
+      {"rank": 5, "issue": "Democracy and elections", "rating": "Concrete",
+       "detail": "Nationwide ban on partisan gerrymandering; remove dark money from politics; expand voting access.",
+       "source": "https://jamestalarico.com/wp-content/uploads/2025/12/Talarico-for-Texas_-Printable-Flyers.pdf"},
+      {"rank": 6, "issue": "Health care", "rating": "Concrete",
+       "detail": "Public option: let Americans of any age buy into Medicare; cancel medical debt; protect Medicare and Medicaid.",
+       "source": "https://www.texastribune.org/2026/09/22/james-talarico-trans-climate-policy-changes-election-2026/"},
+      {"rank": 7, "issue": "Education", "rating": "Concrete",
+       "detail": "Create universal pre-kindergarten; oppose federal school voucher programs; fully fund public schools.",
+       "source": "https://www.texastribune.org/2026/09/22/james-talarico-trans-climate-policy-changes-election-2026/"},
+      {"rank": 8, "issue": "Energy and utility costs", "rating": "Concrete",
+       "detail": "Suspend the federal gas tax; fund and expand LIHEAP eligibility with fairer share for hot states; all-of-the-above energy incl. oil, gas, renewables.",
+       "source": "https://www.texastribune.org/2026/10/18/paxton-talarico-energy-prices-senate-race-texas/"},
+      {"rank": 9, "issue": "AI and data centers", "rating": "Concrete",
+       "detail": "Federal minimum standards for new data centers (grid, environment, jobs, transparency); large users pay own grid costs; closed-loop water required; local approval power.",
+       "source": "https://www.newsweek.com/james-talarico-unveils-texas-data-center-crackdown-plan-list-of-proposals-12235397"},
+      {"rank": 10, "issue": "Iran war and foreign policy", "rating": "Partial",
+       "detail": "End the war in Iran and Middle East 'forever wars'; no mechanism (funding cutoff, war powers vote) named.",
+       "source": "https://texastribune.org/2026/10/14/texas-senate-james-talarico-ken-paxton-cnn-town-hall"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue ranking combines UT/TPP open-ended responses (Aug 2026) with Emerson (Oct) and Fox News (Sept) closed-list items; the polls use different questions, so ranks 5-10 are approximate. A UT/TPP Oct 10-12 poll found via Yahoo may be from 2025 and was not used.",
+    "Campaign issues page (jamestalarico.com/issues) could not be fetched; ratings rely on a campaign flyer PDF, OnTheIssues, and 2026 news coverage of plan releases and the CNN town hall.",
+    "Economy rated Concrete on minimum wage 'more than $15' (no exact figure); a stricter reading would be Partial on that item.",
+    "Some data center items (repeal Texas sales tax exemption, local approval) are state-level and not testable by Senate votes; Concrete rests on federal minimum standards and cost-causer grid pricing.",
+    "Education Concrete rests on universal pre-K (new program); voucher opposition is a 'no' position checkable only if a federal voucher bill comes up.",
+    "Iran rated Partial: 'end the war' stated, but no funding cutoff or war powers commitment found.",
+    "Also stated but outside the top 10: codify Roe v. Wade; end tariffs on everyday goods and farm inputs; national ban on gender surgeries for minors; first-time homebuyer down payment assistance.",
+    "Win as given in task (CBS News projection); not independently confirmed in this research."
+  ],
+  "researched": "2026-11-05"
+}

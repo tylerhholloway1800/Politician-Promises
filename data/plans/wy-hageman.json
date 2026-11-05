@@ -1,0 +1,60 @@
+{
+  "id": "wy-hageman",
+  "name": "Harriet Hageman",
+  "state": "WY",
+  "party": "R",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Cygnal for Keep It Public Wyoming, Wyoming Republican primary voters (n=400+), late July 2026 - most important issue; plus New Bridge Strategy for Natrona Collective Health Trust, Wyoming registered voters (n=545), Feb 10-16, 2026 - share calling each an extremely/very serious problem; plus Colorado College State of the Rockies, Wyoming registered voters (n=406), Jan 2-18, 2026",
+      "url": "https://www.newsfromthestates.com/node/421344",
+      "note": "Combined three Wyoming polls. No 2026 all-voter Wyoming poll with a general ranked issue list was found. Ranks 1-5 are the Cygnal most-important-issue order (closest to Election Day; only the top five were published; cost of living 21%+, taxes/spending 14%, immigration 13%, jobs/economy 11%, public lands 11% - the last two tied). Ranks 6-9 are the highest remaining items from the NCHT poll (https://collectivehealthtrust.org/wp-content/uploads/2026/05/NBS_Report_041726-1.pdf): health care cost 81% / availability 62% merged, housing cost 67%, suicide 64% / mental health 63% merged, drug and alcohol use 54%. NCHT's 'rising cost of living' (74%) and 'lack of well-paid jobs' (61%) fold into ranks 1 and 4. Excluded as not testable by a Senate vote: state budget (54%, set by the Wyoming Legislature), young residents/families leaving the state (48%/44%), social isolation (38%). Rank 10, wildfire (51% extremely/very serious), comes from State of the Rockies (https://www.coloradocollege.edu/other/stateoftherockies/conservationinthewest/2026-poll-data/2026-state-of-the-rockies%20deck%20FINAL.pdf), which uses the same 'extremely/very serious problem' wording; it outranks NCHT's next testable items (immigration 34%, hunger 30%)."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Cost of living and inflation", "rating": "Vague",
+       "detail": "Cut federal red tape to improve affordability; reduce federal spending; no specific measure",
+       "source": "https://www.jhnewsandguide.com/tncms/asset/editorial/5b9f2c40-dba7-4501-abcb-bda23071e279/"},
+      {"rank": 2, "issue": "Taxes and government spending", "rating": "Vague",
+       "detail": "Reduce federal spending; no target, cap or named bill",
+       "source": "https://www.greenriverstar.com/story/2026/08/06/news/voters-guide-us-senator-2026-primary-election/14140.html"},
+      {"rank": 3, "issue": "Immigration", "rating": "Partial",
+       "detail": "Keep border security funded; prioritize deporting criminal noncitizens; merit-based legal immigration (education, skills, assimilation); remove illegal/unqualified truck drivers",
+       "source": "https://projects.wyofile.com/election-guide-2026/candidates/hageman-harriet/"},
+      {"rank": 4, "issue": "Jobs and the economy", "rating": "Partial",
+       "detail": "Regulatory reform and permitting modernization; protect legacy energy industries and small businesses; empower states",
+       "source": "https://www.greenriverstar.com/story/2026/08/06/news/voters-guide-us-senator-2026-primary-election/14140.html"},
+      {"rank": 5, "issue": "Public lands", "rating": "Concrete",
+       "detail": "Roll back the Roadless Rule on Wyoming national forests; multiple-use and sustained-yield management with local input",
+       "source": "https://www.wyomingpublicmedia.org/politics-government/2026-08-10/cheyenne-roundup-decision-2026-wyomings-congressional-delegation"},
+      {"rank": 6, "issue": "Health care costs and access", "rating": "Partial",
+       "detail": "Back existing Rural Health Transformation Program; Wyoming joining a larger insurance marketplace; review drug pricing rules",
+       "source": "https://wyofile.com/casper-forum-separates-us-senate-candidates-on-healthcare-executive-power/"},
+      {"rank": 7, "issue": "Housing costs", "rating": "Partial",
+       "detail": "Points to enacted 21st Century ROAD to Housing Act (construction, permitting, financing); no new measure",
+       "source": "https://www.jhnewsandguide.com/tncms/asset/editorial/5b9f2c40-dba7-4501-abcb-bda23071e279/"},
+      {"rank": 8, "issue": "Mental health and suicide prevention", "rating": "None",
+       "detail": "No 2026 campaign position found",
+       "source": "https://projects.wyofile.com/election-guide-2026/candidates/hageman-harriet/"},
+      {"rank": 9, "issue": "Drug and alcohol addiction", "rating": "None",
+       "detail": "No 2026 campaign position found",
+       "source": "https://projects.wyofile.com/election-guide-2026/candidates/hageman-harriet/"},
+      {"rank": 10, "issue": "Wildfire", "rating": "Concrete",
+       "detail": "Pass the Fix Our Forests Act (S.1462, pending in Senate)",
+       "source": "https://wyofile.com/casper-forum-separates-us-senate-candidates-on-healthcare-executive-power/"}
+    ]
+  },
+  "plan_caveats": [
+    "Ranks 1-5 come from a poll of Republican primary voters only (about 74% of Wyoming registrants are Republican), sponsored by a public-lands advocacy campaign; only its top five issues were published, via WyoFile, not the poll itself.",
+    "Issue list stitches together three polls with different questions (most important issue vs. 'serious problem'); the order between the Cygnal block and the NCHT/State of the Rockies block is a judgment call.",
+    "Hageman published no 2026 issue pages that could be found (campaign site hagemanforwyoming.com could not be fetched), skipped the general-election PBS debates, and did not answer Ballotpedia's survey; positions come from WyoFile/JH News&Guide questionnaires, the July 8 Casper forum and press coverage.",
+    "Public lands rated Concrete on the Roadless Rule rollback, reported by Wyoming Public Media as something she is 'working to' do during the campaign; much of her public-lands record (Utah land case, roadless-area bill) is House record, not a campaign promise, and was not counted.",
+    "Wildfire rated Concrete because she cited the pending Fix Our Forests Act at a campaign forum as a measure she backs; she did not explicitly pledge a Senate vote for it.",
+    "Grizzly bear delisting and coal leasing pushes were House activity, not 2026 campaign statements, so they were not counted.",
+    "Primary debate (Aug 13, 2026, Wyoming PBS) video was not transcribed; it may contain additional positions."
+  ],
+  "researched": "2026-11-05"
+}

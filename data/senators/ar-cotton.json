@@ -38,7 +38,8 @@
           "question": "On the motion to concur in the House amendment with an amendment",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "CHIPS included chip-manufacturing funding he had proposed; he opposed the larger package."
@@ -60,7 +61,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -81,7 +83,8 @@
           "question": "On the amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "His amendment was a non-binding reserve-fund amendment; the standalone bill got no vote."
@@ -103,7 +106,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 extended tax cuts and raised the estate-tax exemption but did not repeal the tax."
@@ -133,7 +137,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "The bill included $350 billion in state and local aid."
@@ -155,7 +160,8 @@
           "question": "On the amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },

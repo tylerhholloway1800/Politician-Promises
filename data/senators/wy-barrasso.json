@@ -1,0 +1,172 @@
+{
+  "id": "wy-barrasso",
+  "name": "John Barrasso",
+  "state": "WY",
+  "party": "R",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Cygnal Wyoming statewide poll, Oct 26–28, 2024 (600 likely voters); Gallup national, Sept 16–28, 2024",
+    "url": "https://www.cygn.al/news/wyoming-poll-trump-barrasso-dominate-democrats-hispanics-breaking-for-trump-21/",
+    "note": "Cygnal's published top-issue results give only four items (ranks 1–4). Ranks 5–10 follow Gallup's national 'extremely important' list (https://news.gallup.com/poll/651719/economy-important-issue-2024-presidential-vote.aspx), skipping items already covered."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": false,
+      "position": "Cut federal spending and regulation to bring down inflation",
+      "position_source": "https://cowboystatedaily.com/2024/04/17/its-official-barrasso-wants-another-6-year-in-us-senate/",
+      "votes": [],
+      "note": "Direction only; no specific measure named."
+    },
+    {
+      "rank": 2,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Finish border wall, end catch-and-release, deport illegal immigrants",
+      "position_source": "https://www.govinfo.gov/content/pkg/CREC-2024-09-24/html/CREC-2024-09-24-pt1-PgS6343.htm",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 7,
+          "date": "2025-01-20",
+          "bill": "S.5",
+          "bill_title": "Laken Riley Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded border wall construction and deportation operations."
+    },
+    {
+      "rank": 3,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Stop noncitizens from voting in U.S. elections",
+      "position_source": "https://www.govinfo.gov/content/pkg/CREC-2024-09-24/html/CREC-2024-09-24-pt1-PgS6343.htm",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Abortion",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://ontheissues.org/Social/John_Barrasso_Abortion.htm",
+      "votes": [],
+      "note": "Long-standing anti-abortion record, but no 2024 campaign position found."
+    },
+    {
+      "rank": 5,
+      "issue": "National security",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://abcnews.go.com/US/wireStory/john-barrasso-wyomings-high-ranking-republican-us-senator-115503474",
+      "votes": []
+    },
+    {
+      "rank": 6,
+      "issue": "Supreme Court / judges",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Wyoming",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Education",
+      "testable": false,
+      "position": "Backed UW forfeit over transgender player; no policy stated",
+      "position_source": "https://cowboystatedaily.com/2024/10/18/immigration-trump-main-themes-as-barrasso-debates-oponent-in-their-only-debate",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Bar federal Medicaid funds for noncitizen benefits (Protect Medicaid Act)",
+      "position_source": "https://www.barrasso.senate.gov/?p=3771",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 limited federal Medicaid eligibility for many noncitizens."
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://abcnews.go.com/US/wireStory/john-barrasso-wyomings-high-ranking-republican-us-senator-115503474",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Oppose tax increases; pass a balanced budget amendment",
+      "position_source": "https://cowboystatedaily.com/2024/10/18/immigration-trump-main-themes-as-barrasso-debates-oponent-in-their-only-debate",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 made 2017 tax cuts permanent; no floor vote on a balanced budget amendment."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Only four ranked issues were available from the Wyoming poll; ranks 5–10 come from national Gallup polling, so Wyoming-specific concerns like energy are left out.",
+    "Campaign-site positions could not be retrieved (archive blocked); positions come from the debate, floor remarks and Senate releases in 2024.",
+    "Barrasso's Yea votes on S.5 (roll 7) and H.R.1 (roll 372) are inferred from party-line tallies and his public statements, not read from a member list."
+  ],
+  "researched": "2026-11-04"
+}

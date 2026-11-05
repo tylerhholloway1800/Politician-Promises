@@ -1,0 +1,156 @@
+{
+  "id": "ak-murkowski",
+  "name": "Lisa Murkowski",
+  "state": "AK",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "AARP Alaska Poll (Fabrizio Ward / Impact Research), Sept 6–11, 2022",
+    "url": "https://s3.documentcloud.org/documents/22416369/aarp-alaska-report-9-14-22.pdf",
+    "note": "Most important issue for Senate vote; voters 50+ only. Election security (6%) and voting rights (5%) combined; gun policy (4%) is the 10th issue."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Taxes, spending and debt",
+      "testable": false,
+      "position": "Opposed tax and spending increases in 2022 reconciliation bill; no forward pledge",
+      "position_source": "https://www.murkowski.senate.gov/press/release/murkowski-votes-against-tax-and-spend-reconciliation-bill",
+      "votes": []
+    },
+    {
+      "rank": 2,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Write Roe protections into federal law, with limits",
+      "position_source": "https://alaskabeacon.com/briefs/qa-with-2022-alaska-u-s-senate-candidate-lisa-murkowski/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Oppose measures that restrict access to voting",
+      "position_source": "https://www.alaskasnewssource.com/2022/10/28/debate-state-us-senate-candidates-debate-issues-important-alaska/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Inflation / cost of living",
+      "testable": false,
+      "position": "Address housing, child care and transportation costs; no specific policy",
+      "position_source": "https://www.kcaw.org/2022/08/15/lisa-murkowski-talks-climate-change-roe-v-wade-and-winning-the-youth-vote-on-the-campaign-trail-to-keep-her-senate-seat/",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Environment / energy",
+      "testable": true,
+      "position": "Open ANWR and NPR-A to oil and gas development",
+      "position_source": "https://www.democracyinaction.us/lit/22sen/aksen22r.html",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-10-30",
+          "bill": "S.J.Res.80",
+          "bill_title": "Disapproval of NPR-A Integrated Activity Plan rule",
+          "question": "On the joint resolution",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 required ANWR and NPR-A lease sales."
+    },
+    {
+      "rank": 6,
+      "issue": "Jobs / economy",
+      "testable": false,
+      "position": "Jobs from infrastructure, resources and tourism; no specific policy",
+      "position_source": "https://www.democracyinaction.us/lit/22sen/aksen22r.html",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Immigration",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://ballotpedia.org/United_States_Senate_election_in_Alaska,_2022",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Social Security and Medicare",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://local.aarp.org/news/senate-candidates-tackle-the-issues-ak-2022-09-28.html",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Health care",
+      "testable": false,
+      "position": "Lower drug costs, expand telehealth; move past ACA fights",
+      "position_source": "https://alaskabeacon.com/briefs/qa-with-2022-alaska-u-s-senate-candidate-lisa-murkowski/",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose assault weapons ban and national red-flag law",
+      "position_source": "https://alaskabeacon.com/briefs/qa-with-2022-alaska-u-s-senate-candidate-lisa-murkowski/",
+      "votes": [],
+      "note": "No Senate floor vote on an assault weapons ban or national red-flag law this term."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue poll covers voters 50+ only; no all-ages Alaska issue ranking from 2022 found.",
+    "AARP candidate Q&A (Social Security/Medicare answers) could not be retrieved; that issue may be testable.",
+    "S.J.Res.80 roll call number unconfirmed (usquery record id suggests 599); H.J.Res.131 (Dec 4, 2025, ANWR) omitted because her vote was not confirmed.",
+    "Husted photo-ID amendment to S.1383 (Mar 26, 2026, reported party-line 53-47) not scored: her vote unconfirmed and she says she supports voter ID."
+  ],
+  "researched": "2026-11-04"
+}

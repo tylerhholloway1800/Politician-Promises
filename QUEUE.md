@@ -39,12 +39,12 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 - [x] va-kaine Tim Kaine D-VA
 - [x] wa-cantwell Maria Cantwell D-WA
 - [x] wv-justice Jim Justice R-WV
-- [ ] wi-baldwin Tammy Baldwin D-WI
-- [ ] wy-barrasso John Barrasso R-WY
+- [x] wi-baldwin Tammy Baldwin D-WI
+- [x] wy-barrasso John Barrasso R-WY
 
 ## New, class III (2022)
-- [ ] al-britt Katie Britt R-AL
-- [ ] ak-murkowski Lisa Murkowski R-AK
+- [x] al-britt Katie Britt R-AL
+- [x] ak-murkowski Lisa Murkowski R-AK
 - [ ] az-kelly Mark Kelly D-AZ
 - [ ] ar-boozman John Boozman R-AR
 - [ ] ca-padilla Alex Padilla D-CA

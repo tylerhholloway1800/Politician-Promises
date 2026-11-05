@@ -1,0 +1,185 @@
+{
+  "id": "al-britt",
+  "name": "Katie Britt",
+  "state": "AL",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Cygnal / Alabama Daily News / Gray TV poll of likely general election voters, Oct 27–29, 2022",
+    "url": "https://aldailynews.com/?p=141282",
+    "note": "Single most important issue question; the published article lists 9 of 10 options. Rank 10 (taxes / government spending) taken from the AUM poll of GOP runoff voters, June 8–15, 2022 (https://www.aum.edu/wp-content/uploads/2022/06/06.16.2022-AUM-Poll-Toplines.pdf)."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Inflation / cost of living",
+      "testable": false,
+      "position": "Rein in federal overspending; no specific plan",
+      "position_source": "https://1819news.com/news/item/katie-britt-talks-inflation-supply-chain-issues-things-she-sees-as-priorities-12-17-2021",
+      "votes": []
+    },
+    {
+      "rank": 2,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Oppose abortion (\"100% pro-life\")",
+      "position_source": "https://ontheissues.org/senate/Katie_Britt.htm",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 11,
+          "date": "2025-01-22",
+          "bill": "S.6",
+          "bill_title": "Born-Alive Abortion Survivors Protection Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Jobs / economy",
+      "testable": true,
+      "position": "Restart Keystone XL; expand Gulf drilling; oppose Green New Deal",
+      "position_source": "https://ontheissues.org/senate/Katie_Britt.htm",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 mandated Gulf oil and gas lease sales; Keystone XL never got a floor vote."
+    },
+    {
+      "rank": 4,
+      "issue": "Elections / voting",
+      "testable": false,
+      "position": "Uphold election integrity, fight voter fraud; no specific bill",
+      "position_source": "https://yellowhammernews.com/u-s-senate-hopeful-katie-britt-slams-biden-outlines-key-priorities-in-fort-payne-campaign-stop",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Education",
+      "testable": false,
+      "position": "Supports school choice and voluntary pre-K; no specific bill",
+      "position_source": "https://ontheissues.org/senate/Katie_Britt.htm",
+      "votes": []
+    },
+    {
+      "rank": 6,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Build the border wall; reinstate Remain in Mexico",
+      "position_source": "https://ballotpedia.org/United_States_Senate_election_in_Alabama,_2022_(May_24_Republican_primary)",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded border wall construction."
+    },
+    {
+      "rank": 7,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "Make police the best trained and equipped; no specific bill",
+      "position_source": "https://ontheissues.org/senate/Katie_Britt.htm",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Repeal and replace the ACA; expand telehealth",
+      "position_source": "https://ontheissues.org/senate/Katie_Britt.htm",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 20,
+          "date": "2026-01-30",
+          "bill": "H.R.7148",
+          "bill_title": "Consolidated Appropriations Act, 2026",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Package extended Medicare telehealth through 2027; no floor vote on ACA repeal."
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose red-flag laws and new gun restrictions",
+      "position_source": "https://1819news.com/news/item/britt-said-that-red-flag-laws-are-a-gateway-to-push-a-disarming-agenda",
+      "votes": [],
+      "note": "No Senate floor vote on new gun restrictions this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Taxes / government spending",
+      "testable": true,
+      "position": "Oppose any tax increase; repeal the estate tax",
+      "position_source": "https://ontheissues.org/senate/Katie_Britt.htm",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 blocked scheduled 2017 tax-cut expiration and raised, but did not repeal, the estate tax exemption."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Rank 10 comes from a separate June 2022 GOP-runoff poll because the Oct 2022 article omits its tenth option.",
+    "Most positions are from OnTheIssues summaries of her 2021–22 campaign site; the archived site itself could not be fetched.",
+    "Britt's individual votes on H.R.7148 (passed 71-29) and S.4554 are inferred from party-line votes and her statements, not read from a roll call list."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "wi-baldwin",
+  "name": "Tammy Baldwin",
+  "state": "WI",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Marquette Law School Poll, Wisconsin, Oct 16–24, 2024",
+    "url": "https://law.marquette.edu/poll/wp-content/uploads/2024/10/MLSP83PressRelease.pdf",
+    "note": "Most important issue question ranks 1–8 (economy 38%, abortion 15%, immigration 13%, Medicare/Social Security 9%, fair elections 9%, health care 6%, foreign relations 3%, Israel-Hamas war 3%). Ranks 9–10 from Rasmussen/American Thinker WI likely voters, Oct 9–14, 2024 (climate change 8%, violent crime 5%, tied with global conflicts and corruption): https://www.rasmussenreports.com/public_content/politics/partner_surveys/toplines_2_american_thinker_october_2024_wisconsin"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Pass a federal ban on price gouging",
+      "position_source": "https://www.baldwin.senate.gov/news/press-releases/senator-baldwin-leads-bill-to-crack-down-on-big-corporations-price-gouging-americans",
+      "votes": [],
+      "note": "No Senate floor vote on the Price Gouging Prevention Act this term."
+    },
+    {
+      "rank": 2,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pass the Women's Health Protection Act to restore Roe nationwide",
+      "position_source": "https://wisconsinwatch.org/2024/10/wisconsin-baldwin-hovde-senate-race-election",
+      "votes": [],
+      "note": "No Senate floor vote on the Women's Health Protection Act this term."
+    },
+    {
+      "rank": 3,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pass the bipartisan border deal: more Border Patrol agents, fentanyl screening",
+      "position_source": "https://www.baldwin.senate.gov/news/press-releases/baldwin-supports-bipartisan-border-and-immigration-compromise",
+      "votes": [],
+      "note": "The bipartisan border compromise did not come back to the floor this term."
+    },
+    {
+      "rank": 4,
+      "issue": "Medicare / Social Security",
+      "testable": true,
+      "position": "No cuts to Social Security or Medicare; raise the payroll tax cap",
+      "position_source": "https://spectrumnews1.com/wi/milwaukee/news/2024/10/19/tammy-baldwin-eric-hovde-debate",
+      "votes": [],
+      "note": "No floor vote this term on Social Security or Medicare benefits or the payroll cap."
+    },
+    {
+      "rank": 5,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Oppose new voting restrictions",
+      "position_source": "https://www.tammybaldwin.com/2024/04/30/icymi-tammy-baldwin-hosts-voting-rights-roundtable-with-community-leaders-for-grand-opening-of-campaigns-milwaukee-office/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Build on the ACA; make enhanced premium tax credits permanent",
+      "position_source": "https://www.baldwin.senate.gov/news/press-releases/baldwin-shaheen-lead-bill-to-make-affordable-care-act-premium-tax-breaks-permanent-lowering-costs-for-millions-of-americans",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut Medicaid and changed ACA marketplace rules; she opposed it."
+    },
+    {
+      "rank": 7,
+      "issue": "Foreign relations / Ukraine",
+      "testable": true,
+      "position": "Keep U.S. military support for Ukraine",
+      "position_source": "https://politiquote.gigafact.org/quotes/tammy-baldwin-c9ae64/we-need-to-stay-the-course-025a1c/",
+      "votes": [],
+      "note": "No Senate floor vote on Ukraine aid found this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Israel-Hamas war",
+      "testable": true,
+      "position": "Condition military aid on compliance with humanitarian law",
+      "position_source": "https://jewishinsider.com/2024/10/sen-tammy-baldwin-democrat-wisconsin-eric-hovde-israel/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 454,
+          "date": "2025-07-30",
+          "bill": "S.J.Res.41",
+          "bill_title": "Disapproval of firearms export to Israel",
+          "question": "Motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 455,
+          "date": "2025-07-30",
+          "bill": "S.J.Res.34",
+          "bill_title": "Disapproval of arms sale to Israel",
+          "question": "Motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Her vote on these is from news lists of senators voting yes and her own July 30, 2025 statement."
+    },
+    {
+      "rank": 9,
+      "issue": "Environment / climate",
+      "testable": false,
+      "position": "Continue clean-energy work; no specific forward pledge found",
+      "position_source": "https://www.tammybaldwin.com/2024/09/02/bluegreen-alliance-endorses-tammy-baldwin-for-u-s-senate-highlighting-wins-for-wisconsin-workers/",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "Fight fentanyl across the supply chain (direction only)",
+      "position_source": "https://upnorthnewswi.com/news/elections/sen-baldwin-inflation-border-fentanyl/",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issues 9–10 come from a second poll (Rasmussen) because Marquette listed only eight issues; crime is tied at 5% with global conflicts and corruption.",
+    "Israel was scored on arms-sale disapproval votes; her stated position was conditioning aid, not blocking sales. Her Yea comes from news lists and her own statement, not senate.gov.",
+    "Her votes on roll calls 57, 372 and 644 are inferred from reports of unanimous Democratic votes. The roll call numbers come from the NH file, not a Baldwin-specific source.",
+    "H.R.1 (2025) funded border enforcement but was not counted for immigration, because her position was the 2024 bipartisan deal specifically."
+  ],
+  "researched": "2026-11-04"
+}

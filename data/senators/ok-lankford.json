@@ -29,7 +29,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -50,7 +51,8 @@
           "question": "Motion to proceed",
           "vote": "Yea",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "SAVE America Act sets federal voter-registration and ID rules; graded as for other senators who pledged against federalizing elections."
@@ -81,7 +83,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -93,7 +96,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -123,7 +127,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 narrowed negotiation for orphan drugs; full repeal never got a floor vote."
@@ -153,7 +158,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -174,7 +180,8 @@
           "question": "On the joint resolution",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -194,7 +201,9 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "roll_call": 48,
+          "verified": true
         },
         {
           "congress": 118,
@@ -206,7 +215,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Voted no in February because border provisions were dropped; voted yes on the April package."

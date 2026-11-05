@@ -29,7 +29,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -41,7 +42,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Both bills cut IRA IRS funding. He opposed the debt-limit bill, calling it a blank check (https://www.scott.senate.gov/media-center/press-releases/senator-scott-opposes-giving-biden-administration-blank-check/)."
@@ -63,7 +65,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 required onshore and offshore oil and gas lease sales; Keystone XL got no vote. Also https://www.foxnews.com/media/gas-tax-holiday-tricks-market-domestic-speculation-easier-fix-tim-scott"
@@ -111,7 +114,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -123,7 +127,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "School choice is from his 2022 campaign letter (https://www.democracyinaction.us/lit/22sen/scsen22r.html); H.R.1 created a permanent school-choice tax credit. Loan vote confirmed by his release (https://www.scott.senate.gov/media-center/press-releases/senator-scott-fights-back-against-biden-administrations-illegal-and-unfair-student-loan-cancellation-policy-protects-working-americans)."
@@ -161,7 +166,8 @@
           "question": "On the joint resolution",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Vote source: https://www.usquery.com/vote/1180100171"
@@ -183,7 +189,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Failed 49-44; Collins and Murkowski were the only Republican yes votes and Scott (SC) was not absent (https://www.dailypress.senate.gov/wednesday-july-10-2024)."

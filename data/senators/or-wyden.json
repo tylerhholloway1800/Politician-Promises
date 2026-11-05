@@ -20,14 +20,30 @@
       "position_source": "https://www.finance.senate.gov/chairmans-news/wyden-calls-for-expansion-of-child-tax-credit",
       "votes": [
         {
-          "congress": 118, "session": 2, "roll_call": 230, "date": "2024-08-01",
-          "bill": "H.R.7024", "bill_title": "Tax Relief for American Families and Workers Act",
-          "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false
+          "congress": 118,
+          "session": 2,
+          "roll_call": 230,
+          "date": "2024-08-01",
+          "bill": "H.R.7024",
+          "bill_title": "Tax Relief for American Families and Workers Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
         },
         {
-          "congress": 119, "session": 1, "roll_call": 354, "date": "2025-07-01",
-          "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (Bennet motion to commit to expand child tax credit)",
-          "question": "On the motion to commit with instructions", "vote": "Yea", "consistent": true, "auto": false
+          "congress": 119,
+          "session": 1,
+          "roll_call": 354,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (Bennet motion to commit to expand child tax credit)",
+          "question": "On the motion to commit with instructions",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -39,14 +55,30 @@
       "position_source": "https://www.wyden.senate.gov/news/press-releases/wyden-delivers-floor-speech-on-protecting-democracy-and-expanding-the-right-to-vote",
       "votes": [
         {
-          "congress": 119, "session": 2, "roll_call": 57, "date": "2026-03-17",
-          "bill": "S.1383", "bill_title": "SAVE America Act",
-          "question": "Motion to proceed", "vote": "Nay", "consistent": true, "auto": false
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
         },
         {
-          "congress": 119, "session": 2, "roll_call": 73, "date": "2026-03-26",
-          "bill": "S.1383", "bill_title": "SAVE America Act (photo ID amendment)",
-          "question": "Cloture on an amendment", "vote": "Nay", "consistent": true, "auto": false
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Vote at Home Act never got a floor vote; rated on SAVE America Act, which he said would burden mail voting."
@@ -68,9 +100,17 @@
       "position_source": "https://www.wweek.com/news/2022/07/14/seeking-protection-for-crossing-state-borders-wyden-describes-oregon-as-an-abortion-sanctuary-state",
       "votes": [
         {
-          "congress": 118, "session": 2, "roll_call": 211, "date": "2024-07-10",
-          "bill": "S.4554", "bill_title": "Reproductive Freedom for Women Act",
-          "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
         }
       ]
     },

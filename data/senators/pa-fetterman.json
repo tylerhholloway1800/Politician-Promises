@@ -47,7 +47,8 @@
           "question": "Motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -59,7 +60,8 @@
           "question": "Cloture on an amendment",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "He now says he backs photo ID, but he voted against both measures."
@@ -81,7 +83,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "No floor vote on changing the filibuster this term; he publicly reversed on it in 2026."
@@ -112,7 +115,8 @@
           "question": "Motion to waive budget point of order",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -124,7 +128,8 @@
           "question": "On the amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -145,7 +150,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -166,7 +172,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },

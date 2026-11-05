@@ -19,7 +19,19 @@
       "position": "More COVID relief, including aid to small businesses and local governments",
       "position_source": "https://www.wsls.com/news/local/2020/10/28/democrat-mark-warner-seeks-third-term-in-us-senate/",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06", "bill": "H.R.1319", "bill_title": "American Rescue Plan Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -29,7 +41,19 @@
       "position": "Broadband access for every Virginia home",
       "position_source": "https://www.wsls.com/news/local/2020/10/28/democrat-mark-warner-seeks-third-term-in-us-senate/",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 314, "date": "2021-08-10", "bill": "H.R.3684", "bill_title": "Infrastructure Investment and Jobs Act (broadband funding)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 314,
+          "date": "2021-08-10",
+          "bill": "H.R.3684",
+          "bill_title": "Infrastructure Investment and Jobs Act (broadband funding)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -39,8 +63,32 @@
       "position": "Build on the ACA; let Medicare negotiate drug prices",
       "position_source": "https://www.wsls.com/news/local/2020/10/28/democrat-mark-warner-seeks-third-term-in-us-senate/",
       "votes": [
-        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07", "bill": "H.R.5376", "bill_title": "Inflation Reduction Act (drug price negotiation, ACA subsidies)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 119, "session": 1, "roll_call": 644, "date": "2025-12-11", "bill": "S.3385", "bill_title": "ACA premium tax credit extension", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 325,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act (drug price negotiation, ACA subsidies)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -59,8 +107,32 @@
       "position": "Net-zero emissions by 2050",
       "position_source": "https://guides.vote/guide/2020-virginia-us-senate-candidate-guide/",
       "votes": [
-        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07", "bill": "H.R.5376", "bill_title": "Inflation Reduction Act (clean-energy credits)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (clean-energy credit repeal)", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 325,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act (clean-energy credits)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (clean-energy credit repeal)",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -86,8 +158,32 @@
       "position": "Require congressional approval for military force against Iran",
       "position_source": "https://guides.vote/guide/2020-virginia-us-senate-candidate-guide/",
       "votes": [
-        {"congress": 119, "session": 1, "roll_call": 328, "date": "2025-06-27", "bill": "S.J.Res.59", "bill_title": "Iran war powers resolution", "question": "On the motion to discharge", "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 119, "session": 2, "roll_call": 46, "date": "2026-03-04", "bill": "S.J.Res.104", "bill_title": "Iran war powers resolution", "question": "On the motion to discharge", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 328,
+          "date": "2025-06-27",
+          "bill": "S.J.Res.59",
+          "bill_title": "Iran war powers resolution",
+          "question": "On the motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 46,
+          "date": "2026-03-04",
+          "bill": "S.J.Res.104",
+          "bill_title": "Iran war powers resolution",
+          "question": "On the motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -97,7 +193,19 @@
       "position": "Assault weapons ban; red-flag laws; close background-check loopholes",
       "position_source": "https://guides.vote/guide/2020-virginia-us-senate-candidate-guide/",
       "votes": [
-        {"congress": 117, "session": 2, "roll_call": 242, "date": "2022-06-23", "bill": "S.2938", "bill_title": "Bipartisan Safer Communities Act", "question": "On the motion to concur in the House amendment", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 242,
+          "date": "2022-06-23",
+          "bill": "S.2938",
+          "bill_title": "Bipartisan Safer Communities Act",
+          "question": "On the motion to concur in the House amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "Assault weapons ban never got a floor vote."
     },
@@ -108,7 +216,19 @@
       "position": "Path to citizenship for Dreamers paired with border security",
       "position_source": "https://guides.vote/guide/2020-virginia-us-senate-candidate-guide/",
       "votes": [
-        {"congress": 118, "session": 2, "roll_call": 182, "date": "2024-05-23", "bill": "S.4361", "bill_title": "Border Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2024-05-23",
+          "bill": "S.4361",
+          "bill_title": "Border Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "Dreamer citizenship never got a floor vote; rated on border-security part."
     }

@@ -19,7 +19,19 @@
       "position": "Pass a smaller, targeted COVID relief package",
       "position_source": "https://www.weirtondailytimes.com/news/local-news/2020/09/west-virginias-senators-split-on-coronavirus-relief-bill/",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06", "bill": "H.R.1319", "bill_title": "American Rescue Plan Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "Opposed the $1.9T plan; led a smaller GOP counteroffer in Feb 2021."
     },
@@ -30,7 +42,19 @@
       "position": "Keep the 2017 tax cuts",
       "position_source": "https://wvmetronews.com/2020/10/18/capito-brings-experience-swearengin-calls-for-change-in-us-senate-race/",
       "votes": [
-        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -40,7 +64,19 @@
       "position": "Repeal the ACA; allow insurance sales across state lines",
       "position_source": "https://wvmetronews.com/2020/10/18/capito-brings-experience-swearengin-calls-for-change-in-us-senate-race/",
       "votes": [
-        {"congress": 119, "session": 1, "roll_call": 644, "date": "2025-12-11", "bill": "S.3385", "bill_title": "ACA premium tax credit extension", "question": "Cloture on the motion to proceed", "vote": "Nay", "consistent": true, "auto": false}
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "No full ACA repeal vote this term; scored on extending enhanced ACA subsidies."
     },
@@ -76,7 +112,19 @@
       "position": "Continue U.S. support for Israel",
       "position_source": "https://ontheissues.org/Note.asp?q=20CC-17",
       "votes": [
-        {"congress": 118, "session": 2, "date": "2024-02-13", "bill": "H.R.815", "bill_title": "National security supplemental (Israel, Ukraine, Indo-Pacific)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 118,
+          "session": 2,
+          "date": "2024-02-13",
+          "bill": "H.R.815",
+          "bill_title": "National security supplemental (Israel, Ukraine, Indo-Pacific)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "roll_call": 48,
+          "verified": true
+        }
       ]
     },
     {
@@ -86,8 +134,32 @@
       "position": "Oppose further restrictions on gun rights",
       "position_source": "https://ontheissues.org/Note.asp?q=20CC-10",
       "votes": [
-        {"congress": 117, "session": 2, "roll_call": 242, "date": "2022-06-23", "bill": "S.2938", "bill_title": "Bipartisan Safer Communities Act", "question": "On the motion to concur in the House amendment", "vote": "Yea", "consistent": false, "auto": false},
-        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (ends $200 NFA tax on suppressors)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 242,
+          "date": "2022-06-23",
+          "bill": "S.2938",
+          "bill_title": "Bipartisan Safer Communities Act",
+          "question": "On the motion to concur in the House amendment",
+          "vote": "Yea",
+          "consistent": false,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (ends $200 NFA tax on suppressors)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "S.2938 added red-flag funding and expanded checks for buyers under 21; she was one of 15 GOP yeas."
     },
@@ -98,8 +170,30 @@
       "position": "Fund the border wall and more border personnel",
       "position_source": "https://www.appropriations.senate.gov/download/022520_-chairman-capito-opening-statement&download=1",
       "votes": [
-        {"congress": 118, "session": 2, "date": "2024-02-07", "bill": "H.R.815", "bill_title": "Supplemental with bipartisan border package", "question": "Cloture on the motion to concur with an amendment", "vote": "Nay", "consistent": false, "auto": false},
-        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (border wall and enforcement funding)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 118,
+          "session": 2,
+          "date": "2024-02-07",
+          "bill": "H.R.815",
+          "bill_title": "Supplemental with bipartisan border package",
+          "question": "Cloture on the motion to concur with an amendment",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (border wall and enforcement funding)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "The Feb 2024 border package funded border agents and barriers; she opposed it, citing distrust of enforcement."
     },

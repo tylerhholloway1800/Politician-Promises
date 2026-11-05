@@ -88,6 +88,7 @@ def merged_senators():
                 s.setdefault("caveats", []).extend(pl.get("plan_caveats", []))
             else:
                 pl.setdefault("issues", [])
+                pl.setdefault("issue_poll", pl["plan"].get("issue_poll", {"name": ""}))
                 pl.setdefault("caveats", pl.pop("plan_caveats", []))
                 out[pl["id"]] = pl
     return list(out.values())

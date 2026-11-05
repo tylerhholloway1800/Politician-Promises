@@ -1,0 +1,63 @@
+{
+  "id": "ks-hamilton",
+  "name": "Adam Hamilton",
+  "state": "KS",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Emerson College/Nexstar Kansas likely voters, Oct 26-28, 2026 (n=800) and Sept 15-16, 2026 (n=750); Pew Research Center national registered voters, Sept 28-Oct 4, 2026",
+      "url": "https://fox4kc.com/wp-content/uploads/sites/16/2026/10/ECP-KS-Poll-10.30.26-9AM-ET-EMBARGO-COPY-2.pdf",
+      "note": "Ranks 1-6 from the two Emerson Kansas 'most important issue' questions, averaged where both reported (Oct: economy 44, healthcare 15, threats to democracy 13, immigration 7, education 6; Sept: economy 48, healthcare 14, democracy 9, housing affordability 9, education 6, immigration 6). Emerson published only the top ~6 options, so ranks 7-10 are filled from Pew national 'very important' list (foreign policy 57, energy policy 54, violent crime 52, abortion 46). Sept Emerson page: https://emersoncollegepolling.com/kansas-2026/ ; Pew: https://www.pewresearch.org/politics/2026/10/08/economy-ranks-as-top-issue-in-midterms-for-all-voters-but-partisans-differ-over-the-importance-of-other-issues/"
+    },
+    "issues": [
+      {"rank": 1, "issue": "Economy and cost of living", "rating": "Concrete",
+       "detail": "End Trump administration tariffs; require congressional approval before any future tariffs take effect.",
+       "source": "https://www.kcur.org/politics-elections-and-government/2026-10-16/marshall-hamilton-everyday-issues"},
+      {"rank": 2, "issue": "Health care", "rating": "Concrete",
+       "detail": "Expand ACA premium subsidies; oppose Medicare for All.",
+       "source": "https://www.hppr.org/2026-10-21/control-of-the-senate-goes-through-kansas-marshall-and-hamilton-clash-at-last-debate"},
+      {"rank": 3, "issue": "Democracy and government reform", "rating": "Concrete",
+       "detail": "Term limits for Congress and Supreme Court; federal office age limit (~80); ban members of Congress trading stocks.",
+       "source": "https://www.contrariannews.org/p/adam-hamilton-interview-kansas-senate-democrat-jen-rubin"},
+      {"rank": 4, "issue": "Housing affordability", "rating": "Concrete",
+       "detail": "Tax credits for first-time homebuyers, teachers, firefighters; investor home-purchase limits stricter than bipartisan housing bill.",
+       "source": "https://www.kcur.org/politics-elections-and-government/2026-10-16/marshall-hamilton-everyday-issues"},
+      {"rank": 5, "issue": "Immigration", "rating": "Concrete",
+       "detail": "Create year-round H-2A visa program for agricultural workers.",
+       "source": "https://www.hppr.org/2026-09-13/kansas-senate-candidates-tangle-over-trump-agriculture-and-immigration-in-fair-debate"},
+      {"rank": 6, "issue": "Education", "rating": "Partial",
+       "detail": "Get federal special education funding to reach schools; increase investment in public education.",
+       "source": "https://www.kwch.com/2026/08/20/senate-candidate-adam-hamilton-tours-wichita-high-school/"},
+      {"rank": 7, "issue": "Foreign policy", "rating": "Concrete",
+       "detail": "End U.S. involvement in Iran war; vote to block some U.S. weapons transfers to Israel.",
+       "source": "https://www.hppr.org/2026-10-21/control-of-the-senate-goes-through-kansas-marshall-and-hamilton-clash-at-last-debate"},
+      {"rank": 8, "issue": "Energy", "rating": "Concrete",
+       "detail": "Require data centers to pay for their own energy.",
+       "source": "https://thenationaldesk.com/news/americas-news-now/kansas-democrat-adam-hamilton-rejects-far-left-label-as-republican-roger-marshallresists-senate-seat-takeover-2026-midterm-elections"},
+      {"rank": 9, "issue": "Crime and public safety", "rating": "None",
+       "detail": "No stated 2026 position found.",
+       "source": "https://www.kcur.org/politics-elections-and-government/2026-10-16/marshall-hamilton-everyday-issues"},
+      {"rank": 10, "issue": "Abortion", "rating": "Partial",
+       "detail": "Protect legal abortion access; codify access to birth control into federal law.",
+       "source": "https://www.kcur.org/politics-elections-and-government/2026-10-16/marshall-hamilton-everyday-issues"}
+    ]
+  },
+  "plan_caveats": [
+    "Could not confirm the general-election result via search on Nov 5; the win is taken from the task brief.",
+    "Campaign site hamiltonforkansas.com was not fetchable; positions come from news coverage of debates, interviews and site summaries.",
+    "Emerson published only the top ~6 Kansas issues, so ranks 7-10 use national Pew data; housing appears only in the Sept Emerson poll.",
+    "'Threats to democracy' mapped to Democracy and government reform; his items there are term limits, age limits and stock-trading ban (not voting-rules positions).",
+    "Health care: also pledged to reverse federal Medicaid cuts and fund rural hospitals (KCUR Oct 16) and curb Medicare Advantage overbilling (American Prospect, Oct 30, citing his site); he also backed cutting Medicaid 'waste, fraud and abuse' (National Desk, Oct 14).",
+    "Economy: American Prospect (Oct 30) cites his site as backing bans on algorithmic price fixing, junk fees and Wall Street home purchases.",
+    "Immigration: otherwise wants 'secure borders' (vague) and ICE focused on dangerous people, with no arrest quotas (Contrarian, Sept 9).",
+    "Abortion rated Partial: the only checkable item is codifying contraception; no commitment to codify Roe or a named abortion bill was found.",
+    "Energy rated Concrete on a single item (data centers pay their own energy costs); he also tied ending the Iran war to lower fuel prices.",
+    "Crime: one targeted search plus general platform reviews found no position. Gun policy (not in top 10): urged passage of H.R. 8 background checks, per OnTheIssues."
+  ],
+  "researched": "2026-11-05"
+}

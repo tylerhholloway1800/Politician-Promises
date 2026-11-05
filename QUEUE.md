@@ -97,10 +97,10 @@ Message to a fresh agent: "In /home/claude/politician-promises/data/senators/<id
 - [x] ext:ia-turek
 
 ### New senators (plan only)
-- [ ] plan:al-moore Barry Moore R-AL
-- [ ] plan:il-stratton Juliana Stratton D-IL
-- [ ] plan:ks-hamilton Adam Hamilton D-KS
-- [ ] plan:ky-barr Andy Barr R-KY
+- [x] plan:al-moore Barry Moore R-AL
+- [x] plan:il-stratton Juliana Stratton D-IL
+- [x] plan:ks-hamilton Adam Hamilton D-KS
+- [x] plan:ky-barr Andy Barr R-KY
 - [ ] plan:la-letlow Julia Letlow R-LA
 - [ ] plan:me-jackson Troy Jackson D-ME
 - [ ] plan:mn-flanagan Peggy Flanagan D-MN

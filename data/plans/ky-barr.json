@@ -1,0 +1,61 @@
+{
+  "id": "ky-barr",
+  "name": "Andy Barr",
+  "state": "KY",
+  "party": "R",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Change Research for Kentucky Center for Economic Policy, Kentucky registered voters (n=2,079), Dec 1-5, 2025 - most important issues (pick up to three)",
+      "url": "https://kypolicy.org/wp-content/uploads/2026/01/KyPolicy-Toplines.pdf",
+      "note": "No full issue ranking from a fall 2026 Kentucky poll was found. Used the most complete state ranking (Dec 2025). Rank 10 was a tie between K-12 education and democracy/voting rights (10% each); broken toward democracy because Emerson's Feb 2026 Kentucky poll put threats to democracy 3rd (13.5%) behind economy (38.8%) and health care (14.5%) (https://www.lex18.com/news/state-of-the-commonwealth/kentucky-senate-race-wide-open-as-new-poll-shows-most-voters-still-undecided). Poll was sponsored by a left-leaning policy group; the issue list is standard."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Inflation and cost of living", "rating": "Partial",
+       "detail": "Lower energy costs by restarting closed coal plants, faster energy permitting, blocking plant closures without grid-reliability review",
+       "source": "https://barrforsenate.com/wp-content/uploads/2026/01/Andy-Barr-Energy-Plan.pdf"},
+      {"rank": 2, "issue": "Social Security and Medicare", "rating": "Partial",
+       "detail": "No Social Security changes affecting current retirees; bipartisan reforms for future retirees, unspecified",
+       "source": "https://www.owensborotimes.com/?p=285176"},
+      {"rank": 3, "issue": "Taxes", "rating": "Vague",
+       "detail": "Cut taxes; no specific measures or amounts",
+       "source": "https://barrforsenate.com/press-release/release-andy-barr-kentuckys-america-first-fighter-announces-run-for-u-s-senate/"},
+      {"rank": 4, "issue": "Health care costs and access", "rating": "Partial",
+       "detail": "Market-based reform increasing insurer competition and choice; oppose government-run health care",
+       "source": "https://www.owensborotimes.com/?p=285176"},
+      {"rank": 5, "issue": "Immigration", "rating": "Partial",
+       "detail": "Deport people in the country illegally; prioritize border security; streamline legal immigration programs",
+       "source": "https://kentuckylantern.com/?p=38720"},
+      {"rank": 6, "issue": "Gun rights", "rating": "Vague",
+       "detail": "Protect Second Amendment rights; oppose gun control; no specific measure",
+       "source": "https://branch.vote/races/2026-kentucky-general-election-ky-state-us-senator-ky-state/candidates/andy-barr"},
+      {"rank": 7, "issue": "Housing costs", "rating": "Partial",
+       "detail": "Increase housing supply; loosen rules on community banks and mortgage lenders; back pending housing supply bill",
+       "source": "https://www.owensborotimes.com/?p=285176"},
+      {"rank": 8, "issue": "Government spending", "rating": "Partial",
+       "detail": "Support DOGE federal spending cuts; cut spending on programs deemed unneeded",
+       "source": "https://www.weku.org/the-commonwealth/2025-04-22/barr-echoes-trump-platform-as-bid-for-u-s-senate-kicks-off"},
+      {"rank": 9, "issue": "Crime and public safety", "rating": "Vague",
+       "detail": "Support police funding; oppose anti-police policies; no specific measure",
+       "source": "https://barrforsenate.com/wp-content/uploads/2026/03/Andy-Barr-Back-The-Blue.pdf"},
+      {"rank": 10, "issue": "Elections and voting rights", "rating": "Concrete",
+       "detail": "Pass SAVE America Act: photo voter ID and documentary proof of citizenship to vote in federal elections",
+       "source": "https://barr.house.gov/2026/2/barr-backs-voter-id-mandate-calls-on-mcconnell-to-advance-save-america-act"}
+    ]
+  },
+  "plan_caveats": [
+    "Could not confirm the Nov 3, 2026 general-election result from a source; winner status taken from the task.",
+    "Issue poll is from Dec 2025, not close to Election Day; no fall 2026 Kentucky issue ranking found.",
+    "Campaign site has only three issue pages (coal plan, military and veterans, law enforcement); the issues index page could not be fetched.",
+    "Elections rating relies on a Feb 2026 official House-office release urging Senate passage, plus Barr's campaign-season X post, not a campaign-site page.",
+    "Energy plan items (grid-reliability review, energy financing access) could read as Concrete energy policy, but their link to cost of living is direction only, so rated Partial.",
+    "Social Security pledge (no changes for current retirees) comes from a June 2026 local news report of a campaign stop; Medicare not addressed.",
+    "Barr's many House votes and bills (Stop Chinese Fentanyl Act, Secure the Border Act, Fair Access to Banking Act) were excluded as past record.",
+    "Barr skipped the April 2026 KET primary debate; the Oct 2026 WKYT general debate coverage reported no specific commitments on most top issues."
+  ],
+  "researched": "2026-11-05"
+}

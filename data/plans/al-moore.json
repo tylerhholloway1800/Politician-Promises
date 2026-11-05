@@ -1,0 +1,60 @@
+{
+  "id": "al-moore",
+  "name": "Barry Moore",
+  "state": "AL",
+  "party": "R",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Cygnal / Gray Media Alabama / Alabama Daily News poll of 500 likely general-election voters, Oct 16-17, 2026 (most important issue)",
+      "url": "https://www.fox10tv.com/2026/10/22/what-alabama-voters-care-about-most-what-it-means-trump-senate-race/",
+      "note": "Single state poll ranking most important issue; top 10 taken in poll order (abortion and gun control ranked 11-12)."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Inflation and cost of living", "rating": "Partial",
+       "detail": "Lower inflation by cutting federal spending and ending new money creation; tariffs and domestic production",
+       "source": "https://abc3340.com/news/alabama-news/moore-wess-outline-priorities-in-race-for-alabamas-open-us-senate-seat"},
+      {"rank": 2, "issue": "Government ethics and corruption", "rating": "Concrete",
+       "detail": "Total ban on stock trading by members of Congress, extended to all politicians",
+       "source": "https://aldailynews.com/hudson-moore-share-plans-for-u-s-senate-during-shelby-county-forum/"},
+      {"rank": 3, "issue": "Immigration", "rating": "Concrete",
+       "detail": "Pass Americans First Immigration Act codifying five Trump immigration orders; deport all illegal immigrants; English as official language",
+       "source": "https://aldailynews.com/hudson-moore-share-plans-for-u-s-senate-during-shelby-county-forum/"},
+      {"rank": 4, "issue": "Taxes and government spending", "rating": "Concrete",
+       "detail": "No tax increases ever; replace income tax with FairTax; pass all 12 appropriations bills individually; cut foreign aid",
+       "source": "https://aldailynews.com/moore-launches-shoot-you-straight-ad/"},
+      {"rank": 5, "issue": "Jobs and the economy", "rating": "Partial",
+       "detail": "Use tariffs as leverage to reshore production; cut regulations; recruit employers to Alabama",
+       "source": "https://www.alabamagazette.com/story/2026/01/01/podcasts/barry-moore-talks-senate-power-trump-agenda-greenland-strategy-and-alabama-priorities-in-wideranging-podcast-interview/9685.html"},
+      {"rank": 6, "issue": "Health care", "rating": "Partial",
+       "detail": "Oppose extending enhanced ACA subsidies; allow insurance sales across state lines; no new federal health programs beyond Medicare/Medicaid",
+       "source": "https://yellowhammernews.com/barry-moore-says-its-unlikely-he-would-ever-vote-for-an-extension-of-obamacare-subsides-unless-the-reforms-are-pretty-incredible"},
+      {"rank": 7, "issue": "Crime and public safety", "rating": "Partial",
+       "detail": "Prioritize federal prosecution of antifa groups and violent criminals; fully fund law enforcement",
+       "source": "https://www.branch.vote/races/2026-alabama-primary-runoff-al-state-u.s.-senate-al-state-r/candidates/barry-moore"},
+      {"rank": 8, "issue": "Data centers", "rating": "None",
+       "detail": "",
+       "source": "https://aldailynews.com/?p=191416"},
+      {"rank": 9, "issue": "Roads and infrastructure", "rating": "Concrete",
+       "detail": "Expand I-65 to six lanes (stated top priority)",
+       "source": "https://www.alabamagazette.com/story/2026/01/01/podcasts/barry-moore-talks-senate-power-trump-agenda-greenland-strategy-and-alabama-priorities-in-wideranging-podcast-interview/9685.html"},
+      {"rank": 10, "issue": "Education", "rating": "Concrete",
+       "detail": "Eliminate the U.S. Department of Education and return control to states; bar foreign government funding of U.S. education",
+       "source": "https://ivoterguide.com/candidate/39619/race/33901/election/1488"}
+    ]
+  },
+  "plan_caveats": [
+    "Campaign issues page (barrymooreforalabama.com/issues) could not be fetched; homepage summary and Branch Politics profile used instead.",
+    "No general-election debate was held and Moore declined WSFA/APR interview requests; he repeatedly told voters to judge him on his House record rather than promises, so few forward-looking specifics exist.",
+    "Inflation rated Partial (named mechanism: spending cuts) rather than Vague; judgment call.",
+    "Health care rated Partial because his opposition to extending enhanced ACA subsidies was hedged ('probably never', unless major reforms); Dec 2025 radio remarks as a declared Senate candidate.",
+    "Education and FairTax positions come from his 2026 Senate iVoterGuide questionnaire ('strongly agree' answers), not speeches.",
+    "Crime: his Sept 2025 op-ed backing House-passed DC crime bills was treated as House record, not a Senate promise.",
+    "Data centers: no Moore statement found; source URL shows a BCA event on the topic where no Moore position was reported."
+  ],
+  "researched": "2026-11-05"
+}

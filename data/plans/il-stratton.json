@@ -1,0 +1,60 @@
+{
+  "id": "il-stratton",
+  "name": "Juliana Stratton",
+  "state": "IL",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Emerson College Polling/WGN-TV Illinois survey, Jan 3-5, 2026 (most important issue facing Illinois, n=1,000)",
+      "url": "https://docs.google.com/spreadsheets/d/1fo67bwU_cApduY2Qk_17no37Nm6U_Jgn/edit",
+      "note": "No fall 2026 Illinois issue-ranking poll found. Ranks 1-7 follow Emerson (Economy 40.4%, Health care 12.9%, Threats to democracy 12.7%, Immigration 10.4%, Crime 7.6%, Housing affordability 5.7%, Education 2.8%); 'Something else' 7.2% dropped. Emerson offered only 8 named options, so: Taxes added at 8 from M3 Strategies/Illinois Policy Institute poll of 517 IL likely voters, May 9-11, 2026 (high taxes named by over half as a top state issue; Emerson folded taxes into Economy); Foreign policy added at 9 from AP-NORC national poll, Dec 4-8, 2025 (25% name it a 2026 priority); Abortion at 10 (Emerson 0.2%; AP-NORC national 4%). Emerson sample was likely primary voters (Dem and GOP combined)."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Economy and cost of living", "rating": "Concrete",
+       "detail": "Raise federal minimum wage from $7.25 to $25/hour; end blanket tariffs and seek refunds of tariffs paid.",
+       "source": "https://capitolnewsillinois.com/news/stratton-tracy-clash-over-trump-affordability-in-lone-u-s-senate-forum/"},
+      {"rank": 2, "issue": "Health care", "rating": "Concrete",
+       "detail": "Enact Medicare for All; restore Medicaid and Medicare funding cut in the 2025 reconciliation law; lower drug prices.",
+       "source": "https://capitolnewsillinois.com/news/stratton-tracy-clash-over-trump-affordability-in-lone-u-s-senate-forum/"},
+      {"rank": 3, "issue": "Democracy and elections", "rating": "Concrete",
+       "detail": "Pass the John Lewis Voting Rights Advancement Act; oppose the SAVE Act; expand voting hours.",
+       "source": "https://chicago.suntimes.com/elections/2026/graphics/voter-guide-midterm-election-illinois/candidates/juliana-stratton/"},
+      {"rank": 4, "issue": "Immigration", "rating": "Concrete",
+       "detail": "Abolish ICE; comprehensive reform with path to citizenship incl. Dreamers; add immigration judges and caseworkers.",
+       "source": "https://capitolnewsillinois.com/news/stratton-tracy-clash-over-trump-affordability-in-lone-u-s-senate-forum/"},
+      {"rank": 5, "issue": "Crime and public safety", "rating": "Concrete",
+       "detail": "National assault weapons ban modeled on Illinois' 2023 law.",
+       "source": "https://windycitytimes.com/2025/07/20/stratton-outlines-lgbtq-rights-platform-and-policy-agenda-in-senate-bid/"},
+      {"rank": 6, "issue": "Housing affordability", "rating": "Concrete",
+       "detail": "Tax incentive for below-median-price starter homes; tax penalty on hedge funds buying single-family homes funding down-payment aid; restrict AI rent-setting and tenant screening.",
+       "source": "https://capitolnewsillinois.com/news/stratton-aims-to-bring-pritzker-administration-policies-to-national-stage/"},
+      {"rank": 7, "issue": "Education", "rating": "Partial",
+       "detail": "Oppose dismantling the U.S. Department of Education.",
+       "source": "https://capitolnewsillinois.com/news/stratton-tracy-clash-over-trump-affordability-in-lone-u-s-senate-forum/"},
+      {"rank": 8, "issue": "Taxes", "rating": "Concrete",
+       "detail": "Raise taxes on income over $1 million to fund middle-class tax cut; reverse 2025 reconciliation law tax breaks for wealthy; expand EITC and Child Tax Credit.",
+       "source": "https://chicago.suntimes.com/elections/2026/graphics/voter-guide-midterm-election-illinois/candidates/juliana-stratton/"},
+      {"rank": 9, "issue": "Foreign policy", "rating": "Concrete",
+       "detail": "Vote against supplemental Iran war funding; require congressional authorization for military intervention.",
+       "source": "https://chicago.suntimes.com/elections/2026/graphics/voter-guide-midterm-election-illinois/candidates/juliana-stratton/"},
+      {"rank": 10, "issue": "Abortion", "rating": "Concrete",
+       "detail": "Codify in federal law access to abortion, medication abortion, IVF and contraception.",
+       "source": "https://capitolnewsillinois.com/news/stratton-aims-to-bring-pritzker-administration-policies-to-national-stage/"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue ranking relies on a January 2026 primary-voter poll; no Illinois issue-ranking poll near Election Day was found.",
+    "Taxes (rank 8) and Foreign policy (rank 9) were added from a May 2026 IL poll by a free-market think tank and a national AP-NORC poll, respectively, because Emerson offered only 8 named options.",
+    "Crime rated on her gun policy (assault weapons ban); her only other crime statement (restorative justice) was vague.",
+    "Minimum wage: she said $15 in 2025 campaign coverage and $25 in 2026; the later $25 figure is used.",
+    "Democracy: Sun-Times guide names the 'John Lewis Voting Rights Act'; recorded as the John Lewis Voting Rights Advancement Act.",
+    "Abortion and housing positions come from October 2025 campaign coverage; no 2026 restatement with the same specifics was found.",
+    "'2025 reconciliation law' refers to what she called the 'Big Ugly bill' (One Big Beautiful Bill Act)."
+  ],
+  "researched": "2026-11-05"
+}

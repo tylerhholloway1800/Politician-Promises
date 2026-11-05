@@ -29,7 +29,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -41,7 +42,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 made a $2,200 child tax credit permanent, though not the expanded refundable version he backed."
@@ -72,7 +74,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -84,7 +87,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -112,7 +116,9 @@
           "question": "On the motion to concur in the House amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "roll_call": 182,
+          "verified": true
         }
       ],
       "note": "Vote taken from Padilla's release saying he joined in passing it; roll call number unconfirmed."
@@ -168,7 +174,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     }

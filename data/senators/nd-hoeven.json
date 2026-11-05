@@ -50,7 +50,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Hoeven's June 1, 2023 release confirms his Yea vote (https://www.hoeven.senate.gov/?p=11188)."
@@ -80,7 +81,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 required regular onshore and offshore oil and gas lease sales."
@@ -110,7 +112,8 @@
           "question": "Motion to proceed",
           "vote": "Yea",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "The SAVE America Act sets a federal proof-of-citizenship rule for registration; his 2022 stance said the states, not Washington, should set election rules."
@@ -132,7 +135,8 @@
           "question": "On the joint resolution",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -153,7 +157,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -165,7 +170,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "No federal abortion ban got a floor vote this term."
@@ -187,7 +193,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 funded border wall construction; Title 42 ended in May 2023 without a Senate floor vote to extend it."
@@ -208,7 +215,9 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "roll_call": 48,
+          "verified": true
         }
       ],
       "note": "Minot Daily News reported his Yea on the 70-29 passage (https://www.minotdailynews.com/news/local-news/2024/02/nd-senators-vote-for-security-act/)."

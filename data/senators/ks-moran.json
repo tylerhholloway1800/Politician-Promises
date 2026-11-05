@@ -29,7 +29,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 extended the 2017 tax cuts and rescinded some IRS funding. Vote source: https://kansasreflector.com/2025/07/01/kansas-two-republican-u-s-senators-vote-to-pass-big-beautiful-bill/"
@@ -51,7 +52,8 @@
           "question": "Motion to proceed",
           "vote": "Yea",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "The SAVE America Act sets federal proof-of-citizenship rules that counties must administer. Vote source: https://watch.vote/votes/119-2026-s57"
@@ -73,7 +75,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Failed 49-44; only Collins and Murkowski among Republicans voted yes, and Moran was not among absentees (https://www.dailypress.senate.gov/wednesday-july-10-2024). No national-ban vote held."
@@ -112,7 +115,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Vote source: https://www.ksnt.com/news/local-news/sens-moran-marshall-vote-against-loan-forgiveness-plan/amp"
@@ -134,7 +138,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 required federal onshore and offshore oil and gas lease sales."
@@ -164,7 +169,8 @@
           "question": "On the joint resolution",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Vote source: https://www.usquery.com/vote/1180100171"

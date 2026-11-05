@@ -29,7 +29,8 @@
           "question": "On the motion to concur in the House amendment",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -41,7 +42,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Opposed the 2024 funding package; backed the 2025 Republican full-year funding bill."
@@ -81,7 +83,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -111,7 +114,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "No national-ban vote held; rated on opposing a federal abortion-rights law."
@@ -133,7 +137,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -154,7 +159,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 funded border wall construction; asylum and Flores changes got no floor vote."

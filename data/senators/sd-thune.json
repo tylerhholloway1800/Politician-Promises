@@ -29,7 +29,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "The debt-limit deal rescinded about $1.4B of new IRS funding. Vote source: https://southdakotasearchlight.com/2023/06/02/congressional-roundup-sd-delegation-unanimous-in-support-for-debt-limit-deal/"
@@ -60,7 +61,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -72,7 +74,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "No 15-week ban got a floor vote. S.6 vote source: https://www.usquery.com/vote/1190100011"
@@ -102,7 +105,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Vote source: https://southdakotasearchlight.com/?p=3838"
@@ -124,7 +128,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 required onshore and offshore oil and gas lease sales; year-round E15 got no floor vote."
@@ -171,7 +176,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Vote source: https://southdakotasearchlight.com/?p=7245"

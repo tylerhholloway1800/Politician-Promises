@@ -29,7 +29,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -41,7 +42,8 @@
           "question": "Motion to waive budget point of order",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -62,7 +64,8 @@
           "question": "On the motion to concur in the House amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Package raised child care block grant funding; the 7% cost cap never got a floor vote."
@@ -84,7 +87,8 @@
           "question": "Motion to waive budget point of order",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -96,7 +100,8 @@
           "question": "On the amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Also backed Dreamer protections at an Oct 30, 2022 town hall (Spokesman-Review)."
@@ -118,7 +123,8 @@
           "question": "Motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -130,7 +136,8 @@
           "question": "Cloture on an amendment",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -159,7 +166,8 @@
           "question": "On the amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -171,7 +179,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 repealed or phased out many IRA clean-energy credits."
@@ -193,7 +202,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Vote per CNN tally: https://ktvz.com/politics/cnn-us-politics/2023/06/02/how-every-senator-voted-on-the-debt-ceiling-bill/"

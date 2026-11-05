@@ -1,0 +1,139 @@
+{
+  "id": "or-wyden",
+  "name": "Ron Wyden",
+  "state": "OR",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Emerson College Oregon poll, Oct 31–Nov 1, 2022, combined with DHM Research Oregon likely-voter panel, Aug 6–11, 2022",
+    "url": "https://emersoncollegepolling.com/oregon-2022-independent-candidates-support-melts-as-democrat-tina-kotek-leads-republican-christine-drazan-by-four-for-governor/",
+    "note": "Emerson published only its top 5 issues; shares averaged with DHM most-important-issue results (https://www.opb.org/pdf/DHM%20Panel--August%202022_1663262770488.pdf) where both asked, DHM alone otherwise. Homelessness also ranked first in OVBC's Sept 2022 survey."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / cost of living",
+      "testable": true,
+      "position": "Restore and expand the child tax credit",
+      "position_source": "https://www.finance.senate.gov/chairmans-news/wyden-calls-for-expansion-of-child-tax-credit",
+      "votes": [
+        {
+          "congress": 118, "session": 2, "roll_call": 230, "date": "2024-08-01",
+          "bill": "H.R.7024", "bill_title": "Tax Relief for American Families and Workers Act",
+          "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false
+        },
+        {
+          "congress": 119, "session": 1, "roll_call": 354, "date": "2025-07-01",
+          "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (Bennet motion to commit to expand child tax credit)",
+          "question": "On the motion to commit with instructions", "vote": "Yea", "consistent": true, "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "National vote by mail (Vote at Home Act); cap polling-place waits",
+      "position_source": "https://www.wyden.senate.gov/news/press-releases/wyden-delivers-floor-speech-on-protecting-democracy-and-expanding-the-right-to-vote",
+      "votes": [
+        {
+          "congress": 119, "session": 2, "roll_call": 57, "date": "2026-03-17",
+          "bill": "S.1383", "bill_title": "SAVE America Act",
+          "question": "Motion to proceed", "vote": "Nay", "consistent": true, "auto": false
+        },
+        {
+          "congress": 119, "session": 2, "roll_call": 73, "date": "2026-03-26",
+          "bill": "S.1383", "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment", "vote": "Nay", "consistent": true, "auto": false
+        }
+      ],
+      "note": "Vote at Home Act never got a floor vote; rated on SAVE America Act, which he said would burden mail voting."
+    },
+    {
+      "rank": 3,
+      "issue": "Homelessness / housing",
+      "testable": true,
+      "position": "Pass the DASH Act: housing vouchers and affordable-housing funding",
+      "position_source": "https://www.streetroots.org/?p=14026",
+      "votes": [],
+      "note": "No floor vote on the DASH Act or a voucher expansion this term."
+    },
+    {
+      "rank": 4,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pass federal protections for abortion access and interstate travel",
+      "position_source": "https://www.wweek.com/news/2022/07/14/seeking-protection-for-crossing-state-borders-wyden-describes-oregon-as-an-abortion-sanctuary-state",
+      "votes": [
+        {
+          "congress": 118, "session": 2, "roll_call": 211, "date": "2024-07-10",
+          "bill": "S.4554", "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "issue": "Crime / public safety",
+      "testable": true,
+      "position": "Permanent Medicaid funding for CAHOOTS-style crisis responders",
+      "position_source": "https://www.oregonarchive.org/ron-wyden-candidate-survey-2022/",
+      "votes": [],
+      "note": "No floor vote on permanent mobile-crisis funding this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Climate change",
+      "testable": false,
+      "position": "Touted Inflation Reduction Act clean-energy credits; no forward pledge found",
+      "position_source": "https://www.wweek.com/news/2022/10/19/wws-general-election-2022-endorsements-congress/",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Extend lower insulin costs to people with private insurance",
+      "position_source": "https://www.finance.senate.gov/chairmans-news/wyden-statement-on-republicans-stripping-insulin-provision-from-ira",
+      "votes": [],
+      "note": "No floor vote on a private-insurance insulin cap this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Universal background checks; assault weapons ban; raise purchase age to 21",
+      "position_source": "https://bakercityherald.com/?p=97958",
+      "votes": [],
+      "note": "No recorded floor vote on these measures this term."
+    },
+    {
+      "rank": 9,
+      "issue": "Economic inequality",
+      "testable": true,
+      "position": "Annual tax on billionaires' gains (Billionaires Income Tax)",
+      "position_source": "https://www.finance.senate.gov/chairmans-news/wyden-statement-on-biden-billionaire-minimum-income-tax",
+      "votes": [],
+      "note": "No floor vote on a billionaires tax this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Surtax on oil company profits; higher tax on stock buybacks",
+      "position_source": "https://www.katu.com/news/local/wyden-proposes-unique-plan-to-tackle-record-high-gas-prices",
+      "votes": [],
+      "note": "No floor vote on an oil-profits surtax or buyback tax increase this term."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranking combines two polls; Emerson's homelessness/housing share was not published, so DHM's 13% was used.",
+    "Child tax credit release is undated (Census poverty-data day); a Nov 15, 2022 Law360 report confirms the same stance just after the election.",
+    "Several positions come from official Senate statements in 2022, not campaign materials; his campaign site archive could not be reached.",
+    "Votes on H.R.1 motion to commit (RC 354) and SAVE America Act taken from patterns in other senators' verified files, not a Wyden-specific source; pending automatic senate.gov check."
+  ],
+  "researched": "2026-11-04"
+}

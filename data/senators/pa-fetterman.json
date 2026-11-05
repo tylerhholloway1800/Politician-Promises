@@ -1,0 +1,198 @@
+{
+  "id": "pa-fetterman",
+  "name": "John Fetterman",
+  "state": "PA",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Monmouth University Pennsylvania Poll, Sept 29–Oct 3, 2022",
+    "url": "https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_PA_100522/",
+    "note": "Ranks 1–6 by PA share calling the issue extremely/very important to their Senate vote ('defending your values' dropped as untestable). That poll rated only seven items, so ranks 7–10 come from Pew's national 'very important' list, Oct 10–16, 2022 (https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf)."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Suspend the federal gas tax",
+      "position_source": "https://johnfetterman.com/issue/fighting-inflation-lowering-costs",
+      "votes": [],
+      "note": "No Senate floor vote on a gas tax holiday this term."
+    },
+    {
+      "rank": 2,
+      "issue": "Crime / public safety",
+      "testable": true,
+      "position": "Pass the George Floyd Justice in Policing Act",
+      "position_source": "https://witf.org/2022/09/14/mehmet-oz-and-john-fetterman-on-criminal-justice-sentencing-reform-or-getting-tough-on-crime",
+      "votes": [],
+      "note": "The bill got no Senate floor vote this term."
+    },
+    {
+      "rank": 3,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Oppose voter ID requirements and new voting restrictions",
+      "position_source": "https://www.foxnews.com/politics/fetterman-opposes-voter-id-laws-because-people-color-less-likely-have-id",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "He now says he backs photo ID, but he voted against both measures."
+    },
+    {
+      "rank": 4,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Codify Roe v. Wade; end the filibuster to do it",
+      "position_source": "https://www.commondreams.org/news/2022/09/12/packed-rally-fetterman-vows-be-vote-scrap-filibuster-and-codify-roe",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No floor vote on changing the filibuster this term; he publicly reversed on it in 2026."
+    },
+    {
+      "rank": 5,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Universal background checks and red-flag laws",
+      "position_source": "https://witf.org/2022/09/14/mehmet-oz-and-john-fetterman-on-criminal-justice-sentencing-reform-or-getting-tough-on-crime",
+      "votes": [],
+      "note": "No recorded Senate floor vote on these this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Permanent protections for DACA recipients",
+      "position_source": "https://guides.vote/?p=1213",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 152,
+          "date": "2026-06-05",
+          "bill": "S.2",
+          "bill_title": "Durbin amendment shielding DACA recipients (S.Amdt.5806)",
+          "question": "Motion to waive budget point of order",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 156,
+          "date": "2026-06-05",
+          "bill": "S.2",
+          "bill_title": "Gallego amendment funding DACA processing (S.Amdt.5813)",
+          "question": "On the amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "issue": "Education",
+      "testable": true,
+      "position": "Reduce and eliminate student loan debt",
+      "position_source": "https://guides.vote/?p=1213",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Repeal of student loan forgiveness (CRA)",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Keep the IRA's lower insurance premiums and drug prices",
+      "position_source": "https://www.cityandstatepa.com/politics/2022/08/john-fetterman-and-mehmet-oz-appear-be-odds-over-inflation-reduction-act/375567/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Energy policy",
+      "testable": true,
+      "position": "Oppose a fracking ban; produce more American energy",
+      "position_source": "https://www.eenews.net/articles/fetterman-straddles-center-and-left-as-pa-race-tightens/",
+      "votes": [],
+      "note": "No Senate floor vote on a fracking ban or moratorium this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Foreign policy",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://guides.vote/?p=1213",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Ranks 7–10 use national Pew data because the Pennsylvania poll rated only seven issues.",
+    "Voter ID position comes from Dec 2021 remarks made while he was already a Senate candidate, reported Aug 2022.",
+    "Votes on roll calls 57, 73, 211 and 644 inferred from party-line tallies and his own statements; senate.gov was unreachable for those."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "sc-scott",
+  "name": "Tim Scott",
+  "state": "SC",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "South Carolina Policy Council voter poll (Spry Strategies), May 31–Jun 3, 2022; Pew Research Center national survey, Oct 10–16, 2022",
+    "url": "https://www.scpolicycouncil.org/scpc_voter_poll_release_may_31_jun_3_2022",
+    "note": "Ranks 1–5 from the SCPC most-important-issue question (inflation 26%, energy independence 24%, drug addiction/mental illness/homelessness 13%, border security 12%, election security 10%); SCPC published only those five. Ranks 6–10 from Pew's national 'very important' list, skipping items already covered and 'future of democracy': education 64%, health care 63%, violent crime 61%, gun policy 57%, abortion 56% (https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf). No fall 2022 SC poll with an issue ranking was found."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Inflation / economy",
+      "testable": true,
+      "position": "Block IRA funding for added IRS agents",
+      "position_source": "https://www.foxnews.com/politics/exclusive-tim-scott-releases-first-campaign-ad-never-back-down-his-values",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 146,
+          "date": "2023-06-01",
+          "bill": "H.R.3746",
+          "bill_title": "Fiscal Responsibility Act of 2023",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Both bills cut IRA IRS funding. He opposed the debt-limit bill, calling it a blank check (https://www.scott.senate.gov/media-center/press-releases/senator-scott-opposes-giving-biden-administration-blank-check/)."
+    },
+    {
+      "rank": 2,
+      "issue": "Energy policy",
+      "testable": true,
+      "position": "Revive Keystone XL; resume oil and gas leasing on public lands",
+      "position_source": "https://www.scott.senate.gov/media-center/press-releases/icymi-scott-op-ed-on-energy-independence-and-national-security",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 required onshore and offshore oil and gas lease sales; Keystone XL got no vote. Also https://www.foxnews.com/media/gas-tax-holiday-tricks-market-domestic-speculation-easier-fix-tim-scott"
+    },
+    {
+      "rank": 3,
+      "issue": "Drug addiction / mental health / homelessness",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://www.democracyinaction.us/lit/22sen/scsen22r.html",
+      "votes": [],
+      "note": "His FEND Off Fentanyl Act push dates from 2023, after the campaign."
+    },
+    {
+      "rank": 4,
+      "issue": "Immigration",
+      "testable": false,
+      "position": "No specific 2022 position found",
+      "position_source": "https://ontheissues.org/international/Tim_Scott_Immigration.htm",
+      "votes": [],
+      "note": "Title 42 and border-wall pledges found date from his 2023 presidential run, not the Senate campaign."
+    },
+    {
+      "rank": 5,
+      "issue": "Elections / voting",
+      "testable": false,
+      "position": "Criticized Democrats' 2022 voting bills; no forward plan stated",
+      "position_source": "https://noticias.foxnews.com/media/sen-tim-scott-bidens-voting-rights-speech-was-offensive-to-me-as-a-southerner-and-an-american.print",
+      "votes": []
+    },
+    {
+      "rank": 6,
+      "issue": "Education",
+      "testable": true,
+      "position": "Bar student loan cancellation; expand school choice",
+      "position_source": "https://www.wmbfnews.com/2022/05/18/scott-other-gop-senators-introduce-bill-banning-cancellation-student-loan-debt",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of student loan debt relief rule",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "School choice is from his 2022 campaign letter (https://www.democracyinaction.us/lit/22sen/scsen22r.html); H.R.1 created a permanent school-choice tax credit. Loan vote confirmed by his release (https://www.scott.senate.gov/media-center/press-releases/senator-scott-fights-back-against-biden-administrations-illegal-and-unfair-student-loan-cancellation-policy-protects-working-americans)."
+    },
+    {
+      "rank": 7,
+      "issue": "Health care",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://www.democracyinaction.us/lit/22sen/scsen22r.html",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Violent crime",
+      "testable": false,
+      "position": "Blamed Democrats for more crime; no specific policy",
+      "position_source": "https://www.democracyinaction.us/lit/22sen/scsen22r.html",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose gun laws that infringe Second Amendment rights",
+      "position_source": "https://www.foxnews.com/media/gas-tax-holiday-tricks-market-domestic-speculation-easier-fix-tim-scott",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 171,
+          "date": "2023-06-22",
+          "bill": "H.J.Res.44",
+          "bill_title": "Disapproval of ATF pistol-brace rule",
+          "question": "On the joint resolution",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Vote source: https://www.usquery.com/vote/1180100171"
+    },
+    {
+      "rank": 10,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Oppose Democrats' federal abortion-rights legislation",
+      "position_source": "https://www.scott.senate.gov/media-center/press-releases/sen-tim-scott-statement-on-democrats-radical-anti-life-legislation/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Failed 49-44; Collins and Murkowski were the only Republican yes votes and Scott (SC) was not absent (https://www.dailypress.senate.gov/wednesday-july-10-2024)."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "SCPC poll is from June 2022 and published only five issues; ranks 6–10 rely on national Pew data.",
+    "No 2022 campaign issues page, debate, or questionnaire found (votetimscott.com archive not reachable); positions come from campaign literature, ads, interviews and 2022 Senate releases.",
+    "Inflation scored Mixed: the Fiscal Responsibility Act he opposed also cut IRS funding, though it was mainly a debt-limit bill.",
+    "Roll call numbers 146, 135, 171, 211 and 372 come from other researched files and third-party trackers; his S.4554 Nay is inferred from the tally and absentee list."
+  ],
+  "researched": "2026-11-04"
+}

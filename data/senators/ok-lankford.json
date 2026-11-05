@@ -1,0 +1,223 @@
+{
+  "id": "ok-lankford",
+  "name": "James Lankford",
+  "state": "OK",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Amber Integrated Oklahoma likely-voter survey, Oct 26–28, 2022; plus Pew Research Center national survey, Oct 10–16, 2022",
+    "url": "https://www.270towin.com/doc_upload/KOCO-AI%20OK%20Statewide%20-%20Crosstab%20Results%20-%20October%202022.pdf",
+    "note": "Ranks 1–7 from Amber Integrated's Oklahoma most-important-issue question (economy/inflation 41%, preserving democracy 22%, education 10%, abortion 9%, illegal immigration 7%, health care 4%, crime 3%); 'preserving democracy' mapped to Elections / voting. Emerson (Oct 25–28) agrees on the top items but published only three. Ranks 8–10 from Pew's national 'very important' list (https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf), skipping items already ranked: energy 61%, gun policy 57%, then foreign policy 54% (Supreme Court appointments, 55%, skipped because no vacancy arose this term)."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Cut wasteful federal spending",
+      "position_source": "https://dev.nondoc.com/?p=25661",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 411,
+          "date": "2025-07-17",
+          "bill": "H.R.4",
+          "bill_title": "Rescissions Act of 2025",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Oppose federalizing elections; keep election rules with states",
+      "position_source": "https://www.lankford.senate.gov/?p=1751",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "SAVE America Act sets federal voter-registration and ID rules; graded as for other senators who pledged against federalizing elections."
+    },
+    {
+      "rank": 3,
+      "issue": "Education",
+      "testable": true,
+      "position": "Vote against federal funds that could promote critical race theory",
+      "position_source": "https://dev.nondoc.com/?p=25661",
+      "votes": [],
+      "note": "No Senate floor vote specifically on critical race theory funding this term."
+    },
+    {
+      "rank": 4,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Block federal abortion-access bills; keep Hyde funding limits",
+      "position_source": "https://www.lankford.senate.gov/?p=1498",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 11,
+          "date": "2025-01-22",
+          "bill": "S.6",
+          "bill_title": "Born-Alive Abortion Survivors Protection Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Keep Title 42 border expulsions in place",
+      "position_source": "https://jameslankford.com/senate-lawmakers-eye-hearing-on-title-42-repeal-amid-bipartisan-pushback-fears-of-migrant-surge/",
+      "votes": [],
+      "note": "Title 42 ended May 2023 without a Senate floor vote on extending it."
+    },
+    {
+      "rank": 6,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Roll back Medicare drug price negotiation",
+      "position_source": "https://www.lankford.senate.gov/?p=1402",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (orphan-drug negotiation exemption)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 narrowed negotiation for orphan drugs; full repeal never got a floor vote."
+    },
+    {
+      "rank": 7,
+      "issue": "Crime",
+      "testable": false,
+      "position": "Oppose defunding police and sanctuary cities; no specific policy",
+      "position_source": "https://bartlesvilleradio.com/pages/news/328852022/lankford-calls-out-biden-for-ignoringskyrocketingcrime",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Energy policy",
+      "testable": true,
+      "position": "Expand domestic oil and gas; ease pipeline permitting",
+      "position_source": "https://www.okenergytoday.com/2022/06/lankford-gets-tough-with-president-blames-him-for-high-gas-prices",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose red-flag laws and new gun limits",
+      "position_source": "https://www.lankford.senate.gov/news/press-releases/lankford-statement-on-safer-communities-act/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 171,
+          "date": "2023-06-22",
+          "bill": "H.J.Res.44",
+          "bill_title": "Disapproval of ATF pistol-brace rule (CRA)",
+          "question": "On the joint resolution",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "Keep sending military aid to Ukraine",
+      "position_source": "https://www.newson6.com/story/6283d495d2b2f1072550da69/oklahoma-republican-leaders-hold-different-views-of-ukraine-aid-package",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "date": "2024-02-13",
+          "bill": "H.R.815",
+          "bill_title": "National Security Supplemental (Ukraine, Israel, Taiwan aid)",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        },
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 154,
+          "date": "2024-04-23",
+          "bill": "H.R.815",
+          "bill_title": "21st Century Peace through Strength / National Security Supplemental",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Voted no in February because border provisions were dropped; voted yes on the April package."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Lankford held no general-election debate and his campaign site had no issue pages; positions come from campaign-year news and 2022 Senate releases.",
+    "Elections graded as contradicted: he pledged against federalizing elections, then voted to advance the SAVE America Act (he also led floor advocacy for it).",
+    "Health care rated on H.R.1's orphan-drug exemption, a partial rollback of negotiation; judgment call.",
+    "Roll call numbers for H.J.Res.44 and the Feb 13, 2024 H.R.815 passage vote were not confirmed for Lankford individually (party-line and news-reported votes)."
+  ],
+  "researched": "2026-11-04"
+}

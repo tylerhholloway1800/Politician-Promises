@@ -65,10 +65,10 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 - [x] ny-schumer Chuck Schumer D-NY
 - [x] nc-budd Ted Budd R-NC
 - [x] nd-hoeven John Hoeven R-ND
-- [ ] ok-lankford James Lankford R-OK
-- [ ] or-wyden Ron Wyden D-OR
-- [ ] pa-fetterman John Fetterman D-PA
-- [ ] sc-scott Tim Scott R-SC
+- [x] ok-lankford James Lankford R-OK
+- [x] or-wyden Ron Wyden D-OR
+- [x] pa-fetterman John Fetterman D-PA
+- [x] sc-scott Tim Scott R-SC
 - [ ] sd-thune John Thune R-SD
 - [ ] ut-lee Mike Lee R-UT
 - [ ] vt-welch Peter Welch D-VT

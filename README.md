@@ -24,7 +24,7 @@ A senator's grade stays hidden ("research in progress") until all 10 issues are 
 
 1. **Pages:** Settings → Pages → Source: **GitHub Actions**.
 2. **Anthropic key** (for vote matching): Settings → Secrets and variables → Actions → New repository secret → `ANTHROPIC_API_KEY`.
-3. **Site URL** (for links in posts): same page, Variables tab → `SITE_URL` = `https://tylerhholloway1800.github.io/politician-promises`.
+3. **Site URL** (for links in posts): same page, Variables tab → `SITE_URL` = `https://tylerhholloway1800.github.io/Politician-Promises`.
 4. **X posting (optional):** secrets `X_API_KEY`, `X_API_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_SECRET`. Without them, posts are skipped. Optional variable `POST_LETTER_CHANGES_ONLY` = `true` to post only when a letter grade changes.
 5. **Labels:** create `review` and `approve` (Issues → Labels).
 6. Run it once: Actions → *Update votes and publish* → Run workflow.

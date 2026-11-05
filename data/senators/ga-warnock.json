@@ -1,0 +1,186 @@
+{
+  "id": "ga-warnock",
+  "name": "Raphael Warnock",
+  "state": "GA",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Quinnipiac University Georgia Poll, Oct 7–10, 2022 (plus Monmouth Oct 20–24 and Emerson Aug 28–29, 2022)",
+    "url": "https://poll.qu.edu/images/polling/ga/ga10122022_glmf25.pdf",
+    "note": "Ranked by averaging each item's most-important-issue share across the polls that offered it; crime, immigration, housing and education came from Monmouth (https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ga_102622.pdf/) and Emerson (https://emersoncollegepolling.com/georgia-2022-walker-holds-two-point-lead-over-warnock-in-tight-senate-race-kemp-leads-abrams-by-four). Monmouth's 'defending your values' left out as untestable."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Suspend the federal gas tax",
+      "position_source": "https://digital-release.newsnationnow.com/politics/elections-2022/georgia-2022-midterm-election/georgia-senate-race-walker-v-warnock-on-the-major-issues",
+      "votes": [],
+      "note": "No Senate floor vote on a gas tax holiday this term."
+    },
+    {
+      "rank": 2,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Keep abortion legal; protect travel for abortion care",
+      "position_source": "https://guides.vote/?p=1177",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Ban military-style weapons and high-capacity magazines",
+      "position_source": "https://thecurrentga.org/2022/10/24/breaking-down-issues-waker-vs-warnock/",
+      "votes": [],
+      "note": "Assault weapons ban blocked without a recorded vote."
+    },
+    {
+      "rank": 4,
+      "issue": "Crime / policing",
+      "testable": true,
+      "position": "Police accountability: limit qualified immunity; end cash bail for minor offenses",
+      "position_source": "https://digital-release.newsnationnow.com/politics/elections-2022/georgia-2022-midterm-election/georgia-senate-race-walker-v-warnock-on-the-major-issues",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 126,
+          "date": "2023-05-16",
+          "bill": "H.J.Res.42",
+          "bill_title": "Disapproving D.C. Comprehensive Policing and Justice Reform Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Voted to keep D.C.'s police-accountability law; federal qualified-immunity bill got no floor vote."
+    },
+    {
+      "rank": 5,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Pass Freedom to Vote and John Lewis acts; oppose voting restrictions",
+      "position_source": "https://thecurrentga.org/2022/10/24/breaking-down-issues-waker-vs-warnock/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Expand Medicaid; cap insulin at $35; lower drug costs",
+      "position_source": "https://thecurrentga.org/2022/10/24/breaking-down-issues-waker-vs-warnock/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut Medicaid; he opposed it."
+    },
+    {
+      "rank": 7,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Comprehensive reform with path to citizenship, including DACA",
+      "position_source": "https://guides.vote/?p=1177",
+      "votes": [],
+      "note": "No floor vote on a path to citizenship this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Racial inequality",
+      "testable": false,
+      "position": "No specific position found beyond voting-rights and maternal-health work",
+      "position_source": "https://thecurrentga.org/2022/10/24/breaking-down-issues-waker-vs-warnock/",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Housing costs",
+      "testable": true,
+      "position": "Renter tax credit and tax-free down-payment savings accounts",
+      "position_source": "https://www.wrdw.com/2022/08/24/sen-raphael-warnock-introducing-bills-aimed-lower-housing-costs",
+      "votes": [],
+      "note": "Rent Relief Act and down-payment bill got no floor vote."
+    },
+    {
+      "rank": 10,
+      "issue": "Education",
+      "testable": true,
+      "position": "Forgive up to $50,000 in student debt",
+      "position_source": "https://guides.vote/?p=1177",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproving student loan relief rule",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "No single Georgia poll covered all ten issues; ranks combine three 2022 polls (Quinnipiac closest to Election Day).",
+    "Crime rated on the D.C. policing-law disapproval vote, a proxy for his federal police-accountability stance.",
+    "Roll calls 57, 372 and 644 rest on news reports that all Democrats voted together; 126, 135, 211 confirmed via govinfo/usquery."
+  ],
+  "researched": "2026-11-04"
+}

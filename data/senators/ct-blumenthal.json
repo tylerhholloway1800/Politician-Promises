@@ -1,0 +1,133 @@
+{
+  "id": "ct-blumenthal",
+  "name": "Richard Blumenthal",
+  "state": "CT",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Quinnipiac University Connecticut Poll, Sept 15–19, 2022 (likely voters)",
+    "url": "https://poll.qu.edu/images/polling/ct/ct09212022_cujw27.pdf",
+    "note": "Most urgent issue question gave ranks 1–9; COVID-19 (0%) and 'something else' dropped. Rank 10 (gun control, 2%) taken from the WNE Polling Institute CT poll, Sept 15–21, 2022: https://www1.wne.edu/news/2022/10/z-ct-Issues-TABLES.pdf"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Inflation / cost of living",
+      "testable": true,
+      "position": "More LIHEAP heating aid; release Strategic Petroleum Reserve oil",
+      "position_source": "https://www.ctpublic.org/news/2022-11-03/blumenthal-levy-spar-over-economy-abortion-in-only-debate-of-u-s-senate-race",
+      "votes": [],
+      "note": "Reserve releases are executive actions; no floor vote isolated LIHEAP funding levels."
+    },
+    {
+      "rank": 2,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Restore the expanded child tax credit",
+      "position_source": "https://ctmirror.org/2022/11/02/ct-us-senate-debate-leora-levy-richard-blumenthal/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 230,
+          "date": "2024-08-01",
+          "bill": "H.R.7024",
+          "bill_title": "Tax Relief for American Families and Workers Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 (2025) raised the credit to $2,200 but did not restore the 2021 expansion; not counted."
+    },
+    {
+      "rank": 3,
+      "issue": "Climate change",
+      "testable": false,
+      "position": "Do more to fight climate change; build clean-energy future",
+      "position_source": "https://www.lcv.org/article/richard-blumenthal-earns-lcv-action-fund-endorsement-for-reelection-to-the-u-s-senate/",
+      "votes": []
+    },
+    {
+      "rank": 4,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "Oppose defunding police; more resources for police shortages",
+      "position_source": "https://www.ctpublic.org/news/2022-11-03/blumenthal-levy-spar-over-economy-abortion-in-only-debate-of-u-s-senate-race",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pass federal law codifying abortion rights",
+      "position_source": "https://ctmirror.org/2022/10/17/ct-senate-race-election-leora-levy-richard-blumenthal/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Extend $2,000 drug cost cap beyond seniors; no Medicare/Social Security cuts",
+      "position_source": "https://ctmirror.org/2022/11/04/ct-senate-race-richard-blumenthal-leora-levy/",
+      "votes": [],
+      "note": "No floor vote on extending the cap or on cutting Medicare/Social Security benefits."
+    },
+    {
+      "rank": 7,
+      "issue": "Education",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://richardblumenthal.com/?p=7693",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Infrastructure",
+      "testable": false,
+      "position": "Cited the 2021 infrastructure law; no forward position found",
+      "position_source": "https://ctmirror.org/2022/05/06/ct-democrats-nominate-richard-blumenthal-for-third-term-in-u-s-senate/",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Racial inequality",
+      "testable": false,
+      "position": "Protect voting rights (general); no specific campaign-year position found",
+      "position_source": "https://richardblumenthal.com/",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Assault weapons and ghost gun ban, wider background checks, safe storage",
+      "position_source": "https://www.pbs.org/newshour/politics/what-action-should-be-taken-on-guns-we-asked-every-senator",
+      "votes": [],
+      "note": "None of these measures got a Senate floor vote this term."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Rank 10 comes from a second CT poll because the Quinnipiac list ran out of testable items.",
+    "Gun position is from a May 2022 Senate floor speech; his fall campaign said only 'build on' the 2022 gun law.",
+    "Several issues not testable because campaign coverage focused on his record, not new proposals."
+  ],
+  "researched": "2026-11-04"
+}

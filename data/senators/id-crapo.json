@@ -1,0 +1,236 @@
+{
+  "id": "id-crapo",
+  "name": "Mike Crapo",
+  "state": "ID",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Boise State University 8th Annual Idaho Public Policy Survey, Nov 10–17, 2022; plus Pew Research Center, Oct 10–16, 2022",
+    "url": "https://www.boisestate.edu/wp-content/uploads/sites/137/2023/01/8th-Annual-Survey-Tagged.pdf",
+    "note": "No ranked pre-election Idaho poll found. Ranks 1–6 come from the Boise State battery's items that a majority rated 8–10 in importance (education 72%, jobs/economy 64%, housing 61%, health care 60%, taxes 54%, environment 52%). Transportation (42%) was left out. Ranks 7–10 come from Pew's national 'very important' list, skipping items already covered and 'future of democracy' (no vote can test it): energy 61%, violent crime 61%, elections/voting 58%, gun policy 57%. Pew source: https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Education",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://crapoforsenate.com/the-issues/",
+      "votes": []
+    },
+    {
+      "rank": 2,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Cut federal spending; pass a Balanced Budget Amendment",
+      "position_source": "https://crapoforsenate.com/the-issues/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-07-17",
+          "bill": "H.R.4",
+          "bill_title": "Rescissions Act of 2025",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No floor vote on a Balanced Budget Amendment this term. Vote source: https://www.crapo.senate.gov/media/newsreleases/crapo-statement-on-senate-passed-rescissions-package"
+    },
+    {
+      "rank": 3,
+      "issue": "Housing",
+      "testable": true,
+      "position": "Expand the low-income housing tax credit",
+      "position_source": "https://idahocapitalsun.com/2022/10/04/idaho-senate-candidates-debate-federal-governments-role-in-health-care-social-issues/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 230,
+          "date": "2024-08-01",
+          "bill": "H.R.7024",
+          "bill_title": "Tax Relief for American Families and Workers Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Both bills expanded the housing credit. H.R.1 made the expansion permanent (https://www.ncsha.org/blog/senate-tax-bill-makes-permanent-housing-credit-volume-cap-increase-25-percent-bond-financing-threshold/)."
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Repeal and replace the Affordable Care Act",
+      "position_source": "https://crapoforsenate.com/the-issues/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-12-11",
+          "bill": "S.3386",
+          "bill_title": "Crapo-Cassidy HSA plan replacing enhanced ACA credits",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No full ACA repeal vote this term. Vote source: https://www.thefiscaltimes.com/2025/12/11/Senate-Rejects-Dueling-Healthcare-Plans-Obamacare-Subsidies-Line"
+    },
+    {
+      "rank": 5,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Keep the 2017 tax cuts; lower taxes further",
+      "position_source": "https://crapoforsenate.com/the-issues/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 230,
+          "date": "2024-08-01",
+          "bill": "H.R.7024",
+          "bill_title": "Tax Relief for American Families and Workers Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.7024 cut taxes for families and businesses; he voted against advancing it."
+    },
+    {
+      "rank": 6,
+      "issue": "Environment",
+      "testable": true,
+      "position": "Overturn EPA rules that burden agriculture",
+      "position_source": "https://crapoforsenate.com/the-issues/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "date": "2023-03-29",
+          "bill": "S.J.Res.7",
+          "bill_title": "Disapproval of the 2023 WOTUS rule",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Vote source: https://www.crapo.senate.gov/media/newsreleases/crapo-risch-succeed-in-challenging-biden-wotus-rule"
+    },
+    {
+      "rank": 7,
+      "issue": "Energy policy",
+      "testable": true,
+      "position": "Restore pipelines; expand domestic oil and gas production",
+      "position_source": "https://www.democracyinaction.us/lit/22sen/idsen22r.html",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 required new onshore and offshore oil and gas lease sales."
+    },
+    {
+      "rank": 8,
+      "issue": "Violent crime",
+      "testable": false,
+      "position": "Said crime was lower before Biden; no specific policy",
+      "position_source": "https://idahocapitalsun.com/2022/10/04/idaho-senate-candidates-debate-federal-governments-role-in-health-care-social-issues/",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Elections / voting",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.boisestatepublicradio.org/news/2022-10-04/idaho-debates-sen-crapo-pushes-back-on-critiques-of-his-record",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose new gun restrictions on law-abiding citizens",
+      "position_source": "https://crapoforsenate.com/the-issues/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 171,
+          "date": "2023-06-22",
+          "bill": "H.J.Res.44",
+          "bill_title": "Disapproval of ATF pistol-brace rule",
+          "question": "On the joint resolution",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Vote source: https://www.usquery.com/vote/1180100171"
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "The issue poll is a state-legislature priorities battery fielded just after Election Day, combined with national Pew data. Abortion (Pew 56%) and immigration (54%) fall just outside the top 10.",
+    "Campaign issue page was last updated April 2022. Positions come from it, a campaign mailer and the Oct 3, 2022 debate.",
+    "H.R.7024 is scored against him on both housing and taxes; most Republicans opposed it, but it expanded both tax cuts and the housing credit.",
+    "Roll call numbers are not confirmed for H.R.4 (July 17, 2025), S.3386 (Dec 11, 2025) or S.J.Res.7 (Mar 29, 2023).",
+    "The environment position (oppose EPA farm rules) is broad; it is scored only on the WOTUS disapproval vote."
+  ],
+  "researched": "2026-11-04"
+}

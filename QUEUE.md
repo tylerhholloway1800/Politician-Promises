@@ -49,10 +49,10 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 - [x] ar-boozman John Boozman R-AR
 - [x] ca-padilla Alex Padilla D-CA
 - [x] co-bennet Michael Bennet D-CO
-- [ ] ct-blumenthal Richard Blumenthal D-CT
-- [ ] ga-warnock Raphael Warnock D-GA
-- [ ] hi-schatz Brian Schatz D-HI
-- [ ] id-crapo Mike Crapo R-ID
+- [x] ct-blumenthal Richard Blumenthal D-CT
+- [x] ga-warnock Raphael Warnock D-GA
+- [x] hi-schatz Brian Schatz D-HI
+- [x] id-crapo Mike Crapo R-ID
 - [ ] il-duckworth Tammy Duckworth D-IL
 - [ ] in-young Todd Young R-IN
 - [ ] ia-grassley Chuck Grassley R-IA

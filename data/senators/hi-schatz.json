@@ -1,0 +1,133 @@
+{
+  "id": "hi-schatz",
+  "name": "Brian Schatz",
+  "state": "HI",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Pew Research Center national survey of registered voters, Oct 10-16, 2022 (issues 'very important' to midterm vote)",
+    "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf",
+    "note": "National fallback: no 2022 Hawaii poll ranking issues was found. 'Future of democracy' merged with 'how elections and voting work'; coronavirus and the Trump/Biden investigations left out. Immigration and foreign policy tied at 54%; immigration taken."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": false,
+      "position": "Lower cost of living with federal funds; no specific measure",
+      "position_source": "https://www.civilbeat.org/2022/09/candidate-qa-u-s-senate-brian-schatz-2",
+      "votes": []
+    },
+    {
+      "rank": 2,
+      "issue": "Democracy / elections and voting",
+      "testable": true,
+      "position": "End or reform the Senate filibuster",
+      "position_source": "https://www.civilbeat.org/2022/09/candidate-qa-u-s-senate-brian-schatz-2",
+      "votes": [],
+      "note": "No floor vote on changing the legislative filibuster this term."
+    },
+    {
+      "rank": 3,
+      "issue": "Education",
+      "testable": false,
+      "position": "Make college more affordable; no specific measure",
+      "position_source": "https://www.staradvertiser.com/?p=1134889",
+      "votes": []
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Protect Medicare and Medicaid; Medicare drug-price negotiation",
+      "position_source": "https://www.civilbeat.org/2022/09/candidate-qa-u-s-senate-brian-schatz-2",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut Medicaid spending; he opposed it."
+    },
+    {
+      "rank": 5,
+      "issue": "Energy / climate",
+      "testable": false,
+      "position": "Cut carbon pollution, invest in clean energy; no specific measure",
+      "position_source": "https://www.civilbeat.org/2022/09/candidate-qa-u-s-senate-brian-schatz-2",
+      "votes": []
+    },
+    {
+      "rank": 6,
+      "issue": "Crime",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.civilbeat.org/2022/09/candidate-qa-u-s-senate-brian-schatz-2",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Ban assault weapons; universal background checks",
+      "position_source": "https://www.staradvertiser.com/?p=1134889",
+      "votes": [],
+      "note": "No Senate floor vote on either measure this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Codify Roe in federal law",
+      "position_source": "https://www.staradvertiser.com/?p=1134889",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Supreme Court",
+      "testable": true,
+      "position": "18-year term limits for Supreme Court justices",
+      "position_source": "https://www.hawaiinewsnow.com/2022/08/05/hawaii-senators-introduce-18-year-term-limit-supreme-court-justices/",
+      "votes": [],
+      "note": "No floor vote on Supreme Court term limits this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Immigration",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.civilbeat.org/2022/09/candidate-qa-u-s-senate-brian-schatz-2",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue list is from national Pew polling; no ranked Hawaii issue poll from 2022 was found. Schatz and Hawaii coverage named cost of living as the state's top issue.",
+    "No debate coverage found; positions come mainly from Civil Beat and Star-Advertiser candidate questionnaires.",
+    "Votes confirmed through Hawaii Free Press weekly vote lists (S.4554, H.R.1); roll call numbers taken from the matching NH file, not checked on senate.gov."
+  ],
+  "researched": "2026-11-04"
+}

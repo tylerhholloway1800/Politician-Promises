@@ -1,0 +1,225 @@
+{
+  "id": "nd-hoeven",
+  "name": "John Hoeven",
+  "state": "ND",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Pew Research Center national survey of registered voters, Oct 10–16, 2022",
+    "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf",
+    "note": "No public 2022 North Dakota poll ranking issues was found (a 1892 Polling ND survey named inflation and government spending as top issues but published no figures). Ranked by Pew's national 'very important' share: economy 79%, education 64%, health care 63%, energy 61%, violent crime 61%, elections/voting 58%, gun policy 57%, abortion 56%, immigration 54%, foreign policy 54%. Skipped 'future of democracy' (no vote can test it) and Supreme Court appointments (no vacancy this term)."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Cut federal spending; require balanced budgets",
+      "position_source": "https://www.grandforksherald.com/news/north-dakota/candidates-diverge-on-the-issues-in-north-dakotas-3-way-senate-race",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-07-17",
+          "bill": "H.R.4",
+          "bill_title": "Rescissions Act of 2025",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No balanced-budget amendment got a floor vote; scored on the $9B rescissions bill (51-48, only Collins and Murkowski among Republicans opposed)."
+    },
+    {
+      "rank": 2,
+      "issue": "Education",
+      "testable": true,
+      "position": "Oppose Biden student loan debt cancellation",
+      "position_source": "https://www.hoeven.senate.gov/news/news-releases/hoeven-statement-on-biden-student-debt-cancellation",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of the student loan debt relief rule (CRA)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Hoeven's June 1, 2023 release confirms his Yea vote (https://www.hoeven.senate.gov/?p=11188)."
+    },
+    {
+      "rank": 3,
+      "issue": "Health care",
+      "testable": false,
+      "position": "More competition and price transparency; oppose socialized medicine",
+      "position_source": "https://www.grandforksherald.com/news/north-dakota/candidates-diverge-on-the-issues-in-north-dakotas-3-way-senate-race",
+      "votes": []
+    },
+    {
+      "rank": 4,
+      "issue": "Energy policy",
+      "testable": true,
+      "position": "End the federal oil and gas moratorium; resume lease sales",
+      "position_source": "https://www.hoeven.senate.gov/?p=11590",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 required regular onshore and offshore oil and gas lease sales."
+    },
+    {
+      "rank": 5,
+      "issue": "Violent crime",
+      "testable": false,
+      "position": "Enforce existing laws; keep repeat offenders off the streets",
+      "position_source": "https://www.grandforksherald.com/news/north-dakota/candidates-diverge-on-the-issues-in-north-dakotas-3-way-senate-race",
+      "votes": []
+    },
+    {
+      "rank": 6,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Oppose federal control of how states run elections",
+      "position_source": "https://www.hoeven.senate.gov/news/news-releases/hoeven-statement-on-voting-against-democrats-bill-to-federalize-elections",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "The SAVE America Act sets a federal proof-of-citizenship rule for registration; his 2022 stance said the states, not Washington, should set election rules."
+    },
+    {
+      "rank": 7,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose red-flag laws and new burdens on lawful gun owners",
+      "position_source": "https://www.hoeven.senate.gov/news/news-releases/hoeven-statement-on-senate-gun-control-legislation",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 171,
+          "date": "2023-06-22",
+          "bill": "H.J.Res.44",
+          "bill_title": "Disapproval of ATF pistol-brace rule (CRA)",
+          "question": "On the joint resolution",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Oppose abortion; supports some form of federal ban",
+      "position_source": "https://www.grandforksherald.com/news/north-dakota/candidates-diverge-on-the-issues-in-north-dakotas-3-way-senate-race",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 11,
+          "date": "2025-01-22",
+          "bill": "S.6",
+          "bill_title": "Born-Alive Abortion Survivors Protection Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No federal abortion ban got a floor vote this term."
+    },
+    {
+      "rank": 9,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Keep Title 42; restart border wall construction",
+      "position_source": "https://www.hoeven.senate.gov/?p=11587",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded border wall construction; Title 42 ended in May 2023 without a Senate floor vote to extend it."
+    },
+    {
+      "rank": 10,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "More military aid to Ukraine",
+      "position_source": "https://www.wdayradionow.com/news/regional-news/45035-senators-hoeven-cramer-react-to-ukraine-presidents-plea-to-congress",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "date": "2024-02-13",
+          "bill": "H.R.815",
+          "bill_title": "National Security Supplemental (Ukraine, Israel, Taiwan aid)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Minot Daily News reported his Yea on the 70-29 passage (https://www.minotdailynews.com/news/local-news/2024/02/nd-senators-vote-for-security-act/)."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "No ranked 2022 North Dakota issue poll was found, so the issue list comes from national Pew data.",
+    "No campaign issue page or questionnaire was found; positions come from a Grand Forks Herald candidate guide, 2022 Senate releases and news coverage.",
+    "Elections is scored Contradicted on the SAVE America Act, the same way as ks-moran; his 2022 statement didn't mention voter ID or proof of citizenship.",
+    "Roll call numbers missing for H.R.4 (July 17, 2025) and H.R.815 passage (Feb 13, 2024). Numbers 135, 171, 211, 11 and 372 come from other researched files, not Hoeven-specific sources. His votes on H.J.Res.44 and S.4554 are inferred from party-line reporting."
+  ],
+  "researched": "2026-11-04"
+}

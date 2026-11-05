@@ -1,0 +1,195 @@
+{
+  "id": "nv-cortez-masto",
+  "name": "Catherine Cortez Masto",
+  "state": "NV",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "AARP Nevada 2022 Election Survey (Fabrizio Ward / Impact Research), Aug 16–24, 2022, likely voters 18+",
+    "url": "https://www.aarp.org/content/dam/aarp/research/surveys_statistics/politics/2022/aarp-nevada-2022-election-survey-topline.doi.10.26419-2Fres.00550.020.pdf",
+    "note": "Most important issue for Senate vote (all likely voters). Election security and voting rights (5% each) merged into one item at their own rank; health care (5%) takes 10th. Later Emerson (Oct 26–29) and Univision (Oct 12–19) polls also had the economy/inflation first, but published results listed only top items."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Inflation / cost of living",
+      "testable": true,
+      "position": "Suspend the federal gas tax through 2022",
+      "position_source": "https://foxbusiness.com/politics/cortez-masto-gas-tax-holiday-nevada-families",
+      "votes": [],
+      "note": "No Senate floor vote on a gas tax holiday this term."
+    },
+    {
+      "rank": 2,
+      "issue": "Taxes, spending and debt",
+      "testable": true,
+      "position": "Keep the IRA's 15% corporate minimum tax",
+      "position_source": "https://thenevadaindependent.com/article/on-the-record-democratic-senate-candidate-catherine-cortez-masto",
+      "votes": [],
+      "note": "No floor vote this term repealed the corporate minimum tax; H.R.1 left it in place."
+    },
+    {
+      "rank": 3,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pass federal abortion-rights law; block a national ban",
+      "position_source": "https://thenevadaindependent.com/article/on-the-record-democratic-senate-candidate-catherine-cortez-masto",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Immigration / border security",
+      "testable": true,
+      "position": "Citizenship path for Dreamers; more border security funding",
+      "position_source": "https://thenevadaindependent.com/article/on-the-record-democratic-senate-candidate-catherine-cortez-masto",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "date": "2024-02-07",
+          "bill": "H.R.815",
+          "bill_title": "National security supplemental with bipartisan border agreement",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2024-05-23",
+          "bill": "S.4361",
+          "bill_title": "Border Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 carried large border-security funding; no floor vote on a Dreamers citizenship path."
+    },
+    {
+      "rank": 5,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "Keep IRA solar tax credit and drought funding",
+      "position_source": "https://thenevadaindependent.com/article/on-the-record-democratic-senate-candidate-catherine-cortez-masto",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Jobs and the economy",
+      "testable": false,
+      "position": "Create jobs and bring jobs back from overseas (direction only)",
+      "position_source": "https://nevadaappeal.com/news/2022/oct/18/election-2022-nevada-us-senate",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Social Security and Medicare",
+      "testable": false,
+      "position": "Protect Social Security and Medicare (no specific plan found)",
+      "position_source": "https://retiredamericans.org/retiree-group-endorses-catherine-cortez-masto-for-re-election-to-u-s-senate/",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Gun policy",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://www.everytown.org/press/senator-catherine-cortez-masto-everytown-supported-gun-sense-candidate-wins-re-election-in-nevada/",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Pass Freedom to Vote and John Lewis acts; change filibuster",
+      "position_source": "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-statement-on-protecting-voting-rights",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Protect the ACA; extend $35 insulin cap to private insurance",
+      "position_source": "https://thenevadaindependent.com/article/on-the-record-democratic-senate-candidate-catherine-cortez-masto",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranking uses an August poll; October polls found published only their top few issues.",
+    "Immigration rated Mixed: H.R.1 carried border funding she had backed, and she opposed the package.",
+    "No 2022 debate was held and few detailed forward positions were found; several issues rest on one Nevada Independent candidate profile.",
+    "H.R.815 (Feb 7, 2024) roll call number not confirmed; H.R.1, S.3385 and S.1383 votes taken from party-line reporting, not confirmed on senate.gov."
+  ],
+  "researched": "2026-11-04"
+}

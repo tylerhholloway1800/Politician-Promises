@@ -1,0 +1,212 @@
+{
+  "id": "ny-schumer",
+  "name": "Chuck Schumer",
+  "state": "NY",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Marist Poll, New York registered voters, Oct 3–6, 2022; Pew Research national registered voters, Oct 10–16, 2022",
+    "url": "https://maristpoll.marist.edu/polls/the-2022-elections-in-new-york/",
+    "note": "Ranks 1–6 from Marist's NY top-issue question, which offered six options. Ranks 7–10 are the next issues by share of voters calling them very important in Pew's national poll (https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf), skipping items already listed; Pew's 'elections and voting' item merged into rank 2."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": false,
+      "position": "Pointed to the Inflation Reduction Act; no new specific measure",
+      "position_source": "https://www.yahoo.com/news/sen-chuck-schumer-gop-challenger-003300198.html",
+      "votes": []
+    },
+    {
+      "rank": 2,
+      "issue": "Democracy / elections",
+      "testable": true,
+      "position": "Pass a comprehensive voting rights bill; oppose voter suppression",
+      "position_source": "https://jimowles.org/news/candidate-answers-to-joldc-charles-e-schumer-for-us-senate-d-ny-2022",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "The voting rights bill he backed got no floor vote; rated on the SAVE America Act."
+    },
+    {
+      "rank": 3,
+      "issue": "Crime",
+      "testable": true,
+      "position": "Pass Justice in Policing Act; schedule fentanyl without mandatory minimums",
+      "position_source": "https://jimowles.org/news/candidate-answers-to-joldc-charles-e-schumer-for-us-senate-d-ny-2022",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 126,
+          "date": "2023-05-16",
+          "bill": "H.J.Res.42",
+          "bill_title": "Disapproving D.C. Comprehensive Policing and Justice Reform Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 127,
+          "date": "2025-03-14",
+          "bill": "S.331",
+          "bill_title": "HALT Fentanyl Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "HALT Act adds mandatory minimums for fentanyl analogues; Yea inferred (84-16, all voted, not among named nays)."
+    },
+    {
+      "rank": 4,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Restore Roe protections in federal law; oppose a national ban",
+      "position_source": "https://www.whec.com/?p=122832",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Procedural Nay so he could move to reconsider; he filed the cloture motion (Congressional Record)."
+    },
+    {
+      "rank": 5,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Make ACA coverage more affordable; expand Medicaid in all states",
+      "position_source": "https://jimowles.org/news/candidate-answers-to-joldc-charles-e-schumer-for-us-senate-d-ny-2022",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut Medicaid and tightened ACA marketplace rules."
+    },
+    {
+      "rank": 6,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Create a path to citizenship for millions of immigrants",
+      "position_source": "https://jimowles.org/news/candidate-answers-to-joldc-charles-e-schumer-for-us-senate-d-ny-2022",
+      "votes": [],
+      "note": "No floor vote on a path to citizenship this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Education",
+      "testable": true,
+      "position": "Cancel up to $50,000 in federal student debt",
+      "position_source": "https://jimowles.org/news/candidate-answers-to-joldc-charles-e-schumer-for-us-senate-d-ny-2022",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of student loan debt relief",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "issue": "Energy / climate",
+      "testable": true,
+      "position": "Cut carbon emissions at least 50%; 80% clean power grid",
+      "position_source": "https://jimowles.org/news/candidate-answers-to-joldc-charles-e-schumer-for-us-senate-d-ny-2022",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 phased out wind, solar and EV tax credits."
+    },
+    {
+      "rank": 9,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Expand background checks; reinstate the assault weapons ban",
+      "position_source": "https://www.yahoo.com/news/sen-chuck-schumer-gop-challenger-003300198.html",
+      "votes": [],
+      "note": "No recorded floor vote on background checks or an assault weapons ban this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Supreme Court",
+      "testable": false,
+      "position": "Said he was open to adding justices; no commitment",
+      "position_source": "https://www.yahoo.com/news/sen-chuck-schumer-gop-challenger-003300198.html",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Abortion vote 211 is a leader's procedural Nay on a bill he backed; scored consistent, which senate.gov re-check will show as Nay.",
+    "Many positions come from an April 2022 LGBTQ Democratic club questionnaire (jimowles.org); his campaign site gave few specific forward commitments.",
+    "Ranks 7–10 use national Pew polling because the NY poll offered only six issues."
+  ],
+  "researched": "2026-11-04"
+}

@@ -61,10 +61,10 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 - [x] la-kennedy John Kennedy R-LA
 - [x] md-van-hollen Chris Van Hollen D-MD
 - [x] mo-schmitt Eric Schmitt R-MO
-- [ ] nv-cortez-masto Catherine Cortez Masto D-NV
-- [ ] ny-schumer Chuck Schumer D-NY
-- [ ] nc-budd Ted Budd R-NC
-- [ ] nd-hoeven John Hoeven R-ND
+- [x] nv-cortez-masto Catherine Cortez Masto D-NV
+- [x] ny-schumer Chuck Schumer D-NY
+- [x] nc-budd Ted Budd R-NC
+- [x] nd-hoeven John Hoeven R-ND
 - [ ] ok-lankford James Lankford R-OK
 - [ ] or-wyden Ron Wyden D-OR
 - [ ] pa-fetterman John Fetterman D-PA
@@ -80,4 +80,5 @@ Lock winners' plans once results are final; re-elected incumbents also get a del
 
 ## Consistency pass (after all senators are in)
 - H.R.1 (RC 372) is applied unevenly: some files count a Nay as Contradicting a border-funding / LIHTC / child-tax-credit position, others leave the issue as No vote held (Kaine, Murphy, Blunt Rochester, Hassan-immigration). Pick one rule and apply it to every file.
-- SAVE America Act vs. a 2022 pledge to oppose federalizing elections: ks-moran scores it Contradicted, ar-boozman leaves it unscored. Same rule needed.
+- SAVE America Act vs. a 2022 pledge to oppose federalizing elections: ks-moran scores it Contradicted, ar-boozman leaves it unscored. Same rule needed. (nd-hoeven also scored Contradicted.)
+- Procedural Nays to enable reconsideration (e.g. Schumer on RC 211) are scored consistent by hand; make sure verify_votes never flips them.

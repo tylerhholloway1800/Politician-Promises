@@ -1,0 +1,197 @@
+{
+  "id": "nc-budd",
+  "name": "Ted Budd",
+  "state": "NC",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Marist Poll NC, Oct 17–20, 2022; High Point University Poll, Sept 14–20, 2022",
+    "url": "https://maristpoll.marist.edu/polls/the-2022-election-in-north-carolina/",
+    "note": "Ranks 1–5 follow Marist's top-issue order (inflation, abortion, health care, crime, immigration; 'preserving democracy' dropped as untestable). Ranks 6–10 add HPU 'very important' items Marist did not ask, in HPU order (school safety, education, jobs, taxes, voting rights/integrity merged). HPU: https://www.ncspin.com/hpu-poll-north-carolinians-cite-school-safety-as-top-issue-concern"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Increase oil and gas production and pipelines; cut regulation",
+      "position_source": "https://abc11.com/ted-budd-nc-senate-race-cheri-beasley-gop/12091123/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 mandated new oil and gas lease sales."
+    },
+    {
+      "rank": 2,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pro-life; backed a national 15-week abortion ban",
+      "position_source": "https://spectrumlocalnews.com/nc/charlotte/politics/2022/10/08/beasley-budd-debate--senate-candidates-tackle-inflation--abortion--immigration",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No floor vote on a national ban; rated on opposing a federal abortion-rights bill."
+    },
+    {
+      "rank": 3,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Oppose Medicare for All; keep employer-based coverage",
+      "position_source": "https://spectrumlocalnews.com/nc/charlotte/politics/2022/10/08/beasley-budd-debate--senate-candidates-tackle-inflation--abortion--immigration",
+      "votes": [],
+      "note": "No Senate floor vote on Medicare for All this term."
+    },
+    {
+      "rank": 4,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "Fund and back law enforcement (no specific policy)",
+      "position_source": "https://www.wral.com/story/in-nc-senate-race-gop-s-budd-steps-up-public-appearances-to-tout-law-enforcement-support/20415072/",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Finish the border wall; move IRS funding to Border Patrol",
+      "position_source": "https://spectrumlocalnews.com/nc/charlotte/politics/2022/10/08/beasley-budd-debate--senate-candidates-tackle-inflation--abortion--immigration",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded wall construction and Border Patrol hiring and rescinded IRS funds."
+    },
+    {
+      "rank": 6,
+      "issue": "School safety",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://guides.vote/guide/2022-north-carolina-senate-candidate-guide/",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Education",
+      "testable": true,
+      "position": "Oppose mass student loan cancellation",
+      "position_source": "https://www.aol.com/nc-senate-candidates-beasley-budd-120000828.html",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "CRA disapproval of student loan cancellation",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "issue": "Jobs",
+      "testable": false,
+      "position": "Create jobs by cutting regulation (direction only)",
+      "position_source": "https://dukechronicle.com/article/2022/10/north-carolina-republican-nominee-ted-budd-running-for-u-s-senate-with-a-focus-on-conservative-values-creating-jobs",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Keep the 2017 tax cuts; oppose reversing them",
+      "position_source": "https://guides.vote/guide/2022-north-carolina-senate-candidate-guide/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Require voter ID; let states verify citizenship",
+      "position_source": "https://guides.vote/guide/2022-north-carolina-senate-candidate-guide/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue list combines two NC polls (Marist top-issue, HPU very-important); HPU ranks school safety and education above inflation.",
+    "Several positions (taxes, voting, energy) come from a voter guide summarizing House-era statements and campaign site, not a single dated campaign quote.",
+    "Abortion rated on opposing S.4554; the 15-week ban he backed never got a floor vote."
+  ],
+  "researched": "2026-11-04"
+}

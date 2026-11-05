@@ -124,10 +124,10 @@ Message to a fresh agent: "In /home/claude/politician-promises/data/senators/<id
 - [x] plan:id-risch Jim Risch R-ID
 - [x] del:id-risch elected 2020, term 2021-01-03
 - [x] plan:ma-markey Ed Markey D-MA
-- [ ] del:ma-markey elected 2020, term 2021-01-03
-- [ ] plan:ne-ricketts Pete Ricketts R-NE
-- [ ] del:ne-ricketts elected 2024 special, term 2024-11-05
-- [ ] plan:nj-booker Cory Booker D-NJ
+- [x] del:ma-markey elected 2020, term 2021-01-03
+- [x] plan:ne-ricketts Pete Ricketts R-NE
+- [x] del:ne-ricketts elected 2024 special, term 2024-11-05
+- [x] plan:nj-booker Cory Booker D-NJ
 - [ ] del:nj-booker elected 2020, term 2021-01-03
 - [ ] plan:nm-lujan Ben Ray Luján D-NM
 - [ ] del:nm-lujan elected 2020, term 2021-01-03

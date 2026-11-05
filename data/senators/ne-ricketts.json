@@ -1,0 +1,188 @@
+{
+  "id": "ne-ricketts",
+  "name": "Pete Ricketts",
+  "state": "NE",
+  "party": "R",
+  "elected": 2024,
+  "term_start": "2024-11-05",
+  "term_end": "2027-01-03",
+  "issue_poll": {
+    "name": "Gallup national poll of registered voters, issue importance to vote, Sept 16–28, 2024",
+    "url": "https://news.gallup.com/file/poll/651749/2024_10_09_Vote%20Issues%20Topline%20and%20Tabs.pdf",
+    "note": "National fallback, same as ne-fischer: no 2024 Nebraska poll ranking issues was found. Ranked by share calling each issue extremely important."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy",
+      "testable": false,
+      "position": "Control federal spending to bring down prices",
+      "position_source": "https://www.ktiv.com/2024/10/14/decision-2024-election-profile-us-nebraska-senator-candidate-pete-ricketts/",
+      "votes": [],
+      "note": "Direction only; no specific policy named."
+    },
+    {
+      "rank": 2,
+      "issue": "Democracy / elections",
+      "testable": true,
+      "position": "Oppose voting rights for people in the country illegally",
+      "position_source": "https://www.ktiv.com/2024/10/14/decision-2024-election-profile-us-nebraska-senator-candidate-pete-ricketts/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "SAVE America Act requires proof of citizenship to register; only Murkowski among Republicans voted no."
+    },
+    {
+      "rank": 3,
+      "issue": "National security",
+      "testable": true,
+      "position": "Back Israel against Hamas; stop Russian aggression in Ukraine",
+      "position_source": "https://www.1011now.com/2024/04/15/us-senate-candidate-profile-pete-ricketts",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 292,
+          "date": "2024-11-20",
+          "bill": "S.J.Res.111",
+          "bill_title": "Disapproval of arms sale to Israel",
+          "question": "On the motion to discharge",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No floor vote on Ukraine aid in this term; rated on Israel arms-sale vote."
+    },
+    {
+      "rank": 4,
+      "issue": "Supreme Court",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://guides.vote/guide/2024-nebraska-senate-voters-guide-special-general-election/",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Finish border wall, restore Remain in Mexico, resume deportations",
+      "position_source": "https://www.ktiv.com/2024/10/14/decision-2024-election-profile-us-nebraska-senator-candidate-pete-ricketts/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 7,
+          "date": "2025-01-20",
+          "bill": "S.5",
+          "bill_title": "Laken Riley Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded the border wall, detention and removals; S.5 mandates detention."
+    },
+    {
+      "rank": 6,
+      "issue": "Education",
+      "testable": true,
+      "position": "Pass the Educational Choice for Children Act scholarship tax credit",
+      "position_source": "https://northplattepost.com/posts/478ccf82-86ce-4a39-a5c9-355289a272bb",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 created a federal scholarship-donation tax credit based on ECCA."
+    },
+    {
+      "rank": 7,
+      "issue": "Health care",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://guides.vote/guide/2024-nebraska-senate-voters-guide-special-general-election/",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Gun policy",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://guides.vote/guide/2024-nebraska-senate-voters-guide-special-general-election/",
+      "votes": [],
+      "note": "Guide cites only past record (opposes red-flag laws)."
+    },
+    {
+      "rank": 9,
+      "issue": "Abortion",
+      "testable": false,
+      "position": "Backed Nebraska's first-trimester limit; no federal position stated",
+      "position_source": "https://www.ktiv.com/2024/10/14/decision-2024-election-profile-us-nebraska-senator-candidate-pete-ricketts/",
+      "votes": [],
+      "note": "Campaign answer addressed only state ballot measures 434 and 439."
+    },
+    {
+      "rank": 10,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Renew 2017 tax cuts; cut taxes on Social Security and tips",
+      "position_source": "https://www.ktiv.com/2024/10/14/decision-2024-election-profile-us-nebraska-senator-candidate-pete-ricketts/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 made the 2017 cuts permanent, added a tips deduction and a senior deduction (not a full Social Security tax repeal)."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranking uses a national Gallup poll; no Nebraska issue-ranking poll from 2024 was found.",
+    "Education position rests on a campaign-period endorsement citing his ECCA cosponsorship, not a campaign pledge in his own words.",
+    "Votes on S.5, H.R.1 and S.1383 inferred from party-line tallies and news naming the only GOP defectors; only roll call 292 was read directly from the Congressional Record."
+  ],
+  "researched": "2026-11-04"
+}

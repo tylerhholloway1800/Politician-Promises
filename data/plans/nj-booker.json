@@ -1,0 +1,62 @@
+{
+  "id": "nj-booker",
+  "name": "Cory Booker",
+  "state": "NJ",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Rutgers-Eagleton/SSRS Garden State Panel poll, Dec 29, 2025-Jan 6, 2026, 1,570 NJ adults (open-ended top priority), combined with Pew Research Center national survey, Sept 28-Oct 4, 2026 (share of registered voters calling each issue very important)",
+      "url": "https://www.rutgers.edu/news/what-do-new-jerseyans-want-mikie-sherrill-focus-first-taxes",
+      "note": "No fall 2026 New Jersey poll with a published issue ranking was found (Rutgers-Eagleton's April and October 2026 releases covered affordability only; no Senate-race issue poll found). Base order from the Rutgers-Eagleton NJ poll: taxes 28% (mostly property taxes), affordability/cost of living 19%, utility costs 9%, housing 7%, economy 5% (merged with cost of living), health care 4%, education 3%, government issues incl. corruption 3%, opposing Trump agenda 2% (dropped: not a testable issue), immigration 2%. That poll asked about priorities for the governor, so national 2026 polling was used to complete and order the list: Pew (https://www.pewresearch.org/politics/2026/10/08/economy-ranks-as-top-issue-in-midterms-for-all-voters-but-partisans-differ-over-the-importance-of-other-issues/) economy 84%, future of democracy 73%, health care 68%, education 62%, immigration 59%, foreign policy 57%, energy policy 54% (merged with utility costs), violent crime 52%, abortion 46%. Democracy/government ethics placed above education (tied at 3% in Rutgers; Pew 73% vs 62%). Ranks 9-10 (foreign policy, crime) added from Pew as the highest-ranked issues missing from the NJ list."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Taxes", "rating": "Concrete",
+       "detail": "Keep Your Pay Act: first $75,000 of joint income federal-tax-free; child tax credit $3,600 ($4,320 under 6) plus $2,400 baby bonus; expand EITC.",
+       "source": "https://njbiz.com/cory-booker-keep-your-pay-act-tax-plan"},
+      {"rank": 2, "issue": "Cost of living and economy", "rating": "Partial",
+       "detail": "Oppose and challenge Trump tariffs in the Senate; secure federal funding for Gateway and Delaware River Bridge projects; act against corporate consolidation.",
+       "source": "https://whyy.org/articles/election-2026-new-jersey-senate-voter-guide-booker/"},
+      {"rank": 3, "issue": "Energy and utility costs", "rating": "Concrete",
+       "detail": "Pass Power for the People Act (S.3682): data centers, not household ratepayers, pay grid and transmission upgrade costs they cause.",
+       "source": "https://w.media/power-of-the-people-act-why-was-it-proposed-and-who-is-supporting-it/"},
+      {"rank": 4, "issue": "Housing costs", "rating": "Partial",
+       "detail": "Expand affordable housing using the recent federal housing law and opportunity zones (existing law); no new target.",
+       "source": "https://www.inquirer.com/politics/new-jersey/cory-booker-justin-murphy-donald-trump-20261009.html"},
+      {"rank": 5, "issue": "Health care", "rating": "Vague",
+       "detail": "Lower health care costs and expand coverage; oppose ACA and Medicaid cuts.",
+       "source": "https://www.bostonglobe.com/2026/01/18/nation/buttigieg-booker-lead-push-hammer-republicans-health-care"},
+      {"rank": 6, "issue": "Democracy and government ethics", "rating": "Concrete",
+       "detail": "18-year term limits for Supreme Court justices; bar justices from accepting gifts from parties with interests before the Court; binding ethics rules for justices.",
+       "source": "https://www.breitbart.com/clips/2026/06/21/booker-supreme-court-needs-massive-reforms-including-term-limits/"},
+      {"rank": 7, "issue": "Education", "rating": "None",
+       "detail": "No 2026 campaign position found.",
+       "source": "https://whyy.org/articles/election-2026-new-jersey-senate-voter-guide-booker/"},
+      {"rank": 8, "issue": "Immigration", "rating": "Partial",
+       "detail": "Vote against DHS budgets adding ICE funding until ICE accountability and hiring standards are imposed; keep state/local role separate from federal enforcement.",
+       "source": "https://pix11.com/news/local-news/nj-senator-wont-approve-more-money-for-out-of-control-ice/amp/"},
+      {"rank": 9, "issue": "Foreign policy", "rating": "Concrete",
+       "detail": "Vote against funding to continue the Iran war; assert Senate war powers to end it; support two-state solution and more Gaza humanitarian aid.",
+       "source": "https://whyy.org/articles/election-2026-new-jersey-senate-voter-guide-booker/"},
+      {"rank": 10, "issue": "Crime and public safety", "rating": "None",
+       "detail": "No 2026 campaign position found.",
+       "source": "https://www.inquirer.com/about/photos-sen-cory-booker-visits-camden-county-police-department-20260612.html"}
+    ]
+  },
+  "plan_caveats": [
+    "No fall 2026 NJ issue-ranking poll found; base NJ poll is from Dec 2025-Jan 2026 and asked about priorities for the new governor (all adults, not likely voters). Pew national (Sept-Oct 2026) used to complete and order the list.",
+    "Taxes rank 1 in NJ largely because of property taxes, a state/local matter; the Keep Your Pay Act (federal income tax) is Booker's campaign answer. No 2026 position found on the SALT deduction.",
+    "Energy rated Concrete on a bill Booker co-introduced in Jan 2026 (campaign year); no campaign material found that touts it, so it is closer to in-office record than a campaign pledge. Judgment call.",
+    "Keep Your Pay Act is also a Senate proposal (Mar 2026), but campaign coverage (WHYY, Fox 29) names it as his central 2026 campaign plan.",
+    "Democracy/ethics positions come from a Meet the Press interview (June 21, 2026) as reported by Breitbart; no campaign-site text was readable (corybooker.com could not be fetched; Ballotpedia shows no 2026 survey).",
+    "Immigration rated Partial: the vote pledge is conditional on undefined 'accountability' standards. Source is a Jan 2026 interview on a budget fight.",
+    "Health care rated Vague: no 2026 commitment found to extend ACA credits or reverse Medicaid cuts in his own words; only criticism and general goals.",
+    "Education and crime rated None after searching; his Camden police visit (June 2026) produced no stated position.",
+    "Booker campaigned largely on opposition to Trump and the Iran war; Oct 8 Rider University debate coverage reported few domestic specifics."
+  ],
+  "researched": "2026-11-05"
+}

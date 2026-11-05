@@ -1,0 +1,62 @@
+{
+  "id": "ne-ricketts",
+  "name": "Pete Ricketts",
+  "state": "NE",
+  "party": "R",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Holland Children's Institute Nebraska registered voters, March 4-6, 2026 (n~500); Pew Research Center national registered voters, Sept 28-Oct 4, 2026",
+      "url": "https://nebraskaexaminer.com/2026/03/20/holland-childrens-institute-poll-shows-most-nebraskans-see-the-state-on-wrong-track/",
+      "note": "No 2026 Nebraska poll ranking issues was found; fall Nebraska polls (NYT/Siena, YouGov, SurveyUSA, NPA, Echelon) were horse-race only in available reporting, or their PDFs could not be fetched. Order follows Pew national 'very important' shares (economy 84, democracy 73, health care 68, education 62, immigration 59, foreign policy 57, energy 54, violent crime 52, abortion 46), adjusted with the Nebraska Holland cost-worry poll (health care 66, groceries 60, utilities 56, gas 52, rent/mortgage 51): health care placed 2nd as Nebraska's top worry, energy costs folded into Energy, and Housing affordability added at 9 from the Nebraska rent/mortgage item. Pew: https://www.pewresearch.org/politics/2026/10/08/economy-ranks-as-top-issue-in-midterms-for-all-voters-but-partisans-differ-over-the-importance-of-other-issues/"
+    },
+    "issues": [
+      {"rank": 1, "issue": "Economy and cost of living", "rating": "Partial",
+       "detail": "Keep using tariffs to protect Nebraska agriculture and business; hold down federal spending growth.",
+       "source": "https://nebraskaexaminer.com/?p=43931"},
+      {"rank": 2, "issue": "Health care", "rating": "Partial",
+       "detail": "Keep Medicaid work requirements (20 hours work or education) enacted in 2025 law.",
+       "source": "https://www.1011now.com/2026/09/02/osborn-ricketts-spar-health-care-immigration-beef-imports-nebraska-state-fair/"},
+      {"rank": 3, "issue": "Democracy and voting rules", "rating": "Concrete",
+       "detail": "Pass SAVE America Act (proof of citizenship to register); use talking filibuster to pass it.",
+       "source": "https://nebraskaexaminer.com/2026/03/11/nebraskas-u-s-senators-might-split-on-changing-senate-filibuster-for-save-america-act/"},
+      {"rank": 4, "issue": "Education", "rating": "Partial",
+       "detail": "Support school choice, including existing federal tax credit for scholarship-organization donations.",
+       "source": "https://www.ricketts.senate.gov/news/press-releases/ricketts-highlights-national-school-choice-week-2026"},
+      {"rank": 5, "issue": "Immigration", "rating": "Partial",
+       "detail": "Continue increased funding for border barriers and enforcement personnel.",
+       "source": "https://1053thebone.com/?p=176829"},
+      {"rank": 6, "issue": "Foreign policy", "rating": "Concrete",
+       "detail": "Keep sanctions and port restrictions on Iran; prevent Iran obtaining a nuclear weapon; protect Strait of Hormuz shipping.",
+       "source": "https://klin.com/?p=635778"},
+      {"rank": 7, "issue": "Energy", "rating": "Concrete",
+       "detail": "Make E15 sales legal year-round; pass Renewable Fuels for Ocean-Going Vessels legislation.",
+       "source": "https://www.ricketts.senate.gov/weekly_column/senator-ricketts-weekly-column-the-good-life-in-2026/"},
+      {"rank": 8, "issue": "Crime and public safety", "rating": "Concrete",
+       "detail": "Pass Thin Blue Line Act and Back the Blue Act (higher penalties for targeting police); act against nitazenes.",
+       "source": "https://www.ricketts.senate.gov/weekly_column/senator-ricketts-weekly-column-backing-the-blue-in-2026"},
+      {"rank": 9, "issue": "Housing affordability", "rating": "Partial",
+       "detail": "Points to ROAD to Housing Act, including his Streamlining Rural Housing Act, now law; promote housing construction.",
+       "source": "https://nebraskaexaminer.com/voter-guides/contests/2026-primary-u-s-senate/"},
+      {"rank": 10, "issue": "Abortion", "rating": "Concrete",
+       "detail": "Pass Born-Alive Abortion Survivors Protection Act and Dignity for Aborted Children Act; bar taxpayer funding of abortion.",
+       "source": "https://www.ricketts.senate.gov/?p=12177"}
+    ]
+  },
+  "plan_caveats": [
+    "Win taken from the task brief (CBS projection); not independently confirmed on Nov 5.",
+    "No Nebraska 2026 issue-ranking poll found; ranking blends a March Nebraska cost-worry poll with Pew national data, so state-specific issues (agriculture/trade, property taxes, AI data centers) may be under-ranked.",
+    "Campaign site petericketts.com could not be found or fetched; Energy, Crime, Abortion and Education ratings rest on Jan 2026 Senate-office columns and releases stating 2026 goals, not campaign materials. A stricter reading would downgrade those four.",
+    "Democracy mapped from Pew 'future of democracy' to voting rules; SAVE America Act support with talking filibuster came from a Ricketts staffer (Mar 2026), and guides.vote also cites his posts backing the bill.",
+    "Foreign policy rated Concrete because keeping Iran sanctions is testable by sanctions-relief votes; a stricter reader could call it Partial.",
+    "Health care: also named veterans bills (CARING for Our Veterans, MIND Our Veterans) in a Jan 2026 office column; no campaign-stage plan on ACA subsidies found.",
+    "Housing: ROAD to Housing Act became law in 2026, so pointing to it is Partial under the brief.",
+    "Economy: also backed a five-year Farm Bill and expanding the cattle herd to lower beef prices (no specific policy); tax items cited are past law (2025 tax bill).",
+    "Search budget nearly used (~39 searches); several poll PDFs (YouGov, Siena, SurveyUSA) were blocked from fetching."
+  ],
+  "researched": "2026-11-05"
+}

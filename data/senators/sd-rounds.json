@@ -19,7 +19,19 @@
       "position": "Make the 2017 income tax cuts permanent",
       "position_source": "https://ontheissues.org/Note.asp?q=20CC-11A",
       "votes": [
-        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -29,7 +41,19 @@
       "position": "Continue U.S. support for Israel",
       "position_source": "https://ontheissues.org/Note.asp?q=20CC-17",
       "votes": [
-        {"congress": 118, "session": 2, "roll_call": 154, "date": "2024-04-23", "bill": "H.R.815", "bill_title": "National Security Supplemental (Israel, Ukraine, Indo-Pacific)", "question": "On the motion to concur in the House amendment", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 154,
+          "date": "2024-04-23",
+          "bill": "H.R.815",
+          "bill_title": "National Security Supplemental (Israel, Ukraine, Indo-Pacific)",
+          "question": "On the motion to concur in the House amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -56,7 +80,19 @@
       "position": "Oppose public funding of abortion, including Planned Parenthood",
       "position_source": "https://ontheissues.org/Note.asp?q=20CC-1B",
       "votes": [
-        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (Planned Parenthood Medicaid cutoff)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (Planned Parenthood Medicaid cutoff)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -84,7 +120,19 @@
       "position": "Oppose further restrictions on gun rights",
       "position_source": "https://ontheissues.org/Note.asp?q=20CC-10",
       "votes": [
-        {"congress": 117, "session": 2, "roll_call": 242, "date": "2022-06-23", "bill": "S.2938", "bill_title": "Bipartisan Safer Communities Act", "question": "On the motion to concur in the House amendment", "vote": "Nay", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 242,
+          "date": "2022-06-23",
+          "bill": "S.2938",
+          "bill_title": "Bipartisan Safer Communities Act",
+          "question": "On the motion to concur in the House amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -94,8 +142,32 @@
       "position": "Increase border security, including border barriers",
       "position_source": "https://ontheissues.org/International/Mike_Rounds_Immigration.htm",
       "votes": [
-        {"congress": 118, "session": 2, "roll_call": 182, "date": "2024-05-23", "bill": "S.4361", "bill_title": "Border Act", "question": "Cloture on the motion to proceed", "vote": "Nay", "consistent": false, "auto": false},
-        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (border wall and enforcement funding)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2024-05-23",
+          "bill": "S.4361",
+          "bill_title": "Border Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (border wall and enforcement funding)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "S.4361 funded border agents and barrier construction; he opposed it."
     },

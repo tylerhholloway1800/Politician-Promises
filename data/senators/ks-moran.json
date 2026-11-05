@@ -1,0 +1,189 @@
+{
+  "id": "ks-moran",
+  "name": "Jerry Moran",
+  "state": "KS",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Emerson College Polling Kansas survey, Oct 27–29, 2022; Emerson Kansas survey, Sept 15–18, 2022; Pew Research Center national survey, Oct 10–16, 2022",
+    "url": "https://emersoncollegepolling.com/kansas-2022-governor-laura-kelly-holds-three-point-lead-over-ag-derek-schmidt-in-gubernatorial-election-senator-moran-leads-by-21-points-for-re-election/",
+    "note": "Ranks 1–4 from the October Emerson most-important-issue question (economy 50%, threats to democracy 14%, abortion 10%, health care 7%); 'threats to democracy' mapped to elections/voting. Immigration (7%) added from the September Emerson poll (https://emersoncollegepolling.com/?p=1678). Emerson published only those items, so ranks 6–10 come from Pew's national 'very important' list (education 64%, energy 61%, violent crime 61%, gun policy 57%, Supreme Court 55%): https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Curb spending; oppose IRA tax increases and added IRS agents",
+      "position_source": "https://www.moran.senate.gov/public/index.cfm/2022/8/sen-moran-votes-to-oppose-democrats-tax-and-spending-bill",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 extended the 2017 tax cuts and rescinded some IRS funding. Vote source: https://kansasreflector.com/2025/07/01/kansas-two-republican-u-s-senators-vote-to-pass-big-beautiful-bill/"
+    },
+    {
+      "rank": 2,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Reject federalizing elections; oppose federal mandates on counties",
+      "position_source": "https://themercury.com/news/voters-guide-us-senate-candidates-sound-off-on-abortion-gun-violence-and-fort-riley/article_5c6aab62-b12b-51ba-8ab0-93a7ae9cc116.html",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "The SAVE America Act sets federal proof-of-citizenship rules that counties must administer. Vote source: https://watch.vote/votes/119-2026-s57"
+    },
+    {
+      "rank": 3,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Leave abortion policy to the states, not federal law",
+      "position_source": "https://kansasreflector.com/?p=31049",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Failed 49-44; only Collins and Murkowski among Republicans voted yes, and Moran was not among absentees (https://www.dailypress.senate.gov/wednesday-july-10-2024). No national-ban vote held."
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": false,
+      "position": "No specific position found; cited 2022 PACT Act veterans' care",
+      "position_source": "https://kansasreflector.com/?p=31049",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Keep Title 42 border expulsions in place",
+      "position_source": "https://www.moran.senate.gov/public/index.cfm/2022/5/sen-moran-speaks-on-u-s-senate-floor-regarding-title-42-crisis-at-the-southern-border",
+      "votes": [],
+      "note": "Title 42 expired in May 2023 with no Senate floor vote on keeping it."
+    },
+    {
+      "rank": 6,
+      "issue": "Education",
+      "testable": true,
+      "position": "Oppose Biden student loan forgiveness",
+      "position_source": "https://hutchpost.com/posts/449a7a5d-135b-4f65-9042-ed7bc52ed07d",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of the student loan debt relief rule (CRA)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Vote source: https://www.ksnt.com/news/local-news/sens-moran-marshall-vote-against-loan-forgiveness-plan/amp"
+    },
+    {
+      "rank": 7,
+      "issue": "Energy policy",
+      "testable": true,
+      "position": "Expand federal oil and gas leasing; stop SPR drawdowns",
+      "position_source": "https://www.moran.senate.gov/public/index.cfm/2022/10/sen-moran-calls-on-president-biden-to-stop-depleting-strategic-petroleum-reserve-unleash-american-energy",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 required federal onshore and offshore oil and gas lease sales."
+    },
+    {
+      "rank": 8,
+      "issue": "Violent crime",
+      "testable": false,
+      "position": "More police resources; enforce existing laws (no specific measure)",
+      "position_source": "https://themercury.com/news/voters-guide-us-senate-candidates-sound-off-on-abortion-gun-violence-and-fort-riley/article_5c6aab62-b12b-51ba-8ab0-93a7ae9cc116.html",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose new gun laws restricting legal gun owners",
+      "position_source": "https://www.hppr.org/hppr-news/2022-10-24/democrat-holland-and-republican-moran-make-the-u-s-senate-race-in-kansas-a-portrait-in-opposites",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 171,
+          "date": "2023-06-22",
+          "bill": "H.J.Res.44",
+          "bill_title": "Disapproval of ATF pistol-brace rule (CRA)",
+          "question": "On the joint resolution",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Vote source: https://www.usquery.com/vote/1180100171"
+    },
+    {
+      "rank": 10,
+      "issue": "Supreme Court",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://johnsoncountypost.com/2022/10/31/kansas-u-s-senate-race-issues-185599/",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Emerson published only 4–5 Kansas issues, so ranks 6–10 rely on national Pew data.",
+    "Moran held no debate and skipped candidate questionnaires; positions come from news coverage, a newspaper voter guide and 2022 Senate releases.",
+    "Elections scored Contradicted on the SAVE America Act; the ar-boozman file left a similar vote unscored because his stance also backed voter ID, which Moran's 2022 statement did not mention.",
+    "Abortion vote inferred from the 49-44 tally and absentee list; roll call numbers 211, 135 and 372 taken from other researched files, not a Moran-specific source."
+  ],
+  "researched": "2026-11-04"
+}

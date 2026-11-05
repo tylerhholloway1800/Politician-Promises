@@ -1,0 +1,184 @@
+{
+  "id": "ia-grassley",
+  "name": "Chuck Grassley",
+  "state": "IA",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Des Moines Register/Mediacom Iowa Poll (Selzer & Co.), Oct 31–Nov 3, 2022 and Jul 10–13, 2022",
+    "url": "https://www.yahoo.com/news/most-iowa-voters-view-control-120709057.html?fr=sycsrp_catchall",
+    "note": "Share calling each issue 'critical'. Nov poll (6 items) ranked first; remaining items from July poll likely voters (https://www.yahoo.com/news/iowa-poll-republicans-democrats-view-120513166.html). 'Party control of Congress' (Nov #1) left out as untestable. Ranks 9–10 drawn from July items all under 50% with no exact topline; order is a judgment."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Inflation / federal spending",
+      "testable": true,
+      "position": "Oppose federal spending increases; cut spending",
+      "position_source": "https://grassleyworks.com/grassley-works-for-your-vote/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "date": "2023-06-01",
+          "bill": "H.R.3746",
+          "bill_title": "Fiscal Responsibility Act of 2023 (spending caps)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 411,
+          "date": "2025-07-17",
+          "bill": "H.R.4",
+          "bill_title": "Rescissions Act of 2025",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Education",
+      "testable": true,
+      "position": "Oppose student loan debt cancellation",
+      "position_source": "https://www.kwqc.com/2022/11/02/united-states-senator-candidate-chuck-grassley",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "CRA disapproval of student loan cancellation",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Leave abortion to states; vote no on national 15-week ban",
+      "position_source": "https://www.aol.com/news/chuck-grassley-mike-franken-clash-021650608.html",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No floor vote on a national abortion ban this term."
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Pass bipartisan prescription drug price reform",
+      "position_source": "https://www.kwqc.com/2022/11/02/united-states-senator-candidate-chuck-grassley",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 20,
+          "date": "2026-01-30",
+          "bill": "H.R.7148",
+          "bill_title": "Consolidated Appropriations Act, 2026 (PBM reform)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "issue": "Crime / public safety",
+      "testable": true,
+      "position": "Permanently place fentanyl analogues in Schedule I",
+      "position_source": "https://www.kwqc.com/2022/11/02/united-states-senator-candidate-chuck-grassley",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 127,
+          "date": "2025-03-14",
+          "bill": "S.331",
+          "bill_title": "HALT Fentanyl Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose a federal gun registry; enforce existing gun laws",
+      "position_source": "https://grassleyworks.com/?p=1504",
+      "votes": [],
+      "note": "No Senate floor vote on a gun registry or major gun bill this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Gas prices / energy",
+      "testable": true,
+      "position": "Allow year-round E15 ethanol sales",
+      "position_source": "https://www.kwqc.com/2022/11/02/united-states-senator-candidate-chuck-grassley",
+      "votes": [],
+      "note": "Year-round E15 never reached a Senate floor vote this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Election laws",
+      "testable": true,
+      "position": "Reform the Electoral Count Act after the election",
+      "position_source": "https://www.aol.com/news/chuck-grassley-mike-franken-clash-021650608.html",
+      "votes": [],
+      "note": "Enacted in the Dec 2022 omnibus, before this term began."
+    },
+    {
+      "rank": 9,
+      "issue": "Climate change",
+      "testable": false,
+      "position": "All-of-the-above energy; supports ethanol and biodiesel",
+      "position_source": "https://www.kwqc.com/2022/11/02/united-states-senator-candidate-chuck-grassley",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Child care",
+      "testable": true,
+      "position": "Reauthorize the Child Care and Development Block Grant",
+      "position_source": "https://www.kwqc.com/2022/11/02/united-states-senator-candidate-chuck-grassley",
+      "votes": [],
+      "note": "No Senate floor vote on CCDBG reauthorization this term."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue list combines the Nov and Jul 2022 Iowa Polls; climate change and child care (ranks 9–10) chosen from July items below 50% without exact toplines; school choice (30%) and LGBTQ policies ranked lower.",
+    "Fiscal Responsibility Act roll call number not confirmed (Grassley's Yea is from his own release); Grassley's individual votes on H.R.4, H.J.Res.45 and S.4554 inferred from party-line reporting, not a member list.",
+    "Abortion rated on the S.4554 vote as a test of 'leave it to states'; the national ban he pledged to oppose never got a vote."
+  ],
+  "researched": "2026-11-04"
+}

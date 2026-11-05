@@ -1,0 +1,160 @@
+{
+  "id": "in-young",
+  "name": "Todd Young",
+  "state": "IN",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Pew Research Center national survey of registered voters, Oct 10–16, 2022",
+    "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf",
+    "note": "National fallback: no 2022 Indiana poll with a full issue ranking found (Indy Politics/ARW July 2022 reported only inflation 25% first, crime second). Ranked by share calling each issue very important; 'future of democracy' dropped as not vote-testable; immigration and foreign policy tied at 54%, immigration kept as a central Young campaign theme."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": false,
+      "position": "Stop spending money we don't have; responsible fiscal policy",
+      "position_source": "https://www.ibj.com/articles/u-s-sen-todd-young-change-in-leadership-is-needed-to-curb-inflation",
+      "votes": [],
+      "note": "Direction only; no specific spending or tax measure proposed."
+    },
+    {
+      "rank": 2,
+      "issue": "Education",
+      "testable": true,
+      "position": "Oppose Biden student loan forgiveness",
+      "position_source": "https://digital-release.fox59.com/?p=1498942",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of student loan debt relief rule",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Health care",
+      "testable": false,
+      "position": "More mental health and addiction treatment funding",
+      "position_source": "https://idsnews.com/article/2022/10/how-indiana-candidates-for-u-s-senate-have-talked-about-ids-readers-top-issues",
+      "votes": [],
+      "note": "Campaign site listed no health policies; general direction only."
+    },
+    {
+      "rank": 4,
+      "issue": "Energy",
+      "testable": true,
+      "position": "Support Keystone XL pipeline; deregulate oil and gas",
+      "position_source": "https://idsnews.com/article/2022/10/how-indiana-candidates-for-u-s-senate-have-talked-about-ids-readers-top-issues",
+      "votes": [],
+      "note": "No Senate floor vote on Keystone XL this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Crime",
+      "testable": false,
+      "position": "Named crime a priority; no specific policy",
+      "position_source": "https://www.wndu.com/2022/10/17/indiana-us-senate-candidates-split-abortion-spending/",
+      "votes": []
+    },
+    {
+      "rank": 6,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Pass the Electoral Count Reform Act",
+      "position_source": "https://idsnews.com/article/2022/10/how-indiana-candidates-for-u-s-senate-have-talked-about-ids-readers-top-issues",
+      "votes": [],
+      "note": "Enacted in Dec 2022 omnibus, before the term began."
+    },
+    {
+      "rank": 7,
+      "issue": "Gun policy",
+      "testable": false,
+      "position": "Incentivize state red-flag laws; school mental health funding",
+      "position_source": "https://www.ipm.org/2022-06-13/young-supports-parts-of-bi-partisan-agreement-on-gun-control",
+      "votes": [],
+      "note": "Position was the June 2022 Safer Communities Act, already enacted; no further forward position found."
+    },
+    {
+      "rank": 8,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Leave abortion to states; oppose federal ban and codification",
+      "position_source": "https://indianacapitalchronicle.com/?p=2178",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Supreme Court appointments",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://indianacapitalchronicle.com/?p=2178",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "More Border Patrol agents, barriers and technology",
+      "position_source": "https://indianapublicradio.org/?p=102184",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2024-05-23",
+          "bill": "S.4361",
+          "bill_title": "Border Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "S.4361 funded more agents and barriers; he opposed it. H.R.1 funded both; he backed it."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranking uses national Pew polling; no full 2022 Indiana issue ranking was found.",
+    "Immigration chosen over foreign policy (tied at 54%); Young's stated Ukraine-aid support was not graded.",
+    "Archived 2022 campaign site not reachable; positions taken from campaign-year news coverage."
+  ],
+  "researched": "2026-11-04"
+}

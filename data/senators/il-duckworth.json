@@ -1,0 +1,172 @@
+{
+  "id": "il-duckworth",
+  "name": "Tammy Duckworth",
+  "state": "IL",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Emerson College/WGN-TV/The Hill Illinois poll, Oct 20–24, 2022; Pew Research Center national survey, Oct 10–16, 2022",
+    "url": "https://emersoncollegepolling.com/illinois-2022-democratic-incumbents-prtizker-and-duckworth-leads-shrink-as-republican-challengers-bailey-and-salvi-gain-support",
+    "note": "Ranks 1–4 from Emerson's Illinois most-important-issue question (economy 39%, threats to democracy 18%, abortion access 12%, crime 9%); only these four were published, and 'threats to democracy' is mapped to elections/voting. Ranks 5–10 are the next issues in Pew's national 'very important' list (https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf), skipping items already covered."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Pass the Gas Price Gouging Prevention Act",
+      "position_source": "https://columbiachronicle.com/metro/get-to-know-your-candidates-for-illinois-senator-duckworth-vs-salvi/",
+      "votes": [],
+      "note": "No Senate floor vote on a gas price-gouging ban this term."
+    },
+    {
+      "rank": 2,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Restore the Voting Rights Act; expand early and mail voting",
+      "position_source": "https://www.duckworth.senate.gov/news/press-releases/duckworth-urges-senators-to-vote-for-critical-election-protection-and-voting-rights-bill",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Codify Roe v. Wade in federal law; repeal the Hyde Amendment",
+      "position_source": "https://ksdk.com/article/news/politics/duckworth-campaigns-to-overturn-hyde-amendment-ban-assault-weapons-and-remove-restrictions-on-abortions/63-2447c3da-d569-43c3-a16b-f0dc1dbcf876",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "Called Chicago crime a mayoral issue; no specific federal plan",
+      "position_source": "https://capitolfax.com/2022/10/28/duckworth-vs-salvi-debate-roundup/",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Education",
+      "testable": true,
+      "position": "Tuition-free community college; keep one-time student loan forgiveness",
+      "position_source": "https://www.wqad.com/article/news/local/senator-duckworth-faces-challenger-kathy-salvi-for-illinois-us-senate-seat/526-d12252f6-2236-4eda-8c4d-3f4e84695fa8",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of student loan debt relief",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Loan-forgiveness defense from the Oct 2022 forum: https://news.wttw.com/2022/10/27/tammy-duckworth-kathy-salvi-spar-only-joint-forum-illinois-us-senate-race"
+    },
+    {
+      "rank": 6,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Cap insulin at $35 a month, including private plans",
+      "position_source": "https://www.duckworth.senate.gov/news/press-releases/duckworth-joins-warnock-bill-to-cap-costs-of-insulin-nationwide",
+      "votes": [],
+      "note": "No Senate floor vote on a private-insurance insulin cap this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Energy / climate",
+      "testable": false,
+      "position": "Support clean energy and cut carbon emissions (direction only)",
+      "position_source": "https://www.wqad.com/article/news/local/senator-duckworth-faces-challenger-kathy-salvi-for-illinois-us-senate-seat/526-d12252f6-2236-4eda-8c4d-3f4e84695fa8",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Ban assault weapons and high-capacity magazines; red-flag laws",
+      "position_source": "https://capitolfax.com/2022/10/28/duckworth-vs-salvi-debate-roundup/",
+      "votes": [],
+      "note": "No recorded Senate floor vote on these measures this term."
+    },
+    {
+      "rank": 9,
+      "issue": "Supreme Court",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://news.wttw.com/2022/10/27/tammy-duckworth-kathy-salvi-spar-only-joint-forum-illinois-us-senate-race",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "More border security plus path to citizenship; oppose border wall",
+      "position_source": "https://www.wbez.org/politics/2022/10/13/duckworth-runs-for-second-term-as-senator-from-illinois",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2024-05-23",
+          "bill": "S.4361",
+          "bill_title": "Border Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Citizenship path never got a floor vote; rated on the border-security part."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Emerson published only its top four Illinois issues; ranks 5–10 come from national Pew polling.",
+    "Elections rated on the SAVE America Act votes; the Voting Rights Act restoration she backed got no floor vote this term.",
+    "Health care position rests on her March 2022 Senate release joining the insulin-cap bill; no campaign-specific health plan found."
+  ],
+  "researched": "2026-11-04"
+}

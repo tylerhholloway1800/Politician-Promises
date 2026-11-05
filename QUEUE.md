@@ -53,10 +53,10 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 - [x] ga-warnock Raphael Warnock D-GA
 - [x] hi-schatz Brian Schatz D-HI
 - [x] id-crapo Mike Crapo R-ID
-- [ ] il-duckworth Tammy Duckworth D-IL
-- [ ] in-young Todd Young R-IN
-- [ ] ia-grassley Chuck Grassley R-IA
-- [ ] ks-moran Jerry Moran R-KS
+- [x] il-duckworth Tammy Duckworth D-IL
+- [x] in-young Todd Young R-IN
+- [x] ia-grassley Chuck Grassley R-IA
+- [x] ks-moran Jerry Moran R-KS
 - [ ] ky-paul Rand Paul R-KY
 - [ ] la-kennedy John Kennedy R-LA
 - [ ] md-van-hollen Chris Van Hollen D-MD
@@ -80,3 +80,4 @@ Lock winners' plans once results are final; re-elected incumbents also get a del
 
 ## Consistency pass (after all senators are in)
 - H.R.1 (RC 372) is applied unevenly: some files count a Nay as Contradicting a border-funding / LIHTC / child-tax-credit position, others leave the issue as No vote held (Kaine, Murphy, Blunt Rochester, Hassan-immigration). Pick one rule and apply it to every file.
+- SAVE America Act vs. a 2022 pledge to oppose federalizing elections: ks-moran scores it Contradicted, ar-boozman leaves it unscored. Same rule needed.

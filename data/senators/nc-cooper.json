@@ -74,6 +74,20 @@
         "rating": "Vague",
         "detail": "Energy page is about costs; no environmental item",
         "source": "https://roycooper.com/costless/energy/"
+      },
+      {
+        "rank": 9,
+        "issue": "Guns",
+        "rating": "Vague",
+        "detail": "Own words only: protect families, safer communities; assault-weapons ban etc. stated by Giffords PAC, not Cooper",
+        "source": "https://giffords.org/press-release/2025/08/giffords-pac-endorses-governor-roy-cooper-for-u-s-senate-in-north-carolina/"
+      },
+      {
+        "rank": 10,
+        "issue": "Immigration",
+        "rating": "Partial",
+        "detail": "Condition further ICE/Border Patrol funding on enforcement reforms; deport violent criminals; reforms unspecified",
+        "source": "https://www.ncpoliticalnews.com/news/roy-cooper-backs-conditions-on-homeland-security-funding-after-minnesota-shootings"
       }
     ]
   },

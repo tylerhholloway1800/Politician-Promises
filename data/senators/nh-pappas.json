@@ -16,7 +16,8 @@
     "locked": "2026-11-03",
     "issue_poll": {
       "name": "Saint Anselm (Jun 2026) + UNH (Feb 2026)",
-      "url": "https://www.anselm.edu/sites/default/files/2026-06/June%2024-25%202026%20Poll.pdf"
+      "url": "https://www.anselm.edu/sites/default/files/2026-06/June%2024-25%202026%20Poll.pdf",
+      "note": "Ranks 9-10 follow Saint Anselm June 2026 most-important-issue order after the first 8 (Social Security/Medicare 2%, n=38; Environment/Climate 2%, n=33); UNH full issue list not retrievable, so it could not break this tie."
     },
     "issues": [
       {
@@ -74,6 +75,20 @@
         "rating": "Partial",
         "detail": "Expand Pell and community college, debt relief for high-demand fields; no amounts or bills",
         "source": "https://chrispappas.org/priority/education/"
+      },
+      {
+        "rank": 9,
+        "issue": "Social Security and Medicare",
+        "rating": "Partial",
+        "detail": "No Social Security benefit cuts or privatization; top earners pay more payroll tax; raise low-income benefits; no cap level or bill",
+        "source": "https://www.nhpr.org/nh-news/2026-10-29/sununu-pappas-wmur-debate-senate-race-nh-newhampshire"
+      },
+      {
+        "rank": 10,
+        "issue": "Environment and climate",
+        "rating": "Partial",
+        "detail": "Keep existing IRA clean-energy tax credits against rollbacks; middle-class energy tax cuts; no targets or named bills",
+        "source": "https://chrispappas.org/2026/01/chris-pappas-for-senate-unveils-tax-cuts-and-lower-costs-blueprint-for-new-hampshire/"
       }
     ]
   },

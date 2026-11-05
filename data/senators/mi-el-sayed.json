@@ -16,7 +16,8 @@
     "locked": "2026-11-03",
     "issue_poll": {
       "name": "WDIV/Detroit News (Glengariff), Oct 2026",
-      "url": "https://www.clickondetroit.com/news/local/2026/10/28/poll-8-issues-michigan-voters-care-most-about-and-which-party-they-trust-to-fix-them/"
+      "url": "https://www.clickondetroit.com/news/local/2026/10/28/poll-8-issues-michigan-voters-care-most-about-and-which-party-they-trust-to-fix-them/",
+      "note": "Oct 2026 Glengariff poll offered only 8 fixed choices; ranks 9-10 from the closest other ranking poll, WDIV/Detroit News (Glengariff) open-ended most-important-issue question, Aug 31-Sep 3 2026 (https://www.clickondetroit.com/news/local/2026/09/08/heres-what-issues-are-most-important-to-michigan-voters-in-november-election-according-to-poll/): top items not already listed, skipping untestable ones (party control, candidate traits) - Taxes and government spending 7.5%, Crime and drugs/law enforcement 2.6%."
     },
     "issues": [
       {
@@ -74,6 +75,20 @@
         "rating": "Concrete",
         "detail": "Automatic registration at 18, Election Day holiday, no-excuse absentee voting",
         "source": "https://www.easternecho.com/article/2026/08/meet-the-candidates-running-for-us-senate-in-michigan"
+      },
+      {
+        "rank": 9,
+        "issue": "Taxes and government spending",
+        "rating": "Concrete",
+        "detail": "5% annual wealth tax on billionaires (Sanders-Khanna); close corporate tax loopholes",
+        "source": "https://bridgemi.com/michigan-government/fact-check-bernie-sanders-abdul-el-sayed-make-case-for-wealth-tax/"
+      },
+      {
+        "rank": 10,
+        "issue": "Crime and public safety",
+        "rating": "Partial",
+        "detail": "Fund police recruitment, retention, retirement; fund community violence intervention and behavioral health response",
+        "source": "https://factcheck.org/2026/10/republican-ads-attack-el-sayed-for-past-comments-positions-on-policing-and-prisons"
       }
     ]
   },

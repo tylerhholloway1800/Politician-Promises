@@ -90,11 +90,11 @@ Not called yet (do later): AK (Sullivan vs Peltola), MS (Hyde-Smith vs Colom).
 
 ### Extend existing locked plans from 8 to 10 issues
 Message to a fresh agent: "In /home/claude/politician-promises/data/senators/<id>.json the `plan` has 8 issues. Using the same poll named in plan.issue_poll (or the closest 2026 state poll if it has fewer items, noted), add ranks 9 and 10 per /home/claude/politician-promises/PLAN.md rules, rating this candidate's 2026 plan on each. Edit only plan.issues; keep everything else. Max ~20 searches. Validate JSON. Reply with the two added issues and ratings."
-- [ ] ext:sc-andrews
-- [ ] ext:mi-el-sayed
-- [ ] ext:nc-cooper
-- [ ] ext:nh-pappas
-- [ ] ext:ia-turek
+- [x] ext:sc-andrews
+- [x] ext:mi-el-sayed
+- [x] ext:nc-cooper
+- [x] ext:nh-pappas
+- [x] ext:ia-turek
 
 ### New senators (plan only)
 - [ ] plan:al-moore Barry Moore R-AL

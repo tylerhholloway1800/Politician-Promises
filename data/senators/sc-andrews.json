@@ -74,6 +74,20 @@
         "rating": "Concrete",
         "detail": "Universal background checks, safe-storage law, violence-prevention funding (gun measures only)",
         "source": "https://drannieandrews.com/issue/an-end-to-gun-violence/"
+      },
+      {
+        "rank": 9,
+        "issue": "Abortion",
+        "rating": "Concrete",
+        "detail": "Restore Roe v. Wade protections in federal law; protect access to birth control and fertility treatment; expand rural maternal care",
+        "source": "https://drannieandrews.com/issue/reproductive-freedom-trust-women/"
+      },
+      {
+        "rank": 10,
+        "issue": "Gun policy",
+        "rating": "Concrete",
+        "detail": "Background checks on all gun sales, ban on assault-style weapons, federal safe-storage law, violence-prevention funding",
+        "source": "https://drannieandrews.com/issue/an-end-to-gun-violence/"
       }
     ]
   },

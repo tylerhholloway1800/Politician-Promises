@@ -1,0 +1,60 @@
+{
+  "id": "fl-moody",
+  "name": "Ashley Moody",
+  "state": "FL",
+  "party": "R",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2029-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Mason-Dixon for NBC6/Telemundo 51 Florida Poll, 625 registered likely voters, Sept 28-Oct 1, 2026 (issue with greatest influence on 2026 vote)",
+      "url": "https://www.nbcmiami.com/elections/inflation-and-cost-of-living-top-of-mind-for-florida-voters-new-poll-finds/3869234/",
+      "note": "Several Florida polls combined. Ranks 1-3 follow the Mason-Dixon poll, the latest with an issue question (inflation/cost of living 30, direction of state/country 17 [dropped as untestable], immigration enforcement 16, property taxes 13); its remaining options were not published in reachable text. Rank 4 from Change Research Florida poll May 13-16, 2026 (pick 3: cost of living 57, political corruption 50, property taxes 41). Ranks 5-10 from UNF PORL likely-voter poll Feb 21-Mar 2, 2026 (most important problem: affordability 50, political division 12 [dropped], immigration/education 14 among Republicans, health care 7, crime 3, environment 3, jobs 2), with housing/property insurance costs placed at 6 from Change Research cost-stress items (homeowners insurance 73%) and its top-issue rank in 2025 UNF and AIF Florida polls."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Inflation and cost of living", "rating": "Vague",
+       "detail": "Cut regulations to lower costs",
+       "source": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign"},
+      {"rank": 2, "issue": "Immigration", "rating": "Partial",
+       "detail": "Strict border enforcement; faster removal of noncitizens with criminal convictions; expand state/local 287(g) enforcement",
+       "source": "https://www.nbcmiami.com/elections/ashley-moody-profile-senate-race/3879954/"},
+      {"rank": 3, "issue": "Property taxes", "rating": "Vague",
+       "detail": "Property tax relief for homeowners",
+       "source": "https://mynews13.com/fl/orlando/news/2026/10/26/u-s--senate-candidates-moody--nixon-spread-out-across-florida-to-woo-voters"},
+      {"rank": 4, "issue": "Government ethics and corruption", "rating": "Concrete",
+       "detail": "Pass Restore Trust in Congress Act: ban members, spouses, dependents from owning or trading individual stocks",
+       "source": "https://www.ibtimes.co.uk/ashley-moody-stock-trading-ban-family-linked-trades-1828038"},
+      {"rank": 5, "issue": "Health care", "rating": "Vague",
+       "detail": "Lower prescription drug costs",
+       "source": "https://political.org/2026/10/31/the-healthcare-election-in-florida-expired-aca-subsidies-collide-with-open-enrollment-and-the-midterms/"},
+      {"rank": 6, "issue": "Housing and property insurance costs", "rating": "Vague",
+       "detail": "Make homeownership achievable for every Florida family",
+       "source": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign"},
+      {"rank": 7, "issue": "Education", "rating": "None",
+       "detail": "",
+       "source": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-floridas-us-senate-race/"},
+      {"rank": 8, "issue": "Crime and public safety", "rating": "Vague",
+       "detail": "Tougher penalties for violent crime; support law enforcement",
+       "source": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign"},
+      {"rank": 9, "issue": "Environment and climate", "rating": "None",
+       "detail": "",
+       "source": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-floridas-us-senate-race/"},
+      {"rank": 10, "issue": "Jobs and the economy", "rating": "Vague",
+       "detail": "Lower taxes, deregulation, free market",
+       "source": "https://www.nbcmiami.com/elections/ashley-moody-profile-senate-race/3879954/"}
+    ]
+  },
+  "plan_caveats": [
+    "Moody published little forward-looking platform: no debate, no reply to the WKMG/ClickOrlando candidate questionnaire, and ashleymoody.com could not be fetched directly (seen only via news summaries).",
+    "Issue ranking stitches three Florida polls; the full Mason-Dixon and UNF toplines were unreachable, so ranks 5-10 rest on small shares (2-7%) and party subgroup figures.",
+    "Ethics rated Concrete on a bill she introduced in Jan 2026 (with Gillibrand) because Oct 2026 coverage says she campaigns on ending member stock trading; the proposal covers spouses and dependents with 90/180-day divestment.",
+    "Immigration rated Partial: forward statements are mostly 'work with Trump to reverse Biden policies'; the specifics come from bills she already sponsored (expedited removal, RIPPLE Act for 287(g)) that her campaign touts. A stricter reading would be Vague.",
+    "Crime: coverage says she pushes expanded death penalty for severe violent crimes, but the cited quote is AG-era, so only the vague direction is recorded.",
+    "Property insurance: her 2025 flood-insurance tax-deduction bill with Rick Scott is past record, not a 2026 campaign promise, so not counted.",
+    "Abortion and political division/direction of country were left out of the top 10 (abortion not in Florida issue rankings found; division/direction untestable)."
+  ],
+  "researched": "2026-11-05"
+}

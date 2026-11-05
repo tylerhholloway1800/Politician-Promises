@@ -1,0 +1,60 @@
+{
+  "id": "co-hickenlooper",
+  "name": "John Hickenlooper",
+  "state": "CO",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Colorado Polling Institute statewide poll (New Bridge Strategies / Aspect Strategic), Mar 20-25, 2026, 613 likely voters",
+      "url": "https://www.denver7.com/news/politics/colorado-voters-express-growing-concern-over-gas-prices-and-utility-costs-in-a-new-statewide-survey",
+      "note": "No fall 2026 Colorado poll with an issue ranking was found (Keating Research Nov 1-2 poll had horse race only). Ranks 1-5 from the same poll's open-ended top priority question (cost of living 9%, housing 7%, taxes 7%, immigration 6%, homelessness 6%; reported at https://www.cpr.org/2026/04/08/colorado-voters-pessimistic-new-poll/). Ranks 6-10 added from the same poll's share calling each a problem: utility costs 93% / gas 89% (merged as energy prices), health care costs over 90%, wildfire risk about 90%, low snowfall/water 84%, good-paying jobs 75%. Groceries and home/car insurance folded into cost of living. Question was framed around state government priorities; national and state issues ranked together."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Cost of living", "rating": "Concrete",
+       "detail": "End Trump tariffs; end the Iran war; expand Medicare drug price negotiation from 10 to 20 drugs.",
+       "source": "https://www.cpr.org/2026/05/29/vg-2026-primary-election-u-s-senate-john-hickenlooper/"},
+      {"rank": 2, "issue": "Housing costs", "rating": "Partial",
+       "detail": "Enforce ROAD to Housing Act limits on large investors buying homes (already law); add incentives to increase housing supply.",
+       "source": "https://www.summitdaily.com/news/election-2026-us-senate-colorado-q-and-a/"},
+      {"rank": 3, "issue": "Taxes", "rating": "Concrete",
+       "detail": "Permanently extend tax breaks on tips and overtime; undo 2025 reconciliation law cuts if Democrats win Congress.",
+       "source": "https://coloradosun.com/2026/06/01/john-hickenlooper-julie-gonzales-us-senate-colorado-primary-issue-guide/"},
+      {"rank": 4, "issue": "Immigration", "rating": "Concrete",
+       "detail": "Replace ICE with a separate border-security agency; require ICE agents unmasked with body cameras; bar raids at schools, hospitals, polling places; citizenship path for DREAMers, TPS holders, essential workers.",
+       "source": "https://www.summitdaily.com/news/election-2026-us-senate-colorado-q-and-a/"},
+      {"rank": 5, "issue": "Homelessness", "rating": "None",
+       "detail": "",
+       "source": "https://www.coloradopolitics.com/2026/10/02/mark-baisley-john-hickenlooper-us-senate/"},
+      {"rank": 6, "issue": "Energy and utility prices", "rating": "Concrete",
+       "detail": "Restore federal EV incentives; expand wind and solar; end the Iran war to lower gas prices.",
+       "source": "https://coloradosun.com/2026/06/01/john-hickenlooper-julie-gonzales-us-senate-colorado-primary-issue-guide/"},
+      {"rank": 7, "issue": "Health care", "rating": "Concrete",
+       "detail": "Create a public option; restore Medicaid and ACA cuts; Medicare negotiates all drug prices; require hospital and insurer price disclosure before care.",
+       "source": "https://www.summitdaily.com/news/election-2026-us-senate-colorado-q-and-a/"},
+      {"rank": 8, "issue": "Wildfire", "rating": "Vague",
+       "detail": "Reduce wildfire risk and protect forests, working with Republicans.",
+       "source": "https://www.coloradopolitics.com/2026/10/02/mark-baisley-john-hickenlooper-us-senate/"},
+      {"rank": 9, "issue": "Water and drought", "rating": "Concrete",
+       "detail": "Pass his snowpack monitoring bill and Water Project Navigators Act; fund water conservation projects.",
+       "source": "https://www.summitdaily.com/news/election-2026-us-senate-colorado-q-and-a/"},
+      {"rank": 10, "issue": "Jobs and wages", "rating": "Concrete",
+       "detail": "Raise federal minimum wage in stages, starting at $15/hour.",
+       "source": "https://coloradosun.com/2026/06/01/john-hickenlooper-julie-gonzales-us-senate-colorado-primary-issue-guide/"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue poll is from March 2026 and asked about state-government priorities; ranks 6-10 come from 'is this a problem' shares, not a single ranked question.",
+    "Campaign issues page (hickenlooper.com/issues) could not be fetched; positions come from 2026 news Q&As and voter guides (Colorado Sun, CPR, Summit Daily, Colorado Politics).",
+    "Hickenlooper declined the Colorado Newsline questionnaire; most specifics come from the June 2026 primary rather than the general election.",
+    "Drug negotiation stated two ways: expand from 10 to 20 drugs (CPR) and let Medicare negotiate all drug prices (Summit Daily); both recorded.",
+    "Housing rated Partial because the 21st Century ROAD to Housing Act he campaigned on became law in July 2026 without Trump's signature.",
+    "Water bills named in the Q&A as legislation he is leading; exact snowpack bill title not given in the campaign source (it is the Hickenlooper-Curtis snowpack monitoring bill).",
+    "Considering a moratorium on new federal oil and gas leases was not counted as a commitment."
+  ],
+  "researched": "2026-11-05"
+}

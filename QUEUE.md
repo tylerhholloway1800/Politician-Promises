@@ -109,12 +109,12 @@ Message to a fresh agent: "In /home/claude/politician-promises/data/senators/<id
 - [x] plan:ok-hern Kevin Hern R-OK
 - [x] plan:tx-talarico James Talarico D-TX
 - [x] plan:wy-hageman Harriet Hageman R-WY
-- [ ] plan:fl-moody Ashley Moody R-FL (special; appointed 2025, no prior campaign for this seat; term 2027-01-03 to 2029-01-03)
+- [x] plan:fl-moody Ashley Moody R-FL (special; appointed 2025, no prior campaign for this seat; term 2027-01-03 to 2029-01-03)
 
 ### Re-elected incumbents (plan + delivery for the term now ending)
-- [ ] plan:ar-cotton Tom Cotton R-AR
-- [ ] del:ar-cotton elected 2020, term 2021-01-03
-- [ ] plan:co-hickenlooper John Hickenlooper D-CO
+- [x] plan:ar-cotton Tom Cotton R-AR
+- [x] del:ar-cotton elected 2020, term 2021-01-03
+- [x] plan:co-hickenlooper John Hickenlooper D-CO
 - [ ] del:co-hickenlooper elected 2020, term 2021-01-03
 - [ ] plan:de-coons Chris Coons D-DE
 - [ ] del:de-coons elected 2020, term 2021-01-03

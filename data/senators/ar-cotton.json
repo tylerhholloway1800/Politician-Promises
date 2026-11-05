@@ -1,0 +1,212 @@
+{
+  "id": "ar-cotton",
+  "name": "Tom Cotton",
+  "state": "AR",
+  "party": "R",
+  "elected": 2020,
+  "term_start": "2021-01-03",
+  "term_end": "2027-01-03",
+  "issue_poll": {
+    "name": "Arkansas Poll (University of Arkansas), Oct 9–21, 2020; plus Pew Research Center, July 27–Aug 2, 2020",
+    "url": "https://political-science.uark.edu/about-the-department/partners/arkpoll/2020summaryreport.pdf",
+    "note": "Ranks 1–5 from the Arkansas Poll most-important-issue question (health care 23%, economy 23%, drugs 15%, education 9%, taxes/big government 6%; health care ranked first on very-likely-voter share 24% vs 23%; 'politicians/politics' 21% dropped as untestable). That question offered only a few options, so ranks 6–10 come from national Pew 'very important' shares (Supreme Court appointments 64%, coronavirus 62%, violent crime 59%, foreign policy 57%, gun policy 55%). Pew source: https://www.pewresearch.org/politics/2020/08/13/important-issues-in-the-2020-election/"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Health care",
+      "testable": true,
+      "position": "End federal purchases of drugs with Chinese ingredients by 2025",
+      "position_source": "https://ontheissues.org/social/Tom_Cotton_Health_Care.htm",
+      "votes": [],
+      "note": "No Senate floor vote on his China drug-sourcing bill this term."
+    },
+    {
+      "rank": 2,
+      "issue": "Economy",
+      "testable": true,
+      "position": "Federal funding for U.S. semiconductor manufacturing (American Foundries Act)",
+      "position_source": "https://www.cotton.senate.gov/news/press-releases/2020/06/26/cotton-bill-to-support-semiconductor-manufacturing-in-us",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 271,
+          "date": "2022-07-27",
+          "bill": "H.R.4346",
+          "bill_title": "CHIPS and Science Act",
+          "question": "On the motion to concur in the House amendment with an amendment",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "CHIPS included chip-manufacturing funding he had proposed; he opposed the larger package."
+    },
+    {
+      "rank": 3,
+      "issue": "Drugs",
+      "testable": true,
+      "position": "Tougher penalties for fentanyl trafficking",
+      "position_source": "https://www.cotton.senate.gov/news/press-releases/-cotton-loeffler-blackburn-target-deceptive-fentanyl-traffickers",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 127,
+          "date": "2025-03-14",
+          "bill": "S.331",
+          "bill_title": "HALT Fentanyl Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Education",
+      "testable": true,
+      "position": "Bar federal funds for schools teaching the 1619 Project",
+      "position_source": "https://www.cotton.senate.gov/news/press-releases/cotton-bill-to-defund-1619-project-curriculum",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 342,
+          "date": "2021-08-10",
+          "bill": "S.Con.Res.14",
+          "bill_title": "Budget resolution (Cotton amdt. 3680, no federal funds for critical race theory in K-12)",
+          "question": "On the amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "His amendment was a non-binding reserve-fund amendment; the standalone bill got no vote."
+    },
+    {
+      "rank": 5,
+      "issue": "Taxes / size of government",
+      "testable": true,
+      "position": "Cut taxes; end the estate tax",
+      "position_source": "https://ontheissues.org/Senate/Tom_Cotton.htm",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 extended tax cuts and raised the estate-tax exemption but did not repeal the tax."
+    },
+    {
+      "rank": 6,
+      "issue": "Supreme Court appointments",
+      "testable": false,
+      "position": "Confirm Barrett (done before term); courts should defer to legislators",
+      "position_source": "https://talkbusiness.net/2020/10/sen-tom-cotton-discusses-judicial-selection-process-covid-19-relief-options/",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Coronavirus response",
+      "testable": true,
+      "position": "Targeted COVID relief; no aid to bail out states",
+      "position_source": "https://talkbusiness.net/2020/10/sen-tom-cotton-discusses-judicial-selection-process-covid-19-relief-options/",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "The bill included $350 billion in state and local aid."
+    },
+    {
+      "rank": 8,
+      "issue": "Violent crime / policing",
+      "testable": true,
+      "position": "Oppose defunding police",
+      "position_source": "https://www.govinfo.gov/content/pkg/BILLS-116sres613is/html/BILLS-116sres613is.htm",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 328,
+          "date": "2021-08-10",
+          "bill": "S.Con.Res.14",
+          "bill_title": "Budget resolution (Tuberville amdt. 3113, cut aid to jurisdictions that defund police)",
+          "question": "On the amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "Force TikTok to cut ties with China or ban it",
+      "position_source": "https://foxbusiness.com/technology/sen-tom-cotton-tiktok-must-cut-china-ties",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "date": "2024-04-23",
+          "bill": "H.R.815",
+          "bill_title": "National security supplemental (incl. TikTok divest-or-ban law)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose confiscating guns from law-abiding citizens",
+      "position_source": "https://talkbusiness.net/2019/09/notes-from-the-campaign-trail-new-cotton-ad-uses-betos-gun-control-rhetoric-arkansas-appearance/",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "date": "2022-06-23",
+          "bill": "S.2938",
+          "bill_title": "Bipartisan Safer Communities Act",
+          "question": "On the motion to concur in the House amendment with an amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "The act funded state red-flag (gun-removal) programs."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Cotton had no Democratic opponent and skipped the only debate, so positions come largely from 2020 Senate releases, interviews and a Christian Coalition survey as summarized by OnTheIssues.",
+    "Economy rated contradicted on CHIPS: he backed chip-manufacturing funding but voted against the broader bill.",
+    "Votes 127 and 328 inferred from tallies (all Republicans/99-0); H.R.815 and S.2938 roll call numbers not confirmed.",
+    "Gun policy test (red-flag funding as confiscation) and Pew gun policy share (55%) are judgment calls; immigration (52%) next in line."
+  ],
+  "researched": "2026-11-04"
+}

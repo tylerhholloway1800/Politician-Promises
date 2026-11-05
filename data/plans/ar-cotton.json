@@ -1,0 +1,61 @@
+{
+  "id": "ar-cotton",
+  "name": "Tom Cotton",
+  "state": "AR",
+  "party": "R",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Pew Research Center national survey of registered voters, Sept. 28-Oct. 4, 2026 (share calling each issue 'very important' to their 2026 congressional vote)",
+      "url": "https://www.pewresearch.org/politics/2026/10/08/economy-ranks-as-top-issue-in-midterms-for-all-voters-but-partisans-differ-over-the-importance-of-other-issues/",
+      "note": "Fallback to national polling: no 2026 Arkansas poll ranking issues was found. The annual University of Arkansas 'Arkansas Poll' has no 2024-2026 edition online (latest found: Oct 2023, economy 36%, politics 14%), and the 2026 Talk Business & Politics/Hendrix Senate polls (Aug, Oct 8-13) asked no issue question. Top 10 taken in Pew order: economy 84, future of democracy 73, health care 68, education 62, immigration 59, foreign policy 57, energy policy 54, violent crime 52, abortion 46, gun policy 45. 'Future of democracy' kept as Democracy and elections, as in other locked plans."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Economy and cost of living", "rating": "Partial",
+       "detail": "Penalize offshoring of jobs to China; end U.S. economic dependence on China; bring jobs back to Arkansas",
+       "source": "https://arkansasadvocate.com/2026/02/17/republican-sen-tom-cotton-focus-of-gop-democratic-primaries/"},
+      {"rank": 2, "issue": "Democracy and elections", "rating": "None",
+       "detail": "No 2026 campaign position found",
+       "source": "https://ballotpedia.org/Tom_Cotton"},
+      {"rank": 3, "issue": "Health care", "rating": "Partial",
+       "detail": "Oppose extending the enhanced Affordable Care Act premium subsidies",
+       "source": "https://arkansasadvocate.com/2026/02/17/republican-sen-tom-cotton-focus-of-gop-democratic-primaries/"},
+      {"rank": 4, "issue": "Education", "rating": "Partial",
+       "detail": "Oppose critical race theory and 'anti-American' content in schools",
+       "source": "https://arkansasadvocate.com/2026/02/17/republican-sen-tom-cotton-focus-of-gop-democratic-primaries/"},
+      {"rank": 5, "issue": "Immigration", "rating": "Concrete",
+       "detail": "Pass RAISE Act: end chain migration, skills-based system, cut green cards by half, cap refugees at 50,000; keep deporting criminal illegal immigrants",
+       "source": "https://arkansasadvocate.com/?p=23422"},
+      {"rank": 6, "issue": "Foreign policy", "rating": "Concrete",
+       "detail": "Ban U.S. investment in strategic Chinese industries; decouple supply chains from China; continue Iran war to completion",
+       "source": "https://arkansasadvocate.com/2026/02/17/republican-sen-tom-cotton-focus-of-gop-democratic-primaries/"},
+      {"rank": 7, "issue": "Energy", "rating": "Vague",
+       "detail": "Oppose higher energy taxes (stated by campaign in criticism of opponent); lower costs",
+       "source": "https://tomcotton.com/?p=74"},
+      {"rank": 8, "issue": "Crime and public safety", "rating": "Vague",
+       "detail": "Make Arkansas safer",
+       "source": "https://arkansasadvocate.com/?p=23710"},
+      {"rank": 9, "issue": "Abortion", "rating": "Vague",
+       "detail": "Protect the unborn",
+       "source": "https://sbaprolife.org/newsroom/press-releases/leading-natl-pro-life-group-endorses-senator-tom-cotton-for-re-election"},
+      {"rank": 10, "issue": "Gun policy", "rating": "None",
+       "detail": "No 2026 campaign position found",
+       "source": "https://ballotpedia.org/Tom_Cotton"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue ranking is national (Pew), not Arkansas-specific; no 2026 Arkansas issue poll found.",
+    "Cotton skipped the Oct 14 Arkansas TV debate, did not answer Arkansas Advocate interview requests, and did not complete Ballotpedia's survey, so campaign material is thin.",
+    "Campaign issues page (tomcotton.com/issues) could be read only for its Immigration section; China, inflation and education items come from the Arkansas Advocate's Feb 2026 description of his campaign website.",
+    "Immigration rated Concrete because his campaign site and stated 2026 goals point to his RAISE Act (ending chain migration); the RAISE Act numbers are from the bill as described by Arkansas Advocate.",
+    "Foreign policy Concrete rests on the campaign-site call to ban U.S. investment in strategic Chinese industries; Iran item is from a March 29, 2026 Fox News interview reported by Arkansas Advocate.",
+    "Health care position is from a Nov 2025 THV11 interview (during his declared campaign), reported in a Feb 2026 campaign article; rated Partial because it is opposition, not a solution.",
+    "Education rated Partial (named target, CRT) rather than Vague; no bill or ban was proposed.",
+    "Senate-office bills and letters in 2026 (energy permitting, renewable mandates, red diesel, SAVE Act) were treated as record, not campaign promises, and excluded."
+  ],
+  "researched": "2026-11-05"
+}

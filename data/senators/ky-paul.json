@@ -29,7 +29,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -52,7 +53,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Campaign filing release also cites his Penny Plan: https://randpaul.com/dr-paul-files-for-re-election/"
@@ -125,7 +127,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "No national ban got a floor vote; vote against federal abortion-rights bill read as consistent with leaving it to states."

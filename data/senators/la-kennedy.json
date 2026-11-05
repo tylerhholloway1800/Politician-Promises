@@ -37,7 +37,8 @@
           "question": "On the joint resolution",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Campaign K-12 message was parents' rights only (slogan); rated on student loans."
@@ -59,7 +60,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -106,7 +108,8 @@
           "question": "On the joint resolution",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },

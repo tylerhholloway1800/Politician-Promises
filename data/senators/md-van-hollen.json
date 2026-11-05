@@ -56,7 +56,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -68,7 +69,8 @@
           "question": "Motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ]
     },
@@ -98,7 +100,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 extended 2017 tax cuts, including for high earners and corporations."
@@ -128,7 +131,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 cut clean-energy tax credits."
@@ -158,7 +162,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 widened the orphan-drug exemption from Medicare negotiation (https://www.biospace.com/policy/trumps-tax-law-restores-orphan-drug-exemptions-cuts-medicaid-threatens-340b-program-and-gives-pbms-a-pass)."

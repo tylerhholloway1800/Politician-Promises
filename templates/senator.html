@@ -98,7 +98,7 @@
 
 {% if s.plan %}
 <section aria-labelledby="plan">
-  <h2 id="plan">{{ s.plan.year }} plan, locked {{ s.plan.locked | fdate }}</h2>
+  <h2 id="plan">{% if s.issues %}Next term: {% endif %}{{ s.plan.year }} plan, locked {{ s.plan.locked | fdate }}</h2>
   <p class="muted small">Issue list: {% if s.plan.issue_poll.url %}<a href="{{ s.plan.issue_poll.url }}">{{ s.plan.issue_poll.name }}</a>{% else %}{{ s.plan.issue_poll.name }}{% endif %}</p>
   <div class="table-box">
     <table class="detail">

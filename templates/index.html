@@ -86,6 +86,23 @@
 </section>
 {% endif %}
 
+
+{% if reelected %}
+<section aria-labelledby="re">
+  <div class="sec-head"><h2 id="re">Re-elected: next term's plan locked</h2><span class="muted">Graded on the current term now; the locked plan applies from January</span></div>
+  <div class="table-box">
+    <table class="list">
+      <thead><tr><th>State</th><th>Senator</th><th>Party</th><th class="n">Concrete plans</th><th class="n">Plan score</th></tr></thead>
+      <tbody>
+      {% for s in reelected %}
+        <tr><td>{{ s.state }}</td><td><a href="s/{{ s.id }}.html">{{ s.name }}</a></td><td>{{ s.party }}</td><td class="n">{{ s.plan_score.counts.Concrete }} of {{ s.plan_score.total }}</td><td class="n mono">{{ s.plan_score.pct | pct }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endif %}
+
 <script>
 (function () {
   var q = document.getElementById('q'), p = document.getElementById('party');

@@ -9,7 +9,7 @@ You are researching ONE U.S. senator for Politician Promises, a nonpartisan site
 - When all 10 issues are researched, leave `status` out of the file. If any issue is still `null`, set `"status": "draft"`.
 
 ## Step 1: Top 10 issues at the senator's last election
-Find public polling of that state's voters from their election year (2022 or 2024) on the most important issues. Prefer, in order:
+Find public polling of that state's voters from their election year (2020, 2022 or 2024) on the most important issues. Prefer, in order:
 1. A state poll that ranks issues (most important issue, or share calling each very important), closest to Election Day.
 2. Several state polls combined (say how).
 3. Regional or national polling from that year (say so in `issue_poll.note`).
@@ -23,7 +23,7 @@ Past record is not a promise; only forward-looking positions from the campaign.
 
 ## Step 3: Floor votes in the term that test each testable position
 Votes cast from the start of the term (Jan 3 of the year after the election) to today. Senate floor roll calls only: final passage, amendments, and cloture or motions to proceed when that vote decided the bill's fate. Not bill sponsorship or cosponsorship. A big package bill counts once for each issue it actually touches. For each vote record whether the senator's vote was consistent with the stated position. If no floor vote tested a testable position, leave `votes` empty and explain in `note` (e.g. "Blocked without a recorded vote").
-Sources for roll calls: senate.gov, govinfo.gov Congressional Record, watch.vote, usquery.com, congress.gov, reliable news reporting of the roll call. Record the roll call number, congress (118 = 2023–24, 119 = 2025–26) and session (1 = odd year, 2 = even year). If you can't confirm the number, omit `roll_call` and say so in a caveat.
+Sources for roll calls: senate.gov, govinfo.gov Congressional Record, watch.vote, usquery.com, congress.gov, reliable news reporting of the roll call. Record the roll call number, congress (117 = 2021–22, 118 = 2023–24, 119 = 2025–26) and session (1 = odd year, 2 = even year). If you can't confirm the number, omit `roll_call` and say so in a caveat.
 
 ## Output: write ONE JSON file, then reply briefly
 Write the file at `/home/claude/promise-ledger/data/senators/<id>.json` (id given in your task) with exactly this shape. Use `/home/claude/promise-ledger/data/senators/nh-hassan.json` as a worked example (read it first).

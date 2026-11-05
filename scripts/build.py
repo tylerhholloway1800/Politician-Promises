@@ -68,10 +68,34 @@ def pct(x):
     return "—" if x is None else f"{round(x * 100)}%"
 
 
-def load():
-    senators = []
+def merged_senators():
+    """Senator files plus locked-plan files (data/plans/). A plan file for a
+    senator who already has a file is attached as their next-term plan;
+    otherwise it stands alone as a senator-elect."""
+    out = {}
     for f in sorted((DATA / "senators").glob("*.json")):
         s = json.loads(f.read_text())
+        out[s["id"]] = s
+    plans = DATA / "plans"
+    if plans.exists():
+        for f in sorted(plans.glob("*.json")):
+            pl = json.loads(f.read_text())
+            if pl["id"] in out:
+                s = out[pl["id"]]
+                s["plan"] = pl["plan"]
+                s["plan"]["term_start"] = pl.get("term_start")
+                s["plan"]["term_end"] = pl.get("term_end")
+                s.setdefault("caveats", []).extend(pl.get("plan_caveats", []))
+            else:
+                pl.setdefault("issues", [])
+                pl.setdefault("caveats", pl.pop("plan_caveats", []))
+                out[pl["id"]] = pl
+    return list(out.values())
+
+
+def load():
+    senators = []
+    for s in merged_senators():
         s["state_name"] = STATES.get(s["state"], s["state"])
         s["party_name"] = PARTY.get(s["party"], s["party"])
         s["ready"], s["pending"] = readiness(s) if s.get("issues") else (False, [])
@@ -102,7 +126,8 @@ def main():
         c["label"] = f"{s['party']}-{s['state']}" if s else ""
     graded = [s for s in senators if s["delivery"]]
     graded.sort(key=lambda s: (s["state"], s["name"]))
-    elect = [s for s in senators if not s["delivery"] and s["plan_score"] and not s.get("issues")]
+    elect = [s for s in senators if s["plan_score"] and not s.get("issues")]
+    reelected = sorted([s for s in senators if s["plan_score"] and s.get("issues")], key=lambda s: (s["state"], s["name"]))
     pending = sorted([s for s in senators if s.get("issues") and not s["ready"]], key=lambda s: (s["state"], s["name"]))
     elect.sort(key=lambda s: (s["state"], s["name"]))
 
@@ -122,7 +147,7 @@ def main():
         p.parent.mkdir(parents=True, exist_ok=True)
         p.write_text(env.get_template(tpl).render(**common, **ctx))
 
-    write("index.html", "index.html", graded=graded, elect=elect, pending=pending, changes=changes[:10], page="home")
+    write("index.html", "index.html", graded=graded, elect=elect, reelected=reelected, pending=pending, changes=changes[:10], page="home")
     write("moves.html", "moves.html", changes=changes, page="moves")
     write("method.html", "method.html", page="method")
     for s in senators:

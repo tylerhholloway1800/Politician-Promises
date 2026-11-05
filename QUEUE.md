@@ -82,3 +82,63 @@ Lock winners' plans once results are final; re-elected incumbents also get a del
 - H.R.1 (RC 372) is applied unevenly: some files count a Nay as Contradicting a border-funding / LIHTC / child-tax-credit position, others leave the issue as No vote held (Kaine, Murphy, Blunt Rochester, Hassan-immigration). Pick one rule and apply it to every file.
 - SAVE America Act vs. a 2022 pledge to oppose federalizing elections: ks-moran scores it Contradicted, ar-boozman leaves it unscored. Same rule needed. (nd-hoeven also scored Contradicted.)
 - Procedural Nays to enable reconsideration (e.g. Schumer on RC 211) are scored consistent by hand; make sure verify_votes never flips them.
+
+## 2026 class: lock winners' plans (closed races, as of Nov 5)
+Plan brief: "Read /home/claude/politician-promises/PLAN.md and follow it exactly for: <Name> (<P>-<ST>), won the 2026 U.S. Senate race. File id: <id>"
+Delivery brief for re-elected incumbents (separate agent, writes data/senators/): "Read /home/claude/politician-promises/RESEARCH.md and follow it exactly for: Sen. <Name> (<P>-<ST>), elected <year>, term <start> to 2027-01-03. File id: <id>"
+Not called yet (do later): AK (Sullivan vs Peltola), MS (Hyde-Smith vs Colom).
+
+### Extend existing locked plans from 8 to 10 issues
+Message to a fresh agent: "In /home/claude/politician-promises/data/senators/<id>.json the `plan` has 8 issues. Using the same poll named in plan.issue_poll (or the closest 2026 state poll if it has fewer items, noted), add ranks 9 and 10 per /home/claude/politician-promises/PLAN.md rules, rating this candidate's 2026 plan on each. Edit only plan.issues; keep everything else. Max ~20 searches. Validate JSON. Reply with the two added issues and ratings."
+- [ ] ext:sc-andrews
+- [ ] ext:mi-el-sayed
+- [ ] ext:nc-cooper
+- [ ] ext:nh-pappas
+- [ ] ext:ia-turek
+
+### New senators (plan only)
+- [ ] plan:al-moore Barry Moore R-AL
+- [ ] plan:il-stratton Juliana Stratton D-IL
+- [ ] plan:ks-hamilton Adam Hamilton D-KS
+- [ ] plan:ky-barr Andy Barr R-KY
+- [ ] plan:la-letlow Julia Letlow R-LA
+- [ ] plan:me-jackson Troy Jackson D-ME
+- [ ] plan:mn-flanagan Peggy Flanagan D-MN
+- [ ] plan:mt-alme Kurt Alme R-MT
+- [ ] plan:oh-brown Sherrod Brown D-OH (special; term 2027-01-03 to 2029-01-03)
+- [ ] plan:ok-hern Kevin Hern R-OK
+- [ ] plan:tx-talarico James Talarico D-TX
+- [ ] plan:wy-hageman Harriet Hageman R-WY
+- [ ] plan:fl-moody Ashley Moody R-FL (special; appointed 2025, no prior campaign for this seat; term 2027-01-03 to 2029-01-03)
+
+### Re-elected incumbents (plan + delivery for the term now ending)
+- [ ] plan:ar-cotton Tom Cotton R-AR
+- [ ] del:ar-cotton elected 2020, term 2021-01-03
+- [ ] plan:co-hickenlooper John Hickenlooper D-CO
+- [ ] del:co-hickenlooper elected 2020, term 2021-01-03
+- [ ] plan:de-coons Chris Coons D-DE
+- [ ] del:de-coons elected 2020, term 2021-01-03
+- [ ] plan:ga-ossoff Jon Ossoff D-GA
+- [ ] del:ga-ossoff elected 2020 (Jan 2021 runoff), term 2021-01-20
+- [ ] plan:id-risch Jim Risch R-ID
+- [ ] del:id-risch elected 2020, term 2021-01-03
+- [ ] plan:ma-markey Ed Markey D-MA
+- [ ] del:ma-markey elected 2020, term 2021-01-03
+- [ ] plan:ne-ricketts Pete Ricketts R-NE
+- [ ] del:ne-ricketts elected 2024 special, term 2024-11-05
+- [ ] plan:nj-booker Cory Booker D-NJ
+- [ ] del:nj-booker elected 2020, term 2021-01-03
+- [ ] plan:nm-lujan Ben Ray Luján D-NM
+- [ ] del:nm-lujan elected 2020, term 2021-01-03
+- [ ] plan:or-merkley Jeff Merkley D-OR
+- [ ] del:or-merkley elected 2020, term 2021-01-03
+- [ ] plan:ri-reed Jack Reed D-RI
+- [ ] del:ri-reed elected 2020, term 2021-01-03
+- [ ] plan:sd-rounds Mike Rounds R-SD
+- [ ] del:sd-rounds elected 2020, term 2021-01-03
+- [ ] plan:tn-hagerty Bill Hagerty R-TN
+- [ ] del:tn-hagerty elected 2020, term 2021-01-03
+- [ ] plan:va-warner Mark Warner D-VA
+- [ ] del:va-warner elected 2020, term 2021-01-03
+- [ ] plan:wv-capito Shelley Moore Capito R-WV
+- [ ] del:wv-capito elected 2020, term 2021-01-03

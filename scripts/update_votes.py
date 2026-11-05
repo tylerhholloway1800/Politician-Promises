@@ -58,21 +58,42 @@ def save_json(name, obj):
 
 
 def start_terms(senators, today):
-    """When a senator-elect's term begins, their locked plan becomes the list
-    their votes are graded on. Concrete and Partial plans are testable."""
-    for s in senators.values():
-        if s.get("issues") or not s.get("plan"):
+    """When a new term begins, the locked plan becomes the list the senator's
+    votes are graded on (Concrete and Partial plans are testable). A
+    re-elected senator's finished term is archived under `past_terms`."""
+    from build import merged_senators
+    for s in merged_senators():
+        pl = s.get("plan")
+        if not pl:
             continue
-        if today.isoformat() < s.get("term_start", "9999"):
+        start = pl.get("term_start") or s.get("term_start", "9999")
+        if today.isoformat() < start:
             continue
+        if s.get("issues") and s.get("term_start", "") >= start:
+            continue  # already converted
+        if s.get("issues"):
+            s.setdefault("past_terms", []).append({
+                "elected": s.get("elected"), "term_start": s.get("term_start"),
+                "term_end": s.get("term_end"), "issue_poll": s.get("issue_poll"),
+                "issues": s["issues"],
+            })
         s["issues"] = [{
             "rank": i["rank"], "issue": i["issue"],
             "testable": i["rating"] in ("Concrete", "Partial"),
             "position": i["detail"], "position_source": i.get("source"),
             "votes": [],
-        } for i in s["plan"]["issues"]]
+        } for i in pl["issues"]]
+        s["elected"], s["term_start"] = pl.get("year", s.get("elected")), start
+        s["term_end"] = pl.get("term_end") or s.get("term_end")
+        s["issue_poll"] = pl.get("issue_poll", s.get("issue_poll"))
+        s.pop("plan", None)
+        s.pop("status", None)
         print(f"Term started: {s['name']} now graded on {len(s['issues'])} locked issues")
+        senators[s["id"]] = s
         save_senator(s)
+        plan_file = DATA / "plans" / f"{s['id']}.json"
+        if plan_file.exists() and not DRY:
+            plan_file.unlink()
 
 
 # ---------- senate.gov ----------

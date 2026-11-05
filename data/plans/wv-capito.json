@@ -1,0 +1,60 @@
+{
+  "id": "wv-capito",
+  "name": "Shelley Moore Capito",
+  "state": "WV",
+  "party": "R",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Pew Research Center national survey of registered voters, Sept. 28-Oct. 4, 2026 (share calling each issue 'very important' to their 2026 congressional vote)",
+      "url": "https://www.pewresearch.org/politics/2026/10/08/economy-ranks-as-top-issue-in-midterms-for-all-voters-but-partisans-differ-over-the-importance-of-other-issues/",
+      "note": "Fallback to national polling: no 2026 West Virginia poll ranking issues was found. Checked: WV MetroNews West Virginia Poll (Research America, Aug 8-21, 2025; only asked whether state government should focus on economic over social issues, 73% agree), MBE Research statewide poll (Feb 6-13, 2026; grid reliability only), Emerson WV polls (2024 only); no fall 2026 WV Senate poll with an issue question surfaced. Top 10 taken in Pew order: economy 84, future of democracy 73, health care 68, education 62, immigration 59, foreign policy 57, energy policy 54, violent crime 52, abortion 46, gun policy 45. 'Future of democracy' kept as Democracy and elections, as in other locked plans."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Economy and cost of living", "rating": "Partial",
+       "detail": "Keep Working Families Tax Cuts Act cuts permanent; no tax on tips, overtime, or Social Security.",
+       "source": "https://www.theintermountain.com/news/local-news/2026/05/capito-gives-her-positions-ahead-of-primary/"},
+      {"rank": 2, "issue": "Democracy and elections", "rating": "Concrete",
+       "detail": "Pass SAVE America Act, including voter photo ID and proof of citizenship to register, via reconciliation if needed.",
+       "source": "https://www.theintermountain.com/news/local-news/2026/08/capito-signals-optimism-for-legislative-progress/"},
+      {"rank": 3, "issue": "Health care", "rating": "Partial",
+       "detail": "Bipartisan ACA-subsidy alternative requiring a minimum enrollee payment and more plan choice; expand rural telehealth.",
+       "source": "https://wvpress.org/breaking-news/capito-touts-legislative-victories-as-2025-closes-but-work-remains-unfinished-on-health-care-subsidies/"},
+      {"rank": 4, "issue": "Education", "rating": "None",
+       "detail": "",
+       "source": "https://www.theintermountain.com/news/local-news/2026/05/capito-gives-her-positions-ahead-of-primary/"},
+      {"rank": 5, "issue": "Immigration", "rating": "Partial",
+       "detail": "Full-year DHS funding with ICE interior enforcement (identify, detain, remove); oppose limits on ICE-local police cooperation.",
+       "source": "https://www.foxnews.com/opinion/democrats-turn-their-backs-dhs-ice-when-america-needs-them-most.print"},
+      {"rank": 6, "issue": "Foreign policy", "rating": "Partial",
+       "detail": "End the Iran war immediately; reopen the Strait of Hormuz; keep economic pressure on Iran.",
+       "source": "https://ua.news/en/world/senatorka-kapito-zaklikala-prezidenta-trampa-zavershiti-viinu-z-iranom-the-hill"},
+      {"rank": 7, "issue": "Energy", "rating": "Partial",
+       "detail": "Bipartisan permitting reform: narrower judicial review, streamlined Clean Water Act permits, faster gas and transmission projects.",
+       "source": "https://www.theintermountain.com/news/local-news/2026/09/capito-justice-focus-remarks-on-energy/"},
+      {"rank": 8, "issue": "Crime and public safety", "rating": "Vague",
+       "detail": "Keep communities safe.",
+       "source": "https://westvirginiawatch.com/2026/05/12/capito-easily-secures-gop-nomination-for-u-s-senate-seat-tuesday-shortly-after-polls-close-in-wv/"},
+      {"rank": 9, "issue": "Abortion", "rating": "None",
+       "detail": "",
+       "source": "https://wvpress.org/breaking-news/capito-launches-bid-for-third-senate-term/"},
+      {"rank": 10, "issue": "Gun policy", "rating": "None",
+       "detail": "",
+       "source": "https://wvpress.org/breaking-news/capito-launches-bid-for-third-senate-term/"}
+    ]
+  },
+  "plan_caveats": [
+    "Campaign website (shelleymoorecapito.com) could not be fetched; iVoterGuide 2026 questionnaire shows Capito answered none of its 32 items. Plan built from 2026 campaign news, interviews and op-eds.",
+    "Capito ran a light, record-focused campaign; her stated campaign agenda (economy, infrastructure, energy, safety, 'America First') was mostly slogans, so several ratings rest on 2026 statements made in her Senate role (Feb 2026 op-ed, Aug and Sept 2026 remarks) rather than campaign materials.",
+    "Economy: tax items mostly point to the existing Working Families Tax Cuts Act (July 2025); 'no tax on Social Security' goes beyond current law and could be read as Concrete, but the source paraphrases it as current support, so rated Partial.",
+    "Health care source is Dec 19, 2025, four days after her campaign launch; no later 2026 health plan statement was found.",
+    "Foreign policy: Sept 2026 call to end the Iran war was advice to the President (reported via The Hill on ua.news), not a stated vote commitment; rated Partial.",
+    "Abortion and gun policy: at her Dec 2025 launch she cited only her past consistent record, which does not count as a promise; rated None.",
+    "Issue ranking uses national Pew polling; no 2026 West Virginia issue-ranking poll was found."
+  ],
+  "researched": "2026-11-05"
+}

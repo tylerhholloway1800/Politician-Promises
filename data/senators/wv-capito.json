@@ -1,0 +1,123 @@
+{
+  "id": "wv-capito",
+  "name": "Shelley Moore Capito",
+  "state": "WV",
+  "party": "R",
+  "elected": 2020,
+  "term_start": "2021-01-03",
+  "term_end": "2027-01-03",
+  "issue_poll": {
+    "name": "AP VoteCast West Virginia voters, Nov 3, 2020; plus Pew Research Center, July 27–Aug 2, 2020",
+    "url": "https://woay.com/?p=92536",
+    "note": "Ranks 1–5 from AP VoteCast WV most important issue (coronavirus 35%, economy 35%, health care 9%, law enforcement 5%, racism 5%); only those five shares were published. Ranks 6–10 are the next non-duplicate items in Pew's national 'very important' list: Supreme Court 64%, foreign policy 57%, gun policy 55%, immigration 52%, economic inequality 49%. Pew source: https://www.pewresearch.org/politics/2020/08/13/important-issues-in-the-2020-election/"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Coronavirus response",
+      "testable": true,
+      "position": "Pass a smaller, targeted COVID relief package",
+      "position_source": "https://www.weirtondailytimes.com/news/local-news/2020/09/west-virginias-senators-split-on-coronavirus-relief-bill/",
+      "votes": [
+        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06", "bill": "H.R.1319", "bill_title": "American Rescue Plan Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+      ],
+      "note": "Opposed the $1.9T plan; led a smaller GOP counteroffer in Feb 2021."
+    },
+    {
+      "rank": 2,
+      "issue": "Economy",
+      "testable": true,
+      "position": "Keep the 2017 tax cuts",
+      "position_source": "https://wvmetronews.com/2020/10/18/capito-brings-experience-swearengin-calls-for-change-in-us-senate-race/",
+      "votes": [
+        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Repeal the ACA; allow insurance sales across state lines",
+      "position_source": "https://wvmetronews.com/2020/10/18/capito-brings-experience-swearengin-calls-for-change-in-us-senate-race/",
+      "votes": [
+        {"congress": 119, "session": 1, "roll_call": 644, "date": "2025-12-11", "bill": "S.3385", "bill_title": "ACA premium tax credit extension", "question": "Cloture on the motion to proceed", "vote": "Nay", "consistent": true, "auto": false}
+      ],
+      "note": "No full ACA repeal vote this term; scored on extending enhanced ACA subsidies."
+    },
+    {
+      "rank": 4,
+      "issue": "Law enforcement / policing",
+      "testable": true,
+      "position": "Pass the JUSTICE Act police reform bill",
+      "position_source": "https://capito.senate.gov/news/press-releases/in-case-you-missed-it-video-capito-introduces-justice-act-with-scott-mcconnell",
+      "votes": [],
+      "note": "No policing reform bill reached a Senate floor vote this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Racism / race relations",
+      "testable": false,
+      "position": "No specific position found; backed JUSTICE Act policing changes",
+      "position_source": "https://capito.senate.gov/news/press-releases/in-case-you-missed-it-video-capito-introduces-justice-act-with-scott-mcconnell",
+      "votes": []
+    },
+    {
+      "rank": 6,
+      "issue": "Supreme Court appointments",
+      "testable": false,
+      "position": "Confirm Barrett before the election (done before term)",
+      "position_source": "https://wvmetronews.com/2020/10/18/capito-brings-experience-swearengin-calls-for-change-in-us-senate-race/",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "Continue U.S. support for Israel",
+      "position_source": "https://ontheissues.org/Note.asp?q=20CC-17",
+      "votes": [
+        {"congress": 118, "session": 2, "date": "2024-02-13", "bill": "H.R.815", "bill_title": "National security supplemental (Israel, Ukraine, Indo-Pacific)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 8,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose further restrictions on gun rights",
+      "position_source": "https://ontheissues.org/Note.asp?q=20CC-10",
+      "votes": [
+        {"congress": 117, "session": 2, "roll_call": 242, "date": "2022-06-23", "bill": "S.2938", "bill_title": "Bipartisan Safer Communities Act", "question": "On the motion to concur in the House amendment", "vote": "Yea", "consistent": false, "auto": false},
+        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (ends $200 NFA tax on suppressors)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+      ],
+      "note": "S.2938 added red-flag funding and expanded checks for buyers under 21; she was one of 15 GOP yeas."
+    },
+    {
+      "rank": 9,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Fund the border wall and more border personnel",
+      "position_source": "https://www.appropriations.senate.gov/download/022520_-chairman-capito-opening-statement&download=1",
+      "votes": [
+        {"congress": 118, "session": 2, "date": "2024-02-07", "bill": "H.R.815", "bill_title": "Supplemental with bipartisan border package", "question": "Cloture on the motion to concur with an amendment", "vote": "Nay", "consistent": false, "auto": false},
+        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (border wall and enforcement funding)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+      ],
+      "note": "The Feb 2024 border package funded border agents and barriers; she opposed it, citing distrust of enforcement."
+    },
+    {
+      "rank": 10,
+      "issue": "Economic inequality",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://wvmetronews.com/2020/10/18/capito-brings-experience-swearengin-calls-for-change-in-us-senate-race/",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Capito's 2020 campaign site (capito2020.com) now redirects to an unrelated site and no issue questionnaire was found; gun and Israel positions rest on the Christian Coalition's Sept 2020 guide (inferred stances) via OnTheIssues.",
+    "Issue ranking combines AP VoteCast WV (top five only) with national Pew data.",
+    "H.R.815 roll call numbers (Feb 7 and Feb 13, 2024) not confirmed; votes sourced from Weirton Daily Times and ABC News.",
+    "Immigration Feb 2024 Nay counted as inconsistent because the package funded border personnel and barriers; health care scored on S.3385 (Republican yeas were Collins, Murkowski, Hawley, Sullivan)."
+  ],
+  "researched": "2026-11-04"
+}

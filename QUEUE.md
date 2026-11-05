@@ -141,6 +141,6 @@ Message to a fresh agent: "In /home/claude/politician-promises/data/senators/<id
 - [x] plan:tn-hagerty Bill Hagerty R-TN
 - [x] del:tn-hagerty elected 2020, term 2021-01-03
 - [x] plan:va-warner Mark Warner D-VA
-- [ ] del:va-warner elected 2020, term 2021-01-03
-- [ ] plan:wv-capito Shelley Moore Capito R-WV
-- [ ] del:wv-capito elected 2020, term 2021-01-03
+- [x] del:va-warner elected 2020, term 2021-01-03
+- [x] plan:wv-capito Shelley Moore Capito R-WV
+- [x] del:wv-capito elected 2020, term 2021-01-03

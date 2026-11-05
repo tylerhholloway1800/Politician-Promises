@@ -1,0 +1,235 @@
+{
+  "id": "wa-murray",
+  "name": "Patty Murray",
+  "state": "WA",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "WA Poll (SurveyUSA for KING 5 / Seattle Times / UW CIP / WSU), Oct 14–19, 2022",
+    "url": "https://patch.com/washington/seattle/wa-election-poll-shows-abortion-inflation-top-voters-minds",
+    "note": "Most-important-issue question, likely voters: abortion 26%, inflation 22%, border security 10%, crime 8%, climate change 7%, election integrity 5%, voting rights 4%, COVID-19 3%, guns 3%, housing prices 3%, homelessness 2%, foreign policy 1%. Election integrity and voting rights combined (9%) as Elections / voting. SurveyUSA report: https://www.surveyusa.com/client/PollReport.aspx?g=3ad7fc15-da46-4af6-89d6-2925928e0d04"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pass law codifying Roe; oppose a national ban",
+      "position_source": "https://www.peninsuladailynews.com/?p=212353",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 344,
+          "date": "2025-06-30",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (Murray amendment to strike Planned Parenthood defunding)",
+          "question": "Motion to waive budget point of order",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Expand child care funding; cap costs at 7% of income",
+      "position_source": "https://newrepublic.com/article/166833/patty-murray-child-care-midterms",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 114,
+          "date": "2024-03-22",
+          "bill": "H.R.2882",
+          "bill_title": "Further Consolidated Appropriations Act, 2024",
+          "question": "On the motion to concur in the House amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Package raised child care block grant funding; the 7% cost cap never got a floor vote."
+    },
+    {
+      "rank": 3,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Path to citizenship, including for Dreamers",
+      "position_source": "https://www.cascadepbs.org/politics/2022/10/recap-5-takeaways-us-senate-debate",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 152,
+          "date": "2026-06-05",
+          "bill": "S.2",
+          "bill_title": "Durbin amendment shielding DACA recipients (S.Amdt.5806)",
+          "question": "Motion to waive budget point of order",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 156,
+          "date": "2026-06-05",
+          "bill": "S.2",
+          "bill_title": "Gallego amendment funding DACA processing (S.Amdt.5813)",
+          "question": "On the amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Also backed Dreamer protections at an Oct 30, 2022 town hall (Spokesman-Review)."
+    },
+    {
+      "rank": 4,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Pass Freedom to Vote and John Lewis acts; change filibuster rules",
+      "position_source": "https://www.murray.senate.gov/senator-murray-outlines-push-to-pass-voting-rights-legislation-restore-senate",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "Address crime at all levels; more mental health resources",
+      "position_source": "https://spokesman.com/stories/2022/oct/30/us-senate-candidates-patty-murray-and-tiffany-smil",
+      "votes": []
+    },
+    {
+      "rank": 6,
+      "issue": "Climate change",
+      "testable": true,
+      "position": "Invest in clean energy; back the Inflation Reduction Act",
+      "position_source": "https://www.peninsuladailynews.com/?p=212353",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 366,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "Shaheen amendment to keep clean energy credits",
+          "question": "On the amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 repealed or phased out many IRA clean-energy credits."
+    },
+    {
+      "rank": 7,
+      "issue": "COVID-19",
+      "testable": true,
+      "position": "Pass emergency COVID response funding",
+      "position_source": "https://help.senate.gov/dem/newsroom/press/amid-threat-of-new-covid-variants-and-a-fall-surge-murray-urges-republicans-to-support-covid-emergency-funding-",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 146,
+          "date": "2023-06-01",
+          "bill": "H.R.3746",
+          "bill_title": "Fiscal Responsibility Act of 2023 (rescinded unspent COVID funds)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "Vote per CNN tally: https://ktvz.com/politics/cnn-us-politics/2023/06/02/how-every-senator-voted-on-the-debt-ceiling-bill/"
+    },
+    {
+      "rank": 8,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Assault weapons ban, expanded background checks, ghost gun ban",
+      "position_source": "https://www.cascadepbs.org/politics/2022/10/recap-5-takeaways-us-senate-debate",
+      "votes": [],
+      "note": "No recorded Senate floor vote on these measures this term."
+    },
+    {
+      "rank": 9,
+      "issue": "Housing costs",
+      "testable": false,
+      "position": "More focus on housing to lower costs; no specific plan",
+      "position_source": "https://spokesman.com/stories/2022/oct/30/us-senate-candidates-patty-murray-and-tiffany-smil",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Homelessness",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://spokesman.com/stories/2022/oct/30/us-senate-candidates-patty-murray-and-tiffany-smil",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "COVID-19 rated Contradicted on the debt-limit deal, which rescinded unspent COVID funds; the bill's main purpose was the debt limit, and no new COVID funding got a floor vote.",
+    "Economy rated on the FY2024 funding package's child care increase; her 7% cost cap never got a vote.",
+    "Elections rated on SAVE America Act votes; the voting bills and rules change she backed never got a floor vote.",
+    "Most votes taken from roll calls recorded in other senator files; senate.gov was not reachable to confirm her individual votes."
+  ],
+  "researched": "2026-11-04"
+}

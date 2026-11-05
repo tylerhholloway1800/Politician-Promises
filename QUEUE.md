@@ -69,11 +69,11 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 - [x] or-wyden Ron Wyden D-OR
 - [x] pa-fetterman John Fetterman D-PA
 - [x] sc-scott Tim Scott R-SC
-- [ ] sd-thune John Thune R-SD
-- [ ] ut-lee Mike Lee R-UT
+- [x] sd-thune John Thune R-SD
+- [x] ut-lee Mike Lee R-UT
 - [x] vt-welch Peter Welch D-VT
-- [ ] wa-murray Patty Murray D-WA
-- [ ] wi-johnson Ron Johnson R-WI
+- [x] wa-murray Patty Murray D-WA
+- [x] wi-johnson Ron Johnson R-WI
 
 ## Later: 2026 class (35 seats incl. FL and OH specials)
 Lock winners' plans once results are final; re-elected incumbents also get a delivery score for the term that just ended.

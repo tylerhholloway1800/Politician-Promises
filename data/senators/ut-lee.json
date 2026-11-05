@@ -1,0 +1,187 @@
+{
+  "id": "ut-lee",
+  "name": "Mike Lee",
+  "state": "UT",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Deseret News/Hinckley Institute poll (Dan Jones & Associates), Sept 3–21, 2022",
+    "url": "https://www.deseret.com/utah/2022/10/8/23391754/most-important-issue-for-utah-voters-economy-inflation",
+    "note": "Most important issue for choosing a senator; ranks 3–5 tied at 9%, ranks 6–9 listed without percentages. Poll offered only 9 issues, so rank 10 is the next-highest issue in Pew's national Oct 2022 survey (future of democracy, 70% very important): https://www.pewresearch.org/short-reads/2022/11/03/key-facts-about-u-s-voter-priorities-ahead-of-the-2022-midterm-elections/"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Oppose large federal spending bills, including his own party's",
+      "position_source": "https://www.globeslcc.com/2022/11/06/mike-lee-evan-mcmullin-us-senate-candidates-utah/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 114,
+          "date": "2024-03-22",
+          "bill": "H.R.2882",
+          "bill_title": "Further Consolidated Appropriations Act, 2024",
+          "question": "On the motion to concur in the House amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 133,
+          "date": "2025-03-14",
+          "bill": "H.R.1968",
+          "bill_title": "Full-Year Continuing Appropriations Act, 2025",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "Opposed the 2024 funding package; backed the 2025 Republican full-year funding bill."
+    },
+    {
+      "rank": 2,
+      "issue": "Role of the federal government",
+      "testable": true,
+      "position": "Let cities acquire nearby federal land for housing",
+      "position_source": "https://www.kuer.org/politics-government/2022-06-06/what-to-know-in-the-senate-primary-between-sen-mike-lee-becky-edwards-and-ally-isom",
+      "votes": [],
+      "note": "No floor vote; his 2025 land-sale provision was pulled from H.R.1 before a vote."
+    },
+    {
+      "rank": 3,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Allow drug imports instead of government price negotiation",
+      "position_source": "https://www.deseret.com/2022/10/17/23409925/utah-lee-mcmullin-2022-senate-debate/",
+      "votes": [],
+      "note": "No Senate floor vote on drug importation or repealing Medicare negotiation this term."
+    },
+    {
+      "rank": 4,
+      "issue": "Education",
+      "testable": true,
+      "position": "End federal student loan programs; oppose loan forgiveness",
+      "position_source": "https://www.deseret.com/2022/10/17/23409925/utah-lee-mcmullin-2022-senate-debate/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of student loan debt cancellation",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "issue": "Environment",
+      "testable": true,
+      "position": "Speed permits for water storage (Unshackled Act)",
+      "position_source": "https://www.kuer.org/politics-government/2022-10-17/utah-senate-debate-mike-lee-evan-mcmullin",
+      "votes": [],
+      "note": "No Senate floor vote on water-storage permitting reform this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Leave abortion to states; oppose a national ban",
+      "position_source": "https://www.deseret.com/utah/2022/10/24/23420976/mike-lee-evan-mcmullin-oppose-national-abortion-ban",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No national-ban vote held; rated on opposing a federal abortion-rights law."
+    },
+    {
+      "rank": 7,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Roll back existing gun control laws",
+      "position_source": "https://www.sltrib.com/news/politics/2022/10/17/where-do-mike-lee-evan-mcmullin",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 171,
+          "date": "2023-06-22",
+          "bill": "H.J.Res.44",
+          "bill_title": "Disapproval of ATF pistol stabilizing brace rule",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Fund border wall; restrict asylum and Flores release rules",
+      "position_source": "https://www.sltrib.com/news/politics/2022/10/17/where-do-mike-lee-evan-mcmullin",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded border wall construction; asylum and Flores changes got no floor vote."
+    },
+    {
+      "rank": 9,
+      "issue": "Supreme Court structure",
+      "testable": true,
+      "position": "Keep the Court at nine justices; oppose court packing",
+      "position_source": "https://www.pbs.org/wnet/firing-line/?p=7198",
+      "votes": [],
+      "note": "No floor vote on Court size this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Elections / democracy",
+      "testable": false,
+      "position": "Called 2020 election fair; said confidence should be restored",
+      "position_source": "https://www.kuer.org/politics-government/2022-06-06/what-to-know-in-the-senate-primary-between-sen-mike-lee-becky-edwards-and-ally-isom",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Economy rated on two appropriations votes; the 2025 Yea on a $1.7T Republican funding bill is judged inconsistent with his pledge to oppose large spending even from his own party.",
+    "Pistol-brace roll call 171 inferred from usquery/thenewamerican vote IDs; S.4554 (211) and H.R.1 (372) numbers taken from the worked example, not confirmed independently for Lee.",
+    "Rank 10 comes from national Pew polling because the Utah poll listed only nine issues."
+  ],
+  "researched": "2026-11-05"
+}

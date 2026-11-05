@@ -1,0 +1,236 @@
+{
+  "id": "wi-johnson",
+  "name": "Ron Johnson",
+  "state": "WI",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Marquette Law School Poll, Wisconsin, Oct 24–Nov 1, 2022",
+    "url": "https://www.wbay.com/2022/11/02/marquette-poll-wisconsins-major-races-very-tight-heading-into-election-day",
+    "note": "Ranked by share 'very concerned' (inflation 68%, public schools 62%, crime 57%, gun violence 56%, accurate vote count 56%, abortion 52%, taxes 48%, illegal immigration 40%, coronavirus 16%). Climate change was not asked in the final poll; added from Marquette's Aug 2022 poll (41% very concerned): https://foxnews.com/politics/wisconsin-voters-inflation-climate-change-top-voting-priorities-midterms.amp"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "End deficit spending; review all federal spending each year",
+      "position_source": "https://www.wuwm.com/2022-11-03/a-non-interview-with-sen-ron-johnson-where-he-stands-on-the-issues-and-the-questions-that-remain",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 146,
+          "date": "2023-06-01",
+          "bill": "H.R.3746",
+          "bill_title": "Fiscal Responsibility Act of 2023",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 114,
+          "date": "2024-03-22",
+          "bill": "H.R.2882",
+          "bill_title": "Further Consolidated Appropriations Act, 2024",
+          "question": "On the motion to concur",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 added to deficits; he opposed it early on, then voted for it."
+    },
+    {
+      "rank": 2,
+      "issue": "Education / public schools",
+      "testable": true,
+      "position": "School choice: let school funding follow students",
+      "position_source": "https://www.wispolitics.com/2022/johnson-campaign-johnson-highlights-the-importance-of-school-choice/?pdf=264738",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 created a federal tax credit for school-choice scholarship donations."
+    },
+    {
+      "rank": 3,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "Renew faith, strengthen families; fund police (direction only)",
+      "position_source": "https://www.wuwm.com/2022-11-03/a-non-interview-with-sen-ron-johnson-where-he-stands-on-the-issues-and-the-questions-that-remain",
+      "votes": []
+    },
+    {
+      "rank": 4,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "No new gun laws; enforce existing ones",
+      "position_source": "https://pbswisconsin.org/news-item/ron-johnson-mandela-barnes-clash-on-issues-hit-talking-points-in-first-2022-debate/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 171,
+          "date": "2023-06-22",
+          "bill": "H.J.Res.44",
+          "bill_title": "Disapproval of ATF pistol stabilizing brace rule",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Only floor test: a resolution to overturn a new ATF gun rule (failed 49-50)."
+    },
+    {
+      "rank": 5,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Require voter ID; oppose ballot drop boxes",
+      "position_source": "https://guides.vote/?p=1447",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Leave abortion to states, by referendum; no national ban now",
+      "position_source": "https://www.wuwm.com/2022-11-03/a-non-interview-with-sen-ron-johnson-where-he-stands-on-the-issues-and-the-questions-that-remain",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No national abortion ban received a floor vote this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Taxes",
+      "testable": false,
+      "position": "Backs 'pro-growth tax reform'; no specific forward pledge found",
+      "position_source": "https://guides.vote/?p=1447",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Environment / climate",
+      "testable": false,
+      "position": "Calls climate unsolvable; more fossil-fuel production (direction only)",
+      "position_source": "https://www.wuwm.com/2022-11-03/a-non-interview-with-sen-ron-johnson-where-he-stands-on-the-issues-and-the-questions-that-remain",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Secure the border first, then tighten the asylum standard",
+      "position_source": "https://pbswisconsin.org/news-item/ron-johnson-mandela-barnes-clash-on-issues-hit-talking-points-in-first-2022-debate/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2024-05-23",
+          "bill": "S.4361",
+          "bill_title": "Border Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "S.4361 raised the asylum screening standard; he voted against it. H.R.1 funded border enforcement."
+    },
+    {
+      "rank": 10,
+      "issue": "COVID-19",
+      "testable": true,
+      "position": "Defund federal COVID vaccine mandates",
+      "position_source": "https://www.ronjohnson.senate.gov/2022/3/sen-johnson-joins-sen-lee-colleagues-in-letter-to-defund-federal-vaccine-mandates",
+      "votes": [],
+      "note": "Federal mandates were rescinded by 2023; no floor vote on defunding them this term."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Climate change rank comes from Marquette's August 2022 poll, not the final pre-election poll.",
+    "Immigration: rating his Nay on S.4361 as inconsistent is a judgment call; he said the bill failed to secure the border first.",
+    "Guns tested only by a vote to overturn an ATF rule, not a new gun law.",
+    "Johnson's individual votes on roll calls 171, 182, 211 and 73 inferred from party-line tallies in news reports; senate.gov was not reachable."
+  ],
+  "researched": "2026-11-04"
+}

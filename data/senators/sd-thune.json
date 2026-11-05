@@ -1,0 +1,189 @@
+{
+  "id": "sd-thune",
+  "name": "John Thune",
+  "state": "SD",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Emerson College/The Hill/KELOLAND South Dakota poll, Oct 19–21, 2022; Pew Research Center national survey, Oct 10–16, 2022",
+    "url": "https://emersoncollegepolling.com/south-dakota-2022-majority-of-voters-support-governor-noem-for-re-election/",
+    "note": "Ranks 1–4 from Emerson's South Dakota most-important-issue question (economy 45%, threats to democracy 15%, abortion access 12%, health care 10%); 'threats to democracy' mapped to elections/voting. Health care, immigration, education, crime and housing were each under 10% with no published figures. Ranks 5–10 are the next issues in Pew's national 'very important' list (https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf); immigration and foreign policy tied at 54%."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Block new IRS enforcement hiring and audits under $400K",
+      "position_source": "https://www.thune.senate.gov/?p=11220",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 146,
+          "date": "2023-06-01",
+          "bill": "H.R.3746",
+          "bill_title": "Fiscal Responsibility Act of 2023",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "The debt-limit deal rescinded about $1.4B of new IRS funding. Vote source: https://southdakotasearchlight.com/2023/06/02/congressional-roundup-sd-delegation-unanimous-in-support-for-debt-limit-deal/"
+    },
+    {
+      "rank": 2,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Keep state voter ID laws; oppose federal control of elections; keep filibuster",
+      "position_source": "https://www.thune.senate.gov/?p=11391",
+      "votes": [],
+      "note": "Democratic federal voting bills got no floor vote; the SAVE America Act (RC 57, 2026) cuts both ways, so it is left unscored as in ar-boozman."
+    },
+    {
+      "rank": 3,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "National ban after 15 weeks; earlier limits left to states",
+      "position_source": "https://southdakotasearchlight.com/2022/11/04/abortion-inflation-farm-policy-explored-in-only-u-s-senate-debate/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 11,
+          "date": "2025-01-22",
+          "bill": "S.6",
+          "bill_title": "Born-Alive Abortion Survivors Protection Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No 15-week ban got a floor vote. S.6 vote source: https://www.usquery.com/vote/1190100011"
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://www.sdpb.org/politics/2022-08-08/rounds-thune-vote-against-boondoggle-inflation-reduction-act",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Education",
+      "testable": true,
+      "position": "Oppose student loan debt forgiveness",
+      "position_source": "https://digital-release.keloland.com/keloland-com-original/john-thune-faces-brian-bengs-tamara-lesnar-in-u-s-senate-re-election-bid/amp/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of the student loan debt relief rule (CRA)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Vote source: https://southdakotasearchlight.com/?p=3838"
+    },
+    {
+      "rank": 6,
+      "issue": "Energy policy",
+      "testable": true,
+      "position": "Open federal lands to oil and gas; restore year-round E15",
+      "position_source": "https://www.thune.senate.gov/?p=11339",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 required onshore and offshore oil and gas lease sales; year-round E15 got no floor vote."
+    },
+    {
+      "rank": 7,
+      "issue": "Violent crime",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://southdakotasearchlight.com/2022/11/04/abortion-inflation-farm-policy-explored-in-only-u-s-senate-debate/",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Gun policy",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://southdakotasearchlight.com/2022/11/04/abortion-inflation-farm-policy-explored-in-only-u-s-senate-debate/",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Keep Title 42 border expulsions in place",
+      "position_source": "https://www.thune.senate.gov/?p=11317",
+      "votes": [],
+      "note": "Title 42 expired in May 2023 with no Senate floor vote on keeping it."
+    },
+    {
+      "rank": 10,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "Keep funding military and humanitarian aid to Ukraine",
+      "position_source": "https://www.thune.senate.gov/?p=11296",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 48,
+          "date": "2024-02-13",
+          "bill": "H.R.815",
+          "bill_title": "National Security Supplemental (Ukraine, Israel, Taiwan aid)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Vote source: https://southdakotasearchlight.com/?p=7245"
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Emerson published only four South Dakota issues, so ranks 5–10 rely on national Pew data.",
+    "No campaign issues page could be fetched and Thune held one debate; positions come from debate coverage, a KELOLAND race profile and 2022 Senate releases.",
+    "Elections left unscored: the SAVE America Act fits his voter-ID stance but is a federal election mandate, matching the ar-boozman call.",
+    "Economy scored only on the debt-limit deal's IRS rescission, a small part of that bill.",
+    "Roll call numbers 146, 135, 211, 372 and 48 come from other researched files; his S.4554 Nay is inferred from the party-line tally, not a member list."
+  ],
+  "researched": "2026-11-04"
+}

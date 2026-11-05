@@ -29,7 +29,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 exempted orphan drugs from Medicare price negotiation, narrowing it."
@@ -60,7 +61,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 included large CBP border-security funding; no floor vote on a farmworker visa path."
@@ -107,7 +109,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 funded CBP drug-interdiction and port inspection scanners; she backed the HALT Fentanyl Act (S.331), which is scheduling, not funding."
@@ -137,7 +140,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 raised LIHTC allocations 12% and cut the bond test to 25%; she opposed the package."

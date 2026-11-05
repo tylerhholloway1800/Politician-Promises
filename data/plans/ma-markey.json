@@ -1,0 +1,58 @@
+{
+  "id": "ma-markey",
+  "name": "Ed Markey",
+  "state": "MA",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "UMass Amherst Poll of Massachusetts registered voters (YouGov), Aug. 5-12, 2026: single most important issue for state leaders to address",
+      "url": "https://www.umass.edu/poll/about/reports/2026-08-massachusetts-public-opinion-poll-0",
+      "note": "Statewide poll that ranks issues; question asks what Gov. Healey and the Legislature should address, not the Senate vote specifically. Order by share: cost of living 39, housing 14, immigration 11, health care 9, taxes 9, transportation and infrastructure 4, climate change 4, homelessness 3, crime 2, education 2 (ties kept in the poll's listed order). Closer polls checked: UMass Lowell (Oct. 7-18, 2026) and Suffolk/Boston Globe (June 2026) had no issue-ranking question in available text."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Cost of living", "rating": "Concrete",
+       "detail": "Raise federal minimum wage to $17 (Raise the Wage Act), indexed to inflation; national paid family and medical leave.",
+       "source": "https://www.progressivemass.com/markey-2026-questionnaire"},
+      {"rank": 2, "issue": "Housing", "rating": "Concrete",
+       "detail": "Pass Green New Deal for Public Housing Act (up to $234B over 10 years, repeal Faircloth Amendment); national just-cause eviction standard.",
+       "source": "https://www.progressivemass.com/markey-2026-questionnaire"},
+      {"rank": 3, "issue": "Immigration", "rating": "Concrete",
+       "detail": "Pass DREAM Act and path to citizenship; abolish ICE; end detention bed quota; vote no on any DHS funding; ban masked agents.",
+       "source": "https://www.progressivemass.com/markey-2026-questionnaire"},
+      {"rank": 4, "issue": "Health care", "rating": "Concrete",
+       "detail": "Pass Medicare for All; cap Medicare Advantage payments at traditional Medicare rates; pass Health Over Wealth Act; repeal Hyde Amendment.",
+       "source": "https://www.progressivemass.com/markey-2026-questionnaire"},
+      {"rank": 5, "issue": "Taxes", "rating": "Concrete",
+       "detail": "2% annual tax on net worth $50M-$1B plus 1% surtax above $1B; close carried interest loophole; make expanded Child Tax Credit permanent.",
+       "source": "https://www.progressivemass.com/markey-2026-questionnaire"},
+      {"rank": 6, "issue": "Transportation and infrastructure", "rating": "Concrete",
+       "detail": "Pass Freedom to Move Act for fare-free public transit nationwide; phase out new gas and diesel vehicle sales by 2035.",
+       "source": "https://www.progressivemass.com/markey-2026-questionnaire"},
+      {"rank": 7, "issue": "Climate change", "rating": "Concrete",
+       "detail": "100% clean energy by 2035; ban new federal coal, oil and gas leases; reverse halt of Massachusetts offshore wind projects.",
+       "source": "https://www.progressivemass.com/markey-2026-questionnaire"},
+      {"rank": 8, "issue": "Homelessness", "rating": "Concrete",
+       "detail": "Pass Housing ACCESS Act to expand supportive housing; bar federal police from arresting unhoused people on federal land absent alternatives.",
+       "source": "https://www.progressivemass.com/markey-2026-questionnaire"},
+      {"rank": 9, "issue": "Crime and public safety", "rating": "Concrete",
+       "detail": "Reinstate assault weapons ban; ban high-capacity magazines; repeal gun industry liability shield (PLCAA); end qualified immunity.",
+       "source": "https://www.progressivemass.com/markey-2026-questionnaire"},
+      {"rank": 10, "issue": "Education", "rating": "Concrete",
+       "detail": "Pass No Cuts to Public Schools Act; fully fund IDEA; universal free school meals; raise TEACH Grant to $8,000; tuition-free public college.",
+       "source": "https://www.progressivemass.com/markey-2026-questionnaire"}
+    ]
+  },
+  "plan_caveats": [
+    "Nearly all positions come from Markey's 2026 Progressive Massachusetts endorsement questionnaire (many items are YES answers to listed proposals); his campaign site issue page, rallies, town halls and the Oct. 13, 2026 Deaton debate stated mostly general goals ('lower costs', 'lower housing costs', Medicare for All, Green New Deal).",
+    "Questionnaire completion date not shown on the page; it is labeled the 2026 Congressional Endorsement Questionnaire for U.S. Senate.",
+    "Offshore wind reversal in Climate comes from WBUR coverage of the Oct. 13, 2026 debate (https://www.wbur.org/news/2026/10/14/senate-markey-deaton-debate-trump-healthcare-energy-massachusetts), not the questionnaire.",
+    "Issue poll asks about priorities for state government, not the Senate race; used because it is the latest 2026 Massachusetts poll found that ranks issues. Homelessness (3%) listed separately from housing as the poll did.",
+    "Past bills he cites as accomplishments (e.g., INTERDICT Act, Fair Share Amendment, E-Rate) are record and not counted; only forward-looking support counted."
+  ],
+  "researched": "2026-11-05"
+}

@@ -57,10 +57,10 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 - [x] in-young Todd Young R-IN
 - [x] ia-grassley Chuck Grassley R-IA
 - [x] ks-moran Jerry Moran R-KS
-- [ ] ky-paul Rand Paul R-KY
-- [ ] la-kennedy John Kennedy R-LA
-- [ ] md-van-hollen Chris Van Hollen D-MD
-- [ ] mo-schmitt Eric Schmitt R-MO
+- [x] ky-paul Rand Paul R-KY
+- [x] la-kennedy John Kennedy R-LA
+- [x] md-van-hollen Chris Van Hollen D-MD
+- [x] mo-schmitt Eric Schmitt R-MO
 - [ ] nv-cortez-masto Catherine Cortez Masto D-NV
 - [ ] ny-schumer Chuck Schumer D-NY
 - [ ] nc-budd Ted Budd R-NC

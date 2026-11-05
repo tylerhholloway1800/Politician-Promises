@@ -1,0 +1,159 @@
+{
+  "id": "ky-paul",
+  "name": "Rand Paul",
+  "state": "KY",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Pew Research Center national survey of registered voters, Oct 10–16, 2022",
+    "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf",
+    "note": "National fallback: no 2022 Kentucky poll ranking issues was found (Jan 2022 Mason-Dixon poll asked only approval and vote choice). Ranked by share calling each issue very important; 'future of democracy' dropped as not vote-testable; immigration and foreign policy tied at 54%, immigration taken for consistency with other files."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Vote against new spending not paid for; balance the budget",
+      "position_source": "https://spectrumnews1.com/ky/louisville/news/2022/10/28/kentucky-senate-race-paul-midterms-republican",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 146,
+          "date": "2023-06-01",
+          "bill": "H.R.3746",
+          "bill_title": "Fiscal Responsibility Act of 2023",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-03-14",
+          "bill": "H.R.1968",
+          "bill_title": "Full-Year Continuing Appropriations Act, 2025",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Campaign filing release also cites his Penny Plan: https://randpaul.com/dr-paul-files-for-re-election/"
+    },
+    {
+      "rank": 2,
+      "issue": "Education",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://ontheissues.org/2022_KY_Senate.htm",
+      "votes": []
+    },
+    {
+      "rank": 3,
+      "issue": "Health care",
+      "testable": false,
+      "position": "Opposes government overreach and Medicare for All; no specific plan",
+      "position_source": "https://spectrumnews1.com/ky/louisville/news/2022/05/12/likely-senate-race-kentucky-ideological-opposites-rand-paul-charles-booker",
+      "votes": [],
+      "note": "Coverage framed this as general philosophy, not a stated health policy."
+    },
+    {
+      "rank": 4,
+      "issue": "Energy",
+      "testable": false,
+      "position": "Opposes the Green New Deal agenda; no specific measure",
+      "position_source": "https://linknky.com/elections/2022/10/28/qa-with-u-s-senate-candidates-rand-paul-and-charles-booker/",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Crime",
+      "testable": false,
+      "position": "Oppose defunding police; more policing",
+      "position_source": "https://www.wbko.com/2022/11/04/us-senate-race-rand-paul",
+      "votes": [],
+      "note": "Direction only; no specific bill or policy named."
+    },
+    {
+      "rank": 6,
+      "issue": "Elections / voting",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://ontheissues.org/2022_KY_Senate.htm",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose federal funding or encouragement of red-flag laws",
+      "position_source": "https://www.wuky.org/local-regional-news/2022-06-22/with-landmark-gun-safety-bill-gaining-traction-paul-vows-amendments-to-fix-constitutional-deficiencies",
+      "votes": [],
+      "note": "No Senate floor vote on red-flag laws this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Leave abortion to states; oppose a national ban",
+      "position_source": "https://spectrumnews1.com/ky/louisville/news/2022/10/28/kentucky-senate-race-paul-midterms-republican",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No national ban got a floor vote; vote against federal abortion-rights bill read as consistent with leaving it to states."
+    },
+    {
+      "rank": 9,
+      "issue": "Supreme Court appointments",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://ontheissues.org/2022_KY_Senate.htm",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Immigration",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://justfacts.votesmart.org/candidate/public-statements/117285/rand-paul/40/immigration",
+      "votes": [],
+      "note": "2022 entries are mostly multi-senator letters (e.g. Title 42) whose signers were not confirmed."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranking uses national Pew polling; no 2022 Kentucky issue-ranking poll was found.",
+    "Paul skipped the only scheduled 2022 debate and ran few issue ads, so 7 of 10 issues have no specific campaign position.",
+    "Foreign policy (tied with immigration at 54%) was left out, though Paul campaigned on ending foreign wars and Ukraine-aid oversight.",
+    "H.R.3746 roll call 146 inferred from a vote-tracker URL; H.R.1968 roll call number not confirmed. Paul's vote on H.R.1968 from Deseret News (lone GOP no)."
+  ],
+  "researched": "2026-11-04"
+}

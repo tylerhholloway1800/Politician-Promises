@@ -1,0 +1,175 @@
+{
+  "id": "md-van-hollen",
+  "name": "Chris Van Hollen",
+  "state": "MD",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Goucher College Poll, Sept 8–12, 2022; Washington Post–UMD Poll, Sept 22–27, 2022; Baltimore Sun/University of Baltimore (OpinionWorks), Oct 20–23, 2022",
+    "url": "https://s3.documentcloud.org/documents/22418307/goucher-college-poll-september-2022.pdf",
+    "note": "Combined: Goucher top-three issue shares (economy/taxes 64, crime 62, schools 60, infrastructure 35, environment 28, housing 26); Post-UMD most important issue (economy 24, democracy 20, crime 14, education 14, abortion 11, taxes 8; https://bsos.umd.edu/featured-content/umd-post-poll-wes-moore-voters-preferred-pick-maryland-governor); Sun/UB motivating issue (inflation 11, Roe 11, crime 6, health care 3; https://www.governing.com/now/hot-button-issues-drive-maryland-voters-to-the-polls). Goucher and Post-UMD questions were asked about the governor's race."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": false,
+      "position": "Raise wages and benefits; lower drug and child care costs",
+      "position_source": "https://fox5dc.com/news/midterm-election-2022-where-dmv-candidates-stand-on-inflation-economy",
+      "votes": [],
+      "note": "Direction only; no specific economic measure named."
+    },
+    {
+      "rank": 2,
+      "issue": "Crime / public safety",
+      "testable": true,
+      "position": "Fund mental health responders for some 911 calls",
+      "position_source": "https://www.thebanner.com/politics-power/national-politics/senate-van-hollen-chaffee-republican-democrat-3FJKAQUPB5HAFJTGG4ZZMB5DKE",
+      "votes": [],
+      "note": "Community-Based Response Act never reached a Senate floor vote this term."
+    },
+    {
+      "rank": 3,
+      "issue": "Education",
+      "testable": true,
+      "position": "Provide universal early education",
+      "position_source": "https://vanhollen.org/van-hollen-files-for-re-election-to-uphold-maryland-values-deliver-continued-results-for-marylanders/",
+      "votes": [],
+      "note": "No Senate floor vote on universal pre-K this term."
+    },
+    {
+      "rank": 4,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Codify Roe v. Wade in federal law",
+      "position_source": "https://www.cbsnews.com/baltimore/news/marylands-chris-van-hollen-seeking-second-us-senate-term/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 72,
+          "date": "2026-03-25",
+          "bill": "S.J.Res.103",
+          "bill_title": "Disapproval of VA reproductive health services rule",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "issue": "Elections / democracy",
+      "testable": true,
+      "position": "Pass the DISCLOSE Act; end the filibuster",
+      "position_source": "https://www.thebanner.com/politics-power/national-politics/senate-van-hollen-chaffee-republican-democrat-3FJKAQUPB5HAFJTGG4ZZMB5DKE",
+      "votes": [],
+      "note": "No floor vote found on the DISCLOSE Act or a filibuster rules change this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Close tax breaks for the wealthy and offshore profits",
+      "position_source": "https://vanhollen.org/van-hollen-files-for-re-election-to-uphold-maryland-values-deliver-continued-results-for-marylanders/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 extended 2017 tax cuts, including for high earners and corporations."
+    },
+    {
+      "rank": 7,
+      "issue": "Infrastructure / transportation",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://businessinsider.in/politics/world/news/democratic-sen-chris-van-hollen-faces-off-against-republican-chris-chaffee-in-marylands-us-senate-election/amp_articleshow/95367722.cms",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "Expand clean energy; make polluters pay cleanup costs",
+      "position_source": "https://vanhollen.org/van-hollen-files-for-re-election-to-uphold-maryland-values-deliver-continued-results-for-marylanders/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut clean-energy tax credits."
+    },
+    {
+      "rank": 9,
+      "issue": "Housing",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://fox5dc.com/news/midterm-election-2022-where-dmv-candidates-stand-on-inflation-economy",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Let Medicare negotiate prescription drug prices",
+      "position_source": "https://vanhollen.org/van-hollen-files-for-re-election-to-uphold-maryland-values-deliver-continued-results-for-marylanders/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 widened the orphan-drug exemption from Medicare negotiation (https://www.biospace.com/policy/trumps-tax-law-restores-orphan-drug-exemptions-cuts-medicaid-threatens-340b-program-and-gives-pbms-a-pass)."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "No single Maryland poll ranked issues for the Senate race; ranking combines three 2022 state polls, two asked about the governor's race.",
+    "Low-profile race with no debates found; several positions come from his Feb 2022 filing release rather than fall campaign coverage.",
+    "Taxes, climate and health care are all rated on the single H.R.1 passage vote.",
+    "Absence of a floor vote on the DISCLOSE Act or filibuster change was not confirmed against senate.gov (blocked)."
+  ],
+  "researched": "2026-11-04"
+}

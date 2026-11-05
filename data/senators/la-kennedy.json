@@ -1,0 +1,147 @@
+{
+  "id": "la-kennedy",
+  "name": "John Kennedy",
+  "state": "LA",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "LSU Reilly Center 2022 Louisiana Survey, Feb 21 – Mar 21, 2022",
+    "url": "https://lsumobileapps.lsu.edu/manship/research/centers-labs/rcmpa/research/la_survey_reports_pdf/2022_louisiana_survey_full_report..pdf",
+    "note": "Single most important problem facing Louisiana; residents, not likely voters; fielded eight months before Election Day. No ranked fall 2022 Louisiana issue poll found. Economy/education tie and 2% ties ordered as listed in the report."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": false,
+      "position": "Blamed federal spending for inflation; no specific plan",
+      "position_source": "https://www.democracyinaction.us/lit/22sen/lasen22r.html",
+      "votes": []
+    },
+    {
+      "rank": 2,
+      "issue": "Education",
+      "testable": true,
+      "position": "Oppose Biden student loan cancellation",
+      "position_source": "https://www.theblaze.com/news/john-kennedy-student-debt-job",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of student loan cancellation",
+          "question": "On the joint resolution",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Campaign K-12 message was parents' rights only (slogan); rated on student loans."
+    },
+    {
+      "rank": 3,
+      "issue": "Crime",
+      "testable": true,
+      "position": "Raise penalties for fentanyl traffickers",
+      "position_source": "https://www.kennedy.senate.gov/public/2022/7/kennedy-receives-senator-of-the-year-award-from-national-narcotic-officers-associations-coalition",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 127,
+          "date": "2025-03-14",
+          "bill": "S.331",
+          "bill_title": "HALT Fentanyl Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Infrastructure",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.kennedy.senate.gov/public/2022/10/kennedy-meets-with-labi-i-am-grateful-for-the-jobs-you-create-for-louisiana",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Government spending / taxes",
+      "testable": false,
+      "position": "Spend less; people should keep most of what they earn",
+      "position_source": "https://www.kennedy.senate.gov/public/2022/10/kennedy-meets-with-labi-i-am-grateful-for-the-jobs-you-create-for-louisiana",
+      "votes": [],
+      "note": "Campaign cited past votes against spending and for 2017 tax cuts, not forward pledges."
+    },
+    {
+      "rank": 6,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Cap insulin prices; lower prescription drug costs",
+      "position_source": "https://www.democracyinaction.us/lit/22sen/lasen22r.html",
+      "votes": [],
+      "note": "No Senate floor roll call on an insulin price cap this term found."
+    },
+    {
+      "rank": 7,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "No new federal gun control laws",
+      "position_source": "https://www.fox8live.com/2022/05/28/gov-edwards-discusses-his-opposition-concealed-carry-bill-kennedy-graves-respond-calls-federal-gun-control",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 171,
+          "date": "2023-06-22",
+          "bill": "H.J.Res.44",
+          "bill_title": "Disapproval of ATF pistol brace rule",
+          "question": "On the joint resolution",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "issue": "Public assistance / social services",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.democracyinaction.us/lit/22sen/lasen22r.html",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Insurance",
+      "testable": true,
+      "position": "Halt FEMA's Risk Rating 2.0 flood insurance pricing",
+      "position_source": "https://www.kennedy.senate.gov/public/2022/2/kennedy-urges-biden-administration-to-stop-fema-plan-that-makes-flood-insurance-unaffordable-for-louisianians",
+      "votes": [],
+      "note": "No floor vote on halting or capping Risk Rating 2.0; NFIP extended in funding bills."
+    },
+    {
+      "rank": 10,
+      "issue": "Flooding / disaster recovery",
+      "testable": false,
+      "position": "Cited past disaster aid secured; no forward pledge",
+      "position_source": "https://www.democracyinaction.us/lit/22sen/lasen22r.html",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranking uses a spring 2022 poll of Louisiana residents on state problems; no fall 2022 voter issue poll found, so national issues (immigration, abortion) are absent.",
+    "Kennedy's 2022 campaign ran mostly on record and slogans; few forward-looking specifics found, so half the issues are not testable.",
+    "Education rated on student loan cancellation, a judgment call; Insurance rated on flood insurance (Risk Rating 2.0) as the federal angle.",
+    "Roll calls 127 (2025, via thelobbynews) and 171 (2023, via usquery) and Kennedy's Yea votes on them come from third-party trackers; 135 confirmed in the Congressional Record."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,172 @@
+{
+  "id": "mo-schmitt",
+  "name": "Eric Schmitt",
+  "state": "MO",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Emerson College/The Hill Missouri poll, Sept 23–27, 2022; Pew Research Center national survey, Oct 10–16, 2022",
+    "url": "https://emersoncollegepolling.com/missouri-2022-republican-eric-schmitt-with-double-digit-lead-over-democrat-trudy-busch-valentine/",
+    "note": "Ranks 1–5 from Emerson's Missouri most-important-issue question (only five issues published). Ranks 6–10 filled from Pew's national 'very important' list (https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf), skipping items already ranked. 'Threats to democracy' mapped to Elections / voting."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Stop spending increases; pass a balanced budget amendment",
+      "position_source": "https://heartlandernews.com/?p=4289",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 114,
+          "date": "2024-03-22",
+          "bill": "H.R.2882",
+          "bill_title": "Further Consolidated Appropriations Act, 2024",
+          "question": "On the motion to concur in the House amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 411,
+          "date": "2025-07-17",
+          "bill": "H.R.4",
+          "bill_title": "Rescissions Act of 2025",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Balanced budget amendment pledge (https://www.semissourian.com/news/state-ag-pledges-to-be-fighter-if-elected-senator-2950422) got no floor vote."
+    },
+    {
+      "rank": 2,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Oppose Democratic bills federalizing election rules",
+      "position_source": "https://foxbusiness.com/politics/missouri-ag-warns-us-fate-ahead-midterms-says-country-two-votes-away-federalized-elections",
+      "votes": [],
+      "note": "No floor vote on Democratic federal election bills this term."
+    },
+    {
+      "rank": 3,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Leave abortion to the states; supported overturning Roe",
+      "position_source": "https://www.semissourian.com/news/state-ag-pledges-to-be-fighter-if-elected-senator-2950422",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": false,
+      "position": "Take on big insurance and drug companies (no specific policy)",
+      "position_source": "https://meetthefreshmen.marathonstrategies.com/?p=278",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Finish the border wall; keep Title 42; Remain in Mexico",
+      "position_source": "https://heartlandernews.com/?p=4289",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded border wall construction."
+    },
+    {
+      "rank": 6,
+      "issue": "Education",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.komu.com/candidate-profiles-missouri-u-s-senate-race/article_592ce684-44ef-11ed-8d59-a7ce0d6bb3fe.html",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "Oppose defunding police; back law enforcement",
+      "position_source": "https://heartlandernews.com/?p=4289",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Energy",
+      "testable": true,
+      "position": "Oppose the Inflation Reduction Act's climate provisions",
+      "position_source": "https://www.kshb.com/news/local-news/senate-hopefuls-eric-schmitt-trudy-busch-valentine-campaign-at-missouri-state-fair",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 repealed or phased out many IRA clean-energy credits."
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": false,
+      "position": "Defend the Second Amendment (no specific policy)",
+      "position_source": "https://meetthefreshmen.marathonstrategies.com/?p=278",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Supreme Court appointments",
+      "testable": false,
+      "position": "Listed Supreme Court justices as a priority, no detail",
+      "position_source": "https://meetthefreshmen.marathonstrategies.com/?p=278",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Missouri poll published only five issues; ranks 6–10 come from national Pew polling.",
+    "Schmitt skipped the debate and candidate questionnaires, so few specific campaign positions exist; five issues are not testable.",
+    "Yea votes on H.R.1 (roll 372) and H.R.4 (roll 411) inferred from party-line tallies (only named Republican defectors voted Nay); not seen on a roll list.",
+    "2026 SAVE America Act votes (a Republican federal election rule) were not counted against his pledge to oppose Democratic federalization bills; his votes on it were not checked."
+  ],
+  "researched": "2026-11-04"
+}

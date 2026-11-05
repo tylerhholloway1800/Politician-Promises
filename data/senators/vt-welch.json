@@ -1,0 +1,184 @@
+{
+  "id": "vt-welch",
+  "name": "Peter Welch",
+  "state": "VT",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "UNH Survey Center / WCAX Vermont poll, July 21–25, 2022, combined with Pew Research Center national survey, Oct 10–16, 2022",
+    "url": "https://www.wcax.com/2022/07/29/inflation-common-concern-vermonters-new-poll",
+    "note": "No ranked Vermont issue poll near Election Day found. Order is the Vermont poll's biggest-national-challenges list first (inflation 52%, climate change, gun violence, abortion, national debt; partisan polarization dropped as untestable), then Pew's national 'very important' list (https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf) to fill: democracy/elections, health care, education, violent crime, immigration (tied with foreign policy at 54%; energy merged into climate)."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Tax oil-company windfall profits; fund child care and housing",
+      "position_source": "https://www.wamc.org/news/2022-06-09/democratic-candidates-for-vermont-u-s-senate-seat-debate",
+      "votes": [],
+      "note": "No Senate floor vote on a windfall profits tax this term."
+    },
+    {
+      "rank": 2,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "Build on Inflation Reduction Act's clean-energy investments",
+      "position_source": "https://www.vermontpublic.org/local-news/2022-10-13/highlights-from-u-s-senate-debate-with-gerald-malloy-and-peter-welch",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 279,
+          "date": "2025-05-22",
+          "bill": "H.J.Res.87",
+          "bill_title": "Disapproval of California Advanced Clean Trucks waiver",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Pass House-approved gun safety bills in the Senate",
+      "position_source": "https://www.wamc.org/news/2022-06-09/democratic-candidates-for-vermont-u-s-senate-seat-debate",
+      "votes": [],
+      "note": "No Senate roll call on background-check or weapons-ban bills this term."
+    },
+    {
+      "rank": 4,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pass federal law restoring Roe nationwide",
+      "position_source": "https://www.necn.com/news/politics/decision-2022-vermont-choosing-next-u-s-senator/2841330",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "issue": "Government spending / national debt",
+      "testable": true,
+      "position": "Pay-as-you-go except emergencies; no Social Security or Medicare cuts",
+      "position_source": "https://wamc.org/news/2022-10-14/u-s-senate-candidates-differences-on-display-during-debate",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 added to deficits through unpaid tax cuts, which he had blamed for the debt."
+    },
+    {
+      "rank": 6,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Pass the Electoral Count Reform Act",
+      "position_source": "https://vtdigger.org/2022/09/09/in-their-first-debate-u-s-senate-candidates-gerald-malloy-and-peter-welch-carve-out-sharp-distinctions/",
+      "votes": [],
+      "note": "Enacted Dec 2022, before the term began; no vote in term."
+    },
+    {
+      "rank": 7,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Keep Medicare drug-price negotiation; lower health care costs",
+      "position_source": "https://vnews.com/2022/09/10/welch-and-malloy-debate-47968559/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "issue": "Education",
+      "testable": false,
+      "position": "No specific position found; backed universal child care",
+      "position_source": "https://www.vermontpublic.org/local-news/2022-10-13/highlights-from-u-s-senate-debate-with-gerald-malloy-and-peter-welch",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://vnews.com/2022/09/10/welch-and-malloy-debate-47968559/",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Expand legal immigration; citizenship path for Dreamers; comprehensive border deal",
+      "position_source": "https://www.breitbart.com/economy/2022/10/04/democrat-senate-candidate-in-vermont-urges-more-legal-immigration/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "date": "2024-02-07",
+          "bill": "H.R.815",
+          "bill_title": "Emergency supplemental with bipartisan border agreement",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "The border deal paired enforcement with added visas; it failed 49-50."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranking combines a July 2022 Vermont poll (no full percentages found) with Pew's October 2022 national poll; no ranked Vermont poll near Election Day was found.",
+    "Immigration position comes from a partisan outlet quoting the Sept 9, 2022 debate; Feb 7, 2024 border-deal roll call number not confirmed (usquery lists the vote).",
+    "Spending rated on H.R.1 as a deficit-financed tax cut; a judgment call."
+  ],
+  "researched": "2026-11-04"
+}

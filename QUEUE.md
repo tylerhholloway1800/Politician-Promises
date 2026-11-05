@@ -71,7 +71,7 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 - [x] sc-scott Tim Scott R-SC
 - [ ] sd-thune John Thune R-SD
 - [ ] ut-lee Mike Lee R-UT
-- [ ] vt-welch Peter Welch D-VT
+- [x] vt-welch Peter Welch D-VT
 - [ ] wa-murray Patty Murray D-WA
 - [ ] wi-johnson Ron Johnson R-WI
 

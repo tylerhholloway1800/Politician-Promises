@@ -1,0 +1,268 @@
+{
+  "id": "nj-booker",
+  "name": "Cory Booker",
+  "state": "NJ",
+  "party": "D",
+  "elected": 2020,
+  "term_start": "2021-01-03",
+  "term_end": "2027-01-03",
+  "issue_poll": {
+    "name": "Stockton University Polling Institute, New Jersey statewide poll, Oct 7–13, 2020",
+    "url": "https://oudev.stockton.edu/hughes-center/polling/documents/2020-1015-full-poll-results.pdf",
+    "note": "Open-ended most-important-issue question. Related codes combined (economy+jobs; race/justice+police reform; taxes general+income; education general+K-12+higher). Skipped 'Donald Trump' and the vague 'constitutional issues' as untestable. Abortion, Supreme Court and education tied at 2.2%."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / jobs",
+      "testable": true,
+      "position": "Raise the federal minimum wage",
+      "position_source": "https://www.pbs.org/newshour/amp/politics/watch-cory-booker-says-biden-harris-can-help-middle-class",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 74,
+          "date": "2021-03-05",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act (Sanders amdt. 972, $15 minimum wage)",
+          "question": "On the motion to waive the Budget Act",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Coronavirus pandemic",
+      "testable": true,
+      "position": "Federal COVID funding for state and local governments",
+      "position_source": "https://insidernj.com/press-release/booker-urges-senate-leadership-prioritize-state-local-funding-coronavirus-emergency-supplemental-spending-package",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Protect the ACA and pre-existing condition coverage",
+      "position_source": "https://newjerseyglobe.com/fr/debate-reveals-chasmic-splits-between-booker-mehta/",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 325,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act (ACA subsidy extension)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (Medicaid and ACA marketplace changes)",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Racial justice / policing",
+      "testable": true,
+      "position": "Pass the Justice in Policing Act; end qualified immunity",
+      "position_source": "https://www.klcc.org/post/cory-booker-wants-end-qualified-immunity-police-officers",
+      "votes": [],
+      "note": "Bipartisan talks collapsed in 2021; no Senate floor vote on policing reform this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Environment / climate change",
+      "testable": true,
+      "position": "100% clean electricity by 2030; carbon neutral by 2045",
+      "position_source": "https://www.democracyinaction.us/2020/booker/bookerpolicy090319climate.html",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 325,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act (clean-energy investments)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (clean-energy credit repeal)",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Expand the Child Tax Credit and EITC; make CTC fully refundable",
+      "position_source": "https://www.reed.senate.gov/download/ctcletter?download=1",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act (CTC/EITC expansion)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "issue": "Crime",
+      "testable": true,
+      "position": "Federal funding for community violence intervention programs",
+      "position_source": "https://www.duckworth.senate.gov/news/press-releases/duckworth-booker-urge-senate-leadership-to-include-resources-for-communities-plagued-by-gun-violence-in-next-covid-19-relief-package",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 242,
+          "date": "2022-06-23",
+          "bill": "S.2938",
+          "bill_title": "Bipartisan Safer Communities Act (community violence intervention funding)",
+          "question": "On the motion to concur in the House amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Keep Roe v. Wade abortion rights in place",
+      "position_source": "https://www.booker.senate.gov/news/press/video-this-is-not-normal-on-first-day-of-senate-judiciary-hearings-on-barrett-nominationbooker-makes-clear-americans-healthcare-hangs-in-the-balance",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 65,
+          "date": "2022-02-28",
+          "bill": "H.R.3755",
+          "bill_title": "Women's Health Protection Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 161,
+          "date": "2022-05-11",
+          "bill": "H.R.8296",
+          "bill_title": "Women's Health Protection Act of 2022",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Supreme Court appointments",
+      "testable": false,
+      "position": "Opposed rushed Barrett confirmation; no stance on Court expansion",
+      "position_source": "https://newjerseyglobe.com/fr/debate-reveals-chasmic-splits-between-booker-mehta/",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Education",
+      "testable": true,
+      "position": "Cancel up to $50,000 in federal student debt per borrower",
+      "position_source": "https://commondreams.org/news/2020/09/17/eye-biden-win-warren-and-schumer-unveil-plan-cancel-50000-federal-student-loans",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of student loan debt relief",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Climate position comes from his presidential platform (Sept 2019, campaign ended Jan 2020); no 2020 Senate-campaign climate statement found and his campaign-site archive was unreachable.",
+    "Several positions come from 2020 Senate statements, letters and a resolution he backed, not campaign materials; the minimum wage position is from his DNC speech backing Biden-Harris.",
+    "Mar 5, 2021 minimum wage roll call (74) derived from the Senate Democrats' daily vote list (1st of 37 votes ending with passage at 110); Booker's votes inferred from published tallies and dissenter lists."
+  ],
+  "researched": "2026-11-04"
+}

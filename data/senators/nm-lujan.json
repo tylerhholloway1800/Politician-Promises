@@ -1,0 +1,261 @@
+{
+  "id": "nm-lujan",
+  "name": "Ben Ray Luján",
+  "state": "NM",
+  "party": "D",
+  "elected": 2020,
+  "term_start": "2021-01-03",
+  "term_end": "2027-01-03",
+  "issue_poll": {
+    "name": "AP VoteCast New Mexico, Nov 2020 (most important issue facing the country); Albuquerque Journal statewide poll, Aug 26–Sep 2, 2020",
+    "url": "https://m.washingtontimes.com/news/2020/nov/3/ap-votecast-new-mexico-voters-sour-on-state-of-nat/",
+    "note": "Ranks 1–5 from AP VoteCast NM (pandemic 39%, economy 29%, climate 7%, health care 7%, racism 6%). Education (12%) and crime (4%) added from the Albuquerque Journal statewide poll (https://www.petedinelli.com/2020/09/23/abq-journal-poll-finds-pandemic-1-concern-of-voters-crime-6-concern-handling-of-pandemic-gives-governor-and-mayor-high-marks-for-now/). Ranks 8–10 are remaining VoteCast answer options whose NM shares were not published."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Coronavirus pandemic",
+      "testable": true,
+      "position": "Pass a new federal COVID relief package; expand testing",
+      "position_source": "https://m.washingtontimes.com/news/2020/oct/2/senate-race-pits-political-scion-against-tv-savvy-/",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act of 2021",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Economy / jobs",
+      "testable": true,
+      "position": "Another round of direct payments; small-business loans and grants",
+      "position_source": "https://insurancenewsnet.com/oarticle/lujan-ronchetti-talk-health-care-climate",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act of 2021",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Climate change",
+      "testable": true,
+      "position": "Rejoin Paris accord; pass legislation cutting emissions",
+      "position_source": "https://insurancenewsnet.com/oarticle/lujan-ronchetti-talk-health-care-climate",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 325,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act of 2022",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut back clean-energy tax credits."
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Protect the ACA; expand Medicaid; lower drug prices",
+      "position_source": "https://www.washingtontimes.com/news/2020/aug/4/democrat-for-us-senate-releases-ad-around-dads-can/",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 325,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act of 2022",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "IRA added Medicare drug-price negotiation; H.R.1 cut Medicaid."
+    },
+    {
+      "rank": 5,
+      "issue": "Racial justice / policing",
+      "testable": true,
+      "position": "Senate should pass the George Floyd Justice in Policing Act",
+      "position_source": "https://www.heinrich.senate.gov/in-the-news/nm-delegation-all-backed-house-police-reform-bill",
+      "votes": [],
+      "note": "Bill never reached a Senate floor vote this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Education",
+      "testable": true,
+      "position": "Federal funding for public schools to reopen safely",
+      "position_source": "https://abcnews4.com/news/nation-world/bitter-us-senate-contest-dwells-on-crime-coronavirus",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act of 2021",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "ARP included K-12 school reopening funds."
+    },
+    {
+      "rank": 7,
+      "issue": "Crime / law enforcement",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://abcnews4.com/news/nation-world/bitter-us-senate-contest-dwells-on-crime-coronavirus",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Path to citizenship for Dreamers; oppose border wall",
+      "position_source": "https://guides.vote/guide/2020-new-mexico-us-senate-candidate-guide/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded border wall construction; no floor vote on a Dreamer path to citizenship."
+    },
+    {
+      "rank": 9,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Keep Roe v. Wade; protect abortion rights",
+      "position_source": "https://abcnews4.com/news/nation-world/bitter-us-senate-contest-dwells-on-crime-coronavirus",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 161,
+          "date": "2022-05-11",
+          "bill": "H.R.8296",
+          "bill_title": "Women's Health Protection Act of 2022",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Missed the Feb 28, 2022 WHPA cloture vote while recovering from a stroke."
+    },
+    {
+      "rank": 10,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "No military action against Iran without congressional approval",
+      "position_source": "https://guides.vote/guide/2020-new-mexico-us-senate-candidate-guide/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-06-27",
+          "bill": "S.J.Res.59",
+          "bill_title": "Iran war powers resolution",
+          "question": "On the motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Failed 47-53; Fetterman the only Democrat opposed (https://rollcall.com/2025/06/27/senate-blocks-war-powers-resolution-in-near-party-line-vote/)."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranks 8–10 (immigration, abortion, foreign policy) ordered without published NM percentages; ranks 6–7 come from a different poll than 1–5.",
+    "ARP (H.R.1319) counted for three issues (pandemic, economy, education); several positions are broad, so votes test direction more than specifics.",
+    "Roll call numbers taken from secondary reporting/recall; Iran war powers roll call number and bill number (S.J.Res.59) unconfirmed."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "nm-lujan",
+  "name": "Ben Ray Luján",
+  "state": "NM",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Albuquerque Journal Poll (Research & Polling Inc.), Aug 21-28, 2026, 516 likely voters; plus Emerson College NM poll Apr 18-19, 2026 and Conservation in the West poll (Colorado College) Jan 2-18, 2026",
+      "url": "https://www.abqjournal.com/news/journal-poll-new-mexicans-say-inflation-cost-of-living-top-concerns-facing-families/3114162",
+      "note": "Ranks 1-4 and 6 from the Journal Poll open-ended 'biggest concern facing your family' question (inflation/cost of living 47%, health care 17%, financial insecurity 16% merged into cost of living, crime 8%, education 7%, immigration 6%); same poll found 82% call crime a serious issue. Ranks 5 and 7 added from Emerson's most-important-issue question among likely primary voters (housing affordability 9%, threats to democracy 7%; https://emersoncollegepolling.com/new-mexico-2026-poll/). Ranks 8-10 from Conservation in the West NM sample share calling each an extremely/very serious problem (inadequate water supplies 66%, wildfires 63%, funding cuts to public lands 58%; https://www.coloradocollege.edu/other/stateoftherockies/conservationinthewest/2026-poll-data/2026-state-of-the-rockies%20deck%20FINAL.pdf). The October 1-9 Journal Poll reported no issue questions. Ranking across polls with different question types is a judgment call."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Cost of living", "rating": "Vague",
+       "detail": "Lower fuel, food, electricity and farm input costs; opposes sweeping tariffs but names no action.",
+       "source": "https://www.krwg.org/krwg-news/2026-05-31/ben-ray-lujan-talks-about-his-campaign-for-u-s-senate"},
+      {"rank": 2, "issue": "Health care", "rating": "Vague",
+       "detail": "Protect access to affordable health care; unnamed home and elder care legislation in drafting.",
+       "source": "https://www.krwg.org/krwg-news/2026-05-31/ben-ray-lujan-talks-about-his-campaign-for-u-s-senate"},
+      {"rank": 3, "issue": "Crime and public safety", "rating": "Vague",
+       "detail": "Strengthen public safety; kids grow up in safe, strong communities.",
+       "source": "https://benraylujan.com/news-lujan-earns-democratic-senate-nomination-vows-to-keep-fighting-for-new-mexico/"},
+      {"rank": 4, "issue": "Education", "rating": "Vague",
+       "detail": "Build a pipeline from colleges and trade schools to jobs; no program or funding named.",
+       "source": "https://www.abqjournal.com/election/us-senate-ben-ray-lujan-d/3128964"},
+      {"rank": 5, "issue": "Housing affordability", "rating": "None",
+       "detail": "",
+       "source": "https://www.abqjournal.com/election/us-senate-ben-ray-lujan-d/3128964"},
+      {"rank": 6, "issue": "Immigration", "rating": "None",
+       "detail": "",
+       "source": "https://www.abqjournal.com/election/us-senate-ben-ray-lujan-d/3128964"},
+      {"rank": 7, "issue": "Elections and voting rights", "rating": "Concrete",
+       "detail": "Vote against the SAVE Act and the latest Republican voter ID / proof-of-citizenship bill.",
+       "source": "https://www.abqjournal.com/election/us-senate-ben-ray-lujan-d/3128964"},
+      {"rank": 8, "issue": "Water supply", "rating": "Vague",
+       "detail": "Protecting land, air and water is at the top of his list; no measures named.",
+       "source": "https://www.krwg.org/krwg-news/2026-05-31/ben-ray-lujan-talks-about-his-campaign-for-u-s-senate"},
+      {"rank": 9, "issue": "Wildfire", "rating": "None",
+       "detail": "",
+       "source": "https://www.abqjournal.com/news/us-sen-ben-ray-lujan-faces-long-shot-challenge-from-republican-larry-marker-in-reelection-bid/3137106"},
+      {"rank": 10, "issue": "Public lands", "rating": "Partial",
+       "detail": "Oppose broad sales of federal public lands in New Mexico; oppose new limits on public access.",
+       "source": "https://www.abqjournal.com/election/us-senate-ben-ray-lujan-d/3128964"}
+    ]
+  },
+  "plan_caveats": [
+    "Source NM's Sept 11, 2026 candidate questionnaire (likely the most detailed 2026 source), the campaign Priorities page (benraylujan.com/priorities), and several Albuquerque Journal articles could not be fetched; the three None ratings and several Vague ratings could change if those pages hold specifics.",
+    "Luján did not complete Ballotpedia's 2026 survey; the Oct 22 KRWG/PBS forum had no transcript available.",
+    "Official Senate office actions in 2026 (e.g., pledged no votes on DHS/ICE funding in January, ACA tax credit push, Hermits Peak wildfire funding) were treated as in-office record, not campaign promises, and not counted.",
+    "Elections rated Concrete because opposing named bills (SAVE Act, GOP voter ID bill) is checkable by votes; it is opposition rather than a proposal. His call to 'modernize' the filibuster was too vague to record.",
+    "Public lands rated Partial: opposition to 'broad' sales is a clear direction but qualified, with no named bill.",
+    "Issue ranking merges three polls with different question types; data centers (strong opposition in the Aug Journal Poll) and gas prices were considered but lacked a comparable salience measure. AI regulation and a congressional stock-trading ban were stated positions but not among the top 10 issues."
+  ],
+  "researched": "2026-11-05"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "or-merkley",
+  "name": "Jeff Merkley",
+  "state": "OR",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "OPB Fall 2026 Election Survey (DHM Research), Sept 17-27, 2026, 915 likely voters (1,000 registered)",
+      "url": "https://www.opb.org/pdf/OPB%20Fall%202026%20Election%20Survey--Toplines%20(Oregon%20Abridged)--September%202026_1790795298061.pdf",
+      "note": "Ranked by the open-ended 'most important problem facing Oregon' question, likely voters: cost of living 18%, high taxes 16%, homelessness 13%, housing affordability 10%, economy/jobs 8%, education 7%, government spending 7%, addiction/mental health 5%, environment/climate/wildfires 5%. Ties broken by the registered-voter figures. Excluded as not testable by a vote: poor leadership (11%), Democrats/one-party rule (9%), and Trump/federal government/ICE (5%, mainly about a person/party). Rank 10 is health care (4% open-ended; 67% of likely voters called it very important in the same poll's closed question). Question asks about Oregon's problems; state and national issues ranked together."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Cost of living", "rating": "Vague",
+       "detail": "Lower family costs; take on corporate monopolies and billionaire interests.",
+       "source": "https://katu.com/news/know-your-candidates/jeff-merkley-us-senate-democrat"},
+      {"rank": 2, "issue": "Taxes", "rating": "Concrete",
+       "detail": "Repeal Republican-passed tax breaks that mainly benefit the wealthy; make billionaires and corporations pay more.",
+       "source": "https://www.opb.org/article/2026/10/14/us-sen-jeff-merkley-was-headed-for-retirement-president-trumps-actions-changed-his-mind/"},
+      {"rank": 3, "issue": "Homelessness", "rating": "None",
+       "detail": "",
+       "source": "https://katu.com/news/know-your-candidates/jeff-merkley-us-senate-democrat"},
+      {"rank": 4, "issue": "Housing costs", "rating": "Partial",
+       "detail": "Keep the 2026 law barring hedge funds from buying more single-family homes (already law).",
+       "source": "https://katu.com/news/know-your-candidates/jeff-merkley-us-senate-democrat"},
+      {"rank": 5, "issue": "Economy and jobs", "rating": "Partial",
+       "detail": "Data centers, if built, use union labor; federal AI rules on oversight and transparency.",
+       "source": "https://katu.com/news/know-your-candidates/jeff-merkley-us-senate-democrat"},
+      {"rank": 6, "issue": "Education", "rating": "Vague",
+       "detail": "Invest more in education and infrastructure instead of foreign wars and bases.",
+       "source": "https://www.opb.org/article/2026/10/14/us-sen-jeff-merkley-was-headed-for-retirement-president-trumps-actions-changed-his-mind/"},
+      {"rank": 7, "issue": "Government spending and debt", "rating": "Partial",
+       "detail": "Use Budget Committee role to reduce national debt; cut wasteful defense spending.",
+       "source": "https://www.opb.org/article/2026/10/14/us-sen-jeff-merkley-was-headed-for-retirement-president-trumps-actions-changed-his-mind/"},
+      {"rank": 8, "issue": "Addiction and mental health", "rating": "None",
+       "detail": "",
+       "source": "https://ktvz.com/?p=1617056"},
+      {"rank": 9, "issue": "Environment, climate and wildfire", "rating": "Partial",
+       "detail": "Require data centers to run on renewable electricity with conservation measures; oppose clean-energy rollbacks.",
+       "source": "https://katu.com/news/know-your-candidates/jeff-merkley-us-senate-democrat"},
+      {"rank": 10, "issue": "Health care", "rating": "Concrete",
+       "detail": "Pass his bills removing hedge funds/private equity from health care; U.S. drug prices equal to other developed nations.",
+       "source": "https://katu.com/news/know-your-candidates/jeff-merkley-us-senate-democrat"}
+    ]
+  },
+  "plan_caveats": [
+    "Merkley ran a thin, democracy-focused campaign (anti-Trump, filibuster, dark money); no 2026 debate, Ballotpedia survey, or detailed plan release was found. Most positions come from one KATU interview (Oct 23, 2026) and one OPB profile (Oct 14, 2026).",
+    "Campaign issues page (jeffmerkley.com/issues, 'Our Fight') could not be fetched; two campaign blog posts (Dec 2025, Feb 2026) were read and contained no specifics.",
+    "Taxes rated Concrete as a repeal, but the law is not named (likely 2017/2025 GOP tax law provisions for high earners and corporations); grade on votes to repeal those breaks.",
+    "Health care bill identified by researcher: KATU interview only says 'bills to get the hedge funds out of the healthcare system'; the 2026 bill he backed is the Take Back Our Hospitals Act (no Medicare payments to private-equity-owned hospitals/nursing homes, https://www.merkley.senate.gov/?p=24244).",
+    "Housing rated Partial because the hedge-fund home-buying ban he cites already passed in 2026; no new housing commitment found.",
+    "Jobs and climate details come from his answer on federal data-center rules; he also said communities should decide on data centers, so these are approaches, not checkable mandates.",
+    "Ending the Iran war ('need a majority that will end it') is a clear 2026 commitment but does not map to a top-10 issue; he links the war to the national debt (spending, rank 7) without making it the stated fix.",
+    "Clean-energy rollback opposition is from his July 2025 campaign launch, not a 2026 statement.",
+    "Senate-office town halls from 2023-2024 found in searches were excluded as past record."
+  ],
+  "researched": "2026-11-05"
+}

@@ -1,0 +1,161 @@
+{
+  "id": "wa-cantwell",
+  "name": "Maria Cantwell",
+  "state": "WA",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "WA Poll (SurveyUSA for KING 5 / Seattle Times / UW CIP), Oct 9–14, 2024; plus Strategies 360 Pulse of Washington, Oct 11–16, 2024",
+    "url": "https://king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d",
+    "note": "Ranks 1–8 from the WA Poll's most-important-issue question (cost of living 27%, democracy 16%, border 12%, abortion 12%, climate 9%, homelessness 6%, crime 5%, guns 5%). Ranks 9–10 are the next issues from the Strategies 360 top-two-issues question that the WA Poll did not list (housing costs 23%, economy/jobs 15%): https://www.strategies360.com/wp-content/uploads/2024/10/2024-Pulse-of-Washington-S360-Polling-Results-Deck-FINAL.pdf"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Cost of living",
+      "testable": true,
+      "position": "Extend IRA prescription drug savings beyond Medicare",
+      "position_source": "https://spokesman.com/stories/2024/oct/08/senator-cantwell-opponent-garcia-talk-opioid-epide",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 exempted orphan drugs from Medicare price negotiation, narrowing it."
+    },
+    {
+      "rank": 2,
+      "issue": "Elections / democracy",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.branch.vote/races/2024-washington-general-election-wa-state-us-senator-wa-state/candidates/maria-cantwell",
+      "votes": [],
+      "note": "Her voting-rights statements found date from 2021–22, not the 2024 campaign."
+    },
+    {
+      "rank": 3,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "More border security funding; legal path for seasonal farmworkers",
+      "position_source": "https://opb.org/article/2024/10/16/cantwell-garcia-washington-us-senate-debate",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 included large CBP border-security funding; no floor vote on a farmworker visa path."
+    },
+    {
+      "rank": 4,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pass a federal law restoring Roe v. Wade protections",
+      "position_source": "https://www.axios.com/local/seattle/2024/10/22/washington-senate-cantwell-garcia-election",
+      "votes": [],
+      "note": "No Senate floor vote on codifying Roe found this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Environment / climate",
+      "testable": false,
+      "position": "Build infrastructure for a clean-energy transition (no specific policy)",
+      "position_source": "https://spokesman.com/stories/2024/oct/08/senator-cantwell-opponent-garcia-talk-opioid-epide",
+      "votes": []
+    },
+    {
+      "rank": 6,
+      "issue": "Homelessness",
+      "testable": false,
+      "position": "Build more housing supply (direction only)",
+      "position_source": "https://www.axios.com/local/seattle/2024/10/22/washington-senate-cantwell-garcia-election",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Crime / fentanyl",
+      "testable": true,
+      "position": "More money to intercept fentanyl at the Mexican border",
+      "position_source": "https://www.cascadepbs.org/politics/2024/09/garcia-challenges-seasoned-incumbent-cantwell-us-senate-seat",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded CBP drug-interdiction and port inspection scanners; she backed the HALT Fentanyl Act (S.331), which is scheduling, not funding."
+    },
+    {
+      "rank": 8,
+      "issue": "Gun regulation",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.cascadepbs.org/politics/2024/09/garcia-challenges-seasoned-incumbent-cantwell-us-senate-seat",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Housing costs",
+      "testable": true,
+      "position": "Expand the low-income housing tax credit",
+      "position_source": "https://www.cascadepbs.org/politics/2024/09/garcia-challenges-seasoned-incumbent-cantwell-us-senate-seat",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 raised LIHTC allocations 12% and cut the bond test to 25%; she opposed the package."
+    },
+    {
+      "rank": 10,
+      "issue": "Economy / jobs",
+      "testable": false,
+      "position": "Bring manufacturing jobs back to the U.S. (direction only)",
+      "position_source": "https://opb.org/article/2024/10/16/cantwell-garcia-washington-us-senate-debate",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "H.R.1 decides four issues; her Nay is scored against border, fentanyl and LIHTC funding it contained, as with Hassan's tax rating.",
+    "WA Poll field dates (Oct 9–14) inferred from same-poll coverage; the KING 5 issue article does not print them.",
+    "She voted Yea on the ROAD to Housing Act (H.R.6644, roll call 182, 2026-06-22), not scored because sources show no LIHTC provisions in it."
+  ],
+  "researched": "2026-11-04"
+}

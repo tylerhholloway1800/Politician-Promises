@@ -1,0 +1,210 @@
+{
+  "id": "wv-justice",
+  "name": "Jim Justice",
+  "state": "WV",
+  "party": "R",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Emerson College West Virginia poll, March 2024 (most important issue facing WV) + MetroNews West Virginia Poll, Aug 21–27, 2024 (most important national problem); Gallup national, Sept 16–28, 2024",
+    "url": "https://docs.google.com/spreadsheets/d/1CA1l06tvADK-2BaU2k-CwRG12IKG1YuH/edit",
+    "note": "Ranks 1–7 come from the two WV polls: Emerson's full list, with immigration and crime moved up per MetroNews (https://wvchamber.com/west-virginia-poll-economy-is-most-important-national-factor-and-respondents-say-its-off-course/). 'Threats to democracy' left out as untestable. Ranks 8–10 filled from Gallup national 'extremely important' shares (https://news.gallup.com/poll/651719/economy-important-issue-2024-presidential-vote.aspx). No full-ranking WV poll near Election Day was found."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Clear crypto regulatory framework; oppose a central bank digital currency",
+      "position_source": "https://www.ballotready.org/people/jim-justice-c8ac1c41-85cb-4be8-b263-0de3b8d949a3",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 318,
+          "date": "2025-06-17",
+          "bill": "S.1582",
+          "bill_title": "GENIUS Act (stablecoin regulation)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "His campaign pledge to cut spending and the debt was a direction only, so it is not scored."
+    },
+    {
+      "rank": 2,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Build the border wall; return to Trump-era border policies",
+      "position_source": "https://www.fox4news.com/news/west-virginias-senate-race-jim-justice-glenn-elliott",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 7,
+          "date": "2025-01-20",
+          "bill": "S.5",
+          "bill_title": "Laken Riley Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (border wall funding)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Education",
+      "testable": false,
+      "position": "Restore local control; reduce federal education bureaucracy",
+      "position_source": "https://www.ballotready.org/people/jim-justice-c8ac1c41-85cb-4be8-b263-0de3b8d949a3",
+      "votes": []
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Protect coverage for people with pre-existing conditions",
+      "position_source": "https://www.ballotready.org/people/jim-justice-c8ac1c41-85cb-4be8-b263-0de3b8d949a3",
+      "votes": [],
+      "note": "No floor vote directly tested pre-existing condition protections this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Energy",
+      "testable": true,
+      "position": "Expand coal, natural gas and oil production",
+      "position_source": "https://www.fox4news.com/news/west-virginias-senate-race-jim-justice-glenn-elliott",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (coal, oil and gas leasing)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Crime / drugs",
+      "testable": true,
+      "position": "Crack down on drug trafficking and stop drugs at the border",
+      "position_source": "https://www.ballotready.org/people/jim-justice-c8ac1c41-85cb-4be8-b263-0de3b8d949a3",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 127,
+          "date": "2025-03-14",
+          "bill": "S.331",
+          "bill_title": "HALT Fentanyl Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Leave abortion to states; support federal late-term limits",
+      "position_source": "https://www.ballotready.org/people/jim-justice-c8ac1c41-85cb-4be8-b263-0de3b8d949a3",
+      "votes": [],
+      "note": "No floor vote on a late-term limit; he voted Yea on Born-Alive cloture (S.6, roll call 11), which is a different policy."
+    },
+    {
+      "rank": 8,
+      "issue": "National security",
+      "testable": true,
+      "position": "Fund military readiness and equipment; protect Israel",
+      "position_source": "https://www.ballotready.org/people/jim-justice-c8ac1c41-85cb-4be8-b263-0de3b8d949a3",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 570,
+          "date": "2025-10-09",
+          "bill": "S.2296",
+          "bill_title": "National Defense Authorization Act for FY2026",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Judicial nominations",
+      "testable": true,
+      "position": "Confirm conservative federal judges",
+      "position_source": "https://meetthefreshmen.marathonstrategies.com/meet-the-freshmen/813/jim-justice/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 448,
+          "date": "2025-07-29",
+          "bill": "Nomination",
+          "bill_title": "Emil Bove, U.S. Circuit Judge (3rd Cir.)",
+          "question": "On the nomination",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose gun control and confiscation",
+      "position_source": "https://www.ballotready.org/people/jim-justice-c8ac1c41-85cb-4be8-b263-0de3b8d949a3",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (ends $200 NFA tax on suppressors)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranking combines two 2024 WV polls with Gallup national data. No single WV poll near Election Day ranked all issues.",
+    "Positions come from his campaign issue pages (jimjusticewv.com), which were read through BallotReady and Marathon Strategies summaries because the site itself could not be reached.",
+    "HALT Fentanyl Act Yea is inferred: he cosponsored the bill and praised its 84-16 passage, but no source seen listed his individual vote.",
+    "The judicial item is scored on a confirmation vote, not a bill, so the 'bill' field reads 'Nomination'."
+  ],
+  "researched": "2026-11-04"
+}

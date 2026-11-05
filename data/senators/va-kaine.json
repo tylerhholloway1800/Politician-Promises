@@ -1,0 +1,225 @@
+{
+  "id": "va-kaine",
+  "name": "Tim Kaine",
+  "state": "VA",
+  "party": "D",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Wason Center (Christopher Newport University) Virginia Survey, Sept 28 – Oct 4, 2024",
+    "url": "https://potomaclocal.com/wp-content/uploads/2024/10/WasonOct7Survey24.pdf",
+    "note": "Top-of-mind issue question, 800 likely voters. Foreign policy, climate and guns tied at 4% and crime and education tied at 1%; kept in poll order, so education (11th) dropped."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Restore expanded child tax credit permanently; $17 minimum wage",
+      "position_source": "https://timkaine.com/issues/creating-jobs-and-strengthening-our-economy/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 184,
+          "date": "2025-04-04",
+          "bill": "H.Con.Res.14",
+          "bill_title": "FY2025 budget resolution (Sanders $17 minimum wage amendment)",
+          "question": "On the amendment (S.Amdt.2126)",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 354,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (Bennet motion to commit, child tax credit)",
+          "question": "On the motion to commit with instructions",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Roll call 184 Yea per Congressional Record; roll call 354 Yea per watch.vote."
+    },
+    {
+      "rank": 2,
+      "issue": "Democracy / elections",
+      "testable": true,
+      "position": "Pass the Freedom to Vote Act",
+      "position_source": "https://timkaine.com/issues/defending-democracy-and-the-right-to-vote/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Freedom to Vote Act got no floor vote; rated on opposing the SAVE America Act's new voting requirements."
+    },
+    {
+      "rank": 3,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pass the 2024 bipartisan border bill; permanent fix for Dreamers",
+      "position_source": "https://timkaine.com/issues/securing-the-border/",
+      "votes": [],
+      "note": "Neither the bipartisan border bill nor a Dreamer pathway got a floor vote this term."
+    },
+    {
+      "rank": 4,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pass the Reproductive Freedom for All Act; oppose abortion bans",
+      "position_source": "https://www.aol.com/kaine-v-cao-look-where-150532630.html",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 72,
+          "date": "2026-03-25",
+          "bill": "S.J.Res.103",
+          "bill_title": "Disapproval of VA rule ending abortion services",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Reproductive Freedom for All Act got no floor vote this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Lower ACA premiums; extend $35 insulin cap to everyone",
+      "position_source": "https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-making-healthcare-more-affordable/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Insulin cap expansion got no floor vote."
+    },
+    {
+      "rank": 6,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "Defensive aid to Israel; no offensive weapons to the region",
+      "position_source": "https://www.fox5dc.com/news/sen-tim-kaine-discusses-middle-east-conflict-re-election-bid-bipartisanship",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 165,
+          "date": "2025-04-03",
+          "bill": "S.J.Res.33",
+          "bill_title": "Disapproval of bomb sale to Israel",
+          "question": "Motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Kaine listed among Yea votes on the April 2025 Sanders resolution (JTA)."
+    },
+    {
+      "rank": 7,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "Keep the Inflation Reduction Act's clean-energy investments",
+      "position_source": "https://virginiamercury.com/2024/10/07/kaine-faces-off-against-gop-challenger-cao-in-high-stakes-u-s-senate-race/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 366,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "Shaheen amendment to keep clean energy credits",
+          "question": "On the amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Universal background checks; ban assault weapons and high-capacity magazines",
+      "position_source": "https://virginiamercury.com/2024/10/07/kaine-faces-off-against-gop-challenger-cao-in-high-stakes-u-s-senate-race/",
+      "votes": [],
+      "note": "No Senate floor vote on these measures found this term."
+    },
+    {
+      "rank": 9,
+      "issue": "Racial inequality",
+      "testable": false,
+      "position": "Address inequality through education and HBCU support; no specific bill",
+      "position_source": "https://virginiamercury.com/2024/10/02/kaine-and-cao-clash-on-immigration-the-economy-in-heated-debate-at-norfolk-state-university/",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "Cited past public-safety laws; no specific forward position found",
+      "position_source": "https://timkaine.com/issues/prioritizing-public-safety/",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Foreign policy: JTA lists Kaine as Yea on the April 3, 2025 Sanders resolution (82-15) without naming which of roll calls 165/166; 165 recorded, needs senate.gov check.",
+    "Immigration rated No vote held; a stricter reading would test his support for more border officers against H.R.1 (Nay), as done for some other Democrats.",
+    "Economy: H.R.1 raised the child tax credit to $2,200 but did not restore the 2021 expanded credit, so it was not scored.",
+    "Votes confirmed on watch.vote (57, 72, 73, 354, 366) and the Congressional Record (184, 644); H.R.1 Nay (372) from the party-line tally; senate.gov not reachable."
+  ],
+  "researched": "2026-11-04"
+}

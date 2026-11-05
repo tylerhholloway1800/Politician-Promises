@@ -1,0 +1,150 @@
+{
+  "id": "ut-curtis",
+  "name": "John Curtis",
+  "state": "UT",
+  "party": "R",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Deseret News/Hinckley Institute poll (Dan Jones & Associates), Sept 3–21, 2024",
+    "url": "https://www.ksl.com/article/50491667/what-utah-voters-see-as-the-top-issue-for-choosing-a-senator-congressperson",
+    "note": "Most important issue when choosing a senator; health care, education and environment tied at 9% ('other' dropped). Poll listed only nine testable issues, so Housing (No. 1 in Utah Foundation's 2024 Utah Priorities Project, Feb–Mar 2024) added as rank 10."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / taxes",
+      "testable": true,
+      "position": "Extend the 2017 tax cuts; no tax increases",
+      "position_source": "https://www.ksl.com/article/51009648/utah-gop-senate-candidates-want-trump-tax-cuts-extended",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Role of the federal government / public lands",
+      "testable": true,
+      "position": "Shift federal land to state control; limit monument designations",
+      "position_source": "https://www.sltrib.com/news/politics/2024/10/10/utah-candidates-debate-why-they",
+      "votes": [],
+      "note": "No floor vote on land transfer or monument limits; Grand Staircase CRA expired without a vote."
+    },
+    {
+      "rank": 3,
+      "issue": "Health care",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://dailyutahchronicle.com/2024/11/04/comparing-candidates-for-utahs-seat-in-the-u-s-senate",
+      "votes": []
+    },
+    {
+      "rank": 4,
+      "issue": "Education",
+      "testable": true,
+      "position": "Tie federal college funding to graduates' outcomes",
+      "position_source": "https://dailyutahchronicle.com/2024/11/04/comparing-candidates-for-utahs-seat-in-the-u-s-senate",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut loan access for programs whose graduates earn too little."
+    },
+    {
+      "rank": 5,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "Tariff on Chinese imports based on pollution",
+      "position_source": "https://www.standard.net/opinion/guest-commentary/2024/apr/24/guest-opinion-a-vision-for-utah-why-im-running-for-the-us-senate",
+      "votes": [],
+      "note": "No floor vote on a pollution-based tariff this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pro-life; leave abortion law to the states",
+      "position_source": "https://www.ksl.com/article/51152681",
+      "votes": [],
+      "note": "No floor vote on a federal abortion ban or protection this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Gun regulation",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://dailyutahchronicle.com/2024/11/04/comparing-candidates-for-utahs-seat-in-the-u-s-senate",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pass H.R.2; fund border; reimburse states aiding border",
+      "position_source": "https://www.deseret.com/utah/2024/06/10/john-curtis-debates-trent-staggs-brad-wilson-for-mitt-romneys-utah-senate-seat",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded border enforcement and a $13.5B state border reimbursement fund."
+    },
+    {
+      "rank": 9,
+      "issue": "Supreme Court",
+      "testable": true,
+      "position": "Oppose term limits for justices",
+      "position_source": "https://www.ksl.com/article/51152681",
+      "votes": [],
+      "note": "No floor vote on Supreme Court term limits this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Housing",
+      "testable": true,
+      "position": "Sell some BLM land to localities for housing (HOUSES Act)",
+      "position_source": "https://dailyutahchronicle.com/2024/11/04/comparing-candidates-for-utahs-seat-in-the-u-s-senate",
+      "votes": [],
+      "note": "Land-sale provision dropped from H.R.1 before the vote; no standalone floor vote."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Rank 10 (Housing) comes from a different Utah poll because the closest poll listed only nine testable issues.",
+    "S.6 Born-Alive cloture (Jan 22, 2025; Curtis Yea) not counted for Abortion: it covers care after birth, not state vs federal abortion law.",
+    "Campaign site (johncurtis.org) could not be fetched; positions come from news coverage, debate reports and his own op-ed.",
+    "Three of three recorded votes are the single H.R.1 package, counted once per issue it touched."
+  ],
+  "researched": "2026-11-04"
+}

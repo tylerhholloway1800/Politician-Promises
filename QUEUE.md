@@ -34,11 +34,11 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 - [x] ri-whitehouse Sheldon Whitehouse D-RI
 - [x] tn-blackburn Marsha Blackburn R-TN
 - [x] tx-cruz Ted Cruz R-TX
-- [ ] ut-curtis John Curtis R-UT
+- [x] ut-curtis John Curtis R-UT
 - [x] vt-sanders Bernie Sanders I-VT
-- [ ] va-kaine Tim Kaine D-VA
-- [ ] wa-cantwell Maria Cantwell D-WA
-- [ ] wv-justice Jim Justice R-WV
+- [x] va-kaine Tim Kaine D-VA
+- [x] wa-cantwell Maria Cantwell D-WA
+- [x] wv-justice Jim Justice R-WV
 - [ ] wi-baldwin Tammy Baldwin D-WI
 - [ ] wy-barrasso John Barrasso R-WY
 
@@ -77,3 +77,6 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 
 ## Later: 2026 class (35 seats incl. FL and OH specials)
 Lock winners' plans once results are final; re-elected incumbents also get a delivery score for the term that just ended.
+
+## Consistency pass (after all senators are in)
+- H.R.1 (RC 372) is applied unevenly: some files count a Nay as Contradicting a border-funding / LIHTC / child-tax-credit position, others leave the issue as No vote held (Kaine, Murphy, Blunt Rochester, Hassan-immigration). Pick one rule and apply it to every file.

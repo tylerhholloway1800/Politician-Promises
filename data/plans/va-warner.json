@@ -1,0 +1,61 @@
+{
+  "id": "va-warner",
+  "name": "Mark Warner",
+  "state": "VA",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "The Virginia Project / The Public Sentiment Institute statewide poll of Virginia likely voters, May 1-5, 2026 (voters ranked 10 issue areas; ordered by average rank)",
+      "url": "https://tpsiofficial.substack.com/p/the-virginia-project-the-public-sentiment",
+      "note": "Only 2026 Virginia poll found that ranks a full list of issues. Order by average rank: economy/jobs/cost of living 4.19, health care/Social Security/Medicare 4.71, crime/public safety 5.16, foreign policy/national security 5.54, immigration 5.58, education/housing/family 5.59, civil rights/personal freedoms/social issues 5.89, political corruption/money in politics 6.06, energy/climate/environment 6.09, guns 6.18. Sponsor is described as Republican-aligned; online (Pollfish) sample. Cross-checked against the VCU Wilder Summer 2026 Commonwealth Poll (June 22-July 6, 2026; https://news.vcu.edu/article/voters-oppose-sales-tax-exemption-for-data-centers-new-commonwealth-poll-finds), which published only its top five (cost of living 30%, political extremism/threats to democracy 12%, housing affordability 11%, government spending and taxes 8%, K-12 education 7%) and so could not supply a top 10. No fall 2026 Virginia issue-ranking poll was found."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Economy and cost of living", "rating": "Concrete",
+       "detail": "End the administration's tariff policies; require AI companies to help pay for retraining displaced workers.",
+       "source": "https://www.wtvr.com/news/local-news/mark-warner-meet-the-candidate-oct-12-2026"},
+      {"rank": 2, "issue": "Health care, Social Security and Medicare", "rating": "Concrete",
+       "detail": "Pass Health CARE Act of 2026: permanent enhanced ACA tax credits, public option, reverse H.R. 1 Medicaid cuts, expand Medicare drug negotiation, Medicare hearing aids; move toward universal coverage.",
+       "source": "https://rollcall.com/2026/10/08/warner-pitches-health-care-expansion-as-he-preps-for-swan-song/"},
+      {"rank": 3, "issue": "Crime and public safety", "rating": "None",
+       "detail": "",
+       "source": "https://www.markwarnerva.com/Plan/"},
+      {"rank": 4, "issue": "Foreign policy and national security", "rating": "Concrete",
+       "detail": "End the U.S. war with Iran; give Congress a stronger role in authorizing military action.",
+       "source": "https://www.wtvr.com/news/local-news/mark-warner-meet-the-candidate-oct-12-2026"},
+      {"rank": 5, "issue": "Immigration", "rating": "Partial",
+       "detail": "Reform ICE operations and add guardrails on ICE, including body cameras for agents.",
+       "source": "https://www.whro.org/2026-07-20/warner-talks-housing-healthcare-ai-with-valley-residents"},
+      {"rank": 6, "issue": "Education, housing and family", "rating": "Partial",
+       "detail": "Expand housing supply via faster permitting, rehab of existing buildings, easier first mortgages for first-time buyers; address child care worker shortage.",
+       "source": "https://www.markwarnerva.com/Plan/"},
+      {"rank": 7, "issue": "Civil rights and personal freedoms", "rating": "Partial",
+       "detail": "Oppose federal restrictions on mail voting; support abortion access, marriage equality and voting-rights restoration.",
+       "source": "https://www.markwarnerva.com/Plan/"},
+      {"rank": 8, "issue": "Political corruption and money in politics", "rating": "None",
+       "detail": "",
+       "source": "https://www.markwarnerva.com/Plan/"},
+      {"rank": 9, "issue": "Energy and environment", "rating": "Concrete",
+       "detail": "Federal data center standard: self-supplied clean power, no local water use, community setbacks; deny bonus depreciation to noncompliant data centers.",
+       "source": "https://www.wtvr.com/news/local-news/mark-warner-meet-the-candidate-oct-12-2026"},
+      {"rank": 10, "issue": "Gun policy", "rating": "Concrete",
+       "detail": "Ban assault weapons; expand background checks.",
+       "source": "https://www.markwarnerva.com/Plan/"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue ranking comes from a single May 2026 Republican-aligned online poll (TPSI/Virginia Project), the only 2026 Virginia poll found with a full ranked list; the more rigorous VCU Wilder summer 2026 poll published only its top five (it ranks housing and threats to democracy higher). No fall 2026 Virginia issue-ranking poll found.",
+    "TPSI issue categories are bundled (e.g. 'Education, Housing & Family'; 'Civil Rights, Personal Freedoms & Social Issues'); names kept close to the poll's bundles.",
+    "Economy rated Concrete on ending the tariff policies (checkable via votes to terminate tariffs), matching how other locked plans treated tariff-ending pledges; his 'lower costs' framing alone would be Vague.",
+    "Foreign policy rated Concrete on ending the Iran war, matching other locked plans; the war-powers point has no named bill.",
+    "Health care: the Health CARE Act was introduced in the Senate (Sept. 25, 2026, per InsuranceNewsNet) but is counted because he pitched it as his campaign health plan in October 2026 (Roll Call) and his campaign site pledges extending ACA tax credits.",
+    "Campaign site (markwarnerva.com/Plan, last modified Dec. 11, 2025) is undated as a '2026 plan' but is the reelection campaign's platform; guns and civil-rights ratings rely on it. Its abortion/marriage/voting-rights items mostly back Virginia's 2026 state constitutional amendments, which no Senate vote tests, hence Partial.",
+    "Crime and corruption: no forward-looking 2026 positions found on the campaign site or in coverage; the site's 'honesty and integrity' section is a personal value statement, not a policy. No debate was held (AARP debate canceled), limiting sources.",
+    "Immigration rated Partial: he said he wants ICE reform and more guardrails (citing body cameras) but named no bill; his 2025 ICE unmasking bill is past record, not a 2026 promise."
+  ],
+  "researched": "2026-11-05"
+}

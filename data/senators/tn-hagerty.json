@@ -1,0 +1,128 @@
+{
+  "id": "tn-hagerty",
+  "name": "Bill Hagerty",
+  "state": "TN",
+  "party": "R",
+  "elected": 2020,
+  "term_start": "2021-01-03",
+  "term_end": "2027-01-03",
+  "issue_poll": {
+    "name": "AP VoteCast Tennessee, 8 days ending Nov 3, 2020; plus Pew Research Center, July 27–Aug 2, 2020",
+    "url": "https://fox17.com/news/local/tennessee-voters-mixed-on-state-of-nation-ap-survey-election-2020",
+    "note": "Ranks 1–5 from AP VoteCast Tennessee most-important-issue shares as reported (coronavirus 37%, economy 32%, health care 8%, racism 7%, abortion 4%; other options not reported). Ranks 6–10 from national Pew 'very important' shares, skipping items already covered: Supreme Court appointments 64%, violent crime 59%, foreign policy 57%, gun policy 55%, immigration 52% (race and ethnic inequality, also 52%, already covered by rank 4). Pew source: https://www.pewresearch.org/politics/2020/08/13/important-issues-in-the-2020-election/"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Coronavirus response",
+      "testable": true,
+      "position": "Move medicine and medical-device production from China to the U.S.",
+      "position_source": "https://www.breitbart.com/politics/2020/07/25/exclusive-sen-tom-cotton-and-bill-hagerty-make-china-pay-for-pandemic-make-made-in-usa-americas-theme-again",
+      "votes": [],
+      "note": "No Senate floor vote found that specifically tested onshoring drug or medical-supply production."
+    },
+    {
+      "rank": 2,
+      "issue": "Economy",
+      "testable": true,
+      "position": "No tax increases; make 2017 tax cuts permanent; full expensing",
+      "position_source": "https://teamhagerty.com/?p=477",
+      "votes": [
+        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07", "bill": "H.R.5376", "bill_title": "Inflation Reduction Act of 2022", "question": "On passage of the bill, as amended", "vote": "Nay", "consistent": true, "auto": false},
+        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+      ],
+      "note": "IRA added a corporate minimum tax; H.R.1 extended the 2017 cuts and made full expensing permanent."
+    },
+    {
+      "rank": 3,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Lower seniors' drug costs; shift health choices from government to patients",
+      "position_source": "https://ontheissues.org/Social/Bill_Hagerty_Health_Care.htm",
+      "votes": [
+        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07", "bill": "H.R.5376", "bill_title": "Inflation Reduction Act of 2022 (Medicare drug negotiation, $2,000 Part D cap)", "question": "On passage of the bill, as amended", "vote": "Nay", "consistent": false, "auto": false},
+        {"congress": 119, "session": 1, "roll_call": 643, "date": "2025-12-11", "bill": "S.3386", "bill_title": "Crapo-Cassidy HSA plan replacing enhanced ACA credits", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+      ],
+      "note": "Opposed the IRA's Medicare drug-cost provisions; backed routing aid into health savings accounts."
+    },
+    {
+      "rank": 4,
+      "issue": "Racism / race relations",
+      "testable": false,
+      "position": "No specific position found; criticized Black Lives Matter movement",
+      "position_source": "https://localmemphis.com/article/news/politics/elections/tennessean-bill-hagerty-who-is-seeking-to-be-the-republican-candidate-in-the-us-senate-compares-black-lives-matter-movement-to-marxism/522-613510cd-db45-4378-8777-44e69bbe9794",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Defund Planned Parenthood; pass Born-Alive and Pain-Capable bills",
+      "position_source": "https://ontheissues.org/Social/Bill_Hagerty_Abortion.htm",
+      "votes": [
+        {"congress": 119, "session": 1, "roll_call": 11, "date": "2025-01-22", "bill": "S.6", "bill_title": "Born-Alive Abortion Survivors Protection Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false},
+        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (one-year Planned Parenthood Medicaid ban)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+      ],
+      "note": "No floor vote held on a Pain-Capable (20-week) bill this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Supreme Court appointments",
+      "testable": false,
+      "position": "Confirm constitutionalist judges; no specific bill named",
+      "position_source": "https://ontheissues.org/Senate/Bill_Hagerty.htm",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Violent crime / policing",
+      "testable": true,
+      "position": "Oppose defunding the police",
+      "position_source": "https://teamhagerty.com/?p=557",
+      "votes": [
+        {"congress": 117, "session": 1, "roll_call": 328, "date": "2021-08-10", "bill": "S.Con.Res.14", "bill_title": "Budget resolution (Tuberville amdt. 3113, cut aid to jurisdictions that defund police)", "question": "On the amendment", "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 8,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "Protect Israel; keep Iran from getting a nuclear weapon",
+      "position_source": "https://ivoterguide.com/candidate/52872/race/6830/election/704",
+      "votes": [
+        {"congress": 118, "session": 2, "roll_call": 154, "date": "2024-04-23", "bill": "H.R.815", "bill_title": "National security supplemental (Israel, Ukraine, Taiwan aid)", "question": "On the motion to concur in the House amendments", "vote": "Nay", "consistent": false, "auto": false},
+        {"congress": 118, "session": 2, "roll_call": 292, "date": "2024-11-20", "bill": "S.J.Res.111", "bill_title": "Disapproval of arms sale to Israel", "question": "On the motion to discharge", "vote": "Nay", "consistent": true, "auto": false}
+      ],
+      "note": "Voted against the package containing Israel aid; voted to keep arms sales to Israel going."
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose red-flag laws, universal background checks, gun registry",
+      "position_source": "https://ivoterguide.com/candidate/52872/race/6830/election/704",
+      "votes": [
+        {"congress": 117, "session": 2, "roll_call": 242, "date": "2022-06-23", "bill": "S.2938", "bill_title": "Bipartisan Safer Communities Act", "question": "On the motion to concur in the House amendment with an amendment", "vote": "Nay", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 10,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Build the border wall; oppose amnesty and sanctuary cities",
+      "position_source": "https://ontheissues.org/international/Bill_Hagerty_Immigration.htm",
+      "votes": [
+        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (border wall and enforcement funding)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+      ],
+      "note": "Amnesty and sanctuary-city parts never got a direct floor vote."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "No general-election debate or questionnaire answers found; positions come mainly from his 2019–20 campaign site (via OnTheIssues and iVoterGuide summaries), campaign releases and campaign-year news.",
+    "Foreign policy rated mixed: he opposed H.R.815 (mainly over Ukraine aid) though it carried Israel aid; health care rated mixed on the IRA drug-pricing judgment call.",
+    "Hagerty's votes on S.J.Res.111, S.3386, S.6, H.R.5376 and the Tuberville amendment inferred from party-line or near-unanimous tallies; roll calls 325 and 328 not confirmed from a primary source.",
+    "Only five VoteCast Tennessee issues were reported; ranks 6–10 rely on national Pew data."
+  ],
+  "researched": "2026-11-04"
+}

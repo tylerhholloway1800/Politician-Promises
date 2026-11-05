@@ -1,0 +1,118 @@
+{
+  "id": "sd-rounds",
+  "name": "Mike Rounds",
+  "state": "SD",
+  "party": "R",
+  "elected": 2020,
+  "term_start": "2021-01-03",
+  "term_end": "2027-01-03",
+  "issue_poll": {
+    "name": "SDSU Poll post-election survey of South Dakota registered voters, Nov 13–20, 2020; plus Pew Research Center, July 27–Aug 2, 2020",
+    "url": "https://www.sdstate.edu/news/2020/11/2020-presidential-election-retrospective",
+    "note": "Ranks 1–6 from SDSU 'very important' shares, published only by Trump and Biden voters; combined by weighting with the 2020 SD presidential vote (61.8% / 35.6%): economy ~72%, foreign policy ~65%, Supreme Court ~63%, health care ~50%, abortion ~49%, coronavirus ~48%. SDSU asked only those six items, so ranks 7–10 are the next items in Pew's national 'very important' list: violent crime 59%, gun policy 55%, immigration and race/ethnic inequality tied at 52%. Pew source: https://www.pewresearch.org/politics/2020/08/13/important-issues-in-the-2020-election/"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy",
+      "testable": true,
+      "position": "Make the 2017 income tax cuts permanent",
+      "position_source": "https://ontheissues.org/Note.asp?q=20CC-11A",
+      "votes": [
+        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "Continue U.S. support for Israel",
+      "position_source": "https://ontheissues.org/Note.asp?q=20CC-17",
+      "votes": [
+        {"congress": 118, "session": 2, "roll_call": 154, "date": "2024-04-23", "bill": "H.R.815", "bill_title": "National Security Supplemental (Israel, Ukraine, Indo-Pacific)", "question": "On the motion to concur in the House amendment", "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Supreme Court appointments",
+      "testable": false,
+      "position": "Justices who uphold the Constitution; backed Barrett (confirmed pre-term)",
+      "position_source": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-statement-on-supreme-court-nominee",
+      "votes": []
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Oppose government-run health care",
+      "position_source": "https://m.washingtontimes.com/news/2020/feb/6/rounds-announces-reelection-campaign-for-senate/",
+      "votes": [],
+      "note": "No Senate floor vote on a government-run health plan this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Oppose public funding of abortion, including Planned Parenthood",
+      "position_source": "https://ontheissues.org/Note.asp?q=20CC-1B",
+      "votes": [
+        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (Planned Parenthood Medicaid cutoff)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 6,
+      "issue": "Coronavirus response",
+      "testable": true,
+      "position": "Shield businesses from COVID lawsuits in relief bills",
+      "position_source": "https://www.sdpb.org/politics/2020-07-31/rounds-among-senate-gop-pushing-for-business-liability-protections",
+      "votes": [],
+      "note": "No floor vote on a COVID liability shield found this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Violent crime / policing",
+      "testable": true,
+      "position": "Pass the JUSTICE Act police reform bill",
+      "position_source": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-supports-police-reform-bill-in-senate",
+      "votes": [],
+      "note": "No policing reform bill reached a Senate floor vote this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Oppose further restrictions on gun rights",
+      "position_source": "https://ontheissues.org/Note.asp?q=20CC-10",
+      "votes": [
+        {"congress": 117, "session": 2, "roll_call": 242, "date": "2022-06-23", "bill": "S.2938", "bill_title": "Bipartisan Safer Communities Act", "question": "On the motion to concur in the House amendment", "vote": "Nay", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Increase border security, including border barriers",
+      "position_source": "https://ontheissues.org/International/Mike_Rounds_Immigration.htm",
+      "votes": [
+        {"congress": 118, "session": 2, "roll_call": 182, "date": "2024-05-23", "bill": "S.4361", "bill_title": "Border Act", "question": "Cloture on the motion to proceed", "vote": "Nay", "consistent": false, "auto": false},
+        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (border wall and enforcement funding)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+      ],
+      "note": "S.4361 funded border agents and barrier construction; he opposed it."
+    },
+    {
+      "rank": 10,
+      "issue": "Race and ethnic inequality",
+      "testable": false,
+      "position": "No specific campaign position found",
+      "position_source": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-supports-police-reform-bill-in-senate",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Rounds held no debates in 2020 and Ballotpedia has no issue statement for him; five positions rest on the Christian Coalition's Sept 2020 voter guide, which coded candidates' stances (partly inferred), via OnTheIssues.",
+    "Issue ranking combines a small (n=236) post-election SDSU poll reported only by candidate preference with national Pew data.",
+    "Immigration S.4361 counted as inconsistent because it included border-security and barrier funding; Republicans opposed it as inadequate."
+  ],
+  "researched": "2026-11-04"
+}

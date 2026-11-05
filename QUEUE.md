@@ -137,10 +137,10 @@ Message to a fresh agent: "In /home/claude/politician-promises/data/senators/<id
 - [x] plan:ri-reed Jack Reed D-RI
 - [x] del:ri-reed elected 2020, term 2021-01-03
 - [x] plan:sd-rounds Mike Rounds R-SD
-- [ ] del:sd-rounds elected 2020, term 2021-01-03
-- [ ] plan:tn-hagerty Bill Hagerty R-TN
-- [ ] del:tn-hagerty elected 2020, term 2021-01-03
-- [ ] plan:va-warner Mark Warner D-VA
+- [x] del:sd-rounds elected 2020, term 2021-01-03
+- [x] plan:tn-hagerty Bill Hagerty R-TN
+- [x] del:tn-hagerty elected 2020, term 2021-01-03
+- [x] plan:va-warner Mark Warner D-VA
 - [ ] del:va-warner elected 2020, term 2021-01-03
 - [ ] plan:wv-capito Shelley Moore Capito R-WV
 - [ ] del:wv-capito elected 2020, term 2021-01-03

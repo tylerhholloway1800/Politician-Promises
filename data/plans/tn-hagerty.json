@@ -1,0 +1,60 @@
+{
+  "id": "tn-hagerty",
+  "name": "Bill Hagerty",
+  "state": "TN",
+  "party": "R",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Gallup, U.S. registered voters, Oct 1-19, 2026 - share rating each issue 'extremely important' to their midterm vote",
+      "url": "https://voz.us/en/politics/261102/1000246/the-economy-healthcare-and-iran-top-voters-priorities-for-the-midterms.html",
+      "note": "National fallback: no 2026 Tennessee poll ranking a full set of issues for all voters was found. Tennessee polls that exist agree on the top: Cygnal (Mar 16-17, 2026, likely GOP primary voters) ranked cost of living/inflation 24%, immigration 15%, jobs/economy 10% (https://www.cygn.al/wp-content/uploads/2026/03/TN-GOP-Primary-Gov-Poll-Memo.pdf); the Vanderbilt Poll (Apr 13-29, 2026, n=1,203 registered voters) found 88% call the cost of living expensive (https://news.vanderbilt.edu/2026/05/20/vanderbilt-poll-tennesseans-continue-to-express-anxiety-about-the-economy/). Gallup order used as is: economy 50%, health care 50%, Iran 47%, income and wealth distribution 44%, gas prices 42%, immigration 40%, abortion 38%, crime 35%, Israeli-Palestinian conflict 35%, AI data center construction 30%. Climate change (29%) fell to 11th. Economy merged with cost of living given Tennessee polling."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Economy and cost of living", "rating": "Concrete",
+       "detail": "Pass Freedom to Build Act (S. 4265): HUD grant priority for localities that ease housing construction rules; cut federal spending",
+       "source": "https://www.hagerty.senate.gov/press-releases/2026/04/14/hagerty-introduces-freedom-to-build-act-to-make-housing-affordable-again"},
+      {"rank": 2, "issue": "Health care", "rating": "Partial",
+       "detail": "Expand health savings accounts; increase health care price transparency; cut fraud in health programs",
+       "source": "https://capitolreleases.com/releases/ef748b86-88d4-44ad-a4ca-e6c34d39db9a"},
+      {"rank": 3, "issue": "Iran conflict", "rating": "Partial",
+       "detail": "Support the administration's Iran MOU; no financial relief to Iran until it takes required compliance steps",
+       "source": "https://www.hagerty.senate.gov/press-releases/2026/06/16/icymi-hagerty-joins-americas-newsroom-on-fox-news-to-discuss-the-proposed-peace-deal-with-iran/"},
+      {"rank": 4, "issue": "Income and wealth inequality", "rating": "None",
+       "detail": "No stated 2026 position found",
+       "source": "https://ballotpedia.org/Bill_Hagerty"},
+      {"rank": 5, "issue": "Gas and energy prices", "rating": "Vague",
+       "detail": "Energy independence and more energy production; no specific measure",
+       "source": "https://www.wvlt.tv/2026/11/04/hagerty-serve-second-us-senate-term-after-defeating-democrat-bradshaw/"},
+      {"rank": 6, "issue": "Immigration", "rating": "Partial",
+       "detail": "Fund ICE and Border Patrol through budget reconciliation; border security",
+       "source": "https://www.hagerty.senate.gov/press-releases/2026/06/05/hagerty-calls-for-border-patrol-ice-funding-and-border-security-amid-shutdown/"},
+      {"rank": 7, "issue": "Abortion", "rating": "None",
+       "detail": "No stated 2026 position found",
+       "source": "https://ivoterguide.com/candidate/52872/race/34515/election/1499"},
+      {"rank": 8, "issue": "Crime and public safety", "rating": "Vague",
+       "detail": "Uphold the rule of law; no specific measure",
+       "source": "https://www.williamsonscene.com/news/sen-bill-hagerty-launches-2026-reelection-bid/article_b732a5f4-e94b-11ef-96c4-7befdc19987b.html"},
+      {"rank": 9, "issue": "Israeli-Palestinian conflict", "rating": "Partial",
+       "detail": "Hamas removed from power and hostages released; Gaza food aid via Gaza Humanitarian Foundation, not UNRWA",
+       "source": "https://www.hagerty.senate.gov/?p=76201"},
+      {"rank": 10, "issue": "AI data center construction", "rating": "None",
+       "detail": "No stated 2026 position found",
+       "source": "https://ballotpedia.org/Bill_Hagerty"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue ranking is national (Gallup, Oct 2026); no full 2026 Tennessee issue ranking was found, only partial state results.",
+    "Hagerty ran a low-profile campaign: no 2026 issue pages found (teamhagerty.com shows 2020-era content), no debate, and he skipped the Ballotpedia and iVoterGuide questionnaires.",
+    "Most Concrete/Partial ratings come from Senate-office releases and Fox appearances made while a declared 2026 candidate (Aug 2025-Jun 2026), counted as forward-looking statements, not record; stricter reading would downgrade them.",
+    "Economy rated Concrete because Hagerty introduced and promoted the named Freedom to Build Act in April 2026 and pledged on election night to make homeownership more affordable; the bill links to cost of living only through housing.",
+    "Health care (Dec 2025) and Israel (Aug 2025) statements predate the 2026 calendar year.",
+    "Task cites CBS News projection; sources found credit the AP (call at 10:31 p.m. CDT, Nov 3); early returns about 54% to Bradshaw's 44%.",
+    "Abortion, income inequality and AI data centers: searched, no 2026 statements found."
+  ],
+  "researched": "2026-11-05"
+}

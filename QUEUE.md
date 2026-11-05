@@ -45,10 +45,10 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 ## New, class III (2022)
 - [x] al-britt Katie Britt R-AL
 - [x] ak-murkowski Lisa Murkowski R-AK
-- [ ] az-kelly Mark Kelly D-AZ
-- [ ] ar-boozman John Boozman R-AR
-- [ ] ca-padilla Alex Padilla D-CA
-- [ ] co-bennet Michael Bennet D-CO
+- [x] az-kelly Mark Kelly D-AZ
+- [x] ar-boozman John Boozman R-AR
+- [x] ca-padilla Alex Padilla D-CA
+- [x] co-bennet Michael Bennet D-CO
 - [ ] ct-blumenthal Richard Blumenthal D-CT
 - [ ] ga-warnock Raphael Warnock D-GA
 - [ ] hi-schatz Brian Schatz D-HI

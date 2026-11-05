@@ -1,0 +1,173 @@
+{
+  "id": "ar-boozman",
+  "name": "John Boozman",
+  "state": "AR",
+  "party": "R",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Arkansas Poll (University of Arkansas), Oct 13–31, 2022; plus Pew Research Center, Oct 10–16, 2022",
+    "url": "https://political-science.uark.edu/about-the-department/partners/arkpoll/22_arkpoll_summary_report.pdf",
+    "note": "Ranks 1–5 come from the Arkansas Poll's most-important-problem question (economy 39%, drugs 10%, education 8%, health care 7%, taxes/big government 7%; 'politicians/politics' dropped because no vote can test it). That question offered only a few options, so ranks 6–10 come from national Pew 'very important' shares (energy 61%, violent crime 61%, elections/voting 58%, gun policy 57%, abortion 56%). 'Future of democracy' was dropped as untestable, and immigration (54%) fell just outside the top 10. Pew source: https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": false,
+      "position": "Curb inflation by stopping new federal spending (no specific measure named)",
+      "position_source": "https://www.boozman.senate.gov/public/index.cfm/2022/8/boozman-launches-tour-spotlighting-impact-of-inflation-high-energy-prices-on-arkansans",
+      "votes": []
+    },
+    {
+      "rank": 2,
+      "issue": "Drugs",
+      "testable": true,
+      "position": "Release people federally jailed for simple marijuana possession; expunge records",
+      "position_source": "https://talkbusiness.net/2022/10/u-s-senate-candidates-debate-infrastructure-ppp-loans/",
+      "votes": [],
+      "note": "No Senate floor vote on marijuana-possession release or expungement this term."
+    },
+    {
+      "rank": 3,
+      "issue": "Education",
+      "testable": true,
+      "position": "Oppose Biden student loan forgiveness",
+      "position_source": "https://talkbusiness.net/2022/10/u-s-senate-candidates-debate-infrastructure-ppp-loans/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of the student loan debt relief rule (CRA)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": false,
+      "position": "Improve veterans' health care access (no forward-looking measure; PACT Act passed in 2022)",
+      "position_source": "https://www.boozman.senate.gov/public/index.cfm/2022/6/boozman-advocates-for-landmark-toxic-exposure-legislation",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Taxes / size of government",
+      "testable": true,
+      "position": "Oppose tax increases on businesses and IRS expansion",
+      "position_source": "https://www.boozman.senate.gov/public/index.cfm/2022/8/boozman-democrats-pass-far-left-agenda-while-ignoring-americans-plight",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 extended the 2017 tax cuts and rescinded some IRS funding."
+    },
+    {
+      "rank": 6,
+      "issue": "Energy policy",
+      "testable": true,
+      "position": "Allow Keystone XL; reopen federal lands to energy development",
+      "position_source": "https://www.boozman.senate.gov/public/index.cfm/2022/3/boozman-answer-to-lower-gas-prices-staring-us-in-the-face",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 required federal onshore and offshore oil and gas lease sales; Keystone XL got no vote."
+    },
+    {
+      "rank": 7,
+      "issue": "Violent crime",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.pressreader.com/usa/siloam-springs-herald-leader/20220921/281612424261315",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Keep state voter ID laws; oppose federal control of elections; keep filibuster",
+      "position_source": "https://swark.today/articles/boozman-denounces-democrats-attempts-to-silence-the-minority-defends-senate-filibuster",
+      "votes": [],
+      "note": "Democratic federal voting bills got no floor vote; his SAVE America Act Yea (RC 57, 2026) cuts both ways."
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Overturn Biden ATF firearm rules; oppose new gun-control laws",
+      "position_source": "https://www.boozman.senate.gov/public/index.cfm/2022/4/boozman-cotton-oppose-biden-doj-expanding-firearm-definitions-and-creating-national-gun-registry",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 171,
+          "date": "2023-06-22",
+          "bill": "H.J.Res.44",
+          "bill_title": "Disapproval of ATF pistol stabilizing brace rule (CRA)",
+          "question": "On the joint resolution",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Oppose abortion except rape, incest, mother's life; no federal funding",
+      "position_source": "https://talkbusiness.net/2022/10/u-s-senate-candidates-debate-infrastructure-ppp-loans/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranks 6–10 rely on national Pew data because the Arkansas Poll offered only a short list of problems; immigration, his main primary-ad theme, ranked 11th.",
+    "Elections left unscored: the SAVE America Act fits his voter-ID stance but is a federal election mandate, which he said he opposed.",
+    "Gun vote tests a different ATF rule (pistol braces) than the 2022 frame/receiver rule he named; Boozman's Yea there is inferred from usquery list counts, and RC 171 comes from third-party trackers.",
+    "His 2022 campaign issues page (boozmanforarkansas.com/issues) could not be fetched, so positions come from debate coverage, ads and Senate releases."
+  ],
+  "researched": "2026-11-04"
+}

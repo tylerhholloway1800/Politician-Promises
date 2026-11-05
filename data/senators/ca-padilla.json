@@ -1,0 +1,184 @@
+{
+  "id": "ca-padilla",
+  "name": "Alex Padilla",
+  "state": "CA",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "USC Schwarzenegger Institute / USC Price California Issues Poll, Oct 30–Nov 2, 2022",
+    "url": "https://schwarzenegger.usc.edu/wp-content/uploads/images/files/USC_Schwarzenegger_Institute_California_Issues_Poll_2022_Results.pdf",
+    "note": "Open-ended most important issue question, registered voters. Five issues tied at 3% for ranks 8–12; took Immigration, Taxes, Abortion in the poll's listed order, dropping Democracy and Gas prices."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Inflation / cost of living",
+      "testable": true,
+      "position": "Make the child tax credit permanent",
+      "position_source": "https://calmatters.org/california-voter-guide-2022/us-senate/alex-padilla/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 230,
+          "date": "2024-08-01",
+          "bill": "H.R.7024",
+          "bill_title": "Tax Relief for American Families and Workers Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 made a $2,200 child tax credit permanent, though not the expanded refundable version he backed."
+    },
+    {
+      "rank": 2,
+      "issue": "Homelessness",
+      "testable": true,
+      "position": "Pass his Housing for All Act (~$532B for housing and homelessness)",
+      "position_source": "https://calmatters.org/california-voter-guide-2022/us-senate/alex-padilla/",
+      "votes": [],
+      "note": "Housing for All Act never received a floor vote."
+    },
+    {
+      "rank": 3,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "Keep California's authority to set stricter vehicle emission rules",
+      "position_source": "https://calmatters.org/california-voter-guide-2022/us-senate/alex-padilla/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 277,
+          "date": "2025-05-22",
+          "bill": "H.J.Res.88",
+          "bill_title": "Disapproval of California Advanced Clean Cars II waiver",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 279,
+          "date": "2025-05-22",
+          "bill": "H.J.Res.87",
+          "bill_title": "Disapproval of California Advanced Clean Trucks waiver",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Crime",
+      "testable": false,
+      "position": "Let police focus on serious crime; fund crisis response programs",
+      "position_source": "https://calmatters.org/california-voter-guide-2022/us-senate/alex-padilla/",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Housing costs",
+      "testable": true,
+      "position": "Federal funding and incentives for affordable housing construction",
+      "position_source": "https://calmatters.org/california-voter-guide-2022/us-senate/alex-padilla/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "date": "2026-06-22",
+          "bill": "H.R.6644",
+          "bill_title": "21st Century ROAD to Housing Act",
+          "question": "On the motion to concur in the House amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Vote taken from Padilla's release saying he joined in passing it; roll call number unconfirmed."
+    },
+    {
+      "rank": 6,
+      "issue": "Economy / jobs",
+      "testable": true,
+      "position": "Pass universal child care and paid family and sick leave",
+      "position_source": "https://calmatters.org/california-voter-guide-2022/us-senate/alex-padilla/",
+      "votes": [],
+      "note": "No Senate floor vote on universal child care or paid leave this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Drought / water",
+      "testable": false,
+      "position": "Seek federal funds for water reuse and groundwater recharge",
+      "position_source": "https://calmatters.org/california-voter-guide-2022/us-senate/alex-padilla/",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Path to citizenship for essential workers and farmworkers",
+      "position_source": "https://www.padilla.senate.gov/?p=70926",
+      "votes": [],
+      "note": "No floor vote on a path to citizenship this term."
+    },
+    {
+      "rank": 9,
+      "issue": "Taxes",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://calmatters.org/california-voter-guide-2022/us-senate/alex-padilla/",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Codify Roe v. Wade in federal law",
+      "position_source": "https://calmatters.org/california-voter-guide-2022/us-senate/alex-padilla/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Ranks 8–10 picked from a five-way tie at 3%; Democracy/voting and Gas prices were left out.",
+    "Padilla's Nay on H.J.Res.88 (roll call 277) and on H.R.1 (roll call 372) is inferred from party-line reporting, not read from a roll list; H.J.Res.87 Nay is confirmed in the Congressional Record.",
+    "ROAD to Housing Act vote taken from his own release; roll call number not confirmed.",
+    "Inflation issue scored Mixed because H.R.1 made a smaller child tax credit permanent, which he voted against."
+  ],
+  "researched": "2026-11-04"
+}

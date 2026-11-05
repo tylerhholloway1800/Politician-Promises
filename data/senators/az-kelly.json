@@ -1,0 +1,184 @@
+{
+  "id": "az-kelly",
+  "name": "Mark Kelly",
+  "state": "AZ",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Univision Arizona poll (BSP Research/Shaw & Co.), Oct 19-26, 2022, 1,000 registered voters",
+    "url": "https://in.nau.edu/wp-content/uploads/sites/258/2026/04/Univision-Arizona-Topline-October-2022.pdf",
+    "note": "Most important issues (multiple answers allowed). Lowering taxes tied with crime at 13% for 10th; taxes listed first in the poll. Fox News AZ poll (Sept 22-26) top four were border security, democracy, inflation, abortion."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Cost of living / inflation",
+      "testable": true,
+      "position": "Suspend the federal gas tax",
+      "position_source": "https://www.markkelly.com/2022/07/20/watch-mark-kelly-releases-new-tv-ad-on-lowering-gas-prices-corporate-price-gouging/",
+      "votes": [],
+      "note": "No Senate floor vote on a gas tax holiday this term."
+    },
+    {
+      "rank": 2,
+      "issue": "Border security",
+      "testable": true,
+      "position": "More Border Patrol agents and pay; physical barriers",
+      "position_source": "https://cronkitenews.azpbs.org/2022/10/06/mark-kelly-blake-masters-debate-arizoan-senate-immigration-abortion",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "date": "2024-02-07",
+          "bill": "H.R.815",
+          "bill_title": "National security supplemental with bipartisan border agreement",
+          "question": "Cloture on the motion to concur with an amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2024-05-23",
+          "bill": "S.4361",
+          "bill_title": "Border Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded Border Patrol hiring and barriers; he opposed the package."
+    },
+    {
+      "rank": 3,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pass a federal law codifying abortion rights",
+      "position_source": "https://cronkitenews.azpbs.org/2022/10/06/mark-kelly-blake-masters-debate-arizoan-senate-immigration-abortion",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Comprehensive immigration reform; citizenship for Dreamers",
+      "position_source": "https://americasvoice.org/blog/what-democrats-are-saying-about-immigration-in-the-2022-midterms/",
+      "votes": [],
+      "note": "No Senate floor vote on Dreamer citizenship or comprehensive reform this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Health care costs",
+      "testable": true,
+      "position": "Fund Medicare and Medicaid; keep Medicare drug-price negotiation",
+      "position_source": "https://guides.vote/guide/2022-arizona-senate-candidate-guide/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut Medicaid spending."
+    },
+    {
+      "rank": 6,
+      "issue": "Jobs and wages",
+      "testable": false,
+      "position": "Good-paying manufacturing jobs (direction only)",
+      "position_source": "https://www.democracyinaction.us/lit/22sen/azsen22d.html",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Climate and pollution",
+      "testable": true,
+      "position": "Keep the Inflation Reduction Act's clean-energy and drought funding",
+      "position_source": "https://noticias.foxnews.com/politics/election-spotlight-senate-candidates-talk-inflation-reduction-act-2024-midterm-opponent.print",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 repealed or phased out many IRA clean-energy credits."
+    },
+    {
+      "rank": 8,
+      "issue": "K-12 education",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://guides.vote/guide/2022-arizona-senate-candidate-guide/",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": false,
+      "position": "Commonsense reforms to reduce gun violence (no specific policy)",
+      "position_source": "https://new.patch.com/arizona/across-az/gun-control-after-texas-school-massacre-what-arizona-politicians-say",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Taxes",
+      "testable": false,
+      "position": "Make big companies pay their fair share (slogan)",
+      "position_source": "https://markkelly.com/2022/10/15/mark-kelly-for-senate-puts-blake-masters-social-security-taxes-stance-on-display-in-new-spanish-language-ad-riesgo/",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "H.R.1 counted against the border-security position because it funded agents and barriers; nh-hassan.json did not apply H.R.1 to her similar border position, so the two files should be reconciled.",
+    "Health care position comes from a 2022 voter guide that partly cites pre-2022 statements.",
+    "Guns: background-check support appears only in pre-2022 interviews; his 2022 campaign avoided specific gun pledges, so rated not testable.",
+    "Feb 7, 2024 H.R.815 border vote (failed 49-50): roll call number and his Yea not confirmed by a source; his S.4361 Yea comes from his May 23, 2024 Senate press release."
+  ],
+  "researched": "2026-11-04"
+}

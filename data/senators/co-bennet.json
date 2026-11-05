@@ -1,0 +1,212 @@
+{
+  "id": "co-bennet",
+  "name": "Michael Bennet",
+  "state": "CO",
+  "party": "D",
+  "elected": 2022,
+  "term_start": "2023-01-03",
+  "term_end": "2029-01-03",
+  "issue_poll": {
+    "name": "Marist Poll Colorado, Oct 3–6, 2022; Pew Research Center national survey, Oct 10–16, 2022",
+    "url": "https://maristpoll.marist.edu/polls/the-2022-elections-in-colorado/",
+    "note": "Ranks 1–6 from Marist's Colorado top-issue question (inflation 34%, preserving democracy 29%, abortion 16%, crime 7%, health care 6%, immigration 6%); 'preserving democracy' mapped to elections/voting. Ranks 7–10 filled from Pew's national 'very important' list (https://www.pewresearch.org/wp-content/uploads/sites/20/2022/10/PP_2022.10.20_midterms-economy_REPORT.pdf) for issues Marist did not offer."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Inflation / economy",
+      "testable": true,
+      "position": "Permanently expand the child tax credit",
+      "position_source": "https://coloradosun.com/2022/10/21/michael-bennet-joe-odea-issue-guide/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 230,
+          "date": "2024-08-01",
+          "bill": "H.R.7024",
+          "bill_title": "Tax Relief for American Families and Workers Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 354,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (Bennet motion to commit to expand child tax credit)",
+          "question": "On the motion to commit with instructions",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Called the child tax credit his top policy priority in the 2022 race."
+    },
+    {
+      "rank": 2,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Guarantee ballot access nationwide; change Senate rules to pass it",
+      "position_source": "https://coloradotimesrecorder.com/2022/05/we-will-save-this-democracy-sen-bennet-addresses-co-springs-dems/45765/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Pass federal law barring abortion restrictions (Women's Health Protection Act)",
+      "position_source": "https://coloradosun.com/2022/10/21/michael-bennet-joe-odea-issue-guide/",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "issue": "Crime / public safety",
+      "testable": true,
+      "position": "Fund civilian crisis responders (SMART Community Policing Act)",
+      "position_source": "https://www.coloradopolitics.com/2022/07/15/bennet-optimistic-for-bipartisan-support-of-alternative-policing-bill-as-odea-slams-plan-2303c412-048d-11ed-b9c6-13c1c9849d67",
+      "votes": [],
+      "note": "No Senate floor vote on the SMART Community Policing Act this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Protect the ACA; add a public option (Medicare-X)",
+      "position_source": "https://coloradosun.com/2022/10/21/michael-bennet-joe-odea-issue-guide/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Public option never received a floor vote."
+    },
+    {
+      "rank": 6,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Legal status for DACA recipients; strengthen border security",
+      "position_source": "https://www.coloradopolitics.com/2022/10/29/election-2022-bennet-and-odea-clash-on-economy-immigration-party-loyalty-in-final-debate-f7c96e3a-56f5-11ed-b6e6-c7d9d253e74e",
+      "votes": [
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2024-05-23",
+          "bill": "S.4361",
+          "bill_title": "Border Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No floor vote on DACA legal status this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Education",
+      "testable": false,
+      "position": "No specific position found; criticized design of Biden loan forgiveness",
+      "position_source": "https://abc17news.com/politics/national-politics/cnn-us-politics/2022/10/28/takeaways-from-the-colorado-senate-debate/",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Energy / climate",
+      "testable": true,
+      "position": "Keep the Inflation Reduction Act's climate and clean-energy measures",
+      "position_source": "https://coloradosun.com/2022/10/21/michael-bennet-joe-odea-issue-guide/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Universal background checks; assault weapons ban; raise purchase age to 21",
+      "position_source": "https://abc17news.com/politics/national-politics/cnn-us-politics/2022/10/28/takeaways-from-the-colorado-senate-debate/",
+      "votes": [],
+      "note": "No recorded Senate floor vote on these measures this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Supreme Court",
+      "testable": true,
+      "position": "Oppose expanding the Supreme Court",
+      "position_source": "https://coloradotimesrecorder.com/2022/06/co-springs-democratic-socialists-confront-bennet-over-filibuster-expanding-supreme-court/46874",
+      "votes": [],
+      "note": "No court-expansion bill or Supreme Court nomination reached the floor this term."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue list combines a Colorado poll (ranks 1–6) with Pew national data (ranks 7–10); no Colorado poll ranking all ten was found.",
+    "H.R.1 (roll call 372) not scored under the child tax credit: it raised the credit but not the 2021-style expansion he backed; scoring it would make issue 1 Mixed.",
+    "Elections rated on SAVE America Act votes; the ballot-access legislation and rules change he backed never got a floor vote.",
+    "Health care, energy and immigration ratings rest on votes that test only part of each stated position."
+  ],
+  "researched": "2026-11-04"
+}

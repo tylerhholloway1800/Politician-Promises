@@ -32,10 +32,10 @@ Message: "Continue with a fresh search budget (max ~45 searches). Re-read /home/
 - [x] oh-moreno Bernie Moreno R-OH
 - [x] pa-mccormick Dave McCormick R-PA
 - [x] ri-whitehouse Sheldon Whitehouse D-RI
-- [ ] tn-blackburn Marsha Blackburn R-TN
-- [ ] tx-cruz Ted Cruz R-TX
+- [x] tn-blackburn Marsha Blackburn R-TN
+- [x] tx-cruz Ted Cruz R-TX
 - [ ] ut-curtis John Curtis R-UT
-- [ ] vt-sanders Bernie Sanders I-VT
+- [x] vt-sanders Bernie Sanders I-VT
 - [ ] va-kaine Tim Kaine D-VA
 - [ ] wa-cantwell Maria Cantwell D-WA
 - [ ] wv-justice Jim Justice R-WV

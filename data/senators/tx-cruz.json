@@ -1,0 +1,214 @@
+{
+  "id": "tx-cruz",
+  "name": "Ted Cruz",
+  "state": "TX",
+  "party": "R",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "University of Texas / Texas Politics Project Poll, Oct 2–10, 2024",
+    "url": "https://texaspolitics.utexas.edu/files/202410_poll_topline.pdf",
+    "note": "Summed 'most important problem facing the country' and 'facing Texas' shares. Merged inflation+economy, immigration+border security, taxes+federal/state spending, voting rights+electoral fraud, energy/grid+utility rates. Dropped 'political corruption/leadership' and 'moral decline' as not testable by a vote."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Make the 2017 tax cuts permanent",
+      "position_source": "https://www.fox4news.com/news/colin-allred-ted-cruz-issues",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Immigration / border security",
+      "testable": true,
+      "position": "Build a border wall; hire more Border Patrol agents",
+      "position_source": "https://guides.vote/guide/2024-texas-senate-voters-guide/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded border wall construction and Border Patrol hiring."
+    },
+    {
+      "rank": 3,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Leave abortion law to states; no taxpayer funding",
+      "position_source": "https://www.fox26houston.com/election/ted-cruz-colin-allred-debate-what-candidates-said-about-issues",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 barred Medicaid payments to large abortion providers for one year."
+    },
+    {
+      "rank": 4,
+      "issue": "Gun regulation",
+      "testable": true,
+      "position": "Oppose new gun restrictions",
+      "position_source": "https://www.fox4news.com/news/colin-allred-ted-cruz-issues",
+      "votes": [],
+      "note": "No Senate floor vote on new gun restrictions this term."
+    },
+    {
+      "rank": 5,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "Repeal EPA vehicle emission limits; oppose EV mandates",
+      "position_source": "https://guides.vote/guide/2024-texas-senate-voters-guide/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 279,
+          "date": "2025-05-22",
+          "bill": "H.J.Res.87",
+          "bill_title": "Disapproval of California heavy-duty vehicle (Advanced Clean Trucks) waiver",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Same-day vote on H.J.Res.88 (roll call 277, light-duty waiver) not individually confirmed."
+    },
+    {
+      "rank": 6,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Repeal the ACA; expand health savings accounts",
+      "position_source": "https://www.fox4news.com/news/colin-allred-ted-cruz-issues",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 expanded HSA eligibility; no floor vote on ACA repeal this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Taxes / government spending",
+      "testable": true,
+      "position": "Eliminate federal income tax on tips",
+      "position_source": "https://www.bloomberg.com/news/articles/2024-06-20/trump-s-tax-free-tips-idea-pushed-by-ted-cruz-in-new-bill",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "His standalone No Tax on Tips Act passed by unanimous consent (no roll call); H.R.1 enacted a capped tip deduction."
+    },
+    {
+      "rank": 8,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Pass the SAVE Act requiring proof of citizenship to register",
+      "position_source": "https://www.fox26houston.com/election/ted-cruz-colin-allred-debate-what-candidates-said-about-issues",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "Support law enforcement; oppose defunding police",
+      "position_source": "https://www.fox26houston.com/election/ted-cruz-colin-allred-debate-what-candidates-said-about-issues",
+      "votes": []
+    },
+    {
+      "rank": 10,
+      "issue": "Energy",
+      "testable": true,
+      "position": "End the pause on LNG export permits",
+      "position_source": "https://www.kut.org/politics/2024-10-16/from-abortion-to-insurrection-a-fact-check-of-the-cruz-v-allred-debate",
+      "votes": [],
+      "note": "Pause ended by executive action; no Senate floor vote."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Five issues rest on one vote, H.R.1 final passage; it is counted once per issue it touches.",
+    "Issue ranks 9-10 depend on merging small poll categories; education (3%) narrowly missed the cut.",
+    "Born-Alive Act cloture (roll call 11, Jan 22, 2025; Cruz Yea) not scored: unclear whether a federal born-alive rule conflicts with his 'leave abortion to states' position.",
+    "Laken Riley Act passage (roll call 7, Jan 2025) not scored because his individual vote could not be confirmed."
+  ],
+  "researched": "2026-11-04"
+}

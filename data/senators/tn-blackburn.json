@@ -1,0 +1,210 @@
+{
+  "id": "tn-blackburn",
+  "name": "Marsha Blackburn",
+  "state": "TN",
+  "party": "R",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "Vanderbilt Poll, Nov 18–Dec 4, 2024 (top priority, n=955 RV); ETSU Tennessee Poll, July 10–17, 2024 (biggest problems, n=701)",
+    "url": "https://vanderbilt.edu/csdi/Fall_2024_topline.pdf",
+    "note": "No pre-election TN poll with a full most-important-issue ranking found. Ranked by each issue's highest share in either poll: Vanderbilt Q2 asks top priority for state government (economy 15% + inflation 12% merged); ETSU (https://news.etsu.edu/articles/tennessee-poll-reflects-growing-concern-over-states-direction-economy-social-issues) published only top three for TN and USA ('politics' 27% dropped as untestable; 'violence and gun violence' 11% used for crime). Ranks 9–10 from Gallup national, Sept 16–28, 2024, extremely important: democracy 49%, national security 45% (https://news.gallup.com/file/poll/651749/2024_10_09_Vote%20Issues%20Topline%20and%20Tabs.pdf)."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Economy / inflation",
+      "testable": true,
+      "position": "Across-the-board spending cuts; make 2017 tax cuts permanent",
+      "position_source": "https://www.local3news.com/local-news/us-senator-marsha-blackburn-stops-in-chattanooga-ahead-of-election-day/article_a29f4d68-9af4-11ef-a0bc-1777e61a288e.html",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 411,
+          "date": "2025-07-17",
+          "bill": "H.R.4",
+          "bill_title": "Rescissions Act of 2025",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 made the 2017 rate cuts permanent; H.R.4 rescinded about $9B in enacted spending."
+    },
+    {
+      "rank": 2,
+      "issue": "Education",
+      "testable": false,
+      "position": "Protect female athletes; no specific bill named",
+      "position_source": "https://www.foxnews.com/sports/riley-gaines-touts-marsha-blackburn-fearless-advocate-female-athletes-gop-senators-campaign-ad.amp",
+      "votes": []
+    },
+    {
+      "rank": 3,
+      "issue": "Infrastructure",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://newschannel5.com/election/voters-guide-sen-marsha-blackburn-on-her-positions-and-priorities-for-2024",
+      "votes": []
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Make Medicare telehealth coverage permanent",
+      "position_source": "https://www.blackburn.senate.gov/2024/1/issues/health-care/video-blackburn-speaks-on-efforts-to-make-telehealth-permanent",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 20,
+          "date": "2026-01-30",
+          "bill": "H.R.7148",
+          "bill_title": "Consolidated Appropriations Act, 2026",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Package extended Medicare telehealth waivers through 2027, not permanently."
+    },
+    {
+      "rank": 5,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Resume border wall; pass H.R.2 border bill",
+      "position_source": "https://newschannel5.com/election/voters-guide-sen-marsha-blackburn-on-her-positions-and-priorities-for-2024",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 funded wall construction and more Border Patrol agents; H.R.2 itself got no Senate vote."
+    },
+    {
+      "rank": 6,
+      "issue": "Crime / public safety",
+      "testable": false,
+      "position": "Tough-on-crime policies; end cashless bail (no federal bill named)",
+      "position_source": "https://www.breitbart.com/politics/2024/08/20/exclusive-sen-marsha-blackburn-discusses-border-inflation-with-tennesseans-after-completing-95-county-tour",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Leave abortion to states; no federal ban",
+      "position_source": "https://newschannel5.com/election/voters-guide-sen-marsha-blackburn-on-her-positions-and-priorities-for-2024",
+      "votes": [],
+      "note": "No Senate floor vote on a national abortion ban or federal abortion-rights law this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Gun policy",
+      "testable": false,
+      "position": "No specific campaign position found (record of opposing gun control)",
+      "position_source": "https://wtop.com/national/2024/11/tennessees-us-sen-blackburn-seeks-reelection-against-democratic-state-rep-gloria-johnson",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Elections / voting",
+      "testable": true,
+      "position": "Pass the SAVE Act: proof of citizenship to register",
+      "position_source": "https://www.blackburn.senate.gov/2024/9/blackburn-to-schumer-bring-the-save-act-to-a-vote",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 57,
+          "date": "2026-03-17",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act",
+          "question": "Motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 73,
+          "date": "2026-03-26",
+          "bill": "S.1383",
+          "bill_title": "SAVE America Act (photo ID amendment)",
+          "question": "Cloture on an amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "issue": "National security",
+      "testable": true,
+      "position": "Give Israel the military aid it needs; reimpose Iran oil sanctions",
+      "position_source": "https://newschannel5.com/election/voters-guide-sen-marsha-blackburn-on-her-positions-and-priorities-for-2024",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 165,
+          "date": "2025-04-03",
+          "bill": "S.J.Res.33",
+          "bill_title": "Disapproval of arms sale to Israel",
+          "question": "On the motion to discharge",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 166,
+          "date": "2025-04-03",
+          "bill": "S.J.Res.26",
+          "bill_title": "Disapproval of arms sale to Israel",
+          "question": "On the motion to discharge",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No floor vote on Iran oil sanctions found."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranking is weak: Vanderbilt poll is post-election and asks state-government priorities; ETSU published only top three; ranks 9–10 are national Gallup.",
+    "Votes on H.R.4 (roll 411) and S.J.Res.33/26 (rolls 165–166) inferred from watch.vote party splits (H.R.4 had 2 Republican Nays, reported as Collins and Murkowski but not checked here; all 53 Republicans voted Nay on 165–166), not her individual record.",
+    "Health care rated on a two-year telehealth extension; no bill making telehealth permanent got a vote.",
+    "Education rated not testable: her 2024 women's-sports messaging named no bill; S.9 (roll 100) therefore not counted."
+  ],
+  "researched": "2026-11-04"
+}

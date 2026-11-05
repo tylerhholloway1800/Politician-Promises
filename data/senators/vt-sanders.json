@@ -1,0 +1,221 @@
+{
+  "id": "vt-sanders",
+  "name": "Bernie Sanders",
+  "state": "VT",
+  "party": "I",
+  "elected": 2024,
+  "term_start": "2025-01-03",
+  "term_end": "2031-01-03",
+  "issue_poll": {
+    "name": "UNH Green Mountain State Poll, released Aug 22, 2024; Vermont Public reader survey, Jan–Aug 2024; Gallup national vote-issues poll, Sept 16–28, 2024",
+    "url": "https://scholars.unh.edu/survey_center_polls/812/",
+    "note": "UNH poll names housing and taxes as Vermont's most important problems (percentages not retrievable). Ranks 3–10 merge Vermont Public's top-5 list (https://www.vermontpublic.org/local-news/2024-08-08/we-asked-you-answered-what-issues-should-the-candidates-discuss-in-the-lead-up-to-the-election) with Gallup national 'extremely important' shares (https://news.gallup.com/file/poll/651749/2024_10_09_Vote%20Issues%20Topline%20and%20Tabs.pdf)."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Housing",
+      "testable": false,
+      "position": "Said housing crisis must be addressed; no specific program",
+      "position_source": "https://mountaintimes.info/2024/05/08/bernie-sanders-announces-run-forre-election-to-u-s-senate",
+      "votes": []
+    },
+    {
+      "rank": 2,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Raise taxes on top earners; more progressive income tax",
+      "position_source": "https://www.wcax.com/2024/10/01/campaign-countdown-race-us-senate",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 extended 2017 tax cuts, including top-bracket rates."
+    },
+    {
+      "rank": 3,
+      "issue": "Economy / inflation",
+      "testable": false,
+      "position": "Criticized corporate pricing; no specific inflation plan",
+      "position_source": "https://www.wamc.org/news/2024-10-25/vermont-u-s-senate-candidates-meet-in-spirited-debate",
+      "votes": []
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Expand community health centers; lower drug prices; no Medicare cuts",
+      "position_source": "https://vtdigger.org/2024/10/24/u-s-senate-candidates-debate-bernie-sanders-record-and-gerald-malloys-ties-to-trump/",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut Medicaid and health-program funding."
+    },
+    {
+      "rank": 5,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "Shift energy from fossil fuels to renewables; keep clean-energy funding",
+      "position_source": "https://mountaintimes.info/2024/05/08/bernie-sanders-announces-run-forre-election-to-u-s-senate",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 repealed or phased out IRA clean-energy credits."
+    },
+    {
+      "rank": 6,
+      "issue": "Education",
+      "testable": true,
+      "position": "Tuition-free public college; reduce student debt",
+      "position_source": "https://mountaintimes.info/2024/05/08/bernie-sanders-announces-run-forre-election-to-u-s-senate",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "H.R.1 cut student-loan repayment options and borrowing limits; no tuition-free vote held."
+    },
+    {
+      "rank": 7,
+      "issue": "Democracy / elections",
+      "testable": false,
+      "position": "Limit wealthy donors' influence; no specific measure named",
+      "position_source": "https://mountaintimes.info/2024/05/08/bernie-sanders-announces-run-forre-election-to-u-s-senate",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "National security / foreign policy",
+      "testable": true,
+      "position": "Stop U.S. weapons to Israel for Gaza war; more Ukraine aid",
+      "position_source": "https://www.wcax.com/2024/10/01/campaign-countdown-race-us-senate",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 165,
+          "date": "2025-04-03",
+          "bill": "S.J.Res.33",
+          "bill_title": "Disapproval of bomb and warhead sale to Israel",
+          "question": "Motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 166,
+          "date": "2025-04-03",
+          "bill": "S.J.Res.26",
+          "bill_title": "Disapproval of bomb and JDAM sale to Israel",
+          "question": "Motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "date": "2026-04-15",
+          "bill": "S.J.Res.32",
+          "bill_title": "Disapproval of bulldozer sale to Israel",
+          "question": "Motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "date": "2026-04-15",
+          "bill": "S.J.Res.138",
+          "bill_title": "Disapproval of 1,000-pound bomb sale to Israel",
+          "question": "Motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "No Senate floor vote on new Ukraine aid this term."
+    },
+    {
+      "rank": 9,
+      "issue": "Supreme Court",
+      "testable": true,
+      "position": "Enforceable Supreme Court ethics code",
+      "position_source": "https://truthout.org/articles/sanders-supreme-court-is-out-of-control-and-must-be-reformed/",
+      "votes": [],
+      "note": "No floor vote on Supreme Court ethics legislation this term."
+    },
+    {
+      "rank": 10,
+      "issue": "Immigration",
+      "testable": false,
+      "position": "No specific position found",
+      "position_source": "https://www.wvmtradio.com/?p=66804",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "UNH 2024 Vermont poll PDF was unreachable; ranking combines its top two problems with a reader survey and national Gallup data.",
+    "Roll call numbers for the April 15, 2026 Israel arms votes (S.J.Res.32, S.J.Res.138) not confirmed; Sanders authored both, Yea assumed from sponsorship and caucus reporting.",
+    "H.R.1 counted for taxes, health care, climate and education because it changed each.",
+    "His 2024 campaign site was not retrieved; positions come from his launch statement, debates and campaign-year news."
+  ],
+  "researched": "2026-11-04"
+}

@@ -28,9 +28,19 @@
       "position": "Pass more multi-trillion-dollar pandemic relief, including state and local aid",
       "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06",
-         "bill": "H.R.1319", "bill_title": "American Rescue Plan Act of 2021", "question": "On passage",
-         "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act of 2021",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -40,9 +50,19 @@
       "position": "At least $100 billion in emergency rental assistance",
       "position_source": "https://www.wyden.senate.gov/news/press-releases/merkley-wyden-colleagues-urge-trump-to-work-with-congress-to-provide-emergency-rental-assistance-and-protections",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06",
-         "bill": "H.R.1319", "bill_title": "American Rescue Plan Act of 2021", "question": "On passage",
-         "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act of 2021",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "ARP included about $21.5B in rental aid plus housing vouchers; Dec 2020 aid fell before his term."
     },
@@ -53,15 +73,45 @@
       "position": "Near-zero carbon emissions by 2050; more forest-thinning funding",
       "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 314, "date": "2021-08-10",
-         "bill": "H.R.3684", "bill_title": "Infrastructure Investment and Jobs Act", "question": "On passage",
-         "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07",
-         "bill": "H.R.5376", "bill_title": "Inflation Reduction Act of 2022", "question": "On passage",
-         "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01",
-         "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage",
-         "vote": "Nay", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 314,
+          "date": "2021-08-10",
+          "bill": "H.R.3684",
+          "bill_title": "Infrastructure Investment and Jobs Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 325,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act of 2022",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "He also pledged to end fossil-fuel leasing on public lands; the IRA he backed required new lease sales."
     },
@@ -72,9 +122,19 @@
       "position": "Continue the $600-a-week federal unemployment benefit",
       "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06",
-         "bill": "H.R.1319", "bill_title": "American Rescue Plan Act of 2021", "question": "On passage",
-         "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act of 2021",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "ARP extended federal jobless aid at $300 a week, below the $600 he backed."
     },
@@ -102,12 +162,32 @@
       "position": "Repeal 2017 tax cuts; close corporate tax loopholes",
       "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
       "votes": [
-        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07",
-         "bill": "H.R.5376", "bill_title": "Inflation Reduction Act of 2022", "question": "On passage",
-         "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01",
-         "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage",
-         "vote": "Nay", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 325,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act of 2022",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "IRA added a 15% minimum tax on large corporations; H.R.1 made the 2017 cuts permanent."
     },
@@ -118,9 +198,19 @@
       "position": "Federal pandemic aid for schools",
       "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06",
-         "bill": "H.R.1319", "bill_title": "American Rescue Plan Act of 2021", "question": "On passage",
-         "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act of 2021",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {

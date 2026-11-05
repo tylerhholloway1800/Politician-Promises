@@ -38,7 +38,8 @@
           "question": "Motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "SAVE America Act requires proof of citizenship to register; only Murkowski among Republicans voted no."
@@ -60,7 +61,8 @@
           "question": "On the motion to discharge",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "No floor vote on Ukraine aid in this term; rated on Israel arms-sale vote."
@@ -90,7 +92,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -102,7 +105,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 funded the border wall, detention and removals; S.5 mandates detention."
@@ -124,7 +128,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 created a federal scholarship-donation tax credit based on ECCA."
@@ -172,7 +177,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 made the 2017 cuts permanent, added a tips deduction and a senior deduction (not a full Social Security tax repeal)."

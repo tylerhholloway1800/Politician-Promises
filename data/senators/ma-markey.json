@@ -19,7 +19,19 @@
       "position": "$2,000 monthly direct payments for the length of the crisis",
       "position_source": "https://www.markey.senate.gov/news/press-releases/senators-markey-harris-and-sanders-introduce-bill-to-provide-monthly-2000-payments-during-the-covid-19-crisis",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06", "bill": "H.R.1319", "bill_title": "American Rescue Plan Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "Recurring payments never got a vote; he backed the one-time $1,400 payments in the ARP."
     },
@@ -30,7 +42,17 @@
       "position": "Raise the federal minimum wage to $15 an hour",
       "position_source": "https://www.progressivemass.com/wp-content/uploads/2021/03/2020_US-Senate_Ed-Markey.pdf",
       "votes": [
-        {"congress": 117, "session": 1, "date": "2021-03-05", "bill": "H.R.1319", "bill_title": "American Rescue Plan Act (Sanders amdt. 972, $15 minimum wage)", "question": "On the motion to waive the Budget Act", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "date": "2021-03-05",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act (Sanders amdt. 972, $15 minimum wage)",
+          "question": "On the motion to waive the Budget Act",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
       ]
     },
     {
@@ -40,7 +62,19 @@
       "position": "Medicare for All; let Medicare negotiate drug prices",
       "position_source": "https://www.wbur.org/news/2020/10/06/ed-markey-kevin-oconnor-debate",
       "votes": [
-        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07", "bill": "H.R.5376", "bill_title": "Inflation Reduction Act (Medicare drug price negotiation)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 325,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act (Medicare drug price negotiation)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "Medicare for All never got a floor vote; drug negotiation backed in his Feb 2020 questionnaire."
     },
@@ -51,8 +85,32 @@
       "position": "Pass the Green New Deal",
       "position_source": "https://www.wbur.org/news/2020/10/06/ed-markey-kevin-oconnor-debate",
       "votes": [
-        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07", "bill": "H.R.5376", "bill_title": "Inflation Reduction Act (clean-energy investments)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (clean-energy credit repeal)", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 325,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act (clean-energy investments)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (clean-energy credit repeal)",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "The Green New Deal itself never got a floor vote."
     },
@@ -63,7 +121,17 @@
       "position": "End the filibuster and expand the Supreme Court",
       "position_source": "https://www.wbur.org/news/2020/10/06/ed-markey-kevin-oconnor-debate",
       "votes": [
-        {"congress": 117, "session": 2, "date": "2022-01-19", "bill": "H.R.5746", "bill_title": "Freedom to Vote: John R. Lewis Act (filibuster rule change)", "question": "On the decision of the Chair", "vote": "Nay", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "date": "2022-01-19",
+          "bill": "H.R.5746",
+          "bill_title": "Freedom to Vote: John R. Lewis Act (filibuster rule change)",
+          "question": "On the decision of the Chair",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
       ],
       "note": "Court expansion never got a floor vote; rated on the filibuster rule-change vote."
     },
@@ -83,8 +151,32 @@
       "position": "Larger, fully refundable Child Tax Credit; oppose 2017 tax cuts",
       "position_source": "https://www.progressivemass.com/wp-content/uploads/2021/03/2020_US-Senate_Ed-Markey.pdf",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06", "bill": "H.R.1319", "bill_title": "American Rescue Plan Act (Child Tax Credit expansion)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act (extends 2017 tax cuts)", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act (Child Tax Credit expansion)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (extends 2017 tax cuts)",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -94,8 +186,32 @@
       "position": "No war with Iran without congressional authorization",
       "position_source": "https://www.markey.senate.gov/news/press-releases/senator-markey-statement-on-killing-of-iranian-general-qassem-soleimani",
       "votes": [
-        {"congress": 119, "session": 1, "roll_call": 328, "date": "2025-06-27", "bill": "S.J.Res.59", "bill_title": "Iran war powers resolution", "question": "On the motion to discharge", "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 119, "session": 2, "roll_call": 46, "date": "2026-03-04", "bill": "S.J.Res.104", "bill_title": "Iran war powers resolution", "question": "On the motion to discharge", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 328,
+          "date": "2025-06-27",
+          "bill": "S.J.Res.59",
+          "bill_title": "Iran war powers resolution",
+          "question": "On the motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 46,
+          "date": "2026-03-04",
+          "bill": "S.J.Res.104",
+          "bill_title": "Iran war powers resolution",
+          "question": "On the motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
@@ -105,7 +221,19 @@
       "position": "Student loan forgiveness; tuition-free public college",
       "position_source": "https://www.progressivemass.com/wp-content/uploads/2021/03/2020_US-Senate_Ed-Markey.pdf",
       "votes": [
-        {"congress": 118, "session": 1, "roll_call": 135, "date": "2023-06-01", "bill": "H.J.Res.45", "bill_title": "Disapproval of student loan debt relief", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of student loan debt relief",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "Tuition-free college never got a floor vote."
     },
@@ -116,9 +244,45 @@
       "position": "Keep abortion legal; repeal the Hyde Amendment",
       "position_source": "https://www.progressivemass.com/wp-content/uploads/2021/03/2020_US-Senate_Ed-Markey.pdf",
       "votes": [
-        {"congress": 117, "session": 2, "roll_call": 65, "date": "2022-02-28", "bill": "H.R.3755", "bill_title": "Women's Health Protection Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 117, "session": 2, "roll_call": 161, "date": "2022-05-11", "bill": "H.R.8296", "bill_title": "Women's Health Protection Act of 2022", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 118, "session": 2, "roll_call": 211, "date": "2024-07-10", "bill": "S.4554", "bill_title": "Reproductive Freedom for Women Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 65,
+          "date": "2022-02-28",
+          "bill": "H.R.3755",
+          "bill_title": "Women's Health Protection Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 161,
+          "date": "2022-05-11",
+          "bill": "H.R.8296",
+          "bill_title": "Women's Health Protection Act of 2022",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 211,
+          "date": "2024-07-10",
+          "bill": "S.4554",
+          "bill_title": "Reproductive Freedom for Women Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Not Voting",
+          "consistent": null,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "Hyde repeal never got a standalone vote; questionnaire backs Hyde repeal, Oct 2020 debate backs abortion rights."
     }

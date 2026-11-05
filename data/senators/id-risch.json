@@ -29,7 +29,8 @@
           "question": "On passage",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -41,7 +42,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Spending stance from his 2020 TV ad: https://www.idahopress.com/news/local/risch-jordan-ads-hit-the-airwaves-in-us-senate-race/article_380742ed-1489-5a17-86a5-8c8dcff82206.html"
@@ -63,7 +65,8 @@
           "question": "On the motion to concur in the House amendment",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Successor version enacted in the FY2023 NDAA (https://www.foreign.senate.gov/press/rep/release/risch-praises-inclusion-of-sfrc-priorities-in-fy2023-ndaa). Vote: https://www.risch.senate.gov/news/press-releases/risch-crapo-support-armed-forces-with-ndaa-passage/"
@@ -85,7 +88,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -97,7 +101,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "No full ACA repeal vote this term. Vote source: https://insurancenewsnet.com/oarticle/us-senate-hits-stalemate-on-solution-to-spiraling-health-insurance-costs"
@@ -119,7 +124,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -131,7 +137,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "S.6 vote source: https://www.usquery.com/vote/1190100011"
@@ -219,7 +226,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -231,7 +239,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "No floor vote on Dreamer legal status; scored on border-security funding only."

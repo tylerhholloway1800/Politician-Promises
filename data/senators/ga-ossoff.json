@@ -13,91 +13,265 @@
   },
   "issues": [
     {
-      "rank": 1, "issue": "Economy", "testable": true,
+      "rank": 1,
+      "issue": "Economy",
+      "testable": true,
       "position": "Large federal infrastructure investment program for jobs",
       "position_source": "https://ontheissues.org/Archive/2020_Senate_Web_Jon_Ossoff.htm",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 314, "date": "2021-08-10", "bill": "H.R.3684", "bill_title": "Infrastructure Investment and Jobs Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 314,
+          "date": "2021-08-10",
+          "bill": "H.R.3684",
+          "bill_title": "Infrastructure Investment and Jobs Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
-      "rank": 2, "issue": "Coronavirus pandemic", "testable": true,
+      "rank": 2,
+      "issue": "Coronavirus pandemic",
+      "testable": true,
       "position": "Send $2,000 relief checks",
       "position_source": "https://www.cnbc.com/2020/12/23/democrats-use-trump-2000-stimulus-checks-georgia-senate-race.html",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06", "bill": "H.R.1319", "bill_title": "American Rescue Plan Act", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "ARP checks were $1,400, on top of $600 enacted in Dec 2020."
     },
     {
-      "rank": 3, "issue": "Race relations / voting rights", "testable": true,
+      "rank": 3,
+      "issue": "Race relations / voting rights",
+      "testable": true,
       "position": "Pass a new Voting Rights Act; national police use-of-force standards",
       "position_source": "https://guides.vote/guide/2021-georgia-us-senate-1-runoff-candidate-guide/",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 459, "date": "2021-11-03", "bill": "S.4", "bill_title": "John Lewis Voting Rights Advancement Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 117, "session": 2, "date": "2022-01-19", "bill": "H.R.5746", "bill_title": "Freedom to Vote: John R. Lewis Act", "question": "Cloture on the motion to concur", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 459,
+          "date": "2021-11-03",
+          "bill": "S.4",
+          "bill_title": "John Lewis Voting Rights Advancement Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 117,
+          "session": 2,
+          "date": "2022-01-19",
+          "bill": "H.R.5746",
+          "bill_title": "Freedom to Vote: John R. Lewis Act",
+          "question": "Cloture on the motion to concur",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
       ],
       "note": "Police use-of-force standards never got a Senate floor vote."
     },
     {
-      "rank": 4, "issue": "Health care", "testable": true,
+      "rank": 4,
+      "issue": "Health care",
+      "testable": true,
       "position": "Add a public option; improve the ACA, not repeal it",
       "position_source": "https://ontheissues.org/Archive/2020_Senate_Web_Jon_Ossoff.htm",
       "votes": [
-        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07", "bill": "H.R.5376", "bill_title": "Inflation Reduction Act (ACA subsidy extension)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01", "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false},
-        {"congress": 119, "session": 1, "roll_call": 644, "date": "2025-12-11", "bill": "S.3385", "bill_title": "ACA premium tax credit extension", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 325,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act (ACA subsidy extension)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "No floor vote on a public option."
     },
     {
-      "rank": 5, "issue": "Supreme Court / judges", "testable": true,
+      "rank": 5,
+      "issue": "Supreme Court / judges",
+      "testable": true,
       "position": "Confirm only judges who will uphold Roe v. Wade",
       "position_source": "https://ontheissues.org/Archive/2020_Senate_Web_Jon_Ossoff.htm",
       "votes": [
-        {"congress": 117, "session": 2, "roll_call": 134, "date": "2022-04-07", "bill": "PN1783", "bill_title": "Nomination of Ketanji Brown Jackson to the Supreme Court", "question": "On the nomination", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 134,
+          "date": "2022-04-07",
+          "bill": "PN1783",
+          "bill_title": "Nomination of Ketanji Brown Jackson to the Supreme Court",
+          "question": "On the nomination",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
-      "rank": 6, "issue": "Crime / policing", "testable": true,
+      "rank": 6,
+      "issue": "Crime / policing",
+      "testable": true,
       "position": "Demilitarize police; ban private prisons; end cash bail; not defund police",
       "position_source": "https://ontheissues.org/Archive/2020_Senate_Web_Jon_Ossoff.htm",
       "votes": [],
       "note": "None of these items got a Senate floor vote this term."
     },
     {
-      "rank": 7, "issue": "Medicare / Social Security", "testable": true,
+      "rank": 7,
+      "issue": "Medicare / Social Security",
+      "testable": true,
       "position": "Let Medicare negotiate drug prices; oppose Social Security cuts",
       "position_source": "https://ontheissues.org/Archive/2020_GA_Senate_Jon_Ossoff.htm",
       "votes": [
-        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07", "bill": "H.R.5376", "bill_title": "Inflation Reduction Act (Medicare drug price negotiation)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 325,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act (Medicare drug price negotiation)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ]
     },
     {
-      "rank": 8, "issue": "Immigration", "testable": true,
+      "rank": 8,
+      "issue": "Immigration",
+      "testable": true,
       "position": "Stronger border security plus path to legal status, including Dreamers",
       "position_source": "https://ontheissues.org/Archive/2020_Senate_Web_Jon_Ossoff.htm",
       "votes": [
-        {"congress": 118, "session": 2, "roll_call": 182, "date": "2024-05-23", "bill": "S.4361", "bill_title": "Border Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+        {
+          "congress": 118,
+          "session": 2,
+          "roll_call": 182,
+          "date": "2024-05-23",
+          "bill": "S.4361",
+          "bill_title": "Border Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "A path to legal status never got a Senate floor vote."
     },
     {
-      "rank": 9, "issue": "Education", "testable": true,
+      "rank": 9,
+      "issue": "Education",
+      "testable": true,
       "position": "Free public college and trade school; student loan forgiveness",
       "position_source": "https://ontheissues.org/Archive/2020_Senate_Web_Jon_Ossoff.htm",
       "votes": [
-        {"congress": 118, "session": 1, "roll_call": 135, "date": "2023-06-01", "bill": "H.J.Res.45", "bill_title": "Disapproval of student loan debt relief", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+        {
+          "congress": 118,
+          "session": 1,
+          "roll_call": 135,
+          "date": "2023-06-01",
+          "bill": "H.J.Res.45",
+          "bill_title": "Disapproval of student loan debt relief",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "Free public college never got a Senate floor vote."
     },
     {
-      "rank": 10, "issue": "Government corruption / ethics", "testable": true,
+      "rank": 10,
+      "issue": "Government corruption / ethics",
+      "testable": true,
       "position": "Ban congressional stock trading; end dark money and Citizens United",
       "position_source": "https://ajc.com/politics/ossoff-proposal-would-ban-members-of-congress-from-trading-stocks/QXP2WOJR2NANDFJR6TVIPJKRHQ",
       "votes": [
-        {"congress": 117, "session": 1, "roll_call": 246, "date": "2021-06-22", "bill": "S.2093", "bill_title": "For the People Act", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false},
-        {"congress": 119, "session": 2, "roll_call": 253, "date": "2026-09-30", "bill": "H.R.7008", "bill_title": "Stop Insider Trading Act (with voter ID provisions)", "question": "Cloture on the motion to proceed", "vote": "Nay", "consistent": false, "auto": false}
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 246,
+          "date": "2021-06-22",
+          "bill": "S.2093",
+          "bill_title": "For the People Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false,
+          "verified": true
+        },
+        {
+          "congress": 119,
+          "session": 2,
+          "roll_call": 253,
+          "date": "2026-09-30",
+          "bill": "H.R.7008",
+          "bill_title": "Stop Insider Trading Act (with voter ID provisions)",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Nay",
+          "consistent": false,
+          "auto": false,
+          "verified": true
+        }
       ],
       "note": "He opposed the 2026 stock-trading bill over its added voter ID rules; his own ban got no floor vote."
     }

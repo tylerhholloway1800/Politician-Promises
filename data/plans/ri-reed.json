@@ -1,0 +1,53 @@
+{
+  "id": "ri-reed", "name": "Jack Reed", "state": "RI", "party": "D",
+  "elected": 2026, "term_start": "2027-01-03", "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026, "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Combined: UNH Survey Center Ocean State Poll (Nov 1, 2026); Emerson College/WPRI RI poll (May 14-16, 2026); Rhode Island Survey Initiative/YouGov (Jul 29-Aug 13, 2026)",
+      "url": "https://emersoncollegepolling.com/rhode-island-2026-helena-foulkes-leads-incumbent-governor-mckee-in-democratic-primary/",
+      "note": "UNH Nov 2026 abstract names affordability/inflation and the economy as top issues (no percentages accessible). Emerson May 2026 most-important-issue: economy 31%, housing affordability 21%, health care 12%, infrastructure 10% (others not published). RISI Aug 2026 top priorities for state government ranked the rest: housing 64%, health care 62%, roads/bridges 37%, education 30%, crime 26%, aid to the poor 25%, environment 19%, clean energy 14%. RISI listed no national issues, so Immigration was placed at rank 6 based on UNH's July 2024 RI most-important-problem poll (immigration 6%, tied with education) and its prominence in 2026 national polling. RISI: https://oceanstatestories.org/?p=8052 ; UNH: https://scholars.unh.edu/survey_center_polls/1015"
+    },
+    "issues": [
+      {"rank": 1, "issue": "Economy and cost of living", "rating": "Partial",
+       "detail": "Oppose Trump administration tariffs; seek refunds of tariff costs to consumers.",
+       "source": "https://www.oceanstatemedia.org/one-on-one-with-ian-donnis/i-feel-ready-to-go-after-30-years-in-the-u-s-senate-jack-reed-is-eager-for-a-sixth-term?p=33"},
+      {"rank": 2, "issue": "Housing affordability", "rating": "Vague",
+       "detail": "Calls lowering housing costs a top priority; no specific measure or target stated.",
+       "source": "https://www.reed.senate.gov/issues/housing"},
+      {"rank": 3, "issue": "Health care", "rating": "Concrete",
+       "detail": "Restore enhanced ACA premium tax credits; address health-industry consolidation and price transparency.",
+       "source": "https://turnto10.com/news/local/us-senator-reed-discuses-efforts-to-reverse-trump-administrations-cuts-to-health-care-sept-8-2026"},
+      {"rank": 4, "issue": "Infrastructure (roads and bridges)", "rating": "None",
+       "detail": "", "source": "https://whatsupnewp.com/?p=531580"},
+      {"rank": 5, "issue": "Education", "rating": "Partial",
+       "detail": "Oppose shifting federal Head Start standards and decisions to the states.",
+       "source": "https://www.newsfromthestates.com/node/424359"},
+      {"rank": 6, "issue": "Immigration", "rating": "Concrete",
+       "detail": "Require ICE agents to be unmasked, show identification, and wear body cameras.",
+       "source": "https://www.oceanstatemedia.org/one-on-one-with-ian-donnis/i-feel-ready-to-go-after-30-years-in-the-u-s-senate-jack-reed-is-eager-for-a-sixth-term?p=33"},
+      {"rank": 7, "issue": "Crime and public safety", "rating": "Vague",
+       "detail": "Enact more commonsense gun violence reforms; no specific measure named.",
+       "source": "https://giffords.org/press-release/2026/04/giffords-pac-endorses-jack-reed-for-us-senate/"},
+      {"rank": 8, "issue": "Anti-poverty programs", "rating": "None",
+       "detail": "", "source": "https://www.reed.senate.gov/news/releases/at-federal-hill-houses-swiss-street-food-pantry-reed-touts-plan-to-reverse-trumps-snap-cuts-and-restore-nutrition-assistance"},
+      {"rank": 9, "issue": "Environment and climate", "rating": "Partial",
+       "detail": "National energy policy limiting carbon pollution; oppose weakening the Clean Water Act.",
+       "source": "https://ecori.org/wp-content/uploads/2026/08/2026-Senator-Candidate-Charts.pdf"},
+      {"rank": 10, "issue": "Clean energy", "rating": "Partial",
+       "detail": "Oppose further federal halts of Revolution Wind; national policy developing renewable energy.",
+       "source": "https://www.oceanstatemedia.org/one-on-one-with-ian-donnis/i-feel-ready-to-go-after-30-years-in-the-u-s-senate-jack-reed-is-eager-for-a-sixth-term?p=33"}
+    ]
+  },
+  "plan_caveats": [
+    "Reed ran a low-profile campaign: no campaign issue pages found, no debates held, and few specific forward-looking pledges; most positions come from 2026 interviews and in-office 2026 statements.",
+    "Issue ranking combines three polls with different question types (MIP vs state-government priorities); no single 2026 RI poll ranked 10 issues, and UNH Nov 2026 percentages were inaccessible (PDF blocked).",
+    "Immigration rank (6) is a judgment call: RISI did not ask national issues; placement uses UNH 2024 RI data and national 2026 polling.",
+    "Housing rated Vague from the official Senate issue page only; his housing record (federal funds) is past record and not counted.",
+    "Anti-poverty rated None: his SNAP restoration bill (S.3281) plan is a Nov 2025 in-office release, not a 2026 campaign statement; it would otherwise be Concrete.",
+    "Infrastructure rated None: he pledged legislation to release denied 2026 blizzard FEMA aid (turnto10, Sep 4 2026), treated as disaster aid rather than roads/bridges.",
+    "Environment/climate positions are ecoRI's compilation from his website, not direct campaign answers.",
+    "Tariff refund item comes from a March 2026 Senate letter; the campaign framing (opposing tariffs as a reason to run) is from a Feb 2026 interview."
+  ],
+  "researched": "2026-11-05"
+}

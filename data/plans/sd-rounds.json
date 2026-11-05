@@ -1,0 +1,62 @@
+{
+  "id": "sd-rounds",
+  "name": "Mike Rounds",
+  "state": "SD",
+  "party": "R",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Emerson College Polling / KELOLAND Media Group South Dakota Poll (1,000 likely voters, March 7-9, 2026; most important issue facing South Dakota) combined with Pew Research Center national survey of registered voters, Sept. 28-Oct. 4, 2026 (share calling each issue 'very important')",
+      "url": "https://emersoncollegepolling.com/south-dakota-2026-poll-dusty-johnson-leads-incumbent-larry-rhoden-in-governor-election/",
+      "note": "Combined. The only 2026 South Dakota poll found that ranks issues is the March Emerson/KELOLAND poll, which published five items: economy 35%, threats to democracy 13%, housing affordability 13% (tie, kept in published order), education 11%, health care 9%; these are ranks 1-5. Ranks 6-10 are the next Pew national items in Pew order (https://www.pewresearch.org/politics/2026/10/08/economy-ranks-as-top-issue-in-midterms-for-all-voters-but-partisans-differ-over-the-importance-of-other-issues/): immigration 59, foreign policy 57, energy 54, violent crime 52, abortion 46 (economy, democracy, health care already placed). The fall 2026 South Dakota News Watch/Mason-Dixon poll (Oct 12-14) and the Emerson October 2026 SD poll did not publish an issue-ranking question as far as found; Senate-race internal polls (PPP, Impact, Lake, POS, Zenith) published no issue question found."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Economy and cost of living", "rating": "Concrete",
+       "detail": "Pass RANCH Act: voluntary grazing program returning 20 million acres to grass; mandatory country-of-origin labeling for beef; limit beef imports; cut taxes",
+       "source": "https://www.dtnpf.com/agriculture/web/Ag/livestock/article/2026/08/24/ranch-act-aims-expand-20m-acres-land"},
+      {"rank": 2, "issue": "Democracy and elections", "rating": "Concrete",
+       "detail": "Pass the SAVE America Act: voter ID at the polls and enforcement of citizenship requirement to vote",
+       "source": "https://www.dakotanewsnow.com/2026/03/14/sen-rounds-ready-save-america-act-appear-senate-floor/"},
+      {"rank": 3, "issue": "Housing", "rating": "None",
+       "detail": "No 2026 campaign position found",
+       "source": "https://www.dakotanewsnow.com/2026/09/22/inside-race-rounds-bengs-talk-senate-priorities-ahead-november-election/"},
+      {"rank": 4, "issue": "Education", "rating": "Vague",
+       "detail": "Good educational opportunities; strong institutions; keep young people in South Dakota",
+       "source": "https://www.sdpb.org/politics/2026-01-22/rounds-announces-u-s-senate-reelection-bid"},
+      {"rank": 5, "issue": "Health care", "rating": "Partial",
+       "detail": "Extend enhanced ACA premium tax credits only with changes; anti-fraud measures; no taxpayer funding of abortion in any health plan",
+       "source": "https://www.kotatv.com/2026/01/15/there-is-path-forward-rounds-weighs-senate-healthcare-negotiations/"},
+      {"rank": 6, "issue": "Immigration", "rating": "Vague",
+       "detail": "Border security to reduce illegal drugs reaching South Dakota",
+       "source": "https://www.newscenter1.tv/rounds-asks-voters-for-another-term-in-the-senate"},
+      {"rank": 7, "issue": "Foreign policy", "rating": "Partial",
+       "detail": "Back military action against Iran aimed at ending the Khamenei regime; require a defined endgame and national defense strategy; stay ahead of China on AI",
+       "source": "https://www.dakotanewsnow.com/2026/09/22/inside-race-rounds-bengs-talk-senate-priorities-ahead-november-election/"},
+      {"rank": 8, "issue": "Energy", "rating": "Partial",
+       "detail": "Support nationwide E15 ethanol sales; grow South Dakota energy production",
+       "source": "https://www.dakotanewsnow.com/2026/08/19/thune-rounds-johnson-talk-farm-bill-more-with-producers/"},
+      {"rank": 9, "issue": "Crime and public safety", "rating": "Vague",
+       "detail": "Keep communities safe",
+       "source": "https://www.kotatv.com/2026/05/27/south-dakota-gop-primary-preview-us-senate/"},
+      {"rank": 10, "issue": "Abortion", "rating": "Concrete",
+       "detail": "Legal protection from conception; abortion only to save mother's life; no taxpayer funds to abortion providers incl. Planned Parenthood; enforce Comstock Act",
+       "source": "https://ivoterguide.com/candidate/19691/race/33283/election/1480"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue ranking combines a March 2026 South Dakota poll (five items published) with national Pew ranks for 6-10; no fall 2026 South Dakota poll with a published issue question was found.",
+    "Rounds ran a low-detail campaign: his campaign issues page (roundsforsenate.com/issues) could not be fetched, he did not complete Ballotpedia's 2026 survey, answered only the abortion section of the iVoterGuide 2026 questionnaire, and declined SDPB and KELOLAND debates (per Bengs campaign, Dakota News Now Oct 9, 2026). Positions come from launch coverage (Jan 2026), interviews and news reports.",
+    "Economy rated Concrete on the RANCH Act (introduced with Klobuchar Aug 2026, touted by Rounds in the campaign as the long-term fix for beef supply; SDPB Aug 31, 2026) and mandatory COOL (launch interview, NewsCenter1). An undated 2026 American Ag Network interview adds that he wants M-COOL required in any future Canada/Mexico trade agreement; not used as the source due to missing date.",
+    "Democracy rated Concrete on SAVE America Act support stated in March 2026 while the bill was before the Senate; this is an in-office legislative position on a not-yet-enacted bill, treated as forward-looking. His filibuster position was not found.",
+    "Health care rated Partial from a Jan 15, 2026 interview on Senate negotiations (one week before his formal launch); no campaign health plan found.",
+    "Foreign policy rated Partial: the Khamenei-regime line is from his Feb 28, 2026 X post backing U.S. strikes (via KOTA, https://kotatv.com/2026/02/28/thune-johnson-back-us-airstrikes-iran/); the endgame/strategy and China-AI items are from the Sept 2026 Dakota News Now interview. Neither names a checkable bill or target.",
+    "Energy rated Partial: report says only that he 'feels good about' E15 going nationwide; no named bill commitment.",
+    "Housing rated None: his role in the 21st Century ROAD to Housing Act and rural housing bills is office record (Senate site), not a 2026 campaign statement.",
+    "Taxes: he cited the enacted Working Families Tax Cut Act (record) and vowed generally to let South Dakotans keep more earnings; folded into Economy as a vague item."
+  ],
+  "researched": "2026-11-05"
+}

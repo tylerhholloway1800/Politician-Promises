@@ -1,0 +1,144 @@
+{
+  "id": "or-merkley",
+  "name": "Jeff Merkley",
+  "state": "OR",
+  "party": "D",
+  "elected": 2020,
+  "term_start": "2021-01-03",
+  "term_end": "2027-01-03",
+  "issue_poll": {
+    "name": "DHM Research / Oregon Values and Beliefs Center statewide survey, Oct 1–6, 2020",
+    "url": "https://www.dhmresearch.com/wp-content/uploads/2022/10/DHM_0OVBC-Annotated-Questionnaire-October-2020.pdf",
+    "note": "Open-ended most important issue (n=600 adults). Combined: law and order + general safety; three COVID codes; homelessness + affordable housing. 'Removing Gov. Brown' dropped (state, untestable). Education and health care tied at 4%."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Public safety / law enforcement",
+      "testable": true,
+      "position": "Limit federal agents at protests; require officers to show ID",
+      "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
+      "votes": [],
+      "note": "No Senate floor vote on federal law-enforcement identification limits this term."
+    },
+    {
+      "rank": 2,
+      "issue": "COVID-19",
+      "testable": true,
+      "position": "Pass more multi-trillion-dollar pandemic relief, including state and local aid",
+      "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
+      "votes": [
+        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06",
+         "bill": "H.R.1319", "bill_title": "American Rescue Plan Act of 2021", "question": "On passage",
+         "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Housing / homelessness",
+      "testable": true,
+      "position": "At least $100 billion in emergency rental assistance",
+      "position_source": "https://www.wyden.senate.gov/news/press-releases/merkley-wyden-colleagues-urge-trump-to-work-with-congress-to-provide-emergency-rental-assistance-and-protections",
+      "votes": [
+        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06",
+         "bill": "H.R.1319", "bill_title": "American Rescue Plan Act of 2021", "question": "On passage",
+         "vote": "Yea", "consistent": true, "auto": false}
+      ],
+      "note": "ARP included about $21.5B in rental aid plus housing vouchers; Dec 2020 aid fell before his term."
+    },
+    {
+      "rank": 4,
+      "issue": "Environment / climate",
+      "testable": true,
+      "position": "Near-zero carbon emissions by 2050; more forest-thinning funding",
+      "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
+      "votes": [
+        {"congress": 117, "session": 1, "roll_call": 314, "date": "2021-08-10",
+         "bill": "H.R.3684", "bill_title": "Infrastructure Investment and Jobs Act", "question": "On passage",
+         "vote": "Yea", "consistent": true, "auto": false},
+        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07",
+         "bill": "H.R.5376", "bill_title": "Inflation Reduction Act of 2022", "question": "On passage",
+         "vote": "Yea", "consistent": true, "auto": false},
+        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01",
+         "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage",
+         "vote": "Nay", "consistent": true, "auto": false}
+      ],
+      "note": "He also pledged to end fossil-fuel leasing on public lands; the IRA he backed required new lease sales."
+    },
+    {
+      "rank": 5,
+      "issue": "Economy / jobs",
+      "testable": true,
+      "position": "Continue the $600-a-week federal unemployment benefit",
+      "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
+      "votes": [
+        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06",
+         "bill": "H.R.1319", "bill_title": "American Rescue Plan Act of 2021", "question": "On passage",
+         "vote": "Yea", "consistent": true, "auto": false}
+      ],
+      "note": "ARP extended federal jobless aid at $300 a week, below the $600 he backed."
+    },
+    {
+      "rank": 6,
+      "issue": "Police reform / racial justice",
+      "testable": true,
+      "position": "Pass national police standards; end no-knock warrants",
+      "position_source": "https://www.kgw.com/article/news/politics/jo-rae-perkins-qanon-oregon-senate-jeff-merkley-orpol-politics-election/283-a0214c4e-5caa-4bff-b4f0-453d49ceb94d",
+      "votes": [],
+      "note": "Justice in Policing Act never reached a Senate floor vote this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Government spending",
+      "testable": false,
+      "position": "Reinvest in health care, housing and education (direction only)",
+      "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Taxes",
+      "testable": true,
+      "position": "Repeal 2017 tax cuts; close corporate tax loopholes",
+      "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
+      "votes": [
+        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07",
+         "bill": "H.R.5376", "bill_title": "Inflation Reduction Act of 2022", "question": "On passage",
+         "vote": "Yea", "consistent": true, "auto": false},
+        {"congress": 119, "session": 1, "roll_call": 372, "date": "2025-07-01",
+         "bill": "H.R.1", "bill_title": "One Big Beautiful Bill Act", "question": "On passage",
+         "vote": "Nay", "consistent": true, "auto": false}
+      ],
+      "note": "IRA added a 15% minimum tax on large corporations; H.R.1 made the 2017 cuts permanent."
+    },
+    {
+      "rank": 9,
+      "issue": "Education",
+      "testable": true,
+      "position": "Federal pandemic aid for schools",
+      "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
+      "votes": [
+        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06",
+         "bill": "H.R.1319", "bill_title": "American Rescue Plan Act of 2021", "question": "On passage",
+         "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 10,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Extend Medicare to cover all Americans",
+      "position_source": "https://www.ijpr.org/politics-government/2020-10-21/us-sen-jeff-merkley-faces-a-challenge-from-qanon-believer-jo-rae-perkins",
+      "votes": [],
+      "note": "No Senate floor vote on Medicare for All this term."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Poll is of Oregon adults (not likely voters), open-ended, and asked about state leaders; categories were combined as noted.",
+    "Most positions come from one JPR campaign profile (Oct 2020); Merkley had no debate and no Ballotpedia survey.",
+    "Four issues (COVID, housing, economy, education) rest on the single ARP vote.",
+    "Roll call numbers are from memory/secondary sources; senate.gov was not reachable."
+  ],
+  "researched": "2026-11-04"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "ri-reed",
+  "name": "Jack Reed",
+  "state": "RI",
+  "party": "D",
+  "elected": 2020,
+  "term_start": "2021-01-03",
+  "term_end": "2027-01-03",
+  "issue_poll": {
+    "name": "AP VoteCast Rhode Island, Oct 27–Nov 3, 2020 (most important issue facing the country)",
+    "url": "https://www.997wpro.com/?p=1458608",
+    "note": "Ranks 1–5 from AP VoteCast RI (pandemic 48%, economy 26%, health care 9%, racism 8%, immigration 3%). Climate change placed 6th because the COVID-19 Consortium (Sept 2020) ranked it second in RI (https://www.bostonglobe.com/2020/11/02/metro/poll-rhode-islanders-consider-climate-change-bigger-problem-than-racism-or-economy). Ranks 7–9 are the remaining VoteCast answer options (RI shares not published); rank 10 (gun regulation) taken from the consortium's issue list by judgment."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Coronavirus pandemic",
+      "testable": true,
+      "position": "Pass a new multi-trillion COVID relief package with state and local aid",
+      "position_source": "https://www.reed.senate.gov/news/releases/reed-additional-flexibility-and-direct-federal-aid-to-states-needed-to-ease-covid-19-strain",
+      "votes": [
+        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06", "bill": "H.R.1319", "bill_title": "American Rescue Plan Act of 2021", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Economy / jobs",
+      "testable": true,
+      "position": "Raise the federal minimum wage to $15 an hour",
+      "position_source": "https://www.bostonglobe.com/2020/02/21/metro/we-asked-they-answered-where-ris-congressional-delegation-stands-key-issues",
+      "votes": [
+        {"congress": 117, "session": 1, "date": "2021-03-05", "bill": "H.R.1319", "bill_title": "American Rescue Plan Act (Sanders $15 minimum wage amendment)", "question": "On the motion to waive the Budget Act", "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Protect the ACA's pre-existing condition rules and tax credits; add a public option",
+      "position_source": "https://www.reed.senate.gov/news/releases/reed-statement-on-trumps-supreme-court-nomination-of-judge-amy-coney-barrett",
+      "votes": [
+        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07", "bill": "H.R.5376", "bill_title": "Inflation Reduction Act (ACA tax credit extension)", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
+        {"congress": 119, "session": 1, "roll_call": 644, "date": "2025-12-11", "bill": "S.3385", "bill_title": "ACA premium tax credit extension", "question": "Cloture on the motion to proceed", "vote": "Yea", "consistent": true, "auto": false}
+      ],
+      "note": "Public option (Boston Globe questionnaire, Feb 2020) never got a floor vote."
+    },
+    {
+      "rank": 4,
+      "issue": "Racism / policing",
+      "testable": false,
+      "position": "Police transparency, accountability and oversight (no specific bill stated)",
+      "position_source": "https://www.reed.senate.gov/issues/justice-and-law-enforcement",
+      "votes": []
+    },
+    {
+      "rank": 5,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pass the DREAM Act",
+      "position_source": "https://www.reed.senate.gov/news/releases/reed-cheers-scotus-decision-upholding-daca-protections",
+      "votes": [],
+      "note": "No Senate floor vote on the DREAM Act this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Climate change",
+      "testable": true,
+      "position": "Reverse Trump rollbacks of clean-air and car-emission limits",
+      "position_source": "https://www.dailykos.com/stories/2020/5/1/1942026/-RI-Sen-Sen-Jack-Reed-D-Hits-Trump-For-Using-COVID-19-Pandemic-To-Rollback-Clean-Air-Protections",
+      "votes": [
+        {"congress": 117, "session": 1, "date": "2021-04-28", "bill": "S.J.Res.14", "bill_title": "Disapproval of 2020 methane emissions rule rollback", "question": "On passage", "vote": "Yea", "consistent": true, "auto": false},
+        {"congress": 119, "session": 1, "date": "2025-05-22", "bill": "H.J.Res.88", "bill_title": "Disapproval of California vehicle emissions waiver", "question": "On passage", "vote": "Nay", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 7,
+      "issue": "Crime / law enforcement",
+      "testable": true,
+      "position": "Require federal officers at protests to display identification",
+      "position_source": "https://www.reed.senate.gov/news/releases/reed-law-enforcement-and-military-engaged-in-civilian-crowd-control-must-identify-themselves",
+      "votes": [],
+      "note": "No floor vote on the Law Enforcement Identification Act this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Abortion",
+      "testable": false,
+      "position": "No specific 2020 campaign position found",
+      "position_source": "https://www.reed.senate.gov/news/releases/reed-statement-on-trumps-supreme-court-nomination-of-judge-amy-coney-barrett",
+      "votes": []
+    },
+    {
+      "rank": 9,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "No military action against Iran without congressional authorization",
+      "position_source": "https://www.reed.senate.gov/news/speeches/reed-discusses-iran-tensions-on-the-senate-floor",
+      "votes": [
+        {"congress": 119, "session": 1, "roll_call": 328, "date": "2025-06-27", "bill": "S.J.Res.59", "bill_title": "Iran war powers resolution", "question": "On the motion to discharge", "vote": "Yea", "consistent": true, "auto": false},
+        {"congress": 119, "session": 2, "roll_call": 46, "date": "2026-03-04", "bill": "S.J.Res.104", "bill_title": "Iran war powers resolution", "question": "On the motion to discharge", "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 10,
+      "issue": "Gun regulation",
+      "testable": false,
+      "position": "No specific 2020 campaign position found",
+      "position_source": "https://www.reed.senate.gov/issues/gun-safety",
+      "votes": []
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Issue ranks 7–10 ordered without published RI percentages; rank 10 is a judgment pick.",
+    "No 2020 campaign website or debate found (no debates held); positions come from Senate releases, a Feb 2020 Globe questionnaire and a campaign email.",
+    "Roll call numbers for the Mar 5, 2021 minimum wage vote, S.J.Res.14 and H.J.Res.88 not confirmed; Reed's votes on these and the Iran resolutions inferred from party-line reporting."
+  ],
+  "researched": "2026-11-04"
+}

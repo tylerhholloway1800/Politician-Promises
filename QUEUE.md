@@ -83,7 +83,7 @@ Lock winners' plans once results are final; re-elected incumbents also get a del
 - SAVE America Act vs. a 2022 pledge to oppose federalizing elections: ks-moran scores it Contradicted, ar-boozman leaves it unscored. Same rule needed. (nd-hoeven also scored Contradicted.)
 - Procedural Nays to enable reconsideration (e.g. Schumer on RC 211) are scored consistent by hand; make sure verify_votes never flips them.
 - Plan sourcing: ma-markey is 10/10 Concrete mostly from "YES" answers on an advocacy-group questionnaire; decide whether questionnaire checkboxes count as Concrete (affects others using Ballotpedia/iVoterGuide surveys too).
-- nm-lujan delivery: agent used only ~9 searches and took roll call numbers/dates from memory; re-check after verify_votes runs (or re-research).
+- nm-lujan and or-merkley delivery: agents used only ~9-10 searches and took roll call numbers/dates from memory; re-check after verify_votes runs (or re-research).
 
 ## 2026 class: lock winners' plans (closed races, as of Nov 5)
 Plan brief: "Read /home/claude/politician-promises/PLAN.md and follow it exactly for: <Name> (<P>-<ST>), won the 2026 U.S. Senate race. File id: <id>"
@@ -133,10 +133,10 @@ Message to a fresh agent: "In /home/claude/politician-promises/data/senators/<id
 - [x] plan:nm-lujan Ben Ray Luján D-NM
 - [x] del:nm-lujan elected 2020, term 2021-01-03
 - [x] plan:or-merkley Jeff Merkley D-OR
-- [ ] del:or-merkley elected 2020, term 2021-01-03
-- [ ] plan:ri-reed Jack Reed D-RI
-- [ ] del:ri-reed elected 2020, term 2021-01-03
-- [ ] plan:sd-rounds Mike Rounds R-SD
+- [x] del:or-merkley elected 2020, term 2021-01-03
+- [x] plan:ri-reed Jack Reed D-RI
+- [x] del:ri-reed elected 2020, term 2021-01-03
+- [x] plan:sd-rounds Mike Rounds R-SD
 - [ ] del:sd-rounds elected 2020, term 2021-01-03
 - [ ] plan:tn-hagerty Bill Hagerty R-TN
 - [ ] del:tn-hagerty elected 2020, term 2021-01-03

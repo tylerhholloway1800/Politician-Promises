@@ -1,0 +1,233 @@
+{
+  "id": "co-hickenlooper",
+  "name": "John Hickenlooper",
+  "state": "CO",
+  "party": "D",
+  "elected": 2020,
+  "term_start": "2021-01-03",
+  "term_end": "2027-01-03",
+  "issue_poll": {
+    "name": "AP VoteCast Colorado, Oct 26–Nov 3, 2020",
+    "url": "https://m.washingtontimes.com/news/2020/nov/4/ap-votecast-colorado-voters-sour-on-state-of-natio/",
+    "note": "Colorado figures were published only for the top 4 issues (coronavirus, economy, climate change, health care). Ranks 5–10 follow the national AP VoteCast 2020 order, which is approximate."
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Coronavirus pandemic",
+      "testable": true,
+      "position": "Pass another COVID relief bill",
+      "position_source": "https://coloradosun.com/2020/10/13/colorado-senate-debate-cory-gardner-john-hickenlooper-2/",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 1,
+          "roll_call": 110,
+          "date": "2021-03-06",
+          "bill": "H.R.1319",
+          "bill_title": "American Rescue Plan Act of 2021",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Economy and jobs",
+      "testable": true,
+      "position": "End the 2017 tax law's breaks for large corporations",
+      "position_source": "https://hickenlooper.com/?p=8306",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act (15% corporate minimum tax)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Climate change",
+      "testable": true,
+      "position": "Net-zero emissions by 2050; rejoin Paris; price carbon",
+      "position_source": "https://www.coloradopolitics.com/2020/10/07/voter-guide-2020-gardner-hickenlooper-offer-clear-contrasts-on-pressing-issues-b733702e-01f6-11eb-a6de-67d6eb51790e/",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 372,
+          "date": "2025-07-01",
+          "bill": "H.R.1",
+          "bill_title": "One Big Beautiful Bill Act (clean-energy credit repeal)",
+          "question": "On passage",
+          "vote": "Nay",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Carbon pricing never got a floor vote."
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Strengthen the ACA; add a public option",
+      "position_source": "https://www.coloradopolitics.com/2020/10/07/voter-guide-2020-gardner-hickenlooper-offer-clear-contrasts-on-pressing-issues-b733702e-01f6-11eb-a6de-67d6eb51790e/",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "date": "2022-08-07",
+          "bill": "H.R.5376",
+          "bill_title": "Inflation Reduction Act (ACA subsidy extension)",
+          "question": "On passage",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        },
+        {
+          "congress": 119,
+          "session": 1,
+          "roll_call": 644,
+          "date": "2025-12-11",
+          "bill": "S.3385",
+          "bill_title": "ACA premium tax credit extension",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Public option never got a floor vote."
+    },
+    {
+      "rank": 5,
+      "issue": "Racial justice",
+      "testable": true,
+      "position": "Pass the Health Equity and Accountability Act",
+      "position_source": "https://www.coloradopolitics.com/2020/05/30/democratic-us-senate-candidate-john-hickenlooper-releases-plan-to-address-legacy-of-inequality-2dd36af2-a1fa-11ea-8697-2ff85f5ef9b6/",
+      "votes": [],
+      "note": "No Senate floor vote on the bill this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Law enforcement / policing",
+      "testable": true,
+      "position": "Require police body cameras; more police oversight",
+      "position_source": "https://www.coloradopolitics.com/2020/05/30/democratic-us-senate-candidate-john-hickenlooper-releases-plan-to-address-legacy-of-inequality-2dd36af2-a1fa-11ea-8697-2ff85f5ef9b6/",
+      "votes": [],
+      "note": "No Senate floor vote on police reform legislation this term."
+    },
+    {
+      "rank": 7,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pass the American Dream and Promise Act; citizenship path for Dreamers",
+      "position_source": "https://hickenlooper.com/?p=7627",
+      "votes": [],
+      "note": "No Senate floor vote on a Dreamer citizenship bill this term."
+    },
+    {
+      "rank": 8,
+      "issue": "Abortion",
+      "testable": true,
+      "position": "Protect abortion rights; oppose abortion bans",
+      "position_source": "https://hickenlooper.com/?p=7674",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 65,
+          "date": "2022-02-28",
+          "bill": "H.R.3755",
+          "bill_title": "Women's Health Protection Act",
+          "question": "Cloture on the motion to proceed",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Universal background checks, magazine limit, assault weapons ban, red-flag laws",
+      "position_source": "https://www.coloradopolitics.com/2020/10/07/voter-guide-2020-gardner-hickenlooper-offer-clear-contrasts-on-pressing-issues-b733702e-01f6-11eb-a6de-67d6eb51790e/",
+      "votes": [
+        {
+          "congress": 117,
+          "session": 2,
+          "roll_call": 242,
+          "date": "2022-06-23",
+          "bill": "S.2938",
+          "bill_title": "Bipartisan Safer Communities Act",
+          "question": "On the motion to concur in the House amendment",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Act funded red-flag programs and expanded under-21 checks; the ban and magazine limit got no vote."
+    },
+    {
+      "rank": 10,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "Return to the Iran nuclear deal; avoid wars of choice",
+      "position_source": "https://hickenlooper.com/?p=7566",
+      "votes": [
+        {
+          "congress": 119,
+          "session": 1,
+          "date": "2025-06-27",
+          "bill": "S.J.Res.59",
+          "bill_title": "Iran war powers resolution",
+          "question": "On the motion to discharge",
+          "vote": "Yea",
+          "consistent": true,
+          "auto": false
+        }
+      ],
+      "note": "Rated on war powers; no floor vote on rejoining the Iran deal."
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Only the top 4 issues come from Colorado data; ranks 5–10 use the national AP VoteCast order.",
+    "Abortion position is general (protect rights, oppose bans); no 2020 Senate-campaign pledge to codify Roe was found.",
+    "Roll call numbers for the IRA (2022-08-07) and S.J.Res.59 (2025-06-27) were not confirmed. The S.J.Res.59 vote is inferred: 47-53, with Fetterman the only Democrat voting no."
+  ],
+  "researched": "2026-11-04"
+}

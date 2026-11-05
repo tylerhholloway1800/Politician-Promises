@@ -1,0 +1,61 @@
+{
+  "id": "ga-ossoff",
+  "name": "Jon Ossoff",
+  "state": "GA",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Emerson College Polling/Nexstar Georgia poll, Feb 28-Mar 2, 2026, 1,000 Georgia voters (most important issue facing Georgia)",
+      "url": "https://digital-release.wsav.com/news/your-local-election-hq/georgians-most-concerned-about-economy-emerson-poll-says/amp/",
+      "note": "No fall 2026 Georgia poll with a published issue ranking was found (AJC/UGA Oct 7-15 and Quantus Oct 15-17 reports gave no issue ranking). Ranks 1-9 are Emerson's closed-list most-important-issue results in order: economy (jobs, inflation, taxes) 35.5%, housing affordability 14.3%, health care 13.8%, threats to democracy 11.1%, crime 7.7%, immigration 7.2%, education 4.8%, abortion access 2.0%, foreign policy 0.3% ('something else' 3.4% dropped). Rank 10 added from the AARP Georgia poll (Fabrizio Ward/Impact Research, Jul 13-16, 2026, 1,060 likely voters; https://www.aarp.org/pri/topics/voter-research/politics/2026-midterm-election-poll-georgia/), where Social Security and Medicare was a top-two voting issue for 22% of voters 50+, the highest-ranked issue not on Emerson's list. AARP's 50+ results (affordability 35%, immigration 27%, democracy 27%) broadly agree with Emerson's top items. National and state issues ranked together."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Economy and cost of living", "rating": "Concrete",
+       "detail": "Repeal Trump tariffs; ban surveillance-based pricing via Stop Price Gouging in Grocery Stores Act of 2026.",
+       "source": "https://www.gpb.org/news/2026/10/14/ossoff-and-collins-exchange-fire-in-heated-senate-campaign-debate"},
+      {"rank": 2, "issue": "Housing costs", "rating": "Partial",
+       "detail": "Lower housing prices by limiting out-of-state companies buying single-family homes (21st Century ROAD to Housing Act, already law).",
+       "source": "https://www.atlantanewsfirst.com/2026/10/08/beyond-talking-points-issues-facing-georgia-us-senate-debate/"},
+      {"rank": 3, "issue": "Health care", "rating": "Concrete",
+       "detail": "Reverse 2025 Medicaid cuts; extend or make permanent enhanced ACA tax credits; expand Medicaid in Georgia; limit insurer claim denials.",
+       "source": "https://ballotpedia.org/Jon_Ossoff"},
+      {"rank": 4, "issue": "Democracy and government ethics", "rating": "Concrete",
+       "detail": "Ban congressional stock trading; ban corporate PACs; vote against measures making it harder for eligible voters to vote, such as added voter ID requirements.",
+       "source": "https://www.ajc.com/politics/2026/10/why-did-ossoff-oppose-a-congressional-stock-trading-ban-its-complicated/"},
+      {"rank": 5, "issue": "Crime and public safety", "rating": "Vague",
+       "detail": "Support law enforcement; target fentanyl trafficking and online child exploitation.",
+       "source": "https://www.atlantanewsfirst.com/2026/10/28/georgias-us-senate-showdown-ossoff-collins-lay-out-visions-2026/"},
+      {"rank": 6, "issue": "Immigration", "rating": "Partial",
+       "detail": "Remove immigrants here illegally who commit crimes (Laken Riley Act, already law); narrow its overbroad provisions; more ICE detention oversight.",
+       "source": "https://www.gpb.org/news/2026/10/14/ossoff-and-collins-exchange-fire-in-heated-senate-campaign-debate"},
+      {"rank": 7, "issue": "Education", "rating": "Vague",
+       "detail": "Increase federal funding for Georgia HBCUs.",
+       "source": "https://ballotpedia.org/Jon_Ossoff"},
+      {"rank": 8, "issue": "Abortion", "rating": "Partial",
+       "detail": "Support federal abortion protections at the Roe v. Wade privacy standard; no bill named.",
+       "source": "https://politifact.com/factchecks/2026/oct/16/mike-collins/collins-ossoff-abortion-georgia-roevwade/"},
+      {"rank": 9, "issue": "Foreign policy", "rating": "Concrete",
+       "detail": "End the U.S. war with Iran if Democrats win the Senate; more humanitarian aid to Gaza; support Israel's self-defense.",
+       "source": "https://www.gpb.org/news/2026/10/14/ossoff-and-collins-exchange-fire-in-heated-senate-campaign-debate"},
+      {"rank": 10, "issue": "Social Security and Medicare", "rating": "Vague",
+       "detail": "Defend Social Security and Medicare benefits.",
+       "source": "https://www.ncpssm.org/documents/latest-news/national-seniors-group-endorses-senator-jon-ossoff-for-reelection/"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue poll is from early March 2026 (pre-primary, all Georgians not likely voters); no fall 2026 Georgia poll with an issue ranking was found. Rank 10 comes from a different poll (AARP, voters 50+ only).",
+    "Poll item 'threats to democracy' was mapped to voting access plus government ethics (stock trading and corporate PAC bans); this is a judgment call.",
+    "Ossoff campaigned mostly on his record and attacks on Trump/Collins; few forward-looking specifics. Campaign issues text (electjon.com, July 30, 2026) was read via Ballotpedia; its priority bullets mix past accomplishments with goals, and were treated as stated goals.",
+    "Grocery price-gouging bill and ACA tax credit position come from a news issue explainer (Atlanta News First, Oct 8, 2026) rather than his own words; the ACA position was phrased as the credits 'should have been' extended.",
+    "Tariff repeal and Iran war end are from the Oct 13 Atlanta Press Club debate; the Iran pledge is conditional on a Democratic Senate majority.",
+    "Housing rated Partial because the investor-limit law he cites (21st Century ROAD to Housing Act) has already passed; no new housing proposal found.",
+    "Immigration rated Partial: points to existing Laken Riley Act and says to fix overbroad provisions without naming which.",
+    "Several debate news pages (WABE, Daily Signal) could not be fetched."
+  ],
+  "researched": "2026-11-05"
+}

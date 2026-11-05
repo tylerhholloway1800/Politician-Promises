@@ -115,10 +115,10 @@ Message to a fresh agent: "In /home/claude/politician-promises/data/senators/<id
 - [x] plan:ar-cotton Tom Cotton R-AR
 - [x] del:ar-cotton elected 2020, term 2021-01-03
 - [x] plan:co-hickenlooper John Hickenlooper D-CO
-- [ ] del:co-hickenlooper elected 2020, term 2021-01-03
-- [ ] plan:de-coons Chris Coons D-DE
-- [ ] del:de-coons elected 2020, term 2021-01-03
-- [ ] plan:ga-ossoff Jon Ossoff D-GA
+- [x] del:co-hickenlooper elected 2020, term 2021-01-03
+- [x] plan:de-coons Chris Coons D-DE
+- [x] del:de-coons elected 2020, term 2021-01-03
+- [x] plan:ga-ossoff Jon Ossoff D-GA
 - [ ] del:ga-ossoff elected 2020 (Jan 2021 runoff), term 2021-01-20
 - [ ] plan:id-risch Jim Risch R-ID
 - [ ] del:id-risch elected 2020, term 2021-01-03

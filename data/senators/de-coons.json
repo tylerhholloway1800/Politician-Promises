@@ -1,0 +1,135 @@
+{
+  "id": "de-coons",
+  "name": "Chris Coons",
+  "state": "DE",
+  "party": "D",
+  "elected": 2020,
+  "term_start": "2021-01-03",
+  "term_end": "2027-01-03",
+  "issue_poll": {
+    "name": "AP VoteCast Delaware, Oct 26–Nov 3, 2020; plus Pew Research Center, July 27–Aug 2, 2020",
+    "url": "https://m.washingtontimes.com/news/2020/nov/3/ap-votecast-delaware-voters-sour-on-state-of-natio/",
+    "note": "Ranks 1–5 from AP VoteCast Delaware most-important-issue question (coronavirus 44%, economy 25%, racism 9%, health care 8%, immigration 4%); only these five were published. Ranks 6–10 from national Pew 'very important' shares not already covered (Supreme Court appointments 64%, violent crime 59%, foreign policy 57%, gun policy 55%, economic inequality 49%): https://www.pewresearch.org/politics/2020/08/13/important-issues-in-the-2020-election/"
+  },
+  "issues": [
+    {
+      "rank": 1,
+      "issue": "Coronavirus response",
+      "testable": true,
+      "position": "More COVID relief, including aid to state and local governments",
+      "position_source": "https://www.coons.senate.gov/?p=12457",
+      "votes": [
+        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06",
+         "bill": "H.R.1319", "bill_title": "American Rescue Plan Act", "question": "On passage",
+         "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 2,
+      "issue": "Economy",
+      "testable": true,
+      "position": "Invest in infrastructure to rebuild the economy after the pandemic",
+      "position_source": "https://www.wdel.com/news/able-to-deliver-meaningful-results-coons-faces-challenger-in-delaware-primary-for-us-senate-seat/article_0bfd9056-f6a5-11ea-af44-735f58e014bd.html",
+      "votes": [
+        {"congress": 117, "session": 1, "roll_call": 314, "date": "2021-08-10",
+         "bill": "H.R.3684", "bill_title": "Infrastructure Investment and Jobs Act", "question": "On passage",
+         "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 3,
+      "issue": "Racial inequality / policing",
+      "testable": true,
+      "position": "Pass the Justice in Policing Act",
+      "position_source": "https://www.coons.senate.gov/news/press-releases/sen-coons-backs-historic-policing-reform-legislation",
+      "votes": [],
+      "note": "George Floyd Justice in Policing Act never received a Senate floor vote this term."
+    },
+    {
+      "rank": 4,
+      "issue": "Health care",
+      "testable": true,
+      "position": "Strengthen the ACA with a public option; lower drug prices",
+      "position_source": "https://whyy.org/articles/scarane-burns-up-the-phone-lines-hoping-to-sizzle-against-del-veteran-coons",
+      "votes": [
+        {"congress": 117, "session": 2, "roll_call": 325, "date": "2022-08-07",
+         "bill": "H.R.5376", "bill_title": "Inflation Reduction Act (drug price negotiation, ACA subsidies)", "question": "On passage",
+         "vote": "Yea", "consistent": true, "auto": false}
+      ],
+      "note": "A public option never received a floor vote; rated on ACA subsidies and drug pricing."
+    },
+    {
+      "rank": 5,
+      "issue": "Immigration",
+      "testable": true,
+      "position": "Pass the Dream and Promise Act; bipartisan immigration reform",
+      "position_source": "https://www.coons.senate.gov/news/press-releases/sen-coons-statement-on-supreme-courts-daca-decision/",
+      "votes": [],
+      "note": "No Senate floor vote on Dreamer legalization or comprehensive reform this term."
+    },
+    {
+      "rank": 6,
+      "issue": "Supreme Court appointments",
+      "testable": false,
+      "position": "Opposed Barrett confirmation (before term); open-minded on Court expansion",
+      "position_source": "https://www.foxnews.com/politics/delaware-senator-says-hes-open-to-packing-the-supreme-court",
+      "votes": []
+    },
+    {
+      "rank": 7,
+      "issue": "Violent crime",
+      "testable": false,
+      "position": "Opposes defunding police; backs community policing (general)",
+      "position_source": "https://www.foxnews.com/politics/sen-coons-denies-that-biden-is-soft-on-crime-china",
+      "votes": []
+    },
+    {
+      "rank": 8,
+      "issue": "Foreign policy",
+      "testable": true,
+      "position": "Require congressional approval for military force against Iran",
+      "position_source": "https://www.coons.senate.gov/?p=12719",
+      "votes": [
+        {"congress": 119, "session": 1, "date": "2025-06-27",
+         "bill": "S.J.Res.59", "bill_title": "Iran war powers resolution", "question": "Motion to discharge",
+         "vote": "Yea", "consistent": true, "auto": false},
+        {"congress": 119, "session": 2, "date": "2026-03-04",
+         "bill": "S.J.Res.104", "bill_title": "Iran war powers resolution", "question": "Motion to discharge",
+         "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    },
+    {
+      "rank": 9,
+      "issue": "Gun policy",
+      "testable": true,
+      "position": "Strengthen background checks for gun purchases",
+      "position_source": "https://www.wdel.com/news/able-to-deliver-meaningful-results-coons-faces-challenger-in-delaware-primary-for-us-senate-seat/article_0bfd9056-f6a5-11ea-af44-735f58e014bd.html",
+      "votes": [
+        {"congress": 117, "session": 2, "date": "2022-06-23",
+         "bill": "H.R.2938", "bill_title": "Bipartisan Safer Communities Act", "question": "On the motion to concur in the House amendment with an amendment",
+         "vote": "Yea", "consistent": true, "auto": false}
+      ],
+      "note": "Universal checks never got a floor vote; BSCA expanded checks for buyers under 21."
+    },
+    {
+      "rank": 10,
+      "issue": "Economic inequality",
+      "testable": true,
+      "position": "Expand the Child Tax Credit and EITC",
+      "position_source": "https://www.baldwin.senate.gov/download/letter-eitc-ctc-042720?download=1",
+      "votes": [
+        {"congress": 117, "session": 1, "roll_call": 110, "date": "2021-03-06",
+         "bill": "H.R.1319", "bill_title": "American Rescue Plan Act (CTC/EITC expansion)", "question": "On passage",
+         "vote": "Yea", "consistent": true, "auto": false}
+      ]
+    }
+  ],
+  "plan": null,
+  "caveats": [
+    "Delaware poll published only five issues; ranks 6–10 use national Pew data.",
+    "Iran war powers votes inferred from tallies (47-53, Fetterman the only Democrat opposed); roll call numbers for those and for H.R.2938 not confirmed.",
+    "No 2020 pledge on a $15 minimum wage found; he voted against the Sanders $15 amendment to H.R.1319 (Mar 2021), which is not scored.",
+    "Economic inequality position comes from an April 2020 Senate letter he signed, not a campaign statement."
+  ],
+  "researched": "2026-11-04"
+}

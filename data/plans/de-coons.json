@@ -1,0 +1,61 @@
+{
+  "id": "de-coons",
+  "name": "Chris Coons",
+  "state": "DE",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Pew Research Center national survey of registered voters, Sept. 28-Oct. 4, 2026 (share calling each issue 'very important' to their 2026 congressional vote)",
+      "url": "https://www.pewresearch.org/politics/2026/10/08/economy-ranks-as-top-issue-in-midterms-for-all-voters-but-partisans-differ-over-the-importance-of-other-issues/",
+      "note": "Fallback to national polling: no 2026 Delaware poll ranking issues was found. Checked: ACLU-DE/Survey 160 statewide poll (July 13-17, 2026; policy agreement only, no importance ranking), DSHA/UD statewide housing survey (June 2026; housing questions only), UD Center for Political Communication (latest issue ranking 2016), LCV battleground energy survey (May 2026; no Delaware districts). Top 10 taken in Pew order: economy 84, future of democracy 73, health care 68, education 62, immigration 59, foreign policy 57, energy policy 54, violent crime 52, abortion 46, gun policy 45. Cost of living folded into Economy; 'Future of democracy' kept as Democracy and elections, as in other locked plans."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Economy and cost of living", "rating": "Concrete",
+       "detail": "End the tariff dispute with Canada and cut tariff costs; raise wages.",
+       "source": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/"},
+      {"rank": 2, "issue": "Democracy and elections", "rating": "Vague",
+       "detail": "Root out corruption in Washington; keep standing up to Trump.",
+       "source": "https://whyy.org/articles/election-2026-delaware-primary-senate-democrat-winner/"},
+      {"rank": 3, "issue": "Health care", "rating": "Partial",
+       "detail": "Defend the ACA and oppose ACA and Medicaid cuts; expand access, especially rural care, to lower costs.",
+       "source": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/"},
+      {"rank": 4, "issue": "Education", "rating": "Vague",
+       "detail": "Invest in education and workforce programs to help people compete in the global economy.",
+       "source": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/"},
+      {"rank": 5, "issue": "Immigration", "rating": "Concrete",
+       "detail": "Create an ICE oversight body; bar ICE from schools and hospitals; require ICE body cameras and judicial warrants for arrests; pass immigration reform.",
+       "source": "https://whyy.org/articles/michael-katz-chris-coons-debate-delaware/"},
+      {"rank": 6, "issue": "Foreign policy", "rating": "Concrete",
+       "detail": "End the U.S. war with Iran.",
+       "source": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/"},
+      {"rank": 7, "issue": "Energy", "rating": "Vague",
+       "detail": "Transition to clean energy.",
+       "source": "https://fox29.com/news/election-2026-delaware-senate-chris-coons-michael-katz-bios"},
+      {"rank": 8, "issue": "Crime and public safety", "rating": "Vague",
+       "detail": "Increase resources for local law enforcement.",
+       "source": "https://www.ballotready.org/people/christopher-a-coons"},
+      {"rank": 9, "issue": "Abortion", "rating": "None",
+       "detail": "",
+       "source": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/"},
+      {"rank": 10, "issue": "Gun policy", "rating": "Vague",
+       "detail": "Support stricter gun violence prevention measures.",
+       "source": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue ranking is national (Pew), not Delaware-specific; no 2026 Delaware issue-ranking poll was found. Delaware electricity rate increases were a prominent 2026 state issue but could not be ranked from polling.",
+    "Campaign site (chriscoons.com/priorities) could not be fetched; positions come from 2026 news coverage summarizing it (WHYY, Fox29, BallotReady) and the Oct 22, 2026 Coons-Katz forum. Coons did not complete the Ballotpedia survey and no 2026 questionnaire answers were found.",
+    "BallotReady's crime summary is undated and paraphrases the campaign site; used only for a Vague rating.",
+    "Economy rated Concrete on ending the Canada tariff dispute (a checkable end state, e.g. votes to end Canada tariffs); 'raise wages' has no stated mechanism or target.",
+    "Foreign policy rated Concrete on ending the Iran war, matching how other locked plans treated the same pledge; ICE oversight body and sensitive-locations ban are as summarized from his campaign site, with no bill named.",
+    "Health care rated Partial: defending the ACA points to existing law; no new program or target stated.",
+    "Abortion: no 2026 campaign statement found; his past votes to codify Roe are record, not promises.",
+    "Pledge to stop taking Palantir donations is a campaign-finance commitment no Senate vote can test; not counted."
+  ],
+  "researched": "2026-11-05"
+}

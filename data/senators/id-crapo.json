@@ -58,7 +58,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -70,7 +71,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Both bills expanded the housing credit. H.R.1 made the expansion permanent (https://www.ncsha.org/blog/senate-tax-bill-makes-permanent-housing-credit-volume-cap-increase-25-percent-bond-financing-threshold/)."
@@ -91,7 +93,9 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "roll_call": 643,
+          "verified": true
         },
         {
           "congress": 119,
@@ -103,7 +107,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "No full ACA repeal vote this term. Vote source: https://www.thefiscaltimes.com/2025/12/11/Senate-Rejects-Dueling-Healthcare-Plans-Obamacare-Subsidies-Line"
@@ -125,7 +130,8 @@
           "question": "Cloture on the motion to proceed",
           "vote": "Nay",
           "consistent": false,
-          "auto": false
+          "auto": false,
+          "verified": true
         },
         {
           "congress": 119,
@@ -137,7 +143,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.7024 cut taxes for families and businesses; he voted against advancing it."
@@ -180,7 +187,8 @@
           "question": "On passage",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "H.R.1 required new onshore and offshore oil and gas lease sales."
@@ -218,7 +226,8 @@
           "question": "On the joint resolution",
           "vote": "Yea",
           "consistent": true,
-          "auto": false
+          "auto": false,
+          "verified": true
         }
       ],
       "note": "Vote source: https://www.usquery.com/vote/1180100171"

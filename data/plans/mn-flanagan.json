@@ -1,0 +1,60 @@
+{
+  "id": "mn-flanagan",
+  "name": "Peggy Flanagan",
+  "state": "MN",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "KSTP/SurveyUSA Minnesota poll, Aug 13-17, 2026 (single most important issue, 661 likely voters)",
+      "url": "https://kstp.com/wp-content/uploads/2026/08/Election-Poll-8-19-26.pdf",
+      "note": "Latest Minnesota poll found with a full issue ranking. Order: Inflation/cost of living 35%, Fraud 15%, Health care 11%, Immigration 8%, Gas prices 6%, War in Iran 5%, Education 5%, Jobs 4%, Abortion 3%, Crime 2%, Gun control 2%; 'Other' and 'Not sure' dropped. Crime and Gun control tied at 2%; Crime kept at rank 10 by its order in the source table. Earlier Emerson poll (Feb 6-8, 2026) had 'threats to democracy' first at 28%, but SurveyUSA did not offer that option."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Cost of living", "rating": "Concrete",
+       "detail": "Universal child care; ban Wall Street firms from buying homes; end federal tax on Social Security benefits; farm equipment right to repair.",
+       "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"},
+      {"rank": 2, "issue": "Government fraud", "rating": "Partial",
+       "detail": "Increase oversight and penalties for fraud; restore independent federal inspectors general.",
+       "source": "https://www.kaxe.org/local-news/2026-10-23/in-senate-debate-tafoya-and-flanagan-cant-shake-ties-to-unpopular-men"},
+      {"rank": 3, "issue": "Health care", "rating": "Concrete",
+       "detail": "Enact Medicare for All; restore Medicaid cuts in the 2025 reconciliation law; ban insurer prior authorization.",
+       "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"},
+      {"rank": 4, "issue": "Immigration", "rating": "Concrete",
+       "detail": "Dismantle and replace ICE; claw back the $75 billion given to ICE; path to citizenship for long-settled immigrants.",
+       "source": "https://mndaily.com/city/qa-with-lt-gov-peggy-flannagan/04/10/2026/eicmndaily-com/"},
+      {"rank": 5, "issue": "Gas and energy prices", "rating": "Concrete",
+       "detail": "100% carbon-free electricity by 2040; support biofuels and sustainable aviation fuel.",
+       "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"},
+      {"rank": 6, "issue": "Iran war and foreign policy", "rating": "Concrete",
+       "detail": "Vote against more funding for the Iran war; oppose additional offensive weapons or military aid to Israel under Netanyahu.",
+       "source": "https://www.kaxe.org/local-news/2026-10-23/in-senate-debate-tafoya-and-flanagan-cant-shake-ties-to-unpopular-men"},
+      {"rank": 7, "issue": "Education", "rating": "Concrete",
+       "detail": "Fund special education (IDEA) at the promised 40% federal share.",
+       "source": "https://twincities.citycast.fm/guides/meet-your-candidates-peggy-flanagan-for-u-s-senate"},
+      {"rank": 8, "issue": "Jobs and wages", "rating": "Concrete",
+       "detail": "Raise federal minimum wage to at least $17/hour indexed to inflation; national paid family and medical leave.",
+       "source": "https://www.ballotready.org/people/peggy-flanagan-9d6742e7-0fc7-4943-8a25-a9737d2ba80c"},
+      {"rank": 9, "issue": "Abortion", "rating": "Concrete",
+       "detail": "Pass the Women's Health Protection Act; require Medicaid and ACA exchange plans to cover IVF.",
+       "source": "https://www.ballotready.org/people/peggy-flanagan-9d6742e7-0fc7-4943-8a25-a9737d2ba80c"},
+      {"rank": 10, "issue": "Crime and public safety", "rating": "Concrete",
+       "detail": "Ban assault weapons and high-capacity magazines.",
+       "source": "https://giffords.org/press-release/2026/09/giffords-pac-endorses-lieutenant-governor-peggy-flanagan-for-u-s-senate/"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue poll is from mid-August 2026; no Minnesota issue-ranking poll closer to Election Day was found.",
+    "Rank 10: Crime and Gun control tied at 2%; Crime chosen by source-table order, and rated on her gun-ban pledge (her other crime items - re-entry programs, police training funds - are not checkable).",
+    "Gas prices rated on her energy plan (2040 carbon-free electricity target); she offered no direct gas-price measure beyond linking fuel costs to ending the Iran war.",
+    "Fraud: her debate support for an independent inspector general referred to Minnesota's state office; only the federal inspector-general and penalty items are recorded.",
+    "Jobs and Abortion items come from BallotReady's summary of her campaign priorities page (peggyflanagan.com/priorities could not be fetched directly); the $17 minimum wage is also reported in Minnesota Reformer/KAXE debate coverage.",
+    "Gun-ban detail is her own quote inside a Giffords PAC endorsement release (Sept 2026).",
+    "'2025 reconciliation law' is the One Big Beautiful Bill Act, which she calls the 'Big Ugly Bill'; she also pledged to repeal its tax cuts for the wealthy and lift the Social Security payroll cap above $250,000 (taxes not in the top 10)."
+  ],
+  "researched": "2026-11-05"
+}

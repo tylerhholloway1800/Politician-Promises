@@ -1,0 +1,61 @@
+{
+  "id": "la-letlow",
+  "name": "Julia Letlow",
+  "state": "LA",
+  "party": "R",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Combined: Pelican Institute Q1 2026 Pelican Pulse, Louisiana voters, Feb 20-24, 2026; Emerson College/KLFY Louisiana GOP primary poll, Apr 24-26, 2026; LSU Reilly Center 2025 Louisiana Survey, Feb-Apr 2025",
+      "url": "https://pelicanpolicy.org/?p=26597",
+      "note": "No fall 2026 Louisiana poll with a full issue ranking was found (the Oct 2026 Hart and Jul 2026 PPP Davis-campaign polls reported only the horse race). Top two come from the Pelican Pulse Feb 2026 statewide poll (cost of living/inflation 40%, economy 18%); its full table (Excel) could not be fetched. Ranks 3-10 ordered by the full LSU 2025 Louisiana Survey table (average of online and phone: crime 13.5%, education 12.5%, budget/taxes/spending 7.5%, infrastructure 7%, insurance 4%, health care 4%, coast/environment/weather 3.5%; https://msg.lsu.edu/reillycenter/research/louisiana-survey/la_survey_pdfs/2025_la_survey_report.pdf), adjusted by Emerson's Apr 2026 poll (Republican primary voters only: economy 43%, crime 16%, education 10%, health care 9%, immigration 8%; https://emersoncollegepolling.com/louisiana-2026-poll-fleming-letlow-cassidy-in-close-three-way-race-for-senate/), which moved health care and immigration up. LSU's 'other social issues (abortion, guns)' bucket (4.5%) was left out because it bundles two separate issues."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Inflation and cost of living", "rating": "Concrete",
+       "detail": "Make no-tax-on-tips and no-tax-on-overtime permanent; expand Child Tax Credit; increase domestic energy production",
+       "source": "https://www.julialetlow.com/policyplan"},
+      {"rank": 2, "issue": "Economy and jobs", "rating": "Partial",
+       "detail": "Expand oil, gas and Gulf offshore production; speed LNG export approvals; protect Jones Act; expand domestic shipbuilding",
+       "source": "https://www.julialetlow.com/policyplan"},
+      {"rank": 3, "issue": "Crime and public safety", "rating": "Partial",
+       "detail": "Raise fentanyl trafficking penalties; designate Mexican drug cartels as foreign terrorist organizations",
+       "source": "https://www.julialetlow.com/policyplan"},
+      {"rank": 4, "issue": "Education", "rating": "Concrete",
+       "detail": "Pass national Parents' Bill of Rights (parental notice, curriculum transparency, records access); expand school choice",
+       "source": "https://www.julialetlow.com/policyplan"},
+      {"rank": 5, "issue": "Health care", "rating": "Partial",
+       "detail": "Implement MAHA agenda: food labeling transparency, stricter nutrition standards in federal programs, prevention focus; no vaccine mandates",
+       "source": "https://www.julialetlow.com/policyplan"},
+      {"rank": 6, "issue": "Taxes and government spending", "rating": "Concrete",
+       "detail": "Codify DOGE spending cuts; extend Trump tax cuts permanently; oppose tax increases; shrink federal bureaucracy",
+       "source": "https://www.julialetlow.com/policyplan"},
+      {"rank": 7, "issue": "Infrastructure", "rating": "Partial",
+       "detail": "Strengthen levees; expand navigation channel dredging; modernize ports and inland waterways; expand rural broadband",
+       "source": "https://www.julialetlow.com/policyplan"},
+      {"rank": 8, "issue": "Immigration", "rating": "Concrete",
+       "detail": "Finish border wall; nationwide E-Verify mandate; cut sanctuary city funding; end catch-and-release; exclude illegal immigrants from census",
+       "source": "https://www.julialetlow.com/policyplan"},
+      {"rank": 9, "issue": "Insurance costs", "rating": "Partial",
+       "detail": "Reform National Flood Insurance Program; roll back FEMA premium increases; risk-model transparency; more mitigation funding",
+       "source": "https://www.julialetlow.com/policyplan"},
+      {"rank": 10, "issue": "Coast, environment and disaster recovery", "rating": "Partial",
+       "detail": "Protect and expand GOMESA revenue sharing; accelerate coastal restoration; reform FEMA to speed disaster payments",
+       "source": "https://www.julialetlow.com/policyplan"}
+    ]
+  },
+  "plan_caveats": [
+    "Could not confirm the Nov 3, 2026 general-election result from a source; winner status (CBS News projection) taken from the task.",
+    "No fall 2026 Louisiana issue ranking found; ranking combines a Feb 2026 statewide poll (top two only), an Apr 2026 Republican-primary-only poll, and the 2025 LSU survey.",
+    "Nearly all ratings rest on the campaign's 15-point 'Julia's Plan' page, which lists items with no numbers, dates or bill numbers; Concrete ratings rely on clear end states (permanence, codification, named Parents' Bill of Rights, E-Verify mandate, border wall completion).",
+    "Taxes: the 2025 One Big Beautiful Bill already made most 2017 tax cuts permanent, so that item partly points to existing law; Concrete rating rests on codifying DOGE cuts. 'Oppose tax increases' comes from an OnTheIssues summary of an Apr 2026 pledge that could not be confirmed at the source.",
+    "Cartel terrorist designation was already done by executive action in 2025; crime rated Partial since no checkable new measure is stated beyond higher fentanyl penalties of unspecified size.",
+    "Health care plan is mostly food and nutrition (MAHA); 'lower healthcare and prescription drug costs' is stated with no measure. Vaccine-mandate stance is from a campaign interview (https://www.aol.com/articles/exclusive-julia-letlow-discusses-trump-015207882.html).",
+    "Letlow declined the October 2026 general-election debate and did not answer the WWNO/WRKF candidate questionnaire; her campaign-site 'theissues' page is an old House-race page and was not used.",
+    "Her March 2026 House bill (Judicial Efficiency and Reform Act) and other House votes were excluded as past record."
+  ],
+  "researched": "2026-11-05"
+}

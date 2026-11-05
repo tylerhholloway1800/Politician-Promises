@@ -1,0 +1,60 @@
+{
+  "id": "mt-alme",
+  "name": "Kurt Alme",
+  "state": "MT",
+  "party": "R",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Pew Research Center, U.S. registered voters, Sept 28-Oct 4, 2026 - share calling each issue 'very important' to their 2026 congressional vote; plus University of Montana Crown of the Continent/Greater Yellowstone Initiative poll (New Bridge Strategy/FM3), Montana registered voters (n=515), Mar 19-25, 2026",
+      "url": "https://www.pewresearch.org/politics/2026/10/08/economy-ranks-as-top-issue-in-midterms-for-all-voters-but-partisans-differ-over-the-importance-of-other-issues/",
+      "note": "No 2026 Montana poll with a general ranked issue list was found (checked MSU Billings Mountain State Poll Oct 2026, MTFP-Eagleton Jan and May 2026, Gray House June 2026, AARP MT Vital Voices). Fallback: national Pew ranking as the base. One Montana-specific issue was added: public lands, which 71% of Montana voters called an extremely/very serious problem (loss of access to public lands) in the UM poll (https://www.umt.edu/crown-yellowstone/voter-surveys/2026/2026_u_of_montana_deck_d3c.pdf). It was slotted by that share between Pew's 'future of democracy' (73%) and 'healthcare' (68%); the questions differ, so this placement is approximate. Housing and cost of living folded into Economy. That pushed Pew's #10, gun policy (45%), out of the top 10."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Economy and cost of living", "rating": "Concrete",
+       "detail": "Bill withholding congressional pay when Congress misses balanced-budget/budget deadline; signed no-tax-increase pledge; cut housing construction red tape",
+       "source": "https://www.kpax.com/news/montana-politics/primary-2026-three-candidates-in-republican-u-s-senate-primary-to-succeed-daines"},
+      {"rank": 2, "issue": "Democracy and elections", "rating": "Vague",
+       "detail": "Work to secure elections; no specific measure",
+       "source": "https://ballotpedia.org/Kurt_Alme"},
+      {"rank": 3, "issue": "Public lands", "rating": "Partial",
+       "detail": "Oppose selling off federal public lands; keep them in public ownership",
+       "source": "https://dailymontanan.com/2026/10/12/montana-us-senate-candidates-share-debate-stage/"},
+      {"rank": 4, "issue": "Health care", "rating": "Partial",
+       "detail": "Oppose taxpayer subsidies to insurers; expand telehealth; require posted prices; back existing Rural Health Transformation Program and Medicaid work requirements",
+       "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"},
+      {"rank": 5, "issue": "Education", "rating": "None",
+       "detail": "No education position found; did not answer iVoterGuide education questions",
+       "source": "https://ivoterguide.com/candidate/91411/race/33278/election/1479"},
+      {"rank": 6, "issue": "Immigration", "rating": "Partial",
+       "detail": "Back tighter border security; prosecute or deport dangerous noncitizens using immigration charges; target cartels",
+       "source": "https://ontheissues.org/international/Kurt_Alme_Immigration.htm"},
+      {"rank": 7, "issue": "Foreign policy", "rating": "Partial",
+       "detail": "Prevent Iranian nuclear weapons; no new ground troops in Iran; oppose limits on weapons use against Iran; use tariffs for fairer Canada trade",
+       "source": "https://dailymontanan.com/2026/10/22/republican-kurt-alme-leans-into-homegrown-experience-in-case-for-senate-seat/"},
+      {"rank": 8, "issue": "Energy", "rating": "Partial",
+       "detail": "Data centers must pay own way, disclose community costs, not raise electricity bills or harm water users",
+       "source": "https://dailymontanan.com/2026/10/12/montana-us-senate-candidates-share-debate-stage/"},
+      {"rank": 9, "issue": "Crime", "rating": "Partial",
+       "detail": "Investigate drug trafficking organizations up to cartels; support law enforcement; public-private partnerships for addiction recovery",
+       "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"},
+      {"rank": 10, "issue": "Abortion", "rating": "None",
+       "detail": "No stated position; endorsed by SBA Pro-Life America but made no commitment himself",
+       "source": "https://sbaprolife.org/candidate-fund/leading-natl-pro-life-group-endorses-kurt-alme-for-mt-sen"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue ranking is national (Pew) plus one Montana issue (public lands) slotted from a different question in a March UM poll; no Montana-wide ranked issue poll from 2026 was found.",
+    "Alme ran a low-detail campaign: skipped the Sept 20 debate, declined most interviews, and left all iVoterGuide questions unanswered; his campaign site (almeforsenate.com) could not be fetched, so site issue pages, if any, were not reviewed.",
+    "Economy rated Concrete because of the named congressional pay-withholding bill and signed no-tax-increase pledge (via OnTheIssues summary, https://ontheissues.org/Senate/Kurt_Alme.htm); other economy statements are vague.",
+    "Public lands rated Partial: a pledge to oppose sales, not a proposed ban or bill, though votes on land sales can test it.",
+    "Immigration detail partly rests on an April 8, 2026 Montana Talks interview (via OnTheIssues) that speaks partly as a prosecutor; border security support is from KPAX primary coverage.",
+    "Education rated None; Ballotpedia lists a stance on keeping boys out of girls' sports, which was not treated as an education platform.",
+    "Social Security pledge (never cut seniors' benefits, Oct 11 debate) and Second Amendment stance ('defend', vague) fell outside the top 10."
+  ],
+  "researched": "2026-11-05"
+}

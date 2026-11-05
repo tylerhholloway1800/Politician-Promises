@@ -1,0 +1,59 @@
+{
+  "id": "me-jackson",
+  "name": "Troy Jackson",
+  "state": "ME",
+  "party": "D",
+  "elected": 2026,
+  "term_start": "2027-01-03",
+  "term_end": "2033-01-03",
+  "plan": {
+    "year": 2026,
+    "locked": "2026-11-03",
+    "issue_poll": {
+      "name": "Fox News Maine polls (June 23-27 and Aug 6-10, 2026), combined with NYT/Siena Maine polls (Sept 15-22; Oct 27-Nov 1, 2026), AARP Maine (Sept 20-22), CNN/SSRS (Aug 31-Sept 6) and UMass Lowell (Aug 28-Sept 14)",
+      "url": "https://www.foxnews.com/politics/fox-news-poll-maine-senate-race-tight-concerns-about-both-candidates.print",
+      "note": "No single 2026 Maine poll with a full published ranking was reachable. Base order from Fox News June 'most important issue to your Senate vote' (inflation 30%, political divisions 19%, healthcare 17%, immigration 14%; then unemployment, Iran, abortion, crime unquantified), with August Fox (inflation ~1/3, immigration 18%). NYT/Siena final (Oct 27-Nov 1) and Sept polls list economy first (21%) and inflation/cost of living (12%) separately, so both are kept. 'Political divisions' and 'which party controls Congress' dropped as not vote-testable; 'threats to democracy' (AARP #2, CNN top-2) kept as Democracy and elections. Energy costs and AI data centers added from UMass Lowell (61% blame Iran war for fuel/utility prices; 76% oppose local data center) and NYT/Siena (66% oppose data centers). Ranks 5-10 are approximate."
+    },
+    "issues": [
+      {"rank": 1, "issue": "Inflation and cost of living", "rating": "Vague",
+       "detail": "Federal government should do more to lower prices for health care, housing, groceries and heat; no specific measure.",
+       "source": "https://www.jacksonformaine.com/news/troy-jackson-garners-attention-nationwide-campaigning-to-bring-a-working-class-voice-to-us-senate"},
+      {"rank": 2, "issue": "Economy and jobs", "rating": "Partial",
+       "detail": "Raise the federal minimum wage; expand family and medical leave; strengthen union rights. No figures given.",
+       "source": "https://www.chronicleonline.com/news/national/midterm-elections-head-into-the-home-stretch-as-candidates-hit-labor-day-events/article_866397bb-e826-564b-972a-c6e264a49f15.html"},
+      {"rank": 3, "issue": "Health care", "rating": "Concrete",
+       "detail": "Enact Medicare for All (universal government health insurance covering everyone).",
+       "source": "https://prospect.org/2026/08/28/troy-jackson-is-looking-forward-democrats-senate-maine/"},
+      {"rank": 4, "issue": "Immigration", "rating": "Concrete",
+       "detail": "Abolish ICE; oppose any additional ICE funding.",
+       "source": "https://san.com/cc/susan-collins-troy-jackson-spar-over-trump-abortion-and-ice-in-first-senate-debate/"},
+      {"rank": 5, "issue": "Democracy and elections", "rating": "Partial",
+       "detail": "Get dark money out of politics (campaign finance reform); restore congressional oversight of the executive.",
+       "source": "https://www.jacksonformaine.com/news/end-citizens-united-endorses-troy-jackson-for-us-senate"},
+      {"rank": 6, "issue": "Iran war and foreign policy", "rating": "Concrete",
+       "detail": "Cut off congressional funding for the Iran war and bring troops home; no U.S. military aid to Israel.",
+       "source": "https://jewishinsider.com/2026/10/susan-collins-troy-jackson-congress-funding-iran-war/"},
+      {"rank": 7, "issue": "Abortion", "rating": "Concrete",
+       "detail": "Restore and expand a federal statutory right to abortion.",
+       "source": "https://www.jacksonformaine.com/news/at-women-for-troy-launch-reproductive-freedom-for-all-backs-troy-jackson-for-us-senate"},
+      {"rank": 8, "issue": "Crime and public safety", "rating": "None",
+       "detail": "No 2026 campaign position found.",
+       "source": "https://www.wagmtv.com/2026/08/21/troy-jackson-says-mainers-frustration-with-government-is-helping-his-campaign/"},
+      {"rank": 9, "issue": "Energy and utility costs", "rating": "Partial",
+       "detail": "Prioritize large clean energy projects and electrification, including Northern Maine onshore wind and transmission; no target.",
+       "source": "https://insideclimatenews.org/?p=115415"},
+      {"rank": 10, "issue": "AI and data centers", "rating": "Partial",
+       "detail": "Prevent data centers from raising residents' electric and water rates; more federal AI guardrails.",
+       "source": "https://www.jacksonformaine.com/news/troy-jackson-fires-up-supporters-takes-questions-at-packed-lewiston-town-hall"}
+    ]
+  },
+  "plan_caveats": [
+    "Issue ranking is a combination of partial poll releases; no single poll with a full ranked list was accessible (Marist and NYT/Siena crosstabs not reachable). Ranks 5-10 are approximate.",
+    "Campaign 'Priorities' and 'Troy at a Glance' pages could not be fetched; ratings rely on campaign press releases, debate coverage and interviews. Jackson became nominee only on July 25, 2026, so his platform is thin.",
+    "Abortion rated Concrete on 'restore and expand the federal right to abortion' as a clear end state (federal statutory right); no bill (e.g., WHPA) or filibuster position was named, so a stricter reading would be Partial.",
+    "Democracy rated Partial on 'get dark money out of politics'; no specific bill (DISCLOSE Act, constitutional amendment, stock-trading ban) was named.",
+    "Also stated but outside the top 10: eliminate the Social Security payroll tax cap and expand benefits (BDN, Oct 8, 2026); oppose Trump tariffs on Canada.",
+    "Win as given in task (CBS News projection); not independently confirmed in this research."
+  ],
+  "researched": "2026-11-05"
+}

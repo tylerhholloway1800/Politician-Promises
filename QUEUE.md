@@ -101,10 +101,10 @@ Message to a fresh agent: "In /home/claude/politician-promises/data/senators/<id
 - [x] plan:il-stratton Juliana Stratton D-IL
 - [x] plan:ks-hamilton Adam Hamilton D-KS
 - [x] plan:ky-barr Andy Barr R-KY
-- [ ] plan:la-letlow Julia Letlow R-LA
-- [ ] plan:me-jackson Troy Jackson D-ME
-- [ ] plan:mn-flanagan Peggy Flanagan D-MN
-- [ ] plan:mt-alme Kurt Alme R-MT
+- [x] plan:la-letlow Julia Letlow R-LA
+- [x] plan:me-jackson Troy Jackson D-ME
+- [x] plan:mn-flanagan Peggy Flanagan D-MN
+- [x] plan:mt-alme Kurt Alme R-MT
 - [ ] plan:oh-brown Sherrod Brown D-OH (special; term 2027-01-03 to 2029-01-03)
 - [ ] plan:ok-hern Kevin Hern R-OK
 - [ ] plan:tx-talarico James Talarico D-TX
